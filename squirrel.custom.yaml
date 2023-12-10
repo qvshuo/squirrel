@@ -12,13 +12,13 @@ patch:
       label_font_point: 9.0
       comment_font_face: "PingFangSC-Regular"
       comment_font_point: 14.0
-      candidate_list_layout: stacked
+      candidate_list_layout: linear
       text_orientation: horizontal
       inline_preedit: true
       corner_radius: 5.0
       hilited_corner_radius: 5.0
-      border_height: 1.0
-      border_width: 1.0
+      border_height: 0.5
+      border_width: 0.5
       line_spacing: 5.0
       shadow_size: 1.0
       color_space: display_p3
@@ -46,13 +46,13 @@ patch:
       label_font_point: 9.0
       comment_font_face: "PingFangSC-Regular"
       comment_font_point: 14.0
-      candidate_list_layout: stacked
+      candidate_list_layout: linear
       text_orientation: horizontal
       inline_preedit: true
       corner_radius: 5.0
       hilited_corner_radius: 5.0
-      border_height: 1.0
-      border_width: 1.0
+      border_height: 0.5
+      border_width: 0.5
       line_spacing: 5.0
       shadow_size: 1.0
       color_space: display_p3
