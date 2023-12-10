@@ -9,10 +9,10 @@ patch:
       font_face: "PingFangSC-Regular"
       font_point: 16.0
       label_font_face: "PingFangSC-Regular"
-      label_font_point: 10.0
+      label_font_point: 9.0
       comment_font_face: "PingFangSC-Regular"
       comment_font_point: 14.0
-      candidate_list_layout: linear
+      candidate_list_layout: stacked
       text_orientation: horizontal
       inline_preedit: true
       corner_radius: 5.0
@@ -20,28 +20,33 @@ patch:
       border_height: 1.0
       border_width: 1.0
       line_spacing: 5.0
-      spacing: 10.0
+      shadow_size: 1.0
       color_space: display_p3
-      back_color: 0xFFFFFF
-      candidate_text_color: 0x434343
-      comment_text_color: 0x434343
-      label_color: 0x888888
-      hilited_candidate_back_color: 0xCF5925
+      back_color: 0xF0F1F1
+      border_color: 0xCECECE
+      candidate_back_color: 0x00FFFFFF
+      candidate_text_color: 0x484949
+      comment_text_color: 0x757575
+      label_color: 0x757575
+      hilited_candidate_back_color: 0xD35000
       hilited_candidate_text_color: 0xFFFFFF
       hilited_comment_text_color: 0xFFFFFF
       hilited_candidate_label_color: 0xFFFFFF
-      text_color: 0x3FFFFFFF
-      hilited_text_color: 0xD8FFFFFF
+      preedit_back_color: 0x00FFFFFF
+      text_color: 0x00FFFFFF
+      hilited_back_color: 0x00FFFFFF
+      hilited_text_color: 0x00FFFFFF
+
 
     macos_dark:
       name: "macOS 深色"
       font_face: "PingFangSC-Regular"
       font_point: 16.0
       label_font_face: "PingFangSC-Regular"
-      label_font_point: 10.0
+      label_font_point: 9.0
       comment_font_face: "PingFangSC-Regular"
       comment_font_point: 14.0
-      candidate_list_layout: linear
+      candidate_list_layout: stacked
       text_orientation: horizontal
       inline_preedit: true
       corner_radius: 5.0
@@ -49,18 +54,22 @@ patch:
       border_height: 1.0
       border_width: 1.0
       line_spacing: 5.0
-      spacing: 10.0
+      shadow_size: 1.0
       color_space: display_p3
-      back_color: 0x151515
-      candidate_text_color: 0xBBBBBB
-      comment_text_color: 0xBBBBBB
-      label_color: 0x777777
-      hilited_candidate_back_color: 0xCF5925
+      back_color: 0x2F3030
+      border_color: 0x030303
+      candidate_back_color: 0x00FFFFFF
+      candidate_text_color: 0xEAEAEA
+      comment_text_color: 0x717171
+      label_color: 0x717171
+      hilited_candidate_back_color: 0xCB4F00
       hilited_candidate_text_color: 0xFFFFFF
       hilited_comment_text_color: 0xFFFFFF
       hilited_candidate_label_color: 0xFFFFFF
-      text_color: 0x3FFFFFFF
-      hilited_text_color: 0xD8FFFFFF
+      preedit_back_color: 0x00FFFFFF
+      text_color: 0x00FFFFFF
+      hilited_back_color: 0x00FFFFFF
+      hilited_text_color: 0x00FFFFFF
 
   app_options:
     com.apple.Spotlight:
