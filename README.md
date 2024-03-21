@@ -2,10 +2,10 @@
 
 ## 特点
 
-- 基于经典：改进于 'luna_pinyin'；
+- 基于经典：改进于 `luna_pinyin`；
 - 扩充词库：整合雾凇拼音的词库；
-- 英文输入：引入雾凇拼音的 'melt_eng'；
-- 日文输入：引入 'rime-japanese'。
+- 英文输入：引入雾凇拼音的 `melt_eng`；
+- 日文输入：引入 `rime-japanese`。
 
 ## 安装依赖
 
