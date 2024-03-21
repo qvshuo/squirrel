@@ -1,0 +1,40 @@
+name: Sync specific folders and files
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout source repository
+      uses: actions/checkout@v2
+      with:
+        repository: 'iDvel/rime-ice'
+        token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
+        path: 'source'
+
+    - name: Checkout destination repository
+      uses: actions/checkout@v2
+      with:
+        repository: 'qvshuo/squirrel'
+        token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
+        path: 'target'
+        
+    - name: Sync folders and files
+      run: |
+        rsync -av --progress source/cn_dicts/ target/cn_dicts/
+        rsync -av --progress source/en_dicts/ target/en_dicts/
+        rsync -a source/rime_ice.dict.yaml target/
+        rsync -a source/melt_eng.dict.yaml target/
+
+    - name: Push changes
+      run: |
+        cd target
+        git config user.name 'qvshuo'
+        git config user.email 'qvshuo@foxmail.com'
+        git add .
+        git commit -m 'Sync specific folders and files' || echo "No changes to commit"
+        git push
