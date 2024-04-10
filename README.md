@@ -9,7 +9,7 @@
 
 ## 依赖
 
-使用 plum 添加日文输入支持：
+使用 `plum` 添加日文输入支持：
 
 ```shell
 bash rime-install gkovacs/rime-japanese
