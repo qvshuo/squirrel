@@ -128,7 +128,7 @@ algebra_common:
   - derive/^([a-z]{10})/\U$1/
 
 # 全拼
-algebra_rime_ice:
+algebra_luna_pinyin:
   __include: algebra_common
   __append:
     - derive/(?<!\d)1([1-9])(?!\d)/shi$1/
