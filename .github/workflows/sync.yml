@@ -25,7 +25,6 @@ jobs:
         
     - name: Sync folders and files
       run: |
-        rsync -a source/rime_ice.dict.yaml target/
         rsync -a source/cn_dicts/ target/cn_dicts/
         rsync -a source/melt_eng.dict.yaml target/
         rsync -a source/en_dicts/en.dict.yaml target/en_dicts/
