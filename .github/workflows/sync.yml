@@ -29,6 +29,7 @@ jobs:
         rsync -a source/melt_eng.dict.yaml target/
         rsync -a source/en_dicts/en.dict.yaml target/en_dicts/
         rsync -a source/en_dicts/en_ext.dict.yaml target/en_dicts/
+        rsync -a source/lua/reduce_english_filter.lua target/lua/
 
     - name: Push changes
       run: |
