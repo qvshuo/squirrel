@@ -49,8 +49,8 @@ patch:
     ]
 
   # 主翻译器，拼音
-  translator/dictionary: rime_ice  # 挂载词库 rime_ice.dict.yaml
-  translator/initial_quality: 1.2  # 拼音的权重应该比英文大
+  translator/dictionary: luna_pinyin_extended  # 挂载词库 luna_pinyin_extended.dict.yaml
+  translator/initial_quality: 1.2              # 拼音的权重应该比英文大
 
   # 次翻译器，英文
   melt_eng:
