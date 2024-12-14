@@ -29,7 +29,7 @@ patch:
     words: [
       aid, ann,
       bail, bait, bam, band, bans, bat, bay, bend, bent, benz, bib, bid, bien, biz, boc, bop, bos, bud, buf, bach, bench, bush,
-      cab, cad, cain, cam, cans, cap, cas, cef, chad, chan, chap, chef, cher, chew, chic, chin, chip, chit, coup, cum, cunt, cur, couch,
+      cab, cad, cain, cam, cans, cap, cef, chad, chan, chap, chef, cher, chew, chic, chin, chip, chit, coup, cum, cunt, cur, couch,
       dab, dag, dal, dam, dent, dew, dial, diet, dim, din, dip, dis, dit, doug, dub, dug, dunn, don,
       fab, fax, fob, fog, foul, fur,
       gag, gail, gain, gal, gam, gaol, ged, gel, ger, guam, gus, gut,
@@ -43,9 +43,10 @@ patch:
       rand, rant, rent, rep, res, ret, rex, rib, rid, rig, rim, rub, rug, rum, runc, runs, ranch,
       sac, sail, sal, sam, sans, sap, saw, sax, sew, sham, shaw, shin, sig, sin, sip, sis, suit, sung, suns, sup, sur, sus,
       tad, tail, taj, tar, tax, tec, ted, tel, ter, tex, tic, tied, tier, ties, tim, tin, tit, tour, tout, tum,
-      wag, wand, womens, wap, wax, weir, won,
+      wag, wand, womens, wap, wax, weir, won, went,
       yan, yen,
-      zach
+      zach,
+      my, mt, dj, as, js, cs, ak, ps, cd, cn, hk, bt, pk, ml  # 一些由算法转写的大写单词编码，会影响简拼（全拼专有）
     ]
 
   # 主翻译器，拼音
