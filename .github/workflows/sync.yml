@@ -39,7 +39,11 @@ jobs:
 
       - name: Sync cn_dicts_cell from rime-frost
         run: |
-          rsync -a frost/cn_dicts/ target/cn_dicts/
+          rsync -a frost/cn_dicts/8105.dict.yaml target/cn_dicts/
+          rsync -a frost/cn_dicts/41448.dict.yaml target/cn_dicts/
+          rsync -a frost/cn_dicts/base.dict.yaml target/cn_dicts/
+          rsync -a frost/cn_dicts/ext.dict.yaml target/cn_dicts/
+          rsync -a frost/cn_dicts/others.dict.yaml target/cn_dicts/
           rsync -a frost/cn_dicts_cell/ target/cn_dicts_cell/
 
       - name: Push changes
