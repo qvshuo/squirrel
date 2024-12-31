@@ -11,14 +11,12 @@ patch:
     - selector
     - navigator
     - express_editor
-    - lua_processor@cloud_pinyin_processor # 云输入
   engine/translators:
     - punct_translator
     - table_translator@custom_phrase
     - reverse_lookup_translator
     - script_translator
     - table_translator@melt_eng  # 英文输入
-    - lua_translator@cloud_pinyin_translator # 云输入
   engine/filters:
     - simplifier
     - uniquifier
