@@ -72,3 +72,11 @@ patch:
       - xform/.*//           # 清空提示码
 
   custom_phrase/initial_quality: 99  # custom_phrase 的权重应该比 pinyin 和 melt_eng 大
+
+  grammar:
+    language: wanxiang-lts-zh-hans
+    collocation_max_length: 5
+    collocation_min_length: 2
+  translator/contextual_suggestions: true
+  translator/max_homophones: 7
+  translator/max_homographs: 7
