@@ -74,7 +74,9 @@ patch:
   app_options:
     com.apple.Spotlight:
       ascii_mode: true
-    net.kovidgoyal.kitty:
+    com.mitchellh.ghostty:
       ascii_mode: true
     com.vscodium:
+      ascii_mode: true
+    net.kovidgoyal.kitty:
       ascii_mode: true
