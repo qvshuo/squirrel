@@ -36,4 +36,3 @@ import_tables:
   - cn_dicts_cell/name
 
   # 拓展词库
-  - cn_dicts/yuanshen # 原神词库
