@@ -3,6 +3,8 @@ patch:
     - schema: luna_pinyin
     - schema: japanese
 
+  switcher/hotkeys: F4
+
   menu/page_size: 7
 
   ascii_composer:
