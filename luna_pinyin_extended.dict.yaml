@@ -3,7 +3,7 @@
 
 ---
 name: luna_pinyin_extended
-version: "2024-12-20"
+version: "2025-07-30"
 import_tables:
   - cn_dicts/8105 # 字表
   - cn_dicts/41448 # 大字表（按需启用）
@@ -36,3 +36,4 @@ import_tables:
   - cn_dicts_cell/name
 
   # 拓展词库
+  - cn_dicts/yuanshen # 原神词库
