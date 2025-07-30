@@ -2,7 +2,7 @@ name: Sync specific folders and files
 
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "30 0 * * 0"
   workflow_dispatch:
 
 jobs:
