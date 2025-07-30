@@ -2,29 +2,29 @@ name: Sync specific folders and files
 
 on:
   schedule:
-    - cron: "30 0 * * 0"
+    - cron: '30 0 * * 0'
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source repository
-        uses: actions/checkout@v3
+      - name: Checkout source repository (rime-ice)
+        uses: actions/checkout@v4
         with:
           repository: "iDvel/rime-ice"
           token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
           path: "ice"
 
       - name: Checkout source repository (rime-frost)
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: "gaboolic/rime-frost"
           token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
           path: "frost"
 
       - name: Checkout destination repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: "qvshuo/squirrel"
           token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
@@ -32,25 +32,33 @@ jobs:
 
       - name: Sync folders and files from rime-ice
         run: |
-          rsync -a ice/melt_eng.dict.yaml target/
-          rsync -a ice/en_dicts/en.dict.yaml target/en_dicts/
-          rsync -a ice/en_dicts/en_ext.dict.yaml target/en_dicts/
-          rsync -a ice/lua/reduce_english_filter.lua target/lua/
+          rsync -av ice/melt_eng.dict.yaml target/
+          rsync -av ice/en_dicts/en.dict.yaml target/en_dicts/
+          rsync -av ice/en_dicts/en_ext.dict.yaml target/en_dicts/
+          rsync -av ice/lua/reduce_english_filter.lua target/lua/
 
       - name: Sync cn_dicts_cell from rime-frost
         run: |
-          rsync -a frost/cn_dicts/8105.dict.yaml target/cn_dicts/
-          rsync -a frost/cn_dicts/41448.dict.yaml target/cn_dicts/
-          rsync -a frost/cn_dicts/base.dict.yaml target/cn_dicts/
-          rsync -a frost/cn_dicts/ext.dict.yaml target/cn_dicts/
-          rsync -a frost/cn_dicts/others.dict.yaml target/cn_dicts/
-          rsync -a frost/cn_dicts_cell/ target/cn_dicts_cell/
+          rsync -av frost/cn_dicts/8105.dict.yaml target/cn_dicts/
+          rsync -av frost/cn_dicts/41448.dict.yaml target/cn_dicts/
+          rsync -av frost/cn_dicts/base.dict.yaml target/cn_dicts/
+          rsync -av frost/cn_dicts/ext.dict.yaml target/cn_dicts/
+          rsync -av frost/cn_dicts/others.dict.yaml target/cn_dicts/
+          rsync -av frost/cn_dicts_cell/ target/cn_dicts_cell/
+
+      - name: Sync yuanshen dictionary
+        run: |
+          curl -L -o target/cn_dicts/yuanshen.dict.yaml https://github.com/qvshuo/rime-pinyin-yuanshen/releases/download/latest/rime-pinyin-yuanshen.dict.yaml
 
       - name: Push changes
         run: |
           cd target
-          git config user.name 'qvshuo'
-          git config user.email 'qvshuo@foxmail.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m 'Sync specific folders and files' || echo "No changes to commit"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: Sync upstream dictionaries"
+            git push
+          fi
