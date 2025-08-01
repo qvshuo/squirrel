@@ -71,9 +71,13 @@ jobs:
 
           rsync -av lmdg/dicts/*.yaml target/cn_dicts/
 
-      - name: Sync yuanshen dictionary
+      - name: Sync Yuanshen dictionary
         run: |
           curl -L -o target/cn_dicts/yuanshen.dict.yaml https://github.com/qvshuo/rime-luna-pinyin-custom-dict/releases/download/yuanshen/yuanshen.dict.yaml
+
+      - name: Sync Sogou Internet Buzzwords dictionary
+        run: |
+          curl -L -o target/cn_dicts/buzzwords.dict.yaml https://github.com/qvshuo/rime-luna-pinyin-custom-dict/releases/download/buzzwords/buzzwords.dict.yaml
 
       - name: Push changes
         run: |
