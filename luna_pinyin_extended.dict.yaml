@@ -18,4 +18,5 @@ import_tables:
   # 拓展词库
   - cn_dicts/yuanshen
   - cn_dicts/buzzwords
+  ...
   
