@@ -84,6 +84,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Sync specific folders and files"
+            git commit -m "Sync dictionaries and lua scripts."
             git push
           fi
