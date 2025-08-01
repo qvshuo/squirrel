@@ -3,7 +3,7 @@
 
 ---
 name: luna_pinyin_extended
-version: "2025-07-30"
+version: "2025-08-01"
 import_tables:
   - cn_dicts/chars
   - cn_dicts/base
