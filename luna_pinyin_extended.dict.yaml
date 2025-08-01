@@ -3,7 +3,7 @@
 
 ---
 name: luna_pinyin_extended
-version: "2025-08-01"
+version: "2025-07-30"
 import_tables:
   - cn_dicts/chars
   - cn_dicts/base
@@ -16,4 +16,6 @@ import_tables:
   - cn_dicts/poetry
 
   # 拓展词库
-  - cn_dicts/yuanshen # 原神词库
+  - cn_dicts/yuanshen
+  - cn_dicts/buzzwords
+  
