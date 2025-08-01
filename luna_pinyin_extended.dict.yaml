@@ -3,37 +3,17 @@
 
 ---
 name: luna_pinyin_extended
-version: "2025-07-30"
+version: "2025-08-01"
 import_tables:
-  - cn_dicts/8105 # 字表
-  - cn_dicts/41448 # 大字表（按需启用）
-  - cn_dicts/base # 基础词库
-  - cn_dicts/ext # 扩展词库
-  - cn_dicts/others # 一些杂项
-
-  # 细胞词库
-  - cn_dicts_cell/medication
-  - cn_dicts_cell/industry_product
-  - cn_dicts_cell/exthot
-  - cn_dicts_cell/chess
-  - cn_dicts_cell/chess2
-  - cn_dicts_cell/animal
-  - cn_dicts_cell/game
-  - cn_dicts_cell/idiom
-  - cn_dicts_cell/sport
-  - cn_dicts_cell/media
-  - cn_dicts_cell/shulihua
-  - cn_dicts_cell/food
-  - cn_dicts_cell/inputmethod
-  - cn_dicts_cell/history
-  - cn_dicts_cell/place
-  - cn_dicts_cell/geography
-  - cn_dicts_cell/name2
-  - cn_dicts_cell/literature
-  - cn_dicts_cell/music
-  - cn_dicts_cell/computer
-  - cn_dicts_cell/composite
-  - cn_dicts_cell/name
+  - cn_dicts/chars
+  - cn_dicts/base
+  - cn_dicts/correlation
+  - cn_dicts/suggestion
+  - cn_dicts/compatible
+  - cn_dicts/corrections
+  - cn_dicts/people
+  - cn_dicts/place
+  - cn_dicts/poetry
 
   # 拓展词库
   - cn_dicts/yuanshen # 原神词库
