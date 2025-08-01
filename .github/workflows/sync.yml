@@ -1,4 +1,4 @@
-name: Sync specific folders and files
+name: Sync dictionaries and lua scripts
 
 on:
   schedule:
@@ -13,15 +13,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: "iDvel/rime-ice"
-          token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
           path: "ice"
 
-      - name: Checkout source repository (rime-frost)
+      - name: Checkout source repository (RIME-LMDG)
         uses: actions/checkout@v4
         with:
-          repository: "gaboolic/rime-frost"
-          token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
-          path: "frost"
+          repository: "amzxyz/RIME-LMDG"
+          ref: "wanxiang"
+          path: "lmdg"
 
       - name: Checkout destination repository
         uses: actions/checkout@v4
@@ -30,25 +29,51 @@ jobs:
           token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
           path: "target"
 
-      - name: Sync folders and files from rime-ice
+      - name: Sync dictionaries and lua scripts from rime-ice
         run: |
           rsync -av ice/melt_eng.dict.yaml target/
           rsync -av ice/en_dicts/en.dict.yaml target/en_dicts/
           rsync -av ice/en_dicts/en_ext.dict.yaml target/en_dicts/
           rsync -av ice/lua/reduce_english_filter.lua target/lua/
 
-      - name: Sync cn_dicts_cell from rime-frost
+      - name: Process and Sync LMDG dictionaries
         run: |
-          rsync -av frost/cn_dicts/8105.dict.yaml target/cn_dicts/
-          rsync -av frost/cn_dicts/41448.dict.yaml target/cn_dicts/
-          rsync -av frost/cn_dicts/base.dict.yaml target/cn_dicts/
-          rsync -av frost/cn_dicts/ext.dict.yaml target/cn_dicts/
-          rsync -av frost/cn_dicts/others.dict.yaml target/cn_dicts/
-          rsync -av frost/cn_dicts_cell/ target/cn_dicts_cell/
+          for file in lmdg/dicts/*.yaml; do
+            echo "Processing $file"
+            sed -i \
+              -e 's/ā/a/g' \
+              -e 's/á/a/g' \
+              -e 's/ǎ/a/g' \
+              -e 's/à/a/g' \
+              -e 's/ō/o/g' \
+              -e 's/ó/o/g' \
+              -e 's/ǒ/o/g' \
+              -e 's/ò/o/g' \
+              -e 's/ē/e/g' \
+              -e 's/é/e/g' \
+              -e 's/ě/e/g' \
+              -e 's/è/e/g' \
+              -e 's/ī/i/g' \
+              -e 's/í/i/g' \
+              -e 's/ǐ/i/g' \
+              -e 's/ì/i/g' \
+              -e 's/ū/u/g' \
+              -e 's/ú/u/g' \
+              -e 's/ǔ/u/g' \
+              -e 's/ù/u/g' \
+              -e 's/ǖ/v/g' \
+              -e 's/ǘ/v/g' \
+              -e 's/ǚ/v/g' \
+              -e 's/ǜ/v/g' \
+              -e 's/ü/v/g' \
+              "$file"
+          done
+
+          rsync -av lmdg/dicts/*.yaml target/cn_dicts/
 
       - name: Sync yuanshen dictionary
         run: |
-          curl -L -o target/cn_dicts/yuanshen.dict.yaml https://github.com/qvshuo/rime-pinyin-yuanshen/releases/download/latest/rime-pinyin-yuanshen.dict.yaml
+          curl -L -o target/cn_dicts/yuanshen.dict.yaml https://github.com/qvshuo/rime-luna-pinyin-custom-dict/releases/download/yuanshen/yuanshen.dict.yaml
 
       - name: Push changes
         run: |
