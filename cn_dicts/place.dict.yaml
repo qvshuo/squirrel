@@ -3784,6 +3784,7 @@ sort: by_weight
 大湖乡	da hu xiang	1
 大湖镇	da hu zhen	178
 大皇堡	da huang bao	251
+大黄堡	da huang bao	175
 大甲区	da jia qu	1
 大甲镇	da jia zhen	297
 大朗镇	da lang zhen	399
@@ -3843,7 +3844,6 @@ sort: by_weight
 大城县	dai cheng xian	174
 大城乡	dai cheng xiang	1
 大城镇	dai cheng zhen	300
-大黄堡	dai huang bao	175
 岱山县	dai shan xian	170
 岱岳区	dai yue qu	174
 丹巴县	dan ba xian	188
@@ -14215,8 +14215,14 @@ sort: by_weight
 大槐树村	da huai shu cun	187
 大槐树镇	da huai shu zhen	225
 大唤起乡	da huan qi xiang	35
+大黄堡乡	da huang bao xiang	1
 大荒地村	da huang di cun	285
 大荒沟村	da huang gou cun	116
+大黄沟乡	da huang gou xiang	105
+大黄集镇	da huang ji zhen	35
+大黄巍乡	da huang wei xiang	156
+大黄冶村	da huang ye cun	1
+大黄庄镇	da huang zhuang zhen	35
 大灰厂村	da hui chang cun	105
 大汲店村	da ji dian cun	207
 大箕铺镇	da ji pu zhen	282
@@ -14786,13 +14792,7 @@ sort: by_weight
 岱格庄村	dai ge zhuang cun	1
 代官屯村	dai guan tun cun	77
 带湖山庄	dai hu shan zhuang	1
-大黄堡乡	dai huang bao xiang	1
-大黄沟乡	dai huang gou xiang	105
-大黄集镇	dai huang ji zhen	35
 代黄口村	dai huang kou cun	1
-大黄巍乡	dai huang wei xiang	156
-大黄冶村	dai huang ye cun	1
-大黄庄镇	dai huang zhuang zhen	35
 代家坝镇	dai jia ba zhen	187
 戴家场村	dai jia chang cun	1
 戴家场镇	dai jia chang zhen	162

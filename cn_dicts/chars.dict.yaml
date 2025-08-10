@@ -14862,6 +14862,7 @@ sort: by_weight
 锪	huo	1
 即	ji	895
 及	ji	874
+既	ji	870
 计	ji	862
 积	ji	855
 暨	ji	845
@@ -14886,7 +14887,6 @@ sort: by_weight
 绩	ji	712
 急	ji	710
 吉	ji	708
-既	ji	696
 疾	ji	694
 几	ji	691
 肌	ji	691
@@ -33676,6 +33676,7 @@ sort: by_weight
 熟	shu	715
 树	shu	707
 舒	shu	707
+数	shu	699
 束	shu	695
 署	shu	668
 蔬	shu	667
@@ -33685,13 +33686,12 @@ sort: by_weight
 暑	shu	624
 疏	shu	623
 薯	shu	615
-数	shu	599
+竖	shu	598
 梳	shu	589
 赎	shu	587
 枢	shu	582
 墅	shu	580
 蜀	shu	578
-竖	shu	567
 淑	shu	564
 抒	shu	534
 漱	shu	532

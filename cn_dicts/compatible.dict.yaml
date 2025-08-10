@@ -7,6 +7,9 @@ name: compatible
 version: "LTS"
 sort: by_weight
 ...
+大黄	dai huang
+大黄鱼	dai huang yu
+明朝	ming zhao	326
 忒过瘾	tei guo yin	81
 忒好吃	tei hao chi	136
 忒好看	tei hao kan	56
@@ -167,6 +170,8 @@ sort: by_weight
 多行	duo hang	491
 不了了	bu liao liao	542
 不了了	bu liao le	413
+爿字旁	chang zi pang
+爿字旁	pian zi pang
 肚子	du zi	650
 肚子	du zi	312
 落了	la le	542
