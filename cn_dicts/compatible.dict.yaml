@@ -7,8 +7,14 @@ name: compatible
 version: "LTS"
 sort: by_weight
 ...
+当时	dang shi
+当日	dang ri
+当年	dang nian
+当头	dang tou
+铁骑	tie qi
+垫圈	dian juan
 大黄	dai huang
-大黄鱼	dai huang yu
+调调	tiao tiao	462
 明朝	ming zhao	326
 忒过瘾	tei guo yin	81
 忒好吃	tei hao chi	136
@@ -4862,6 +4868,9 @@ sort: by_weight
 嘴里的软舌头	zui li de ruan she tou	1
 嘴里有个舌头	zui li you ge she tou	1
 嘴说腿爱跑腿	zui shuo tui ai pao tui	1
+每只大石狮子	mei zhi da shi shi zi	1
+一只小石狮子	yi zhi xiao shi shi zi	1
+四只小石狮子	si zhi xiao shi shi zi	1
 八百标兵奔北坡	ba bai biao bing ben bei po	1
 八朵粉红大荷花	ba duo fen hong da he hua	1
 板凳没有扁担长	ban deng mei you bian dan chang	1
@@ -5175,8 +5184,6 @@ sort: by_weight
 高高山上一条藤高高山上一条藤	gao gao shan shang yi tiao teng gao gao shan shang yi tiao teng	1
 小葛把他的黄花换了小郭的红花	xiao ge ba ta de huang hua huan le xiao guo de hong hua	1
 小郭想拿他的红花换小葛的黄花	xiao guo xiang na ta de hong hua huan xiao ge de huang hua	1
-每只大石狮子背上是一只小石狮子	mei zhi da shi shi zi bei shang shi yi zhi xiao shi shi zi	1
-每只大石狮子脚边是四只小石狮子	mei zhi da shi shi zi jiao bian shi si zhi xiao shi shi zi	1
 拿喇叭打了提拉塔嘛的喇嘛一喇叭	na la ba da le ti la ta ma de la ma yi la ba	1
 三娘找山羊三娘在山上放三只山羊	san niang zhao shan yang san niang zai shan shang fang san zhi shan yang	1
 史老师领四十四个学生去数石狮子	shi lao shi ling si shi si ge xue sheng qu shu shi shi zi	1
