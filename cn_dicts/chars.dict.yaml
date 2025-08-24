@@ -7538,7 +7538,6 @@ sort: by_weight
 㝎	ding	1
 奵	ding	1
 掟	ding	1
-町	ding	1
 甼	ding	1
 艼	ding	1
 釘	ding	1
@@ -7573,6 +7572,7 @@ sort: by_weight
 𩾚	ding	1
 𪔂	ding	1
 𫂫	ding	1
+町	ding	1
 丢	diu	647
 丟	diu	343
 铥	diu	285
@@ -15805,17 +15805,17 @@ sort: by_weight
 件	jian	800
 简	jian	766
 健	jian	762
-荐	jian	758
-减	jian	756
+键	jian	760
+减	jian	758
 监	jian	747
 检	jian	745
+尖	jian	745
+荐	jian	725
 坚	jian	723
-键	jian	722
 渐	jian	697
 舰	jian	673
 兼	jian	669
 剑	jian	663
-尖	jian	658
 鉴	jian	657
 践	jian	655
 剪	jian	647
@@ -36425,6 +36425,7 @@ sort: by_weight
 蝏	ting	439
 廳	ting	423
 铤	ting	408
+町	ting	377
 庁	ting	363
 葶	ting	335
 珽	ting	334
@@ -36470,7 +36471,6 @@ sort: by_weight
 忊	ting	1
 梃	ting	1
 濎	ting	1
-町	ting	1
 鋌	ting	1
 閮	ting	1
 㓅	ting	1
