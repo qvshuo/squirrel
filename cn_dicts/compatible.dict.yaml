@@ -7,6 +7,9 @@ name: compatible
 version: "LTS"
 sort: by_weight
 ...
+播种	bo zhong	302
+密钥	mi yue	482
+糖色	tang shai	348
 又得	you dei	421
 拂过	bi guo	476
 粘着	zhan zhe	510
@@ -179,8 +182,8 @@ sort: by_weight
 多行	duo hang	491
 不了了	bu liao liao	542
 不了了	bu liao le	413
-爿字旁	chang zi pang
-爿字旁	pian zi pang
+爿字旁	chuang zi pang
+爿字旁	pan zi pang
 肚子	du zi	650
 肚子	du zi	312
 落了	la le	542
@@ -264,6 +267,7 @@ sort: by_weight
 不为	bu wei	623
 不长	bu zhang	329
 长的	chang de	802
+长不长	chang bu chang	331
 长头发	chang tou fa	503
 长头发	zhang tou fa	503
 长尾巴	chang wei ba	399
@@ -4316,7 +4320,6 @@ sort: by_weight
 哥哥说	ge ge shuo	1
 搁下醋	ge xia cu	1
 红凤凰	hong feng huang	1
-红凤凰	hong feng huang	1
 花凤凰	hua feng huang	1
 花鸟叫	hua niao jiao	1
 黄凤凰	huang feng huang	1
@@ -4334,8 +4337,6 @@ sort: by_weight
 两个昌	liang ge chang	1
 两个巢	liang ge chao	1
 两个屮	liang ge che	1
-两个屮	liang ge che	1
-两个車	liang ge che	1
 两个車	liang ge che	1
 两个臣	liang ge chen	1
 两个齒	liang ge chi	1
@@ -4435,7 +4436,6 @@ sort: by_weight
 两个束	liang ge shu	1
 两个水	liang ge shui	1
 两个厶	liang ge si	1
-两个厶	liang ge si	1
 两个田	liang ge tian	1
 两个天	liang ge tian	1
 两个土	liang ge tu	1
@@ -4499,7 +4499,6 @@ sort: by_weight
 三个百	san ge bai	1
 三个宝	san ge bao	1
 三个贝	san ge bei	1
-三个屮	san ge che	1
 三个屮	san ge che	1
 三个車	san ge che	1
 三个虫	san ge chong	1
@@ -4585,11 +4584,9 @@ sort: by_weight
 三个水	san ge shui	1
 三个朔	san ge shuo	1
 三个厶	san ge si	1
-三个厶	san ge si	1
 三个太	san ge tai	1
 三个田	san ge tian	1
 三个天	san ge tian	1
-三个𠧪	san ge tiao	1
 三个𠧪	san ge tiao	1
 三个土	san ge tu	1
 三个兔	san ge tu	1
@@ -4626,7 +4623,6 @@ sort: by_weight
 三个𣥚	san ge zhi	1
 三个至	san ge zhi	1
 三个丶	san ge zhu	1
-三个丶	san ge zhu	1
 三个竹	san ge zhu	1
 三个隹	san ge zhui	1
 三个子	san ge zi	1
@@ -4634,13 +4630,11 @@ sort: by_weight
 十和四	shi he si	1
 十是十	shi shi shi	1
 史肖石	shi xiao shi	1
-史肖石	shi xiao shi	1
-石小四	shi xiao si	1
 石小四	shi xiao si	1
 手指头	shou zhi tou	1
 四个匕	si ge bi	1
 四个屮	si ge che	1
-四个屮	si ge che	1
+四个车	si ge che	1
 四个車	si ge che	1
 四个春	si ge chun	1
 四个朿	si ge ci	1
@@ -4665,7 +4659,6 @@ sort: by_weight
 四个日	si ge ri	1
 四个石	si ge shi	1
 四个水	si ge shui	1
-四个厶	si ge si	1
 四个厶	si ge si	1
 四个天	si ge tian	1
 四个田	si ge tian	1
