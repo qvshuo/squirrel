@@ -7,3192 +7,133 @@ name: place
 version: "LTS"
 sort: by_weight
 ...
-阿坝	a ba	472
-阿城	a cheng	456
-阿里	a li	752
-阿莲	a lian	427
-爱辉	ai hui	274
-爱民	ai min	505
-安次	an ci	340
-安达	an da	519
-安定	an ding	619
-安多	an duo	452
-安福	an fu	437
-安国	an guo	466
-安化	an hua	416
-安徽	an hui	720
-安吉	an ji	556
-安居	an ju	521
-安康	an kang	589
-安乐	an le	524
-安龙	an long	399
-安陆	an lu	441
-安南	an nan	539
-安宁	an ning	602
-安平	an ping	529
-安庆	an qing	561
-安丘	an qiu	402
-安仁	an ren	427
-安塞	an sai	429
-鞍山	an shan	549
-安顺	an shun	539
 安图	an tu	474
-安溪	an xi	494
-安乡	an xiang	410
-安新	an xin	355
-安阳	an yang	565
-安义	an yi	401
-安源	an yuan	467
-安远	an yuan	386
-安岳	an yue	408
-安泽	an ze	366
-安州	an zhou	434
-昂仁	ang ren	215
-澳门	ao men	747
-八步	ba bu	396
-巴楚	ba chu	372
-八德	ba de	461
-巴东	ba dong	487
-八里	ba li	469
-巴马	ba ma	498
-巴南	ba nan	468
-灞桥	ba qiao	374
-巴青	ba qing	263
-巴塘	ba tang	429
-八宿	ba xiu	377
-巴彦	ba yan	432
 巴宜	ba yi	305
-巴中	ba zhong	540
-巴州	ba zhou	467
-霸州	ba zhou	415
-白城	bai cheng	447
-拜城	bai cheng	310
-白河	bai he	510
-白朗	bai lang	392
-拜泉	bai quan	280
-白沙	bai sha	545
-白山	bai shan	509
-白水	bai shui	581
-白塔	bai ta	497
-柏乡	bai xiang	303
-白银	bai yin	754
-白玉	bai yu	549
-白云	bai yun	598
-班戈	ban ge	393
-班玛	ban ma	387
-板桥	ban qiao	562
-宝安	bao an	544
 保德	bao de	533
-宝坻	bao di	493
-保定	bao ding	604
-宝丰	bao feng	408
-包河	bao he	415
-宝鸡	bao ji	532
-保靖	bao jing	342
-保康	bao kang	382
-宝清	bao qing	316
-宝山	bao shan	564
-保山	bao shan	496
-宝塔	bao ta	515
-保亭	bao ting	408
-包头	bao tou	557
-宝兴	bao xing	464
-宝应	bao ying	416
-褒忠	bao zhong	405
-北安	bei an	431
-北碚	bei bei	455
-北埔	bei bu	425
-北辰	bei chen	518
-北川	bei chuan	510
-北斗	bei dou	615
-北港	bei gang	494
-北关	bei guan	407
-北海	bei hai	617
-北湖	bei hu	463
-北京	bei jing	882
-碑林	bei lin	481
-北林	bei lin	470
-北流	bei liu	402
-北仑	bei lun	459
-北门	bei men	581
-卑南	bei nan	446
-北票	bei piao	357
-北区	bei qu	601
-北塔	bei ta	414
-北投	bei tou	499
-北屯	bei tun	476
-北镇	bei zhen	458
-本溪	ben xi	521
-蚌埠	beng bu	557
-蚌山	beng shan	230
-碧江	bi jiang	395
-毕节	bi jie	467
-比如	bi ru	877
-璧山	bi shan	476
-泌阳	bi yang	331
-边坝	bian ba	259
-滨城	bin cheng	428
-宾川	bin chuan	359
-滨海	bin hai	627
-滨湖	bin hu	524
-滨江	bin jiang	578
-宾县	bin xian	393
-宾阳	bin yang	441
-滨州	bin zhou	526
-彬州	bin zhou	293
-博爱	bo ai	552
-博白	bo bai	380
-博湖	bo hu	341
-博乐	bo le	418
-勃利	bo li	330
-博罗	bo luo	514
-波密	bo mi	437
-百色	bo se	480
-博山	bo shan	437
-泊头	bo tou	326
-博望	bo wang	377
-博兴	bo xing	343
-博野	bo ye	358
-亳州	bo zhou	502
-播州	bo zhou	438
-布袋	bu dai	539
-埔里	bu li	494
-布拖	bu tuo	253
-埔心	bu xin	432
-埔盐	bu yan	374
-蔡甸	cai dian	405
-苍南	cang nan	451
-仓山	cang shan	445
-苍梧	cang wu	412
-苍溪	cang xi	369
-沧县	cang xian	397
-沧源	cang yuan	396
-沧州	cang zhou	564
-草屯	cao tun	457
-曹县	cao xian	444
-册亨	ce heng	305
-策勒	ce le	336
-岑巩	cen gong	262
-岑溪	cen xi	371
-茶陵	cha ling	405
-察雅	cha ya	250
-察隅	cha yu	352
-柴桑	chai sang	351
-禅城	chan cheng	528
-瀍河	chan he	1
-长安	chang an	659
 长白	chang bai	658
-长滨	chang bin	436
-长春	chang chun	696
-常德	chang de	533
-昌都	chang du	476
 长丰	chang feng	535
-长海	chang hai	548
-昌吉	chang ji	463
-昌江	chang jiang	424
-长乐	chang le	537
-昌乐	chang le	381
-昌黎	chang li	435
-长岭	chang ling	426
-长宁	chang ning	503
-常宁	chang ning	440
-昌宁	chang ning	383
-昌平	chang ping	561
-长清	chang qing	437
-长沙	chang sha	712
-常山	chang shan	473
-长寿	chang shou	654
-常熟	chang shu	533
-长顺	chang shun	383
-长泰	chang tai	431
-长汀	chang ting	439
-昌图	chang tu	372
-长武	chang wu	357
-长兴	chang xing	509
 长阳	chang yang	564
-昌邑	chang yi	414
-长垣	chang yuan	395
-长治	chang zhi	538
-常州	chang zhou	639
-长洲	chang zhou	510
-潮安	chao an	415
-巢湖	chao hu	490
-潮南	chao nan	291
-朝天	chao tian	490
 朝阳	chao yang	767
-潮阳	chao yang	443
-潮州	chao zhou	602
-车城	che cheng	408
-陈仓	chen cang	412
-辰溪	chen xi	341
-郴州	chen zhou	520
-成安	cheng an	402
-城北	cheng bei	549
-城步	cheng bu	355
-澄城	cheng cheng	343
-承德	cheng de	546
-城东	cheng dong	541
-成都	cheng du	741
-称多	cheng duo	306
-成功	cheng gong	836
-呈贡	cheng gong	496
-城固	cheng gu	383
-城关	cheng guan	493
-澄海	cheng hai	445
-成华	cheng hua	375
-澄江	cheng jiang	426
-城口	cheng kou	466
-澄迈	cheng mai	445
-城区	cheng qu	733
-成武	cheng wu	359
-城西	cheng xi	535
-成县	cheng xian	380
-城厢	cheng xiang	374
-城阳	cheng yang	490
-城中	cheng zhong	541
-赤壁	chi bi	563
-赤城	chi cheng	462
-赤峰	chi feng	521
-赤坎	chi kan	413
-茌平	chi ping	351
-池上	chi shang	486
-赤水	chi shui	479
-池州	chi zhou	519
-崇川	chong chuan	257
-崇礼	chong li	493
-崇明	chong ming	558
-重庆	chong qing	785
-崇仁	chong ren	434
-崇信	chong xin	395
 崇阳	chong yang	459
-崇义	chong yi	404
-崇州	chong zhou	468
-崇左	chong zuo	426
-楚雄	chu xiong	490
-滁州	chu zhou	514
-川汇	chuan hui	223
-船山	chuan shan	402
-船营	chuan ying	285
-淳安	chun an	465
-淳化	chun hua	413
-春日	chun ri	614
-慈利	ci li	379
 莿桐	ci tong	1
-慈溪	ci xi	514
-磁县	ci xian	427
 从化	cong hua	1
 从江	cong jiang	508
-丛台	cong tai	360
-翠屏	cui ping	427
-措美	cuo mei	188
 错那	cuo na	1
-措勤	cuo qin	248
-大安	da an	499
-大埔	da bu	569
-大厂	da chang	598
-达川	da chuan	380
-大村	da cun	483
-大东	da dong	501
-大肚	da du	503
-大方	da fang	676
-大丰	da feng	469
-大关	da guan	619
-大观	da guan	524
-大湖	da hu	493
-大化	da hua	434
-大甲	da jia	509
-大理	da li	634
 大里	da li	546
-大荔	da li	397
-大连	da lian	726
 大寮	da liao	1
-大林	da lin	482
-大名	da ming	588
-大内	da nei	489
-大宁	da ning	532
 大埤	da pi	1
-大庆	da qing	586
-达仁	da ren	377
-达日	da ri	377
-大社	da she	562
-大树	da shu	594
-大田	da tian	533
-大同	da tong	600
-大通	da tong	487
-大洼	da wa	353
-大武	da wu	460
-大悟	da wu	452
-大溪	da xi	498
-大祥	da xiang	380
 大新	da xin	637
-大兴	da xing	564
-大雅	da ya	499
-大姚	da yao	444
-大冶	da ye	435
-大邑	da yi	405
-大英	da ying	492
-大余	da yu	351
-大园	da yuan	435
-达州	da zhou	491
-大竹	da zhu	457
-达孜	da zi	369
-大足	da zu	475
-大城	dai cheng	526
-岱山	dai shan	389
-代县	dai xian	383
-岱岳	dai yue	324
-丹巴	dan ba	488
-郸城	dan cheng	342
-丹东	dan dong	547
-丹凤	dan feng	441
-丹棱	dan ling	319
-淡水	dan shui	624
-丹徒	dan tu	401
-丹阳	dan yang	493
-丹寨	dan zhai	361
-儋州	dan zhou	480
-砀山	dang shan	408
-当涂	dang tu	405
-当雄	dang xiong	353
-当阳	dang yang	420
-稻城	dao cheng	564
-道孚	dao fu	365
-道里	dao li	457
-道外	dao wai	443
-道县	dao xian	415
 道真	dao zhen	1
-德安	de an	458
-德保	de bao	357
-德昌	de chang	487
-德城	de cheng	378
-德格	de ge	458
-德宏	de hong	490
-德化	de hua	431
-德惠	de hui	443
-德江	de jiang	393
-德钦	de qin	430
-德清	de qing	479
-德庆	de qing	430
-得荣	de rong	280
-德兴	de xing	453
-德阳	de yang	524
-德州	de zhou	644
-登封	deng feng	454
-磴口	deng kou	277
-灯塔	deng ta	602
-邓州	deng zhou	442
-滴道	di dao	175
-迪庆	di qing	411
-电白	dian bai	438
-垫江	dian jiang	426
-点军	dian jun	274
-迭部	die bu	310
-叠彩	die cai	321
-定安	ding an	440
-定边	ding bian	382
-鼎城	ding cheng	280
-定海	ding hai	469
-鼎湖	ding hu	368
-定结	ding jie	243
-定南	ding nan	344
-丁青	ding qing	360
-定日	ding ri	370
-定陶	ding tao	409
-定西	ding xi	464
-定襄	ding xiang	390
-定兴	ding xing	358
-定远	ding yuan	463
-定州	ding zhou	475
-东安	dong an	465
-东宝	dong bao	556
-东昌	dong chang	410
-东城	dong cheng	568
-东川	dong chuan	495
-东阿	dong e	485
-东方	dong fang	755
-东风	dong feng	695
-东丰	dong feng	371
-东港	dong gang	522
-东莞	dong guan	714
-东光	dong guang	424
-东海	dong hai	638
-东河	dong he	465
-东湖	dong hu	569
-洞口	dong kou	522
-东兰	dong lan	330
-东丽	dong li	442
-东辽	dong liao	295
-东明	dong ming	461
-东宁	dong ning	471
-东平	dong ping	512
-东坡	dong po	555
-东区	dong qu	615
-东山	dong shan	580
 冬山	dong shan	444
-东胜	dong sheng	402
-东势	dong shi	504
-东石	dong shi	472
-东台	dong tai	432
-洞头	dong tou	414
-东乡	dong xiang	486
-东兴	dong xing	538
-东阳	dong yang	519
-东营	dong ying	541
-东源	dong yuan	412
-东至	dong zhi	546
-东洲	dong zhou	396
-斗六	dou liu	498
-斗门	dou men	500
-斗南	dou nan	467
-都安	du an	425
-都昌	du chang	394
 杜集	du ji	343
-都兰	du lan	403
-独山	du shan	422
-都匀	du yun	435
-端州	duan zhou	366
 堆龙	dui long	206
-敦化	dun hua	415
-敦煌	dun huang	590
-掇刀	duo dao	268
 多伦	duo lun	693
-峨边	e bian	337
-鄂城	e cheng	324
-峨眉	e mei	508
-额敏	e min	355
-峨山	e shan	385
-鄂州	e zhou	491
-恩平	en ping	445
-恩施	en shi	518
-恩阳	en yang	430
-二道	er dao	430
 二林	er lin	454
-二仑	er lun	383
-二七	er qi	473
-二水	er shui	423
-洱源	er yuan	333
-法库	fa ku	425
-繁昌	fan chang	376
-樊城	fan cheng	429
-番路	fan lu	388
-繁峙	fan shi	340
-范县	fan xian	391
-方城	fang cheng	411
-防城	fang cheng	358
-枋寮	fang liao	450
-房山	fang shan	528
-方山	fang shan	427
-枋山	fang shan	382
-房县	fang xian	395
-芳苑	fang yuan	392
-方正	fang zheng	609
-坊子	fang zi	323
-肥城	fei cheng	400
-肥东	fei dong	429
-肥西	fei xi	457
-费县	fei xian	427
-肥乡	fei xiang	348
-汾西	fen xi	331
-汾阳	fen yang	438
-分宜	fen yi	336
 芬园	fen yuan	437
 丰滨	feng bin	389
-凤城	feng cheng	486
-丰城	feng cheng	421
-丰都	feng du	451
-凤冈	feng gang	360
-奉化	feng hua	474
-凤凰	feng huang	682
-奉节	feng jie	448
-封开	feng kai	349
-凤林	feng lin	429
-丰林	feng lin	357
-丰满	feng man	607
-丰南	feng nan	365
-丰宁	feng ning	425
-凤庆	feng qing	351
-封丘	feng qiu	358
-凤泉	feng quan	265
-丰润	feng run	469
-凤山	feng shan	552
-丰顺	feng shun	398
-丰台	feng tai	537
-凤台	feng tai	399
-奉贤	feng xian	506
-丰县	feng xian	432
-凤县	feng xian	388
-凤翔	feng xiang	483
-奉新	feng xin	330
-凤阳	feng yang	458
-丰原	feng yuan	519
-丰泽	feng ze	447
-丰镇	feng zhen	439
-佛冈	fo gang	380
-佛坪	fo ping	375
-佛山	fo shan	684
-福安	fu an	470
-阜城	fu cheng	399
-涪城	fu cheng	340
-富川	fu chuan	444
-福鼎	fu ding	478
-扶风	fu feng	429
-福贡	fu gong	304
-扶沟	fu gou	349
-府谷	fu gu	372
-福海	fu hai	438
-福建	fu jian	677
-富锦	fu jin	376
-阜康	fu kang	346
 富里	fu li	449
-浮梁	fu liang	374
-涪陵	fu ling	476
 福绵	fu mian	432
-富民	fu min	516
-阜南	fu nan	318
-阜宁	fu ning	421
-抚宁	fu ning	398
-富宁	fu ning	371
-富平	fu ping	427
-阜平	fu ping	377
-福清	fu qing	533
-福泉	fu quan	417
-芙蓉	fu rong	581
-福山	fu shan	511
-浮山	fu shan	431
-抚顺	fu shun	550
-富顺	fu shun	412
-抚松	fu song	336
-扶绥	fu sui	316
-福田	fu tian	613
-富县	fu xian	398
-阜新	fu xin	473
-复兴	fu xing	670
-福兴	fu xing	464
-阜阳	fu yang	538
-富阳	fu yang	532
-富裕	fu yu	604
-扶余	fu yu	456
-富源	fu yuan	426
-抚远	fu yuan	407
-富蕴	fu yun	347
-福州	fu zhou	711
-抚州	fu zhou	494
-噶尔	ga er	466
-改则	gai ze	297
-盖州	gai zhou	337
-甘德	gan de	390
-甘谷	gan gu	324
-甘洛	gan luo	283
-甘南	gan nan	464
-甘泉	gan quan	471
-甘肃	gan su	663
-赣县	gan xian	409
-赣榆	gan yu	418
-赣州	gan zhou	575
-甘州	gan zhou	402
-甘孜	gan zi	472
-岗巴	gang ba	269
-港北	gang bei	360
-刚察	gang cha	308
-钢城	gang cheng	360
-港口	gang kou	674
-港南	gang nan	386
-冈山	gang shan	562
-高安	gao an	440
-高昌	gao chang	484
-藁城	gao cheng	419
-高淳	gao chun	493
-高港	gao gang	345
-皋兰	gao lan	356
-高陵	gao ling	409
-高密	gao mi	461
-高明	gao ming	583
-高平	gao ping	500
-高坪	gao ping	385
-高青	gao qing	352
-高树	gao shu	435
-高台	gao tai	503
-高唐	gao tang	406
-高县	gao xian	379
-高雄	gao xiong	652
-高阳	gao yang	493
-高要	gao yao	436
-高邑	gao yi	336
-高邮	gao you	464
-高州	gao zhou	461
-革吉	ge ji	227
-个旧	ge jiu	412
-根河	gen he	383
-耿马	geng ma	371
-公安	gong an	740
-恭城	gong cheng	334
-贡嘎	gong ga	471
-公馆	gong guan	569
-共和	gong he	590
-贡井	gong jing	326
-贡觉	gong jue	272
-贡寮	gong liao	419
-巩留	gong liu	411
-工农	gong nong	514
-贡山	gong shan	410
-拱墅	gong shu	406
-珙县	gong xian	369
-巩义	gong yi	401
-固安	gu an	454
-古城	gu cheng	667
-故城	gu cheng	460
-谷城	gu cheng	381
-古交	gu jiao	355
-古坑	gu keng	441
-古浪	gu lang	368
-古蔺	gu lin	369
-鼓楼	gu lou	587
-鼓山	gu shan	463
-固始	gu shi	405
-姑苏	gu su	517
-古塔	gu ta	458
-古田	gu tian	473
-古县	gu xian	445
-固阳	gu yang	332
-古冶	gu ye	311
-固原	gu yuan	441
-沽源	gu yuan	364
-古丈	gu zhang	336
-固镇	gu zhen	387
-瓜州	gua zhou	436
-管城	guan cheng	325
-官渡	guan du	490
-关岭	guan ling	385
-关庙	guan miao	426
-灌南	guan nan	299
-关山	guan shan	499
-馆陶	guan tao	405
-官田	guan tian	419
-关西	guan xi	590
-冠县	guan xian	416
-灌阳	guan yang	318
-观音	guan yin	596
-灌云	guan yun	338
-广安	guang an	527
-广昌	guang chang	398
-广德	guang de	469
-广东	guang dong	763
-广丰	guang feng	447
-光复	guang fu	545
-广汉	guang han	441
-广河	guang he	328
-广陵	guang ling	484
-广灵	guang ling	340
-光明	guang ming	663
-广南	guang nan	477
-广宁	guang ning	442
-广平	guang ping	479
-广饶	guang rao	365
-光山	guang shan	393
-广水	guang shui	373
-广西	guang xi	711
-广信	guang xin	415
-广阳	guang yang	392
-广元	guang yuan	481
-光泽	guang ze	611
-广州	guang zhou	805
-广宗	guang zong	351
-贵池	gui chi	405
-贵德	gui de	427
-贵定	gui ding	356
-桂东	gui dong	392
-贵港	gui gang	446
-桂林	gui lin	679
-贵南	gui nan	313
-桂平	gui ping	410
-归仁	gui ren	465
-龟山	gui shan	513
-贵溪	gui xi	358
-贵阳	gui yang	676
-桂阳	gui yang	473
-贵州	gui zhou	711
-果洛	guo luo	400
-国姓	guo xing	413
-涡阳	guo yang	353
-哈密	ha mi	523
-海安	hai an	454
-海北	hai bei	384
-海沧	hai cang	527
-海城	hai cheng	427
-海淀	hai dian	585
-海东	hai dong	537
 海端	hai duan	375
-海丰	hai feng	452
-海港	hai gang	569
-海口	hai kou	652
-海林	hai lin	436
-海陵	hai ling	412
-海伦	hai lun	562
-海门	hai men	488
-海南	hai nan	716
-海宁	hai ning	536
-海曙	hai shu	424
-海棠	hai tang	589
-海西	hai xi	534
-海兴	hai xing	354
-海盐	hai yan	530
-海晏	hai yan	358
-海阳	hai yang	488
-海原	hai yuan	412
-海州	hai zhou	452
-海珠	hai zhu	511
-汉滨	han bin	349
-韩城	han cheng	449
-汉川	han chuan	382
-邯郸	han dan	590
-邗江	han jiang	409
-涵江	han jiang	373
-汉南	han nan	409
-含山	han shan	342
-邯山	han shan	243
-汉寿	han shou	351
-汉台	han tai	321
-寒亭	han ting	338
-汉阳	han yang	515
-汉阴	han yin	363
-汉源	han yuan	401
-汉中	han zhong	565
-杭州	hang zhou	780
-濠江	hao jiang	428
-河北	he bei	716
-鹤壁	he bi	443
-鹤城	he cheng	372
-河池	he chi	434
-合川	he chuan	484
-河东	he dong	555
-合肥	he fei	721
-鹤峰	he feng	390
-鹤岗	he gang	410
-河间	he jian	481
-合江	he jiang	440
-河津	he jin	400
 和静	he jing	1
-河口	he kou	550
-贺兰	he lan	414
-和龙	he long	475
-和美	he mei	584
-河南	he nan	723
-和平	he ping	739
-鹤庆	he qing	386
-河曲	he qu	384
-鹤山	he shan	439
-赫山	he shan	351
-合山	he shan	327
-合水	he shui	380
-和顺	he shun	518
-和硕	he shuo	463
-荷塘	he tang	498
-和田	he tian	559
-河西	he xi	575
-和县	he xian	467
-合阳	he yang	379
-河源	he yuan	535
-菏泽	he ze	532
-赫章	he zhang	334
-和政	he zheng	396
-贺州	he zhou	441
-合作	he zuo	859
-黑河	hei he	501
-黑山	hei shan	549
-黑水	hei shui	530
-恒春	heng chun	491
-衡东	heng dong	322
-横峰	heng feng	340
-衡南	heng nan	305
-横山	heng shan	523
-衡山	heng shan	482
-恒山	heng shan	446
-衡水	heng shui	596
-衡阳	heng yang	557
-横州	heng zhou	339
-红安	hong an	403
-红岗	hong gang	242
-红古	hong gu	312
-红河	hong he	510
-洪湖	hong hu	477
-洪江	hong jiang	464
-虹口	hong kou	537
-红旗	hong qi	621
-红桥	hong qiao	442
-红山	hong shan	473
-洪山	hong shan	458
-红塔	hong ta	395
-洪洞	hong tong	416
-宏伟	hong wei	554
-洪雅	hong ya	396
-红原	hong yuan	433
-洪泽	hong ze	412
-后壁	hou bi	469
 后里	hou li	488
 后龙	hou long	472
-侯马	hou ma	364
-湖北	hu bei	704
-湖滨	hu bin	517
-壶关	hu guan	354
-湖口	hu kou	460
-呼兰	hu lan	424
-湖里	hu li	486
-虎林	hu lin	364
-湖南	hu nan	731
-湖内	hu nei	434
-虎丘	hu qiu	471
-虎尾	hu wei	507
-湖西	hu xi	424
 鄠邑	hu yi	1
-湖州	hu zhou	561
-互助	hu zhu	618
-华安	hua an	581
-华池	hua chi	344
-桦川	hua chuan	263
-化德	hua de	284
-桦甸	hua dian	316
-花都	hua du	529
-花莲	hua lian	569
-华龙	hua long	476
-化隆	hua long	361
-桦南	hua nan	307
-华宁	hua ning	365
-华坪	hua ping	332
-华容	hua rong	398
-花山	hua shan	471
-花坛	hua tan	514
-华亭	hua ting	426
-花溪	hua xi	496
-滑县	hua xian	427
-华阴	hua yin	417
-华蓥	hua ying	328
-花垣	hua yuan	340
-华州	hua zhou	425
-化州	hua zhou	399
-淮安	huai an	569
-怀安	huai an	390
-淮北	huai bei	505
-淮滨	huai bin	330
-怀化	huai hua	486
-怀集	huai ji	369
-怀来	huai lai	406
-淮南	huai nan	563
-怀宁	huai ning	390
-怀仁	huai ren	436
-怀柔	huai rou	533
-淮上	huai shang	381
-淮阳	huai yang	470
-淮阴	huai yin	447
-槐荫	huai yin	405
-怀远	huai yuan	447
-环翠	huan cui	348
-环江	huan jiang	323
-桓仁	huan ren	381
-桓台	huan tai	340
-环县	huan xian	366
-潢川	huang chuan	388
-黄岛	huang dao	471
-黄冈	huang gang	561
-皇姑	huang gu	422
-黄骅	huang hua	366
-黄陵	huang ling	390
-黄龙	huang long	547
-黄梅	huang mei	459
-黄南	huang nan	389
-黄陂	huang pi	449
-黄平	huang ping	444
-黄埔	huang pu	564
-黄浦	huang pu	480
-黄山	huang shan	667
-黄石	huang shi	559
-黄岩	huang yan	441
-湟源	huang yuan	354
-湟中	huang zhong	377
-黄州	huang zhou	476
-惠安	hui an	463
-会昌	hui chang	445
-惠城	hui cheng	373
-汇川	hui chuan	387
-惠东	hui dong	440
-会东	hui dong	325
 惠济	hui ji	492
-惠来	hui lai	415
-会理	hui li	432
-惠民	hui min	601
-回民	hui min	559
-辉南	hui nan	319
-会宁	hui ning	463
-惠农	hui nong	488
-惠山	hui shan	406
-惠水	hui shui	336
-会同	hui tong	594
-辉县	hui xian	381
-徽县	hui xian	361
-惠阳	hui yang	483
-会泽	hui ze	394
-惠州	hui zhou	632
-徽州	hui zhou	527
-珲春	hun chun	462
-浑江	hun jiang	326
-浑南	hun nan	504
-浑源	hun yuan	354
-霍城	huo cheng	339
-获嘉	huo jia	334
-霍邱	huo qiu	373
-霍山	huo shan	410
-霍州	huo zhou	368
-吉安	ji an	570
-集安	ji an	376
-鸡东	ji dong	230
-鸡冠	ji guan	412
-集集	ji ji	469
-吉林	ji lin	669
-基隆	ji long	573
-吉隆	ji long	429
-集美	ji mei	540
-即墨	ji mo	495
-济南	ji nan	732
-济宁	ji ning	562
-集宁	ji ning	421
-稷山	ji shan	361
-吉首	ji shou	430
-吉水	ji shui	386
-鸡西	ji xi	435
-绩溪	ji xi	414
-集贤	ji xian	415
-吉县	ji xian	398
-济阳	ji yang	464
-吉阳	ji yang	422
-济源	ji yuan	450
-鸡泽	ji ze	329
-冀州	ji zhou	494
-蓟州	ji zhou	452
-吉州	ji zhou	437
-加查	jia cha	381
-嘉定	jia ding	570
-佳冬	jia dong	376
-嘉禾	jia he	513
-夹江	jia jiang	401
-佳里	jia li	476
-嘉黎	jia li	276
-嘉陵	jia ling	417
-嘉善	jia shan	437
-伽师	jia shi	274
-贾汪	jia wang	346
-甲仙	jia xian	400
-佳县	jia xian	390
-郏县	jia xian	383
-嘉祥	jia xiang	430
-嘉兴	jia xing	590
-嘉荫	jia yin	290
-嘉鱼	jia yu	363
-建安	jian an	559
-建昌	jian chang	460
-剑川	jian chuan	383
-建德	jian de	519
-剑阁	jian ge	410
-剑河	jian he	445
-建湖	jian hu	344
-建华	jian hua	496
-监利	jian li	405
-建宁	jian ning	465
-建瓯	jian ou	391
-建平	jian ping	496
-尖山	jian shan	458
-尖石	jian shi	392
-建始	jian shi	387
-建水	jian shui	443
-涧西	jian xi	269
-建阳	jian yang	455
-简阳	jian yang	424
-建邺	jian ye	384
-尖扎	jian zha	302
-江岸	jiang an	459
-江安	jiang an	372
-江北	jiang bei	555
-江城	jiang cheng	530
-江川	jiang chuan	432
-江达	jiang da	345
-江都	jiang du	472
-江海	jiang hai	510
-江汉	jiang han	516
-江华	jiang hua	457
-江津	jiang jin	512
-将军	jiang jun	699
-江口	jiang kou	490
 将乐	jiang le	1
-江陵	jiang ling	520
-江门	jiang men	579
-江南	jiang nan	684
-江宁	jiang ning	558
-江山	jiang shan	580
-江苏	jiang su	736
-江西	jiang xi	716
-江夏	jiang xia	494
-绛县	jiang xian	400
-姜堰	jiang yan	412
-江阳	jiang yang	425
-江阴	jiang yin	544
-江永	jiang yong	394
-江油	jiang you	436
-江源	jiang yuan	387
-江州	jiang zhou	462
-江孜	jiang zi	401
-交城	jiao cheng	376
-蕉城	jiao cheng	320
-蛟河	jiao he	347
-椒江	jiao jiang	403
-交口	jiao kou	508
-蕉岭	jiao ling	341
-郊区	jiao qu	637
-礁溪	jiao xi	442
-胶州	jiao zhou	490
-焦作	jiao zuo	498
-揭东	jie dong	306
-解放	jie fang	670
-界首	jie shou	402
-揭西	jie xi	351
-介休	jie xiu	451
-揭阳	jie yang	501
-金安	jin an	432
-晋安	jin an	427
-金昌	jin chang	455
-晋城	jin cheng	501
-金川	jin chuan	484
-金东	jin dong	440
-金凤	jin feng	485
-金峰	jin feng	420
-金湖	jin hu	463
-金华	jin hua	584
-晋江	jin jiang	556
-锦江	jin jiang	535
-金林	jin lin	340
-金门	jin men	570
-津南	jin nan	430
-晋宁	jin ning	431
-金牛	jin niu	580
-金平	jin ping	427
-锦屏	jin ping	410
-金沙	jin sha	566
-金水	jin shui	496
-金塔	jin ta	431
-金台	jin tai	391
-金坛	jin tan	438
-金堂	jin tang	433
-金湾	jin wan	439
-金溪	jin xi	392
-进贤	jin xian	404
-金乡	jin xiang	407
-金秀	jin xiu	531
-金阳	jin yang	438
-晋源	jin yuan	340
-缙云	jin yun	414
-金寨	jin zhai	440
-晋中	jin zhong	498
-锦州	jin zhou	555
-金州	jin zhou	516
-晋州	jin zhou	433
-静安	jing an	549
-靖安	jing an	396
-靖边	jing bian	383
-泾川	jing chuan	339
-旌德	jing de	368
-景东	jing dong	380
-景谷	jing gu	349
-静海	jing hai	472
-精河	jing he	328
-景洪	jing hong	417
-镜湖	jing hu	421
-靖江	jing jiang	468
-京口	jing kou	442
-静乐	jing le	380
-荆门	jing men	516
-静宁	jing ning	377
-景宁	jing ning	365
-京山	jing shan	388
-景泰	jing tai	519
-靖西	jing xi	372
-泾县	jing xian	430
-景县	jing xian	371
-井陉	jing xing	418
-竞秀	jing xiu	377
-井研	jing yan	331
-泾阳	jing yang	390
-旌阳	jing yang	327
-靖宇	jing yu	385
-靖远	jing yuan	386
-泾源	jing yuan	368
-荆州	jing zhou	598
-靖州	jing zhou	392
-九江	jiu jiang	579
 鸠江	jiu jiang	1
-九龙	jiu long	641
-酒泉	jiu quan	527
-九如	jiu ru	443
-九台	jiu tai	407
-九原	jiu yuan	410
-久治	jiu zhi	375
-巨鹿	ju lu	454
-莒南	ju nan	344
-句容	ju rong	440
-莒县	ju xian	437
-巨野	ju ye	397
-鄄城	juan cheng	355
-筠连	jun lian	378
-君山	jun shan	411
 卡若	ka ruo	388
-喀什	ka shi	559
-开封	kai feng	623
 开福	kai fu	524
-开化	kai hua	484
-开江	kai jiang	370
-凯里	kai li	511
-开鲁	kai lu	366
-开平	kai ping	496
-开阳	kai yang	429
-开原	kai yuan	389
-开远	kai yuan	374
-开州	kai zhou	438
-崁顶	kan ding	399
-康保	kang bao	378
-康定	kang ding	527
-康乐	kang le	543
 康马	kang ma	313
-康平	kang ping	422
-康县	kang xian	377
-柯城	ke cheng	261
-克东	ke dong	322
-岢岚	ke lan	362
-柯坪	ke ping	266
-柯桥	ke qiao	476
-克山	ke shan	455
-垦利	ken li	368
-崆峒	kong tong	375
-口湖	kou hu	354
-库车	ku che	431
-宽城	kuan cheng	373
-宽甸	kuan dian	344
-矿区	kuang qu	522
-奎屯	kui tun	383
-奎文	kui wen	320
-昆明	kun ming	723
-昆山	kun shan	583
-昆玉	kun yu	353
-拉萨	la sa	650
-拉孜	la zi	323
-来安	lai an	382
-来宾	lai bin	590
-来凤	lai feng	330
-莱山	lai shan	395
-涞水	lai shui	356
-莱芜	lai wu	495
-莱西	lai xi	489
-莱阳	lai yang	432
 来义	lai yi	366
-涞源	lai yuan	381
-莱州	lai zhou	452
-澜沧	lan cang	413
-岚皋	lan gao	314
-兰考	lan kao	428
-兰陵	lan ling	476
-兰坪	lan ping	303
-蓝山	lan shan	535
-岚山	lan shan	525
-兰山	lan shan	413
-蓝田	lan tian	510
 兰西	lan xi	706
-兰溪	lan xi	470
-岚县	lan xian	409
-兰屿	lan yu	473
-兰州	lan zhou	693
-廊坊	lang fang	569
-郎溪	lang xi	365
-朗县	lang xian	374
-琅琊	lang ya	467
-阆中	lang zhong	461
-老边	lao bian	425
-老城	lao cheng	561
-崂山	lao shan	551
-乐亭	lao ting	421
-乐安	le an	444
-乐昌	le chang	388
-乐东	le dong	407
-乐都	le du	437
-乐陵	le ling	418
-乐平	le ping	457
-乐山	le shan	543
-乐业	le ye	425
-乐至	le zhi	370
-雷波	lei bo	402
-雷山	lei shan	428
-耒阳	lei yang	445
-雷州	lei zhou	443
-荔波	li bo	451
-李沧	li cang	454
-历城	li cheng	442
-黎城	li cheng	375
-荔城	li cheng	350
-鲤城	li cheng	341
-利川	li chuan	427
-黎川	li chuan	346
 里港	li gang	475
-丽江	li jiang	680
-利津	li jin	361
-醴陵	li ling	421
-黎平	li ping	424
-荔浦	li pu	343
-礼泉	li quan	336
-立山	li shan	454
-离石	li shi	387
-梨树	li shu	450
-丽水	li shui	531
-溧水	li shui	509
-理塘	li tang	446
-利通	li tong	391
-荔湾	li wan	498
-历下	li xia	408
-理县	li xian	449
-蠡县	li xian	406
-澧县	li xian	392
-礼县	li xian	370
-利辛	li xin	353
-溧阳	li yang	451
-利州	li zhou	409
-连城	lian cheng	471
-莲池	lian chi	441
-莲都	lian du	360
-莲湖	lian hu	446
-莲花	lian hua	610
-连江	lian jiang	514
-廉江	lian jiang	375
-连南	lian nan	358
-连平	lian ping	489
-连山	lian shan	453
-涟水	lian shui	426
 濂溪	lian xi	1
-涟源	lian yuan	342
-连云	lian yun	368
-连州	lian zhou	463
-凉城	liang cheng	393
-两当	liang dang	346
-梁河	liang he	364
-梁平	liang ping	436
-良庆	liang qing	432
-梁山	liang shan	517
-凉山	liang shan	475
-梁溪	liang xi	348
-梁园	liang yuan	370
-凉州	liang zhou	500
-聊城	liao cheng	528
-辽宁	liao ning	696
-辽阳	liao yang	506
-辽源	liao yuan	445
-辽中	liao zhong	434
-烈山	lie shan	366
-临安	lin an	530
-林边	lin bian	431
-临沧	lin cang	493
-临城	lin cheng	407
-临川	lin chuan	465
-林甸	lin dian	273
-临汾	lin fen	536
-临高	lin gao	461
-临桂	lin gui	387
-临海	lin hai	547
-临河	lin he	446
-临江	lin jiang	501
-林口	lin kou	483
-临澧	lin li	277
-麟洛	lin luo	366
-林内	lin nei	453
-临平	lin ping	464
-临清	lin qing	442
-临朐	lin qu	385
-临泉	lin quan	377
-临沭	lin shu	344
-邻水	lin shui	361
-临潭	lin tan	306
-临洮	lin tao	423
-临潼	lin tong	466
-临渭	lin wei	352
-临武	lin wu	348
-林西	lin xi	402
-临西	lin xi	340
-临夏	lin xia	424
-临县	lin xian	427
-临湘	lin xiang	386
-临翔	lin xiang	120
-临沂	lin yi	614
-临邑	lin yi	351
-临猗	lin yi	331
-临颍	lin ying	360
-麟游	lin you	355
-林园	lin yuan	477
-临泽	lin ze	346
-临漳	lin zhang	362
-林芝	lin zhi	568
-林州	lin zhou	472
-林周	lin zhou	320
-临淄	lin zi	448
-灵宝	ling bao	480
-灵璧	ling bi	377
-陵城	ling cheng	340
-陵川	ling chuan	372
-灵川	ling chuan	366
-岭东	ling dong	403
-凌海	ling hai	351
-凌河	ling he	316
-零陵	ling ling	440
-灵丘	ling qiu	374
-灵山	ling shan	527
-灵石	ling shi	468
-灵寿	ling shou	380
-陵水	ling shui	473
-灵台	ling tai	383
-灵武	ling wu	391
 苓雅	ling ya	1
-凌源	ling yuan	375
-凌云	ling yun	523
-留坝	liu ba	343
-柳北	liu bei	336
-柳城	liu cheng	381
-六龟	liu gui	413
-六合	liu he	572
-柳河	liu he	382
-六甲	liu jia	465
-柳江	liu jiang	410
-六脚	liu jiao	407
-柳林	liu lin	452
-柳南	liu nan	346
-琉球	liu qiu	597
-浏阳	liu yang	479
-柳营	liu ying	413
-柳州	liu zhou	592
 龙安	long an	454
-隆安	long an	414
-隆昌	long chang	430
-龙城	long cheng	553
-龙川	long chuan	461
-陇川	long chuan	350
-隆德	long de	465
-龙凤	long feng	539
-龙岗	long gang	555
-龙港	long gang	438
-龙海	long hai	462
-龙湖	long hu	553
-龙华	long hua	574
-隆化	long hua	374
-隆回	long hui	332
-龙江	long jiang	527
-龙井	long jing	585
-龙口	long kou	463
-龙里	long li	392
-隆林	long lin	326
-龙陵	long ling	388
-龙门	long men	563
-陇南	long nan	485
-龙南	long nan	383
-龙崎	long qi	419
-龙泉	long quan	527
-龙沙	long sha	349
-龙山	long shan	521
-龙胜	long sheng	451
-龙潭	long tan	532
-龙亭	long ting	393
-龙湾	long wan	482
-龙文	long wen	453
-陇西	long xi	472
-陇县	long xian	364
 龙圩	long xu	1
-龙岩	long yan	544
-隆阳	long yang	315
-隆尧	long yao	294
-龙游	long you	429
-龙州	long zhou	415
-隆子	long zi	312
-娄底	lou di	487
-娄烦	lou fan	317
-娄星	lou xing	226
-六安	lu an	537
-路北	lu bei	505
 鹿草	lu cao	407
-鹿城	lu cheng	465
-潞城	lu cheng	382
-陆川	lu chuan	512
-鲁甸	lu dian	330
-泸定	lu ding	431
-陆丰	lu feng	417
-禄丰	lu feng	354
-鹿港	lu gang	553
-鹿谷	lu gu	378
-陆河	lu he	361
-炉霍	lu huo	361
-庐江	lu jiang	454
 渌口	lu kou	1
-陆良	lu liang	360
-卢龙	lu long	406
-路南	lu nan	505
-路桥	lu qiao	537
-碌曲	lu qu	261
-鹿泉	lu quan	413
-禄劝	lu quan	406
-庐山	lu shan	566
-芦山	lu shan	454
-鲁山	lu shan	423
-卢氏	lu shi	464
-泸水	lu shui	356
-芦淞	lu song	266
-泸溪	lu xi	372
-芦溪	lu xi	349
-泸西	lu xi	344
-泸县	lu xian	417
-庐阳	lu yang	408
-鹿野	lu ye	440
-鹿邑	lu yi	364
-鹿寨	lu zhai	336
-泸州	lu zhou	567
-芦洲	lu zhou	467
-潞州	lu zhou	417
-芦竹	lu zhu	438
-路竹	lu zhu	420
-栾城	luan cheng	402
-栾川	luan chuan	408
-滦南	luan nan	289
-滦平	luan ping	439
-滦州	luan zhou	403
-略阳	lue yang	390
-仑背	lun bei	391
-轮台	lun tai	406
-萝北	luo bei	300
-罗城	luo cheng	412
-洛川	luo chuan	430
-罗甸	luo dian	341
-罗定	luo ding	411
-罗东	luo dong	480
-罗湖	luo hu	552
-罗江	luo jiang	396
-洛江	luo jiang	337
-洛龙	luo long	331
-洛隆	luo long	212
-洛南	luo nan	364
-洛宁	luo ning	373
-罗平	luo ping	462
-洛浦	luo pu	369
-罗山	luo shan	450
-罗田	luo tian	404
-洛阳	luo yang	660
-罗源	luo yuan	451
-洛扎	luo zha	326
-罗庄	luo zhuang	345
-绿春	lv chun	338
-绿岛	lv dao	496
-吕梁	lv liang	526
-绿园	lv yuan	429
-马边	ma bian	358
-麻城	ma cheng	451
-马村	ma cun	440
-麻豆	ma dou	511
-玛多	ma duo	347
-马公	ma gong	459
-马关	ma guan	361
 玛家	ma jia	328
-麻江	ma jiang	319
-马龙	ma long	586
-玛沁	ma qin	243
-玛曲	ma qu	324
-马山	ma shan	480
-麻山	ma shan	295
-马尾	ma wei	552
-麻阳	ma yang	376
-麻章	ma zhang	260
-麦积	mai ji	390
 麦寮	mai liao	1
-满城	man cheng	509
 满州	man zhou	490
-芒康	mang kang	392
-芒市	mang shi	471
-茫崖	mang ya	326
-茅箭	mao jian	207
-茂林	mao lin	436
-茂名	mao ming	562
-茂南	mao nan	312
-茂县	mao xian	434
-美姑	mei gu	301
-梅江	mei jiang	424
-美兰	mei lan	481
-美浓	mei nong	241
-眉山	mei shan	504
-梅山	mei shan	480
-湄潭	mei tan	370
-梅县	mei xian	467
-眉县	mei xian	405
-梅州	mei zhou	537
-门源	men yuan	415
-蒙城	meng cheng	418
-孟村	meng cun	346
-勐海	meng hai	446
-孟津	meng jin	392
-勐腊	meng la	371
-孟连	meng lian	367
-蒙山	meng shan	455
-蒙阴	meng yin	406
-孟州	meng zhou	339
-蒙自	meng zi	496
 米东	mi dong	362
-弥渡	mi du	323
-弥勒	mi le	497
-米林	mi lin	429
-汨罗	mi luo	387
-密山	mi shan	350
-弥陀	mi tuo	434
-米易	mi yi	358
-密云	mi yun	514
-米脂	mi zhi	369
-渑池	mian chi	400
-冕宁	mian ning	345
-勉县	mian xian	387
-绵阳	mian yang	566
-绵竹	mian zhu	415
-苗栗	miao li	521
-民丰	min feng	354
-闵行	min hang	532
-民和	min he	508
-闽侯	min hou	493
-民勤	min qin	362
-闽清	min qing	458
-民权	min quan	541
-岷县	min xian	438
-民雄	min xiong	446
-民乐	min yue	522
-明光	ming guang	446
 名间	ming jian	340
-明山	ming shan	383
-明水	ming shui	421
-明溪	ming xi	353
-漠河	mo he	466
-墨江	mo jiang	379
-墨脱	mo tuo	464
-墨玉	mo yu	407
-牟定	mou ding	282
-沐川	mu chuan	364
-牡丹	mu dan	628
-木兰	mu lan	534
-木垒	mu lei	292
-木里	mu li	396
-穆棱	mu ling	324
-牟平	mu ping	375
-牧野	mu ye	477
-那坡	na po	324
-那曲	na qu	451
-纳溪	na xi	310
-纳雍	na yong	341
-乃东	nai dong	254
-南岸	nan an	552
-南安	nan an	489
-南澳	nan ao	525
-南部	nan bu	700
-南岔	nan cha	298
-南昌	nan chang	699
-南城	nan cheng	548
-南充	nan chong	527
-南川	nan chuan	472
-南丹	nan dan	393
-南芬	nan fen	242
-南丰	nan feng	446
-南港	nan gang	518
-南岗	nan gang	451
-南宫	nan gong	497
-南关	nan guan	434
-南海	nan hai	687
-南和	nan he	470
-南湖	nan hu	559
-南华	nan hua	550
-南化	nan hua	392
-南涧	nan jian	340
-南江	nan jiang	467
-南京	nan jing	786
-南靖	nan jing	424
-南开	nan kai	569
-南康	nan kang	470
-南乐	nan le	345
-南陵	nan ling	395
-南明	nan ming	534
-南宁	nan ning	676
-南皮	nan pi	366
-南票	nan piao	255
-南平	nan ping	527
 南谯	nan qiao	1
-南区	nan qu	591
-南沙	nan sha	580
-南山	nan shan	619
-南通	nan tong	575
-南投	nan tou	518
-南屯	nan tun	449
-南溪	nan xi	431
-楠西	nan xi	348
-南县	nan xian	422
-南雄	nan xiong	462
-南浔	nan xun	448
-南阳	nan yang	611
-南岳	nan yue	445
-南漳	nan zhang	341
-南召	nan zhao	354
-南郑	nan zheng	389
-南州	nan zhou	425
-南庄	nan zhuang	481
-楠梓	nan zi	468
-囊谦	nang qian	329
-讷河	ne he	438
-内埔	nei bu	445
-内湖	nei hu	497
-内黄	nei huang	358
-内江	nei jiang	506
-内门	nei men	409
-内丘	nei qiu	325
-内乡	nei xiang	392
-嫩江	nen jiang	427
-尼玛	ni ma	664
-尼木	ni mu	329
 鸟松	niao song	416
 聂荣	nie rong	523
-宁安	ning an	416
-宁波	ning bo	713
-宁城	ning cheng	363
-宁德	ning de	555
-宁都	ning du	424
-宁洱	ning er	311
-宁国	ning guo	451
-宁海	ning hai	509
-宁河	ning he	445
-宁化	ning hua	457
-宁江	ning jiang	337
-宁晋	ning jin	356
-宁津	ning jin	344
-宁蒗	ning lang	357
-宁陵	ning ling	361
-宁明	ning ming	331
-宁南	ning nan	353
-宁强	ning qiang	357
-宁陕	ning shan	353
-宁武	ning wu	397
-宁夏	ning xia	649
-宁县	ning xian	450
-宁乡	ning xiang	488
-宁阳	ning yang	367
-宁远	ning yuan	453
-农安	nong an	395
-怒江	nu jiang	494
-暖暖	nuan nuan	563
-瓯海	ou hai	423
-磐安	pan an	409
-潘集	pan ji	236
-盘锦	pan jin	496
-盘龙	pan long	494
-盘山	pan shan	449
-磐石	pan shi	472
-番禺	pan yu	552
-盘州	pan zhou	301
-沛县	pei xian	466
-蓬安	peng an	347
-澎湖	peng hu	571
-蓬江	peng jiang	366
-蓬莱	peng lai	527
-彭山	peng shan	441
-彭水	peng shui	408
-蓬溪	peng xi	341
-彭阳	peng yang	342
-彭泽	peng ze	402
-彭州	peng zhou	461
 郫都	pi du	1
-皮山	pi shan	306
-埤头	pi tou	426
-邳州	pi zhou	433
-偏关	pian guan	306
-朴子	piao zi	447
-平安	ping an	721
-平坝	ping ba	394
-屏边	ping bian	334
-平昌	ping chang	460
-平城	ping cheng	436
-平川	ping chuan	443
-平定	ping ding	573
-屏东	ping dong	554
-平度	ping du	492
-平房	ping fang	554
-平谷	ping gu	484
 平桂	ping gui	342
-平果	ping guo	380
-平和	ping he	636
-平湖	ping hu	511
-平江	ping jiang	461
-平乐	ping le	433
-平利	ping li	351
-平凉	ping liang	493
-坪林	ping lin	432
-平陆	ping lu	379
-平鲁	ping lu	316
-平罗	ping luo	397
-平南	ping nan	433
-屏南	ping nan	377
-平桥	ping qiao	440
-平泉	ping quan	414
-坪山	ping shan	538
-平山	ping shan	487
-屏山	ping shan	480
-平顺	ping shun	546
-平潭	ping tan	522
-平塘	ping tang	361
-平武	ping wu	399
-平溪	ping xi	435
-萍乡	ping xiang	483
-凭祥	ping xiang	372
-平乡	ping xiang	331
-平阳	ping yang	517
-平遥	ping yao	523
-平邑	ping yi	374
-平阴	ping yin	406
-平舆	ping yu	352
-平原	ping yuan	618
-平远	ping yuan	402
-平镇	ping zhen	453
-坡头	po tou	354
-鄱阳	po yang	455
-普安	pu an	424
-浦北	pu bei	317
-蒲城	pu cheng	417
-浦城	pu cheng	380
-普定	pu ding	383
-普洱	pu er	601
-普格	pu ge	369
-浦江	pu jiang	523
-蒲江	pu jiang	420
-浦口	pu kou	484
-普兰	pu lan	496
-普宁	pu ning	492
-莆田	pu tian	627
-普陀	pu tuo	487
-蒲县	pu xian	361
-濮阳	pu yang	532
-淇滨	qi bin	151
-蕲春	qi chun	397
-启东	qi dong	433
-祁东	qi dong	333
-七堵	qi du	414
-七股	qi gu	449
-齐河	qi he	407
-綦江	qi jiang	459
-旗津	qi jin	430
-祁连	qi lian	442
-麒麟	qi lin	622
-七美	qi mei	385
-祁门	qi men	394
-岐山	qi shan	480
-旗山	qi shan	473
-奇台	qi tai	350
-栖霞	qi xia	451
-杞县	qi xian	425
-祁县	qi xian	425
-淇县	qi xian	384
-七星	qi xing	529
-祁阳	qi yang	350
-迁安	qian an	431
 乾安	qian an	1
-前锋	qian feng	648
-潜江	qian jiang	438
-黔江	qian jiang	428
-前进	qian jin	689
 前金	qian jin	411
-黔南	qian nan	414
-千山	qian shan	477
-潜山	qian shan	376
-钱塘	qian tang	564
-犍为	qian wei	382
-黔西	qian xi	355
-迁西	qian xi	335
 乾县	qian xian	1
-千阳	qian yang	401
-前镇	qian zhen	443
-谯城	qiao cheng	299
-桥东	qiao dong	459
-巧家	qiao jia	331
-硚口	qiao kou	405
-桥头	qiao tou	537
-桥西	qiao xi	465
 茄萣	qie ding	1
-且末	qie mo	359
-秦安	qin an	372
-钦北	qin bei	257
-秦都	qin du	329
-秦淮	qin huai	510
 钦南	qin nan	306
-沁水	qin shui	382
-覃塘	qin tang	242
-沁县	qin xian	383
-沁阳	qin yang	382
-沁源	qin yuan	355
-钦州	qin zhou	499
-秦州	qin zhou	450
-庆安	qing an	458
-庆城	qing cheng	327
-清城	qing cheng	320
-青川	qing chuan	383
-青岛	qing dao	663
-清丰	qing feng	340
-青冈	qing gang	356
-青海	qing hai	667
-清河	qing he	507
-青河	qing he	302
-清涧	qing jian	375
-清流	qing liu	545
-青龙	qing long	570
-晴隆	qing long	373
-青浦	qing pu	522
-青山	qing shan	627
-青神	qing shen	334
-清水	qing shui	683
-青田	qing tian	445
-青县	qing xian	345
-青秀	qing xiu	398
-清徐	qing xu	373
-庆阳	qing yang	488
-青阳	qing yang	447
-青羊	qing yang	398
-清远	qing yuan	555
-庆元	qing yuan	448
-清原	qing yuan	418
-清苑	qing yuan	384
-青原	qing yuan	325
-庆云	qing yun	424
-清镇	qing zhen	391
-青州	qing zhou	503
-琼海	qiong hai	488
-琼结	qiong jie	225
-邛崃	qiong lai	454
-琼山	qiong shan	403
-琼中	qiong zhong	404
-丘北	qiu bei	329
-邱县	qiu xian	370
-曲阜	qu fu	490
-曲江	qu jiang	520
-衢江	qu jiang	326
-曲靖	qu jing	513
-曲水	qu shui	402
 曲松	qu song	400
-曲沃	qu wo	399
-渠县	qu xian	403
-曲阳	qu yang	432
-衢州	qu zhou	542
-曲周	qu zhou	337
-泉港	quan gang	372
-全椒	quan jiao	354
-全南	quan nan	382
-泉山	quan shan	399
-泉州	quan zhou	646
-全州	quan zhou	546
-确山	que shan	370
-壤塘	rang tang	306
-饶河	rao he	365
-饶平	rao ping	457
-饶阳	rao yang	364
-仁爱	ren ai	552
-仁布	ren bu	268
-任城	ren cheng	387
-仁德	ren de	490
-仁和	ren he	516
-仁化	ren hua	387
-仁怀	ren huai	389
-任丘	ren qiu	385
-仁寿	ren shou	449
-仁武	ren wu	435
 任泽	ren ze	524
-日土	ri tu	334
-日照	ri zhao	612
-融安	rong an	334
-荣昌	rong chang	454
-荣成	rong cheng	447
-榕城	rong cheng	429
-容城	rong cheng	370
-榕江	rong jiang	389
-融水	rong shui	424
-荣县	rong xian	415
-容县	rong xian	404
-汝城	ru cheng	428
-如东	ru dong	416
-如皋	ru gao	521
-汝南	ru nan	456
-乳山	ru shan	387
-汝阳	ru yang	393
-乳源	ru yuan	382
-汝州	ru zhou	461
-瑞安	rui an	567
-瑞昌	rui chang	425
-芮城	rui cheng	384
-瑞芳	rui fang	473
-瑞金	rui jin	521
-瑞丽	rui li	543
-瑞穗	rui sui	504
-润州	run zhou	397
-若羌	ruo qiang	382
-萨嘎	sa ga	293
-萨迦	sa jia	429
-赛罕	sai han	333
-三重	san chong	598
-三都	san du	454
-三河	san he	523
-三江	san jiang	538
-三门	san men	571
-三民	san min	494
-三明	san ming	520
-三沙	san sha	485
-三水	san shui	522
-三穗	san sui	316
-三台	san tai	560
-三湾	san wan	402
-三峡	san xia	608
-三星	san xing	794
-三亚	san ya	691
-三义	san yi	447
-三元	san yuan	604
-三原	san yuan	467
-三芝	san zhi	402
-桑日	sang ri	310
-桑植	sang zhi	381
-色达	se da	495
 色尼	se ni	1
-莎车	sha che	393
-沙河	sha he	519
-沙鹿	sha lu	445
-沙市	sha shi	476
-沙湾	sha wan	473
-沙县	sha xian	565
-沙雅	sha ya	284
-沙洋	sha yang	368
-山城	shan cheng	571
-山丹	shan dan	389
-山东	shan dong	748
-善化	shan hua	457
-杉林	shan lin	397
-山南	shan nan	495
-鄯善	shan shan	405
-山上	shan shang	618
-山亭	shan ting	375
-汕头	shan tou	606
-汕尾	shan wei	514
-山西	shan xi	713
-陕西	shan xi	677
-单县	shan xian	440
-山阳	shan yang	543
-山阴	shan yin	496
-陕州	shan zhou	469
-上蔡	shang cai	400
-商城	shang cheng	701
-上城	shang cheng	446
-上党	shang dang	450
-商都	shang du	463
-上高	shang gao	450
-上海	shang hai	865
-上杭	shang hang	402
-商河	shang he	390
-上街	shang jie	578
-上栗	shang li	287
-上林	shang lin	428
-商洛	shang luo	463
-商南	shang nan	356
-商丘	shang qiu	531
-上饶	shang rao	508
-商水	shang shui	332
-上思	shang si	332
-尚义	shang yi	411
-上犹	shang you	321
-上虞	shang yu	455
-尚志	shang zhi	427
-商州	shang zhou	396
-邵东	shao dong	390
-韶关	shao guan	538
-召陵	shao ling	348
-韶山	shao shan	491
-邵武	shao wu	442
-绍兴	shao xing	626
-邵阳	shao yang	509
-射洪	she hong	367
 社旗	she qi	458
-社头	she tou	400
-歙县	she xian	480
-涉县	she xian	428
-射阳	she yang	393
-神池	shen chi	363
-神冈	shen gang	446
 伸港	shen gang	370
-沈河	shen he	413
-深坑	shen keng	508
-神木	shen mu	494
-沈丘	shen qiu	343
-莘县	shen xian	393
-沈阳	shen yang	726
-深泽	shen ze	456
-申扎	shen zha	223
-深圳	shen zhen	803
-深州	shen zhou	373
-嵊泗	sheng si	405
-嵊州	sheng zhou	436
-市北	shi bei	475
-施秉	shi bing	319
-石城	shi cheng	487
-施甸	shi dian	305
-石碇	shi ding	420
-什邡	shi fang	402
-石峰	shi feng	440
-石冈	shi gang	419
-石鼓	shi gu	450
-石拐	shi guai	311
-浉河	shi he	377
-石林	shi lin	558
-士林	shi lin	502
-石龙	shi long	492
-石楼	shi lou	406
-石门	shi men	519
-石棉	shi mian	452
-市南	shi nan	432
-石屏	shi ping	405
-石阡	shi qian	367
-石渠	shi qu	364
-石泉	shi quan	433
-石狮	shi shi	510
-石首	shi shou	387
-石台	shi tai	375
-狮潭	shi tan	363
-始兴	shi xing	415
-十堰	shi yan	503
-市中	shi zhong	494
-石柱	shi zhu	535
-狮子	shi zi	669
-师宗	shi zong	432
-寿丰	shou feng	395
-寿光	shou guang	454
-寿宁	shou ning	422
-寿县	shou xian	430
-寿阳	shou yang	424
-舒城	shu cheng	395
-疏附	shu fu	287
-舒兰	shu lan	364
-疏勒	shu le	410
-树林	shu lin	585
-蜀山	shu shan	535
-沭阳	shu yang	437
-双柏	shuang bai	326
-双城	shuang cheng	542
-双峰	shuang feng	485
-双河	shuang he	421
-双湖	shuang hu	388
-双江	shuang jiang	426
-双辽	shuang liao	332
-双流	shuang liu	512
-双滦	shuang luan	165
-双牌	shuang pai	290
-双桥	shuang qiao	453
-双清	shuang qing	393
-双塔	shuang ta	496
-双溪	shuang xi	508
-双阳	shuang yang	408
-水城	shui cheng	528
-水富	shui fu	361
-水里	shui li	594
 水林	shui lin	455
-水上	shui shang	707
-顺昌	shun chang	390
-顺城	shun cheng	382
-顺德	shun de	606
-顺河	shun he	368
-顺平	shun ping	402
-顺庆	shun qing	440
-顺义	shun yi	522
-朔城	shuo cheng	288
-朔州	shuo zhou	474
-四川	si chuan	752
-泗洪	si hong	386
-四湖	si hu	388
-四会	si hui	434
-思茅	si mao	420
-思明	si ming	469
-思南	si nan	424
-四平	si ping	536
-泗水	si shui	476
-泗县	si xian	406
-泗阳	si yang	383
-松北	song bei	374
-松江	song jiang	598
-嵩明	song ming	431
-松潘	song pan	435
-松山	song shan	554
-松桃	song tao	375
-松溪	song xi	398
-嵩县	song xian	434
-松阳	song yang	428
-松原	song yuan	516
-松滋	song zi	375
-苏澳	su ao	452
-肃北	su bei	298
-宿城	su cheng	364
-肃南	su nan	304
-肃宁	su ning	332
-宿迁	su qian	530
-宿松	su song	363
-苏仙	su xian	269
-宿豫	su yu	383
-苏州	su zhou	740
-宿州	su zhou	486
-肃州	su zhou	401
-绥滨	sui bin	271
-遂昌	sui chang	418
-遂川	sui chuan	336
-绥德	sui de	418
-绥化	sui hua	424
-绥江	sui jiang	317
-绥棱	sui ling	310
-遂宁	sui ning	502
-睢宁	sui ning	392
-绥宁	sui ning	336
-遂平	sui ping	358
-濉溪	sui xi	389
-遂溪	sui xi	347
-睢县	sui xian	395
-随县	sui xian	372
-睢阳	sui yang	419
-绥阳	sui yang	395
-绥中	sui zhong	386
-随州	sui zhou	481
-孙吴	sun wu	485
-索县	suo xian	327
-塔城	ta cheng	458
-漯河	ta he	495
-塔河	ta he	403
-泰安	tai an	568
-台安	tai an	320
-太白	tai bai	534
-太保	tai bao	549
-台北	tai bei	735
-太仓	tai cang	518
-台东	tai dong	557
-太谷	tai gu	415
-太和	tai he	541
-泰和	tai he	479
-太湖	tai hu	586
-台江	tai jiang	469
-太康	tai kang	441
-泰来	tai lai	414
-台南	tai nan	598
-泰宁	tai ning	462
-太平	tai ping	619
-台前	tai qian	520
-泰山	tai shan	613
-台山	tai shan	498
-泰顺	tai shun	436
-台湾	tai wan	858
-泰武	tai wu	349
-台西	tai xi	434
-泰兴	tai xing	445
-太原	tai yuan	647
-台中	tai zhong	648
-台州	tai zhou	593
-泰州	tai zhou	552
-宕昌	tan chang	349
-郯城	tan cheng	387
-潭子	tan zi	440
-唐河	tang he	407
-唐山	tang shan	636
 汤旺	tang wang	376
-唐县	tang xian	421
-汤阴	tang yin	346
 汤原	tang yuan	415
-洮北	tao bei	210
-桃城	tao cheng	355
-桃江	tao jiang	360
-洮南	tao nan	357
-桃山	tao shan	420
-桃园	tao yuan	632
-桃源	tao yuan	520
-腾冲	teng chong	546
-藤县	teng xian	401
-滕州	teng zhou	453
-天长	tian chang	462
-天等	tian deng	420
-田东	tian dong	388
-天峨	tian e	288
-天河	tian he	588
-天津	tian jin	775
-天峻	tian jun	336
-田寮	tian liao	425
-田林	tian lin	476
-天门	tian men	493
-天宁	tian ning	426
-天桥	tian qiao	607
-天全	tian quan	400
-天山	tian shan	571
-天水	tian shui	552
-天台	tian tai	567
-田尾	tian wei	397
-天心	tian xin	467
-天涯	tian ya	636
-田阳	tian yang	367
-天元	tian yuan	510
-天镇	tian zhen	350
-田中	tian zhong	605
-天柱	tian zhu	422
-天祝	tian zhu	345
-铁东	tie dong	342
-铁锋	tie feng	294
-铁力	tie li	380
-铁岭	tie ling	510
-铁山	tie shan	422
-铁西	tie xi	471
-亭湖	ting hu	292
-同安	tong an	525
-桐柏	tong bai	414
-桐城	tong cheng	452
-通城	tong cheng	388
-铜川	tong chuan	447
-通川	tong chuan	293
-通道	tong dao	725
-同德	tong de	430
-铜鼓	tong gu	437
-潼关	tong guan	464
-铜官	tong guan	383
-通海	tong hai	433
-通河	tong he	360
-通化	tong hua	491
-通江	tong jiang	411
-同江	tong jiang	350
-铜梁	tong liang	425
-通辽	tong liao	460
-铜陵	tong ling	500
-桐庐	tong lu	510
-铜锣	tong luo	439
-潼南	tong nan	426
-同仁	tong ren	545
-铜仁	tong ren	465
-铜山	tong shan	446
-通山	tong shan	377
-通渭	tong wei	350
-桐乡	tong xiang	472
 通霄	tong xiao	462
-同心	tong xin	539
-通许	tong xu	323
-通榆	tong yu	309
-通州	tong zhou	573
-桐梓	tong zi	390
-头城	tou cheng	423
-头份	tou fen	438
 头屋	tou wu	413
-土城	tu cheng	495
-土库	tu ku	471
-图们	tu men	398
-突泉	tu quan	306
-团风	tuan feng	366
-屯昌	tun chang	380
-屯留	tun liu	396
-屯溪	tun xi	448
-托里	tuo li	477
-外埔	wai bu	407
-万安	wan an	455
-宛城	wan cheng	418
-万丹	wan dan	432
-万华	wan hua	490
-万里	wan li	601
-万峦	wan luan	395
-万年	wan nian	626
-万宁	wan ning	546
-万全	wan quan	470
-万荣	wan rong	440
-万山	wan shan	481
-万秀	wan xiu	329
-万源	wan yuan	406
-万载	wan zai	363
 湾沚	wan zhi	1
-万州	wan zhou	544
 望安	wang an	375
-旺苍	wang cang	345
-望城	wang cheng	440
 望都	wang du	1
-望花	wang hua	302
-望江	wang jiang	465
-望奎	wang kui	285
-望谟	wang mo	290
-汪清	wang qing	414
-王益	wang yi	469
-渭滨	wei bin	331
 卫滨	wei bin	1
-围场	wei chang	418
-渭城	wei cheng	350
-潍城	wei cheng	265
-卫东	wei dong	444
-魏都	wei du	319
-潍坊	wei fang	603
-威海	wei hai	586
-卫辉	wei hui	378
-渭南	wei nan	512
-威宁	wei ning	407
-巍山	wei shan	399
-微山	wei shan	375
-尉氏	wei shi	324
-维西	wei xi	427
-威县	wei xian	389
-魏县	wei xian	385
-威信	wei xin	574
-未央	wei yang	480
-威远	wei yuan	419
-渭源	wei yuan	327
-文安	wen an	457
-文昌	wen chang	589
-文成	wen cheng	454
-汶川	wen chuan	574
-文登	wen deng	454
-文峰	wen feng	485
-温江	wen jiang	455
-温岭	wen ling	483
-温泉	wen quan	708
-文山	wen shan	526
-汶上	wen shang	374
-文圣	wen sheng	347
-文水	wen shui	376
-温宿	wen su	303
-闻喜	wen xi	385
-温县	wen xian	422
-文县	wen xian	376
-温州	wen zhou	693
-瓮安	weng an	373
-翁源	weng yuan	359
-卧龙	wo long	520
-武安	wu an	463
-吴堡	wu bu	353
-武昌	wu chang	569
-五常	wu chang	502
-武城	wu cheng	396
-婺城	wu cheng	317
-武川	wu chuan	392
-吴川	wu chuan	385
-务川	wu chuan	365
 乌翠	wu cui	1
-乌达	wu da	403
-乌当	wu dang	355
-无棣	wu di	325
-武定	wu ding	466
-武都	wu du	454
-雾峰	wu feng	475
-五峰	wu feng	454
-武冈	wu gang	378
-舞钢	wu gang	280
-武功	wu gong	619
-五股	wu gu	452
-乌海	wu hai	423
-武汉	wu han	766
-五河	wu he	383
-武侯	wu hou	458
-芜湖	wu hu	581
-五华	wu hua	450
-无极	wu ji	533
-吴江	wu jiang	544
-武江	wu jiang	315
 五结	wu jie	433
-武进	wu jin	467
-乌来	wu lai	427
-乌兰	wu lan	475
-五莲	wu lian	321
-武陵	wu ling	481
-武隆	wu long	503
-武鸣	wu ming	410
-武宁	wu ning	444
-武平	wu ping	497
-吴起	wu qi	490
-梧栖	wu qi	427
-乌恰	wu qia	294
-武强	wu qiang	368
-吴桥	wu qiao	380
-武清	wu qing	485
-乌日	wu ri	476
-巫山	wu shan	551
-武山	wu shan	364
-武胜	wu sheng	400
-乌什	wu shi	448
-乌苏	wu su	448
-五台	wu tai	461
-雾台	wu tai	364
-无为	wu wei	531
-武威	wu wei	502
-无锡	wu xi	686
-巫溪	wu xi	453
-武乡	wu xiang	405
-吴兴	wu xing	468
-武宣	wu xuan	369
-武穴	wu xue	379
-舞阳	wu yang	383
-武义	wu yi	447
-武邑	wu yi	351
-婺源	wu yuan	567
-五原	wu yuan	409
-五寨	wu zhai	349
-武陟	wu zhi	345
-吴中	wu zhong	477
-吴忠	wu zhong	441
-梧州	wu zhou	483
-西安	xi an	735
-西昌	xi chang	502
-西城	xi cheng	530
-西充	xi chong	361
-西畴	xi chou	339
-淅川	xi chuan	400
-喜德	xi de	330
-西峰	xi feng	410
-息烽	xi feng	355
-西丰	xi feng	349
-西港	xi gang	451
-西岗	xi gang	360
-西工	xi gong	319
-西固	xi gu	406
-细河	xi he	214
 西和	xi he	1
-西湖	xi hu	676
-溪湖	xi hu	455
-西华	xi hua	434
-西吉	xi ji	412
-溪口	xi kou	455
-西林	xi lin	449
-西陵	xi ling	436
-西螺	xi luo	452
-西盟	xi meng	313
-西宁	xi ning	594
-西平	xi ping	475
-西青	xi qing	426
-西区	xi qu	604
-西沙	xi sha	524
-西山	xi shan	578
-锡山	xi shan	416
-西市	xi shi	401
-习水	xi shui	376
-浠水	xi shui	325
-西屯	xi tun	448
-西夏	xi xia	556
-西峡	xi xia	416
-息县	xi xian	367
-隰县	xi xian	357
-西乡	xi xiang	512
-西秀	xi xiu	282
-昔阳	xi yang	389
-西屿	xi yu	401
-西藏	xi zang	721
-汐止	xi zhi	475
-溪州	xi zhou	438
-夏河	xia he	406
-峡江	xia jiang	387
-夏津	xia jin	344
-下陆	xia lu	301
-厦门	xia men	753
-霞浦	xia pu	478
-霞山	xia shan	329
-夏县	xia xian	392
-夏邑	xia yi	326
-下营	xia ying	420
-咸安	xian an	345
-咸丰	xian feng	496
-仙居	xian ju	477
-咸宁	xian ning	523
-仙桃	xian tao	484
 线西	xian xi	425
-献县	xian xian	382
-咸阳	xian yang	557
-仙游	xian you	434
-翔安	xiang an	486
-襄城	xiang cheng	411
-乡城	xiang cheng	395
-相城	xiang cheng	392
-项城	xiang cheng	389
-芗城	xiang cheng	354
-湘东	xiang dong	396
 襄都	xiang du	1
-香坊	xiang fang	423
-襄汾	xiang fen	335
-祥符	xiang fu	428
-香港	xiang gang	870
-香河	xiang he	440
-乡宁	xiang ning	315
-湘桥	xiang qiao	294
-香山	xiang shan	592
-象山	xiang shan	532
-相山	xiang shan	319
-响水	xiang shui	390
-湘潭	xiang tan	557
-湘西	xiang xi	540
-湘乡	xiang xiang	420
-襄阳	xiang yang	606
-向阳	xiang yang	528
-湘阴	xiang yin	364
-襄垣	xiang yuan	372
-祥云	xiang yun	510
-香洲	xiang zhou	447
-襄州	xiang zhou	412
-象州	xiang zhou	337
-孝昌	xiao chang	405
-小店	xiao dian	732
-孝感	xiao gan	487
-小港	xiao gang	445
-小金	xiao jin	516
-孝南	xiao nan	231
-萧山	xiao shan	589
-猇亭	xiao ting	342
-萧县	xiao xian	418
-孝义	xiao yi	433
-新安	xin an	517
-新北	xin bei	649
-新宾	xin bin	342
-新埔	xin bu	456
-新蔡	xin cai	390
-新昌	xin chang	460
-新城	xin cheng	680
-忻城	xin cheng	276
-新店	xin dian	641
-新都	xin du	500
-信都	xin du	423
-新丰	xin feng	494
-信丰	xin feng	376
 新抚	xin fu	318
-忻府	xin fu	113
-新干	xin gan	317
-新港	xin gang	541
 新和	xin he	526
-新河	xin he	433
-新华	xin hua	638
-新化	xin hua	481
-新晃	xin huang	409
-新会	xin hui	510
-辛集	xin ji	371
-新建	xin jian	705
-新疆	xin jiang	740
-新绛	xin jiang	360
-新津	xin jin	444
-新乐	xin le	419
-新龙	xin long	414
-新罗	xin luo	564
-新密	xin mi	373
-新民	xin min	526
-新宁	xin ning	435
 新埤	xin pi	1
-新平	xin ping	472
 新邱	xin qiu	1
-新荣	xin rong	398
-新邵	xin shao	322
-新社	xin she	508
-新市	xin shi	452
-新泰	xin tai	408
-新田	xin tian	514
-新屋	xin wu	557
 新吴	xin wu	1
-新县	xin xian	417
-新乡	xin xiang	523
-新兴	xin xing	619
-新星	xin xing	585
-信阳	xin yang	544
-新野	xin ye	461
-信义	xin yi	544
-新沂	xin yi	411
-信宜	xin yi	383
-新营	xin ying	484
-新余	xin yu	485
-新园	xin yuan	437
-新源	xin yuan	396
-新郑	xin zheng	419
-忻州	xin zhou	486
-新洲	xin zhou	458
-信州	xin zhou	431
-新庄	xin zhuang	559
-兴安	xing an	491
 兴宾	xing bin	383
-兴城	xing cheng	398
-兴国	xing guo	516
-兴海	xing hai	389
 兴和	xing he	1
-兴化	xing hua	481
-兴隆	xing long	569
-兴宁	xing ning	449
-兴平	xing ping	425
-兴庆	xing qing	347
-兴仁	xing ren	423
-兴山	xing shan	362
-邢台	xing tai	541
-行唐	xing tang	374
-兴文	xing wen	368
-兴县	xing xian	438
-荥阳	xing yang	483
-兴业	xing ye	600
-兴义	xing yi	454
 芎林	xiong lin	1
-雄县	xiong xian	383
-秀峰	xiu feng	452
-秀林	xiu lin	439
-休宁	xiu ning	405
-秀山	xiu shan	456
-秀水	xiu shui	499
-修水	xiu shui	370
-修文	xiu wen	434
-修武	xiu wu	377
-岫岩	xiu yan	359
-秀英	xiu ying	475
-秀屿	xiu yu	273
-秀洲	xiu zhou	355
-许昌	xu chang	524
-徐汇	xu hui	513
-溆浦	xu pu	393
-徐水	xu shui	397
-徐闻	xu wen	389
-盱眙	xu yi	452
-叙永	xu yong	386
-徐州	xu zhou	642
-叙州	xu zhou	325
-宣城	xuan cheng	495
-宣恩	xuan en	318
-宣汉	xuan han	375
-宣化	xuan hua	463
-宣威	xuan wei	418
-玄武	xuan wu	531
-宣州	xuan zhou	418
-薛城	xue cheng	340
-学甲	xue jia	467
-寻甸	xun dian	409
-循化	xun hua	358
-逊克	xun ke	258
-寻乌	xun wu	379
-浚县	xun xian	387
-浔阳	xun yang	410
-旬阳	xun yang	357
-旬邑	xun yi	335
-雅安	ya an	571
-亚东	ya dong	486
-雅江	ya jiang	420
-崖州	ya zhou	415
-延安	yan an	572
-延边	yan bian	534
-盐边	yan bian	342
-盐埔	yan bu	370
-延长	yan chang	682
-燕巢	yan chao	423
-盐城	yan cheng	567
-郾城	yan cheng	378
 盐埕	yan cheng	1
-盐池	yan chi	390
-延川	yan chuan	375
-盐都	yan du	438
-雁峰	yan feng	330
-沿河	yan he	507
-盐湖	yan hu	487
-延吉	yan ji	477
-雁江	yan jiang	248
-盐津	yan jin	381
-延津	yan jin	327
-阎良	yan liang	448
-鄢陵	yan ling	367
-炎陵	yan ling	357
-延平	yan ping	469
-焉耆	yan qi	424
-延庆	yan qing	549
-盐山	yan shan	364
-铅山	yan shan	345
-砚山	yan shan	326
-雁山	yan shan	307
-偃师	yan shi	391
-延寿	yan shou	468
-盐水	yan shui	624
-雁塔	yan ta	429
-烟台	yan tai	635
-沿滩	yan tan	284
-盐田	yan tian	502
-盐亭	yan ting	351
-盐源	yan yuan	349
-兖州	yan zhou	487
-漾濞	yang bi	315
-阳城	yang cheng	448
-阳春	yang chun	563
-阳东	yang dong	315
-阳高	yang gao	330
-阳谷	yang gu	356
-阳江	yang jiang	505
-杨陵	yang ling	315
-杨梅	yang mei	550
-阳明	yang ming	557
-杨浦	yang pu	513
-阳曲	yang qu	383
-阳泉	yang quan	502
-阳山	yang shan	459
-阳朔	yang shuo	562
-阳西	yang xi	422
-洋县	yang xian	419
-阳信	yang xin	373
-阳新	yang xin	365
-阳原	yang yuan	338
-扬中	yang zhong	430
-扬州	yang zhou	671
-姚安	yao an	361
 尧都	yao du	1
-瑶海	yao hai	414
-耀州	yao zhou	376
-叶城	ye cheng	354
-叶集	ye ji	443
-叶县	ye xian	375
-义安	yi an	423
-依安	yi an	270
-宜宾	yi bin	535
-宜昌	yi chang	575
-宜城	yi cheng	389
-翼城	yi cheng	346
-驿城	yi cheng	268
-峄城	yi cheng	264
-宜川	yi chuan	405
-伊川	yi chuan	401
-宜春	yi chun	494
-伊春	yi chun	461
-宜都	yi du	417
-宜丰	yi feng	369
-宜黄	yi huang	349
-弋江	yi jiang	333
-宜君	yi jun	341
-宜兰	yi lan	557
-依兰	yi lan	417
-宜良	yi liang	418
-彝良	yi liang	319
-夷陵	yi ling	442
-仪陇	yi long	353
-义马	yi ma	351
-伊美	yi mei	382
-易门	yi men	339
-沂南	yi nan	336
-沂水	yi shui	380
-伊通	yi tong	378
-义乌	yi wu	573
-伊吾	yi wu	357
-黟县	yi xian	453
-易县	yi xian	435
-义县	yi xian	411
-宜兴	yi xing	524
-宜秀	yi xiu	302
-益阳	yi yang	486
-弋阳	yi yang	430
-宜阳	yi yang	404
-沂源	yi yuan	328
-宜章	yi zhang	334
-仪征	yi zheng	416
-伊州	yi zhou	387
-宜州	yi zhou	375
 义竹	yi zhu	1
-银川	yin chuan	597
-殷都	yin du	272
-银海	yin hai	447
-印江	yin jiang	399
-印台	yin tai	341
-鄞州	yin zhou	477
-银州	yin zhou	313
-应城	ying cheng	368
-英德	ying de	495
-颍东	ying dong	328
-莺歌	ying ge	469
-盈江	ying jiang	383
-迎江	ying jiang	284
-荥经	ying jing	366
-营口	ying kou	534
-颍泉	ying quan	209
-英山	ying shan	375
-营山	ying shan	360
-颍上	ying shang	367
-鹰潭	ying tan	458
-应县	ying xian	376
-迎泽	ying ze	442
-颍州	ying zhou	462
-永安	yong an	571
-永昌	yong chang	570
-永城	yong cheng	424
-永川	yong chuan	515
-永春	yong chun	489
-永德	yong de	421
-永登	yong deng	411
-永定	yong ding	507
-永丰	yong feng	506
-永福	yong fu	517
-永和	yong he	602
-永吉	yong ji	429
-永济	yong ji	400
-永嘉	yong jia	529
-永靖	yong jing	412
-永康	yong kang	528
-永年	yong nian	519
-永宁	yong ning	507
-邕宁	yong ning	402
-永平	yong ping	532
 埇桥	yong qiao	1
-永清	yong qing	455
-永仁	yong ren	418
-永善	yong shan	331
-永胜	yong sheng	433
-永寿	yong shou	414
-永顺	yong shun	441
-永泰	yong tai	537
-永新	yong xin	462
-永兴	yong xing	510
-永修	yong xiu	394
-永州	yong zhou	493
-友好	you hao	663
-右江	you jiang	350
-尤溪	you xi	389
-攸县	you xian	428
-游仙	you xian	362
-酉阳	you yang	427
-友谊	you yi	703
-右玉	you yu	350
-裕安	yu an	333
-渝北	yu bei	454
-禹城	yu cheng	384
-雨城	yu cheng	357
-虞城	yu cheng	348
-鱼池	yu chi	495
-榆次	yu ci	429
-于都	yu du	431
-鱼峰	yu feng	276
-余干	yu gan	375
-余杭	yu hang	525
-于洪	yu hong	442
-雨湖	yu hu	307
-雨花	yu hua	479
-裕华	yu hua	401
-玉环	yu huan	511
-禹会	yu hui	355
-余江	yu jiang	349
-玉井	yu jing	456
-玉里	yu li	455
-玉林	yu lin	575
-榆林	yu lin	512
-玉龙	yu long	514
-玉门	yu men	411
-裕民	yu min	393
-郁南	yu nan	362
-玉屏	yu ping	425
-余庆	yu qing	393
-玉泉	yu quan	460
-玉山	yu shan	537
-雨山	yu shan	360
-榆社	yu she	333
-玉树	yu shu	533
-榆树	yu shu	455
-渝水	yu shui	285
-鱼台	yu tai	341
-玉田	yu tian	406
-于田	yu tian	353
-玉溪	yu xi	524
-蔚县	yu xian	427
-盂县	yu xian	418
-榆阳	yu yang	334
-余姚	yu yao	511
-渝中	yu zhong	444
-榆中	yu zhong	399
-禹州	yu zhou	401
-玉州	yu zhou	226
-远安	yuan an	334
-元宝	yuan bao	616
-元长	yuan chang	409
-源城	yuan cheng	274
-源汇	yuan hui	300
-元江	yuan jiang	414
-沅江	yuan jiang	408
-苑里	yuan li	430
-员林	yuan lin	504
-沅陵	yuan ling	387
-元谋	yuan mou	385
-原平	yuan ping	415
-垣曲	yuan qu	337
 员山	yuan shan	406
-元氏	yuan shi	424
-元阳	yuan yang	455
-原阳	yuan yang	349
-原州	yuan zhou	399
-袁州	yuan zhou	382
-越城	yue cheng	340
-岳池	yue chi	354
-月湖	yue hu	455
-岳麓	yue lu	477
-乐清	yue qing	498
 岳塘	yue tang	388
-岳西	yue xi	355
-越西	yue xi	321
-越秀	yue xiu	514
-岳阳	yue yang	538
-云安	yun an	343
-运城	yun cheng	533
-云城	yun cheng	374
-郓城	yun cheng	371
-云浮	yun fu	453
-云冈	yun gang	380
-运河	yun he	634
-云和	yun he	523
-云林	yun lin	515
-云龙	yun long	518
-云梦	yun meng	436
-云南	yun nan	744
-云溪	yun xi	405
-郧西	yun xi	351
-云县	yun xian	376
-云霄	yun xiao	479
-云岩	yun yan	408
-云阳	yun yang	446
-郧阳	yun yang	410
-云州	yun zhou	391
-杂多	za duo	390
-赞皇	zan huang	361
-枣强	zao qiang	344
-造桥	zao qiao	418
-枣阳	zao yang	399
-枣庄	zao zhuang	526
-泽州	ze zhou	431
-增城	zeng cheng	545
 曾都	zeng du	1
-札达	zha da	296
-扎囊	zha nang	222
-柞水	zha shui	326
-湛河	zhan he	222
-沾化	zhan hua	394
-湛江	zhan jiang	578
-站前	zhan qian	609
-沾益	zhan yi	366
-张北	zhang bei	416
-张店	zhang dian	387
-长葛	zhang ge	398
-章贡	zhang gong	305
-彰化	zhang hua	563
-漳平	zhang ping	388
-漳浦	zhang pu	445
-章丘	zhang qiu	500
-樟树	zhang shu	458
-张湾	zhang wan	419
-彰武	zhang wu	371
-漳县	zhang xian	377
-张掖	zhang ye	505
-漳州	zhang zhou	617
-长子	zhang zi	641
-诏安	zhao an	423
-肇东	zhao dong	371
-昭化	zhao hua	378
-昭觉	zhao jue	305
-昭平	zhao ping	365
-肇庆	zhao qing	539
-昭苏	zhao su	396
-昭通	zhao tong	492
-赵县	zhao xian	401
-昭阳	zhao yang	401
-招远	zhao yuan	429
-肇源	zhao yuan	290
-肇州	zhao zhou	317
-柘城	zhe cheng	329
-浙江	zhe jiang	746
-柘荣	zhe rong	343
-镇安	zhen an	429
-振安	zhen an	256
-镇巴	zhen ba	337
-贞丰	zhen feng	361
-镇海	zhen hai	523
-镇江	zhen jiang	598
 浈江	zhen jiang	1
-镇康	zhen kang	380
-镇赉	zhen lai	284
-镇宁	zhen ning	401
-镇平	zhen ping	415
-镇坪	zhen ping	359
-振兴	zhen xing	621
-镇雄	zhen xiong	401
-镇远	zhen yuan	464
-镇原	zhen yuan	433
 镇沅	zhen yuan	1
-正安	zheng an	382
-正定	zheng ding	507
-政和	zheng he	476
-正宁	zheng ning	335
-蒸湘	zheng xiang	308
-正阳	zheng yang	459
-郑州	zheng zhou	703
-志丹	zhi dan	358
-治多	zhi duo	277
-芝罘	zhi fu	352
-芷江	zhi jiang	393
-枝江	zhi jiang	375
-织金	zhi jin	380
-仲巴	zhong ba	313
 中埔	zhong bu	448
-中方	zhong fang	670
-中和	zhong he	671
-中江	zhong jiang	459
-中坜	zhong li	537
 中寮	zhong liao	427
-钟楼	zhong lou	592
-中牟	zhong mu	424
-中宁	zhong ning	377
-中区	zhong qu	530
-中山	zhong shan	668
-钟山	zhong shan	489
-中卫	zhong wei	543
-中西	zhong xi	610
-忠县	zhong xian	446
-钟祥	zhong xiang	423
-中阳	zhong yang	457
-中原	zhong yuan	650
-中站	zhong zhan	390
-中正	zhong zheng	574
-周村	zhou cun	433
-周口	zhou kou	507
-周宁	zhou ning	423
-舟曲	zhou qu	366
-舟山	zhou shan	577
-周至	zhou zhi	452
-竹北	zhu bei	473
-诸城	zhu cheng	437
-竹东	zhu dong	436
-珠海	zhu hai	686
-珠晖	zhu hui	297
-诸暨	zhu ji	456
-竹南	zhu nan	457
-竹崎	zhu qi	417
-竹山	zhu shan	479
-珠山	zhu shan	397
-竹塘	zhu tang	372
-竹田	zhu tian	471
-竹溪	zhu xi	393
-株洲	zhu zhou	555
-庄河	zhuang he	440
-庄浪	zhuang lang	330
-壮围	zhuang wei	379
-卓兰	zhuo lan	381
-涿鹿	zhuo lu	391
-卓尼	zhuo ni	387
-卓溪	zhuo xi	344
-涿州	zhuo zhou	448
-卓资	zhuo zi	239
-淄博	zi bo	567
 子长	zi chang	522
-淄川	zi chuan	385
-自贡	zi gong	522
-梓官	zi guan	377
-秭归	zi gui	406
-紫金	zi jin	489
-梓潼	zi tong	402
-资溪	zi xi	339
-资兴	zi xing	393
-资阳	zi yang	470
-紫阳	zi yang	433
-资源	zi yuan	851
-紫云	zi yun	467
-资中	zi zhong	367
-子洲	zi zhou	303
-枞阳	zong yang	376
-邹城	zou cheng	411
-邹平	zou ping	415
-遵化	zun hua	424
-遵义	zun yi	579
-左贡	zuo gong	353
-左权	zuo quan	436
-左营	zuo ying	486
-左云	zuo yun	315
 左镇	zuo zhen	397
-阿坝县	a ba xian	178
 阿城区	a cheng qu	1
-阿尔山	a er shan	291
 阿干镇	a gan zhen	259
-阿合奇	a he qi	79
 阿克塞	a ke sai	1
-阿克苏	a ke su	244
-阿克陶	a ke tao	136
-阿拉尔	a la er	194
-阿拉善	a la shan	242
-阿勒泰	a le tai	231
-阿里山	a li shan	262
-阿莲区	a lian qu	1
-阿荣旗	a rong qi	162
-阿图什	a tu shi	171
-阿瓦提	a wa ti	144
-爱辉区	ai hui qu	158
 爱家乡	ai jia xiang	341
-爱民区	ai min qu	104
-安次区	an ci qu	147
-安达市	an da shi	218
-安定区	an ding qu	182
-安多县	an duo xian	138
-安福县	an fu xian	198
-安国市	an guo shi	156
 安海镇	an hai zhen	336
-安化县	an hua xian	190
-安徽省	an hui sheng	336
-安吉县	an ji xian	254
-安居区	an ju qu	156
 安居镇	an ju zhen	239
-安康市	an kang shi	240
-安乐区	an le qu	163
-安龙县	an long xian	164
-安陆市	an lu shi	184
-安南区	an nan qu	205
 安宁堡	an ning bao	197
-安宁区	an ning qu	264
-安宁市	an ning shi	208
-安平区	an ping qu	190
-安平县	an ping xian	206
 安平镇	an ping zhen	333
-安庆市	an qing shi	404
-安丘市	an qiu shi	189
-安仁县	an ren xian	174
 安仁镇	an ren zhen	324
-安塞区	an sai qu	154
-鞍山市	an shan shi	275
-安顺市	an shun shi	283
 安太堡	an tai bao	169
 安亭镇	an ting zhen	333
-安图县	an tu xian	176
-安溪县	an xi xian	270
-安乡县	an xiang xian	176
-安新县	an xin xian	192
-安阳市	an yang shi	252
-安阳县	an yang xian	226
-安义县	an yi xian	191
 暗影堡	an ying bao	197
-安源区	an yuan qu	155
-安远县	an yuan xian	179
-安岳县	an yue xian	222
-安泽县	an ze xian	147
 安贞堡	an zhen bao	240
-安州区	an zhou qu	151
-昂昂溪	ang ang xi	1
-昂仁县	ang ren xian	112
 奥芬堡	ao fen bao	254
-敖汉旗	ao han qi	191
 奥伦堡	ao lun bao	369
 奥斯堡	ao si bao	284
-八步区	ba bu qu	170
-巴楚县	ba chu xian	214
 八德区	ba de qu	1
-巴东县	ba dong xian	188
-八公山	ba gong shan	389
 巴河镇	ba he zhen	225
 八里堡	ba li bao	231
-巴里坤	ba li kun	188
-八里区	ba li qu	1
 八里庄	ba li zhuang	404
-巴南区	ba nan qu	234
-灞桥区	ba qiao qu	196
-巴青县	ba qing xian	118
 巴仁乡	ba ren xiang	215
-巴塘县	ba tang xian	156
 巴腾堡	ba teng bao	252
-八宿县	ba xiu xian	148
-巴彦县	ba yan xian	224
-巴宜区	ba yi qu	142
 八一镇	ba yi zhen	393
-鲅鱼圈	ba yu quan	183
-巴中市	ba zhong shi	303
-巴州区	ba zhou qu	212
-霸州市	ba zhou shi	181
 白豹镇	bai bao zhen	256
 白查村	bai cha cun	159
 白城村	bai cheng cun	178
-白城市	bai cheng shi	192
-拜城县	bai cheng xian	166
 白川村	bai chuan cun	314
 白川乡	bai chuan xiang	409
 白地村	bai di cun	171
@@ -3208,8 +149,6 @@ sort: by_weight
 白河堡	bai he bao	308
 白河村	bai he cun	279
 白鹤村	bai he cun	240
-白河区	bai he qu	1
-白河县	bai he xian	180
 白鹤镇	bai he zhen	326
 白河镇	bai he zhen	315
 白合镇	bai he zhen	236
@@ -3219,13 +158,11 @@ sort: by_weight
 白家乡	bai jia xiang	270
 白家镇	bai jia zhen	221
 白家庄	bai jia zhuang	388
-白碱滩	bai jian tan	128
 白江村	bai jiang cun	163
 白蕉镇	bai jiao zhen	320
 白节镇	bai jie zhen	175
 白驹镇	bai ju zhen	188
 白浪村	bai lang cun	208
-白朗县	bai lang xian	136
 白廊乡	bai lang xiang	178
 白浪镇	bai lang zhen	199
 白狼镇	bai lang zhen	191
@@ -3256,26 +193,21 @@ sort: by_weight
 白桥镇	bai qiao zhen	213
 白青乡	bai qing xiang	196
 白泉村	bai quan cun	193
-拜泉县	bai quan xian	125
 白泉镇	bai quan zhen	234
-百色市	bai se shi	271
 白沙村	bai sha cun	364
 白沙乡	bai sha xiang	405
 白沙镇	bai sha zhen	448
 白山村	bai shan cun	302
-白山市	bai shan shi	220
 白山乡	bai shan xiang	259
 白山镇	bai shan zhen	295
 白石村	bai shi cun	341
 白石乡	bai shi xiang	215
 白石镇	bai shi zhen	325
 白水村	bai shui cun	240
-白水县	bai shui xian	185
 白水镇	bai shui zhen	258
 白寺村	bai si cun	181
 白塔堡	bai ta bao	199
 白塔村	bai ta cun	244
-白塔区	bai ta qu	166
 白塔乡	bai ta xiang	215
 白塔镇	bai ta zhen	283
 白塘镇	bai tang zhen	247
@@ -3292,19 +224,14 @@ sort: by_weight
 白文镇	bai wen zhen	196
 白雾村	bai wu cun	199
 白溪村	bai xi cun	217
-柏乡县	bai xiang xian	142
 白岩村	bai yan cun	228
 白洋村	bai yang cun	206
 白杨乡	bai yang xiang	233
 白杨镇	bai yang zhen	226
 白衣镇	bai yi zhen	206
-白银区	bai yin qu	172
-白银市	bai yin shi	274
 白玉村	bai yu cun	193
-白玉县	bai yu xian	148
 白玉乡	bai yu xiang	159
 白云村	bai yun cun	271
-白云区	bai yun qu	273
 白云乡	bai yun xiang	327
 白云镇	bai yun zhen	224
 白云庄	bai yun zhuang	286
@@ -3316,119 +243,42 @@ sort: by_weight
 白珠村	bai zhu cun	196
 白庄村	bai zhuang cun	264
 白族村	bai zu cun	229
-班戈县	ban ge xian	129
-班玛县	ban ma xian	187
-板桥区	ban qiao qu	238
 板桥镇	ban qiao zhen	426
 榜罗镇	bang luo zhen	283
 帮万村	bang wan cun	317
 保安村	bao an cun	263
-宝安区	bao an qu	316
 保安镇	bao an zhen	282
-保德县	bao de xian	160
-宝坻区	bao di qu	224
-保定市	bao ding shi	272
-宝丰县	bao feng xian	193
-包河区	bao he qu	279
-宝鸡市	bao ji shi	404
-保靖县	bao jing xian	163
-保康县	bao kang xian	178
-宝清县	bao qing xian	176
-宝山区	bao shan qu	248
-保山市	bao shan shi	212
 宝山乡	bao shan xiang	1
-宝塔区	bao ta qu	228
-包头市	bao tou shi	268
-宝兴县	bao xing xian	208
-宝应县	bao ying xian	198
 保障村	bao zhang cun	100
 褒忠乡	bao zhong xiang	1
-北安市	bei an shi	224
-北碚区	bei bei qu	221
 北埔乡	bei bu xiang	1
-北辰区	bei chen qu	234
-北戴河	bei dai he	260
 贝登堡	bei deng bao	382
 北斗镇	bei dou zhen	1
 贝恩堡	bei en bao	316
 北港镇	bei gang zhen	396
-北关区	bei guan qu	164
-北海市	bei hai shi	410
-北湖区	bei hu qu	170
 北极村	bei ji cun	418
-北京市	bei jing shi	418
-碑林区	bei lin qu	276
-北林区	bei lin qu	144
-北流市	bei liu shi	172
-北仑区	bei lun qu	264
-北门区	bei men qu	1
 卑南乡	bei nan xiang	1
-北票市	bei piao shi	369
 贝斯堡	bei si bao	169
-北塔区	bei ta qu	125
-北投区	bei tou qu	217
-北屯区	bei tun qu	214
 北辛堡	bei xin bao	132
 北冶乡	bei ye xiang	212
-北镇市	bei zhen shi	230
 本宁堡	ben ning bao	252
-本溪市	ben xi shi	350
-蚌埠市	beng bu shi	240
-蚌山区	beng shan qu	160
-彼得堡	bi de bao	212
-碧江区	bi jiang qu	180
-毕节市	bi jie shi	228
 比奇堡	bi qi bao	288
-比如县	bi ru xian	130
-璧山区	bi shan qu	206
-泌阳县	bi yang xian	182
-边坝县	bian ba xian	102
-滨城区	bin cheng qu	163
-宾川县	bin chuan xian	187
-滨海县	bin hai xian	162
-滨湖区	bin hu qu	222
-滨江区	bin jiang qu	226
-宾阳县	bin yang xian	202
-滨州市	bin zhou shi	274
-彬州市	bin zhou shi	126
 丙村镇	bing cun zhen	100
 冰风堡	bing feng bao	203
-博爱县	bo ai xian	177
-博白县	bo bai xian	215
-博湖县	bo hu xian	159
-博乐市	bo le shi	166
-勃利县	bo li xian	152
-博罗县	bo luo xian	222
-波密县	bo mi xian	164
-博山区	bo shan qu	192
-泊头市	bo tou shi	160
-博望区	bo wang qu	158
-博兴县	bo xing xian	186
-博野县	bo ye xian	186
-播州区	bo zhou qu	162
-亳州市	bo zhou shi	226
 不出村	bu chu cun	100
 不出镇	bu chu zhen	100
 布袋镇	bu dai zhen	387
 不端庄	bu duan zhuang	100
-布尔津	bu er jin	193
 不回乡	bu hui xiang	100
 布吉镇	bu ji zhen	233
 不老村	bu lao cun	100
 埔里镇	bu li zhen	422
 不少村	bu shao cun	100
-布拖县	bu tuo xian	128
 埔心乡	bu xin xiang	1
 埔盐乡	bu yan xiang	1
-蔡甸区	cai dian qu	196
 蔡家堡	cai jia bao	142
 彩灵堡	cai ling bao	172
 采育镇	cai yu zhen	188
-苍南县	cang nan xian	230
-仓山区	cang shan qu	234
-苍梧县	cang wu xian	170
-苍溪县	cang xi xian	189
-沧州市	cang zhou shi	240
 曹碑镇	cao bei zhen	120
 曹川镇	cao chuan zhen	150
 曹村镇	cao cun zhen	259
@@ -3438,7 +288,6 @@ sort: by_weight
 曹东庄	cao dong zhuang	31
 曹范镇	cao fan zhen	191
 曹坊村	cao fang cun	82
-曹妃甸	cao fei dian	230
 曹岗村	cao gang cun	185
 曹公村	cao gong cun	94
 曹沟村	cao gou cun	145
@@ -3485,72 +334,20 @@ sort: by_weight
 曹庄村	cao zhuang cun	205
 曹庄乡	cao zhuang xiang	127
 曹庄镇	cao zhuang zhen	294
-册亨县	ce heng xian	163
-策勒县	ce le xian	144
-岑巩县	cen gong xian	156
-岑溪市	cen xi shi	186
 岔河镇	cha he zhen	227
-茶陵县	cha ling xian	181
-察雅县	cha ya xian	120
-察隅县	cha yu xian	156
-柴沟堡	chai gou bu	263
-柴桑区	chai sang qu	108
 柴窝堡	chai wo bao	245
-禅城区	chan cheng qu	256
-长安区	chang an qu	255
 长安乡	chang an xiang	233
 长安镇	chang an zhen	472
 长滨乡	chang bin xiang	357
-长春市	chang chun shi	352
-常德市	chang de shi	238
 昌都市	chang du shi	1
-长丰县	chang feng xian	216
-长葛市	chang ge shi	278
-长海县	chang hai xian	196
-昌吉市	chang ji shi	196
-昌江区	chang jiang qu	123
 长乐村	chang le cun	334
-长乐区	chang le qu	171
-昌乐县	chang le xian	244
-昌黎县	chang li xian	188
-长岭县	chang ling xian	144
-长宁区	chang ning qu	258
-常宁市	chang ning shi	165
-长宁县	chang ning xian	234
-昌宁县	chang ning xian	174
 长宁镇	chang ning zhen	329
-昌平区	chang ping qu	270
 常平镇	chang ping zhen	373
-长清区	chang qing qu	216
-长沙市	chang sha shi	356
-长沙县	chang sha xian	246
-常山县	chang shan xian	174
-长寿区	chang shou qu	194
-常熟市	chang shu shi	302
-长顺县	chang shun xian	168
 长泰区	chang tai qu	1
-长汀县	chang ting xian	202
-昌图县	chang tu xian	236
-长武县	chang wu xian	154
-长兴县	chang xing xian	206
 长延堡	chang yan bao	222
-昌邑区	chang yi qu	233
-昌邑市	chang yi shi	414
 长垣市	chang yuan shi	1
-长治市	chang zhi shi	306
 长治乡	chang zhi xiang	1
-长洲区	chang zhou qu	125
-常州市	chang zhou shi	261
-潮安区	chao an qu	178
-巢湖市	chao hu shi	216
-潮南区	chao nan qu	186
-朝天区	chao tian qu	150
-朝阳区	chao yang qu	318
-潮阳区	chao yang qu	211
-朝阳市	chao yang shi	268
-朝阳县	chao yang xian	181
 朝阳镇	chao yang zhen	334
-潮州市	chao zhou shi	228
 潮州镇	chao zhou zhen	1
 车城乡	che cheng xiang	1
 车公庄	che gong zhuang	402
@@ -3560,7 +357,6 @@ sort: by_weight
 陈堡村	chen bao cun	52
 陈北村	chen bei cun	1
 陈伯村	chen bo cun	226
-陈仓区	chen cang qu	372
 陈城镇	chen cheng zhen	171
 陈村村	chen cun cun	133
 陈村乡	chen cun xiang	221
@@ -3639,7 +435,6 @@ sort: by_weight
 陈武镇	chen wu zhen	159
 陈溪村	chen xi cun	103
 陈西村	chen xi cun	52
-辰溪县	chen xi xian	168
 陈霞乡	chen xia xiang	175
 陈巷村	chen xiang cun	31
 陈巷镇	chen xiang zhen	145
@@ -3654,83 +449,29 @@ sort: by_weight
 陈院镇	chen yuan zhen	133
 陈寨村	chen zhai cun	145
 陈宅村	chen zhai cun	103
-郴州市	chen zhou shi	236
 陈庄村	chen zhuang cun	325
 陈庄乡	chen zhuang xiang	127
 陈庄镇	chen zhuang zhen	259
 陈子庄	chen zi zhuang	243
-成安县	cheng an xian	177
-城北区	cheng bei qu	208
-澄城县	cheng cheng xian	183
-承德市	cheng de shi	238
-承德县	cheng de xian	179
-城东区	cheng dong qu	208
 城东乡	cheng dong xiang	258
-成都市	cheng du shi	366
-称多县	cheng duo xian	154
-呈贡区	cheng gong qu	220
 成功镇	cheng gong zhen	1
-城固县	cheng gu xian	187
-城关区	cheng guan qu	252
 城关镇	cheng guan zhen	488
-澄海区	cheng hai qu	192
-成华区	cheng hua qu	232
 澄江市	cheng jiang shi	1
 澄江镇	cheng jiang zhen	280
 城郊乡	cheng jiao xiang	359
-城口县	cheng kou xian	192
-澄迈县	cheng mai xian	220
 城南庄	cheng nan zhuang	327
-成武县	cheng wu xian	160
-城西区	cheng xi qu	200
-城厢区	cheng xiang qu	194
 城厢镇	cheng xiang zhen	350
-城阳区	cheng yang qu	234
-城中村	cheng zhong cun	266
-城中区	cheng zhong qu	208
-城子河	cheng zi he	1
-赤壁市	chi bi shi	248
-赤城县	chi cheng xian	175
 吃德庄	chi de zhuang	215
-赤峰市	chi feng shi	257
-赤金堡	chi jin bao	120
-赤坎区	chi kan qu	146
 茌平区	chi ping qu	1
 池上乡	chi shang xiang	1
-赤水市	chi shui shi	184
-池州市	chi zhou shi	230
-崇川区	chong chuan qu	172
-崇礼区	chong li qu	156
-崇明区	chong ming qu	190
 崇宁堡	chong ning bao	183
-重庆市	chong qing shi	378
-崇仁县	chong ren xian	171
 崇武镇	chong wu zhen	251
-崇信县	chong xin xian	144
-崇阳县	chong yang xian	182
-崇义县	chong yi xian	162
-崇州市	chong zhou shi	204
-崇左市	chong zuo shi	214
-绸缎庄	chou duan zhuang	31
 褚家村	chu jia cun	31
 䢺江镇	chu jiang zhen	1
 褚兰镇	chu lan zhen	171
-楚雄市	chu xiong shi	188
-滁州市	chu zhou shi	231
 褚庄村	chu zhuang cun	120
-川汇区	chuan hui qu	164
 川沙镇	chuan sha zhen	313
-船山区	chuan shan qu	158
-船营区	chuan ying qu	166
-淳安县	chun an xian	228
-淳化县	chun hua xian	164
 春日乡	chun ri xiang	1
-慈利县	ci li xian	224
-莿桐乡	ci tong xiang	358
-慈溪市	ci xi shi	276
-从化区	cong hua qu	234
-从江县	cong jiang xian	197
-丛台区	cong tai qu	182
 崔昌镇	cui chang zhen	31
 崔村镇	cui cun zhen	273
 崔岗村	cui gang cun	31
@@ -3746,7 +487,6 @@ sort: by_weight
 崔马庄	cui ma zhuang	82
 崔庙镇	cui miao zhen	181
 崔木镇	cui mu zhen	150
-翠屏区	cui ping qu	195
 崔桥村	cui qiao cun	1
 崔屯村	cui tun cun	52
 崔湾村	cui wan cun	1
@@ -3756,29 +496,15 @@ sort: by_weight
 崔庄村	cui zhuang cun	256
 崔庄乡	cui zhuang xiang	206
 崔庄镇	cui zhuang zhen	210
-措美县	cuo mei xian	112
 错那市	cuo na shi	1
-措勤县	cuo qin xian	112
-大安区	da an qu	236
-大安市	da an shi	390
 大安乡	da an xiang	307
 大安镇	da an zhen	295
-达坂城	da ban cheng	328
-大埔县	da bu xian	205
 大埔乡	da bu xiang	1
-大城堡	da cheng bao	183
-达川区	da chuan qu	182
 大村乡	da cun xiang	1
 大碉堡	da diao bao	151
-大东区	da dong qu	230
-大渡口	da du kou	220
 大肚区	da du qu	1
-大方县	da fang xian	191
 大芬村	da fen cun	298
 大风堡	da feng bao	225
-大丰区	da feng qu	176
-大观区	da guan qu	130
-大关县	da guan xian	136
 大河堡	da he bao	146
 大河村	da he cun	274
 大河乡	da he xiang	273
@@ -3786,138 +512,50 @@ sort: by_weight
 大湖镇	da hu zhen	178
 大皇堡	da huang bao	251
 大黄堡	da huang bao	175
-大甲区	da jia qu	1
 大甲镇	da jia zhen	297
 大朗镇	da lang zhen	399
-大里区	da li qu	1
-大理市	da li shi	360
-大荔县	da li xian	208
 大沥镇	da li zhen	325
-大连市	da lian shi	350
 大良镇	da liang zhen	245
-大寮区	da liao qu	188
 大林镇	da lin zhen	1
-大名县	da ming xian	191
-大内区	da nei qu	1
-大宁县	da ning xian	149
 大埤乡	da pi xiang	1
 大箐山	da qing shan	1
-大庆市	da qing shi	279
 大邱庄	da qiu zhuang	241
 达仁乡	da ren xiang	1
-达日县	da ri xian	122
-大社区	da she qu	219
-大石桥	da shi qiao	212
 大石镇	da shi zhen	256
 大树区	da shu qu	1
-大田县	da tian xian	238
-大同区	da tong qu	210
-大通区	da tong qu	117
-大同市	da tong shi	450
 大同乡	da tong xiang	387
-大洼区	da wa qu	156
 大王镇	da wang zhen	304
-大武口	da wu kou	315
-大悟县	da wu xian	226
 大武乡	da wu xiang	1
-大溪区	da xi qu	1
 大溪镇	da xi zhen	353
-大祥区	da xiang qu	144
-大新县	da xin xian	180
-大兴区	da xing qu	312
-大雅区	da ya qu	1
 大研镇	da yan zhen	246
-大姚县	da yao xian	153
-大冶市	da ye shi	248
-大邑县	da yi xian	206
-大英县	da ying xian	176
-大余县	da yu xian	174
-大园区	da yuan qu	206
 大园乡	da yuan xiang	279
 大运村	da yun cun	343
 大泽乡	da ze xiang	347
 大寨村	da zhai cun	340
-达州市	da zhou shi	234
-大竹县	da zhu xian	244
 达孜区	da zi qu	1
-大足区	da zu qu	209
-大城县	dai cheng xian	174
 大城乡	dai cheng xiang	1
 大城镇	dai cheng zhen	300
-岱山县	dai shan xian	170
-岱岳区	dai yue qu	174
-丹巴县	dan ba xian	188
 丹北镇	dan bei zhen	100
-郸城县	dan cheng xian	180
-丹东市	dan dong shi	266
-丹凤县	dan feng xian	175
-丹江口	dan jiang kou	195
-丹棱县	dan ling xian	160
-淡水区	dan shui qu	212
 淡水镇	dan shui zhen	333
-丹徒区	dan tu qu	178
-丹阳市	dan yang shi	196
 丹阳镇	dan yang zhen	100
 丹灶镇	dan zao zhen	100
-丹寨县	dan zhai xian	172
-儋州市	dan zhou shi	222
-砀山县	dang shan xian	189
-当涂县	dang tu xian	194
-当雄县	dang xiong xian	165
-当阳市	dang yang shi	168
 到北镇	dao bei zhen	1
-稻城县	dao cheng xian	192
 到丰镇	dao feng zhen	338
-道孚县	dao fu xian	163
 道口镇	dao kou zhen	256
-道里区	dao li qu	293
 到宁乡	dao ning xiang	1
 到萍乡	dao ping xiang	474
 到清镇	dao qing zhen	446
 到桐乡	dao tong xiang	455
-道外区	dao wai qu	224
 稻香村	dao xiang cun	528
 到湘乡	dao xiang xiang	401
 到新乡	dao xin xiang	528
 到枣庄	dao zao zhuang	504
 盗跖庄	dao zhi zhuang	251
-德安县	de an xian	164
-德保县	de bao xian	150
-德昌县	de chang xian	145
-德城区	de cheng qu	194
-德格县	de ge xian	156
-德化县	de hua xian	150
-德惠市	de hui shi	184
-德江县	de jiang xian	195
-德令哈	de ling ha	210
-德钦县	de qin xian	180
 德庆区	de qing qu	1
-德清县	de qing xian	222
-德庆县	de qing xian	162
-得荣县	de rong xian	123
 德威堡	de wei bao	215
-德兴市	de xing shi	174
-德阳市	de yang shi	221
-德州市	de zhou shi	246
-登封市	deng feng shi	212
-磴口县	deng kou xian	162
 登仕堡	deng shi bao	132
-灯塔市	deng ta shi	154
-邓州市	deng zhou shi	208
-滴道区	di dao qu	90
 蒂尔堡	di er bao	342
-地球村	di qiu cun	443
 地窝堡	di wo bao	316
-第一村	di yi cun	48
-电白区	dian bai qu	186
-垫江县	dian jiang xian	195
-点军区	dian jun qu	138
-调兵山	diao bing shan	124
-迭部县	die bu xian	158
-叠彩区	die cai qu	156
-定安县	ding an xian	184
-定边县	ding bian xian	182
-鼎城区	ding cheng qu	176
 丁当镇	ding dang zhen	171
 丁店村	ding dian cun	263
 丁坊村	ding fang cun	31
@@ -3927,10 +565,8 @@ sort: by_weight
 丁公村	ding gong cun	103
 丁沟村	ding gou cun	1
 丁沟镇	ding gou zhen	196
-定海区	ding hai qu	176
 丁河村	ding he cun	1
 丁河镇	ding he zhen	236
-鼎湖区	ding hu qu	149
 丁湖镇	ding hu zhen	239
 丁伙镇	ding huo zhen	139
 丁集村	ding ji cun	31
@@ -3939,120 +575,81 @@ sort: by_weight
 丁家乡	ding jia xiang	163
 丁家镇	ding jia zhen	150
 丁家庄	ding jia zhuang	319
-定结县	ding jie xian	138
 丁坑村	ding keng cun	69
 丁口村	ding kou cun	52
 丁里镇	ding li zhen	139
 丁楼村	ding lou cun	206
 丁庙村	ding miao cun	1
 丁默村	ding mo cun	262
-定南县	ding nan xian	172
 丁桥村	ding qiao cun	127
 丁桥镇	ding qiao zhen	299
-丁青县	ding qing xian	133
 丁青镇	ding qing zhen	112
-定日县	ding ri xian	182
 丁山村	ding shan cun	103
 丁市镇	ding shi zhen	127
 丁蜀镇	ding shu zhen	392
 丁堂村	ding tang cun	69
 丁塘村	ding tang cun	31
-定陶区	ding tao qu	139
 丁湾村	ding wan cun	112
 丁屋村	ding wu cun	150
 丁坞村	ding wu cun	133
 丁西村	ding xi cun	150
-定西市	ding xi shi	260
-定襄县	ding xiang xian	177
 丁香镇	ding xiang zhen	167
-定兴县	ding xing xian	168
 丁堰镇	ding yan zhen	159
 丁营村	ding ying cun	31
-定远县	ding yuan xian	218
 丁寨村	ding zhai cun	82
 丁赵村	ding zhao cun	127
-定州市	ding zhou shi	202
 丁庄村	ding zhuang cun	281
 丁庄镇	ding zhuang zhen	133
 丁字镇	ding zi zhen	228
 东安村	dong an cun	100
-东安区	dong an qu	112
-东安县	dong an xian	176
 东坝乡	dong ba xiang	100
 东坝镇	dong ba zhen	100
-东宝区	dong bao qu	154
 东北村	dong bei cun	100
-东昌府	dong chang fu	194
-东昌区	dong chang qu	149
-东城区	dong cheng qu	347
 东城镇	dong cheng zhen	100
 东成镇	dong cheng zhen	100
-东川区	dong chuan qu	189
 东顶堡	dong ding bao	272
-东阿县	dong e xian	188
-东方市	dong fang shi	438
 东风村	dong feng cun	297
-东风区	dong feng qu	119
-东丰县	dong feng xian	159
 东风乡	dong feng xiang	100
 东风镇	dong feng zhen	284
 东丰镇	dong feng zhen	100
 东凤镇	dong feng zhen	100
 东岗村	dong gang cun	100
-东港区	dong gang qu	191
-东港市	dong gang shi	172
 东岗镇	dong gang zhen	100
 东港镇	dong gang zhen	1
 东高村	dong gao cun	100
 东沟村	dong gou cun	100
 东沟乡	dong gou xiang	100
 东关村	dong guan cun	100
-东莞市	dong guan shi	358
 东关镇	dong guan zhen	100
-东光县	dong guang xian	158
 东郭镇	dong guo zhen	100
 东海村	dong hai cun	100
-东海县	dong hai xian	257
 东海镇	dong hai zhen	100
 东河村	dong he cun	100
-东河区	dong he qu	188
 东河乡	dong he xiang	1
 东河镇	dong he zhen	100
-东湖区	dong hu qu	272
 东湖镇	dong hu zhen	100
 东华镇	dong hua zhen	100
 董家村	dong jia cun	242
 东江镇	dong jiang zhen	269
 东街村	dong jie cun	100
 东坑镇	dong keng zhen	358
-洞口县	dong kou xian	164
-东兰县	dong lan xian	154
-东丽区	dong li qu	218
 东里镇	dong li zhen	100
 东联村	dong lian cun	100
-东辽县	dong liao xian	163
 东门镇	dong men zhen	100
-东明县	dong ming xian	181
 东明镇	dong ming zhen	100
-东宁市	dong ning shi	138
 东坪村	dong ping cun	100
 东平村	dong ping cun	100
-东平县	dong ping xian	214
 东坪镇	dong ping zhen	100
 东平镇	dong ping zhen	100
 东坡村	dong po cun	100
-东坡区	dong po qu	196
 东圃镇	dong pu zhen	236
 东桥镇	dong qiao zhen	100
 东泉镇	dong quan zhen	100
 东山村	dong shan cun	100
-东山区	dong shan qu	222
-东山县	dong shan xian	188
 东山乡	dong shan xiang	299
 冬山乡	dong shan xiang	1
 东山镇	dong shan zhen	367
 东胜村	dong sheng cun	100
-东胜区	dong sheng qu	205
 东升镇	dong sheng zhen	326
 东石村	dong shi cun	100
 东势区	dong shi qu	1
@@ -4060,46 +657,31 @@ sort: by_weight
 东势乡	dong shi xiang	1
 东石镇	dong shi zhen	100
 东太堡	dong tai bao	158
-东台市	dong tai shi	225
 东台镇	dong tai zhen	100
 东田镇	dong tian zhen	100
-洞头区	dong tou qu	178
 东团堡	dong tuan bao	217
 东湾村	dong wan cun	100
 东吴镇	dong wu zhen	100
 东溪村	dong xi cun	209
-东西湖	dong xi hu	464
 东溪镇	dong xi zhen	100
 东下堡	dong xia bao	314
-东乡区	dong xiang qu	108
 东乡镇	dong xiang zhen	100
 东兴村	dong xing cun	100
-东兴区	dong xing qu	185
-东兴市	dong xing shi	203
 东兴镇	dong xing zhen	266
-东阳市	dong yang shi	273
 东阳镇	dong yang zhen	100
 东营村	dong ying cun	100
-东营区	dong ying qu	197
-东营市	dong ying shi	248
 东源村	dong yuan cun	100
-东源县	dong yuan xian	178
 东园镇	dong yuan zhen	100
 东寨村	dong zhai cun	100
 东寨镇	dong zhai zhen	100
-东至县	dong zhi xian	212
-东洲区	dong zhou qu	172
 东庄村	dong zhuang cun	100
 东庄镇	dong zhuang zhen	100
-斗六市	dou liu shi	202
-斗门区	dou men qu	215
 斗门镇	dou men zhen	284
 斗南镇	dou nan zhen	1
 杜岙村	du ao cun	139
 杜坝村	du ba cun	103
 杜堡村	du bao cun	82
 杜北村	du bei cun	94
-都昌县	du chang xian	194
 杜城村	du cheng cun	120
 杜村乡	du cun xiang	210
 杜村镇	du cun zhen	167
@@ -4110,17 +692,13 @@ sort: by_weight
 杜关镇	du guan zhen	210
 杜河村	du he cun	139
 杜集村	du ji cun	1
-杜集区	du ji qu	146
 杜集乡	du ji xiang	120
 杜集镇	du ji zhen	178
-度假村	du jia cun	667
 杜家村	du jia cun	254
 杜家镇	du jia zhen	150
 杜家庄	du jia zhuang	277
-都江堰	du jiang yan	274
 杜康村	du kang cun	185
 杜康镇	du kang zhen	185
-都兰县	du lan xian	183
 杜林村	du lin cun	1
 独流镇	du liu zhen	248
 杜楼村	du lou cun	69
@@ -4131,16 +709,13 @@ sort: by_weight
 杜曲镇	du qu zhen	246
 杜阮镇	du ruan zhen	234
 杜山村	du shan cun	52
-独山县	du shan xian	179
 杜山镇	du shan zhen	120
-独山子	du shan zi	194
 杜市镇	du shi zhen	208
 杜塘村	du tang cun	1
 杜屯村	du tun cun	1
 杜湾村	du wan cun	1
 杜浔镇	du xun zhen	300
 杜营村	du ying cun	52
-都匀市	du yun shi	187
 杜泽镇	du ze zhen	127
 杜寨村	du zhai cun	150
 杜庄村	du zhuang cun	266
@@ -4165,101 +740,48 @@ sort: by_weight
 段郢乡	duan ying xiang	159
 段园镇	duan yuan zhen	201
 段寨村	duan zhai cun	82
-端州区	duan zhou qu	177
 段庄村	duan zhuang cun	210
-敦化市	dun hua shi	176
-敦煌市	dun huang shi	212
-掇刀区	duo dao qu	138
-多伦县	duo lun xian	189
-鄂城区	e cheng qu	144
 鹅公村	e gong cun	251
-峨眉山	e mei shan	340
 峨眉乡	e mei xiang	1
-额敏县	e min xian	148
-鄂州市	e zhou shi	213
-恩平市	en ping shi	184
-恩施市	en shi shi	201
-恩阳区	en yang qu	202
-二道江	er dao jiang	1
-二道区	er dao qu	206
 二里庄	er li zhuang	312
 二林镇	er lin zhen	1
 二仑乡	er lun xiang	335
-二七区	er qi qu	256
 二水乡	er shui xiang	1
 儿童村	er tong cun	347
-洱源县	er yuan xian	182
 法恩堡	fa en bao	214
-法库县	fa ku xian	214
 繁昌区	fan chang qu	1
-樊城区	fan cheng qu	172
 范登堡	fan deng bao	375
 范各庄	fan ge zhuang	199
 番路乡	fan lu xiang	1
-繁峙县	fan shi xian	240
-防城港	fang cheng gang	228
-防城区	fang cheng qu	160
-方城县	fang cheng xian	251
 枋寮乡	fang liao xiang	1
-房山区	fang shan qu	250
-方山县	fang shan xian	182
 枋山乡	fang shan xiang	1
 芳苑乡	fang yuan xiang	1
-方正县	fang zheng xian	168
-坊子区	fang zi qu	160
-肥城市	fei cheng shi	248
-肥东县	fei dong xian	222
-肥西县	fei xi xian	224
-肥乡区	fei xiang qu	139
 飞鹰堡	fei ying bao	178
-芬兰堡	fen lan bao	203
-汾西县	fen xi xian	161
-汾阳市	fen yang shi	190
-分宜县	fen yi xian	169
 芬园乡	fen yuan xiang	1
 丰滨乡	feng bin xiang	1
-丰城市	feng cheng shi	295
-凤城市	feng cheng shi	170
 凤城镇	feng cheng zhen	296
 冯川镇	feng chuan zhen	215
 冯村乡	feng cun xiang	127
 冯店乡	feng dian xiang	145
-丰都县	feng du xian	201
 冯岗村	feng gang cun	1
-凤冈县	feng gang xian	207
 冯沟村	feng gou cun	1
-奉化区	feng hua qu	180
-凤凰县	feng huang xian	196
 奉集堡	feng ji bao	165
 冯家村	feng jia cun	251
 冯家镇	feng jia zhen	210
 冯家庄	feng jia zhuang	233
-奉节县	feng jie xian	205
 冯井镇	feng jing zhen	133
-封开县	feng kai xian	168
 丰乐镇	feng le zhen	278
 丰林县	feng lin xian	1
 凤林镇	feng lin zhen	1
 冯楼村	feng lou cun	159
 冯马村	feng ma cun	52
-丰满区	feng man qu	154
 冯庙村	feng miao cun	1
 冯庙镇	feng miao zhen	139
-丰南区	feng nan qu	168
 冯坡村	feng po cun	69
 冯桥村	feng qiao cun	1
 枫桥镇	feng qiao zhen	300
-凤庆县	feng qing xian	168
-封丘县	feng qiu xian	193
-凤泉区	feng quan qu	105
-丰润区	feng run qu	181
 冯山村	feng shan cun	133
-凤山区	feng shan qu	220
-凤山县	feng shan xian	212
 丰收村	feng shou cun	100
-丰顺县	feng shun xian	188
-丰台区	feng tai qu	323
-凤台县	feng tai xian	188
 丰台镇	feng tai zhen	100
 冯塘村	feng tang cun	210
 冯屯村	feng tun cun	31
@@ -4268,299 +790,81 @@ sort: by_weight
 冯王村	feng wang cun	31
 冯屋村	feng wu cun	258
 风息堡	feng xi bao	294
-奉贤区	feng xian qu	232
 凤翔区	feng xiang qu	1
-奉新县	feng xin xian	184
-凤阳县	feng yang xian	203
 丰阳镇	feng yang zhen	100
 冯营村	feng ying cun	52
 冯营乡	feng ying xiang	145
-丰原区	feng yuan qu	1
 冯原镇	feng yuan zhen	193
-丰泽区	feng ze qu	192
 冯寨村	feng zhai cun	1
-丰镇市	feng zhen shi	161
 丰州镇	feng zhou zhen	100
 冯庄村	feng zhuang cun	240
 冯庄乡	feng zhuang xiang	171
-佛冈县	fo gang xian	172
-佛坪县	fo ping xian	162
-佛山市	fo shan shi	293
-福安市	fu an shi	206
-涪城区	fu cheng qu	180
-阜城县	fu cheng xian	154
 附城镇	fu cheng zhen	280
 府城镇	fu cheng zhen	262
-福鼎市	fu ding shi	208
-扶风县	fu feng xian	194
-福贡县	fu gong xian	202
-扶沟县	fu gou xian	172
-府谷县	fu gu xian	210
-福海县	fu hai xian	162
 傅家庄	fu jia zhuang	314
-福建省	fu jian sheng	338
-富锦市	fu jin shi	200
-阜康市	fu kang shi	182
-弗赖堡	fu lai bao	312
 弗雷堡	fu lei bao	220
 弗里堡	fu li bao	396
 富里乡	fu li xiang	1
-浮梁县	fu liang xian	188
 福临堡	fu lin bao	151
-涪陵区	fu ling qu	206
-福绵区	fu mian qu	128
-富民县	fu min xian	182
-阜南县	fu nan xian	194
-抚宁区	fu ning qu	176
-阜宁县	fu ning xian	242
-富宁县	fu ning xian	172
-富平县	fu ping xian	200
-阜平县	fu ping xian	198
-福清市	fu qing shi	242
-福泉市	fu quan shi	172
-芙蓉区	fu rong qu	280
 芙蓉镇	fu rong zhen	426
-福山区	fu shan qu	192
-浮山县	fu shan xian	168
-抚顺市	fu shun shi	232
-富顺县	fu shun xian	260
-抚顺县	fu shun xian	164
-抚松县	fu song xian	167
-扶绥县	fu sui xian	162
 符腾堡	fu teng bao	479
-福田区	fu tian qu	282
-阜新市	fu xin shi	200
-复兴区	fu xing qu	188
 复兴乡	fu xing xiang	322
 福兴乡	fu xing xiang	1
-富阳区	fu yang qu	232
-阜阳市	fu yang shi	240
-扶余市	fu yu shi	282
-富裕县	fu yu xian	154
-抚远市	fu yuan shi	298
-富源县	fu yuan xian	178
-富蕴县	fu yun xian	170
-福州市	fu zhou shi	345
-抚州市	fu zhou shi	340
 符兹堡	fu zi bao	195
-噶尔县	ga er xian	132
 嘎拉村	ga la cun	323
 噶伦堡	ga lun bao	291
-改则县	gai ze xian	152
-盖州市	gai zhou shi	174
 盖兹堡	gai zi bao	252
-甘德县	gan de xian	130
-甘谷县	gan gu xian	174
 甘河镇	gan he zhen	172
-甘井子	gan jing zi	181
-甘洛县	gan luo xian	152
-甘南县	gan nan xian	154
 甘泉堡	gan quan bao	240
-甘泉县	gan quan xian	164
-甘肃省	gan su sheng	315
-赣县区	gan xian qu	106
-赣榆区	gan yu qu	180
-甘州区	gan zhou qu	220
-赣州市	gan zhou shi	248
-甘孜县	gan zi xian	169
-岗巴县	gang ba xian	120
-港北区	gang bei qu	164
-刚察县	gang cha xian	172
-钢城区	gang cheng qu	177
 岗嘎镇	gang ga zhen	234
-港口区	gang kou qu	170
-港南区	gang nan qu	140
-冈山区	gang shan qu	1
-高安市	gao an shi	186
-高碑店	gao bei dian	213
-高昌区	gao chang qu	166
-藁城区	gao cheng qu	188
-高淳区	gao chun qu	206
 高峰乡	gao feng xiang	212
-高港区	gao gang qu	170
 高家堡	gao jia bao	274
 高家村	gao jia cun	266
 高家庄	gao jia zhuang	335
-皋兰县	gao lan xian	199
-高老庄	gao lao zhuang	50
-高陵区	gao ling qu	168
-高密市	gao mi shi	192
-高明区	gao ming qu	205
-高坪区	gao ping qu	164
-高平市	gao ping shi	242
 高平镇	gao ping zhen	250
 高桥镇	gao qiao zhen	395
-高青县	gao qing xian	196
 高树乡	gao shu xiang	1
-高台县	gao tai xian	167
-高唐县	gao tang xian	186
-高雄市	gao xiong shi	369
-高阳县	gao yang xian	189
-高要区	gao yao qu	180
-高邑县	gao yi xian	158
-高邮市	gao you shi	193
-高州市	gao zhou shi	195
-哥德堡	ge de bao	522
 戈德堡	ge de bao	402
 歌德堡	ge de bao	203
 哥登堡	ge deng bao	307
 戈登堡	ge deng bao	193
-格尔木	ge er mu	240
-革吉县	ge ji xian	104
-个旧市	ge jiu shi	225
 格洛堡	ge luo bao	178
 各乡镇	ge xiang zhen	517
 革镇堡	ge zhen bao	250
 各庄镇	ge zhuang zhen	222
-根河市	gen he shi	160
 根斯堡	gen si bao	223
-公安县	gong an xian	188
-弓长岭	gong chang ling	126
-贡嘎县	gong ga xian	139
 公馆乡	gong guan xiang	1
-共和县	gong he xian	172
-贡井区	gong jing qu	156
-贡觉县	gong jue xian	118
-贡寮区	gong liao qu	1
-巩留县	gong liu xian	204
-工农区	gong nong qu	138
-共青城	gong qing cheng	198
-拱墅区	gong shu qu	229
-巩义市	gong yi shi	250
 公主堡	gong zhu bao	155
-公主岭	gong zhu ling	246
-固安县	gu an xian	248
-古城堡	gu cheng bao	417
 古城村	gu cheng cun	349
-古城区	gu cheng qu	230
-故城县	gu cheng xian	196
-谷城县	gu cheng xian	184
 古城镇	gu cheng zhen	389
 古登堡	gu deng bao	360
 谷登堡	gu deng bao	295
-古交市	gu jiao shi	180
 古坑乡	gu keng xiang	1
-古浪县	gu lang xian	162
-古蔺县	gu lin xian	188
-鼓楼区	gu lou qu	269
-鼓山区	gu shan qu	198
-固始县	gu shi xian	206
-姑苏区	gu su qu	229
-古塔区	gu ta qu	115
 古腾堡	gu teng bao	389
-古田县	gu tian xian	201
-固阳县	gu yang xian	183
-古冶区	gu ye qu	152
-固原市	gu yuan shi	270
-沽源县	gu yuan xian	170
-古丈县	gu zhang xian	188
-固镇县	gu zhen xian	174
-寡妇村	gua fu cun	43
-瓜州县	gua zhou xian	188
-官渡区	guan du qu	259
-关庙区	guan miao qu	1
 关牧村	guan mu cun	286
-灌南县	guan nan xian	160
-观山湖	guan shan hu	240
 关山镇	guan shan zhen	1
-馆陶县	guan tao xian	178
-官田区	guan tian qu	1
 关西镇	guan xi zhen	1
-灌阳县	guan yang xian	150
 观音区	guan yin qu	1
-灌云县	guan yun xian	182
 官庄村	guan zhuang cun	333
 官庄镇	guan zhuang zhen	317
-广安区	guang an qu	166
-广安市	guang an shi	226
-广昌县	guang chang xian	182
-广德市	guang de shi	142
-广东省	guang dong sheng	355
-广丰区	guang feng qu	176
 光复乡	guang fu xiang	1
-广汉市	guang han shi	192
-广河县	guang he xian	172
-广陵区	guang ling qu	200
-广灵县	guang ling xian	153
-光明区	guang ming qu	174
-广南县	guang nan xian	186
-广宁县	guang ning xian	186
-广平县	guang ping xian	184
-广饶县	guang rao xian	192
-光山县	guang shan xian	198
-广水市	guang shui shi	162
 广信区	guang xin qu	1
-广阳区	guang yang qu	172
-广元市	guang yuan shi	292
-光泽县	guang ze xian	164
-广州市	guang zhou shi	386
-广宗县	guang zong xian	168
-贵池区	gui chi qu	186
-贵德县	gui de xian	194
-贵定县	gui ding xian	172
-桂东县	gui dong xian	172
-贵港市	gui gang shi	259
-桂林市	gui lin shi	269
-贵南县	gui nan xian	146
-桂平市	gui ping shi	172
-归仁区	gui ren qu	1
 龟山区	gui shan qu	1
 龟山乡	gui shan xiang	308
-贵溪市	gui xi shi	186
-贵阳市	gui yang shi	294
-桂阳县	gui yang xian	194
 归云庄	gui yun zhuang	220
-贵州省	gui zhou sheng	320
 国姓乡	guo xing xiang	1
-涡阳县	guo yang xian	188
 果园镇	guo yuan zhen	183
-哈巴河	ha ba he	144
-哈尔滨	ha er bin	390
-哈密市	ha mi shi	202
-海安市	hai an shi	110
-海勃湾	hai bo wan	150
-海沧区	hai cang qu	222
-海城区	hai cheng qu	178
-海城市	hai cheng shi	172
 海城镇	hai cheng zhen	236
-海德堡	hai de bao	582
-海淀区	hai dian qu	309
-海东市	hai dong shi	245
 海端乡	hai duan xiang	1
-海丰县	hai feng xian	209
-海港区	hai gang qu	218
-海口市	hai kou shi	272
-海拉尔	hai la er	232
-海林市	hai lin shi	457
-海陵区	hai ling qu	177
 海伦堡	hai lun bao	276
-海伦市	hai lun shi	164
-海门区	hai men qu	137
 海门镇	hai men zhen	268
-海南区	hai nan qu	144
-海南省	hai nan sheng	309
-海宁市	hai ning shi	207
-海森堡	hai sen bao	287
-海曙区	hai shu qu	228
-海棠区	hai tang qu	135
-海兴县	hai xing xian	134
-海盐县	hai yan xian	212
-海晏县	hai yan xian	168
-海阳市	hai yang shi	272
-海原县	hai yuan xian	182
-海州区	hai zhou qu	185
-海珠区	hai zhu qu	263
 韩北乡	han bei xiang	82
-汉滨区	han bin qu	204
 韩场村	han chang cun	1
 韩场镇	han chang zhen	139
-韩城市	han cheng shi	254
 韩城镇	han cheng zhen	171
 韩川村	han chuan cun	52
-汉川市	han chuan shi	168
 韩村乡	han cun xiang	246
 韩村镇	han cun zhen	188
-邯郸市	han dan shi	264
 韩店村	han dian cun	163
 韩甸镇	han dian zhen	239
 韩店镇	han dian zhen	201
@@ -4574,23 +878,15 @@ sort: by_weight
 韩集镇	han ji zhen	175
 韩家村	han jia cun	278
 韩家庄	han jia zhuang	254
-邗江区	han jiang qu	252
-涵江区	han jiang qu	188
 韩口村	han kou cun	82
 韩岭村	han ling cun	206
 韩楼村	han lou cun	112
 韩略村	han lve cun	236
 韩庙村	han miao cun	69
-汉南区	han nan qu	192
 韩桥村	han qiao cun	112
 韩山村	han shan cun	120
-邯山区	han shan qu	146
-含山县	han shan xian	178
 韩山镇	han shan zhen	150
-汉寿县	han shou xian	185
 韩台村	han tai cun	171
-汉台区	han tai qu	182
-寒亭区	han ting qu	176
 韩屯村	han tun cun	82
 韩洼村	han wa cun	127
 韩湾村	han wan cun	1
@@ -4600,173 +896,71 @@ sort: by_weight
 韩屋村	han wu cun	367
 韩西村	han xi cun	82
 韩岩村	han yan cun	112
-汉阳区	han yang qu	218
 韩阳镇	han yang zhen	103
-汉阴县	han yin xian	188
 韩营村	han ying cun	127
-汉源县	han yuan xian	175
 韩院乡	han yuan xiang	171
 韩寨村	han zhai cun	139
-汉中市	han zhong shi	374
 韩庄村	han zhuang cun	265
 韩庄乡	han zhuang xiang	196
 韩庄镇	han zhuang zhen	252
-杭锦旗	hang jin qi	180
-杭州市	hang zhou shi	372
 郝柏村	hao bai cun	423
-濠江区	hao jiang qu	176
 好离乡	hao li xiang	8
 豪仕堡	hao shi bao	178
-河北区	he bei qu	232
-河北省	he bei sheng	335
 河北镇	he bei zhen	310
-鹤壁市	he bi shi	268
-鹤城区	he cheng qu	163
-河池市	he chi shi	216
-合川区	he chuan qu	212
 河东村	he dong cun	284
-河东区	he dong qu	245
-合肥市	he fei shi	354
-鹤峰县	he feng xian	232
-鹤岗市	he gang shi	246
 何各庄	he ge zhuang	256
 贺根堡	he gen bao	304
 何家村	he jia cun	330
-河间市	he jian shi	212
-合江县	he jiang xian	234
-河津市	he jin shi	187
-和静县	he jing xian	174
-河口区	he kou qu	192
 河口镇	he kou zhen	361
-贺兰县	he lan xian	178
-和龙市	he long shi	162
 赫伦堡	he lun bao	331
 和美镇	he mei zhen	1
-河南省	he nan sheng	384
 和平村	he ping cun	395
-和平区	he ping qu	316
-和平县	he ping xian	182
 和平乡	he ping xiang	358
-鹤庆县	he qing xian	163
-河曲县	he qu xian	158
 河森堡	he sen bao	254
-赫山区	he shan qu	244
-鹤山区	he shan qu	102
-鹤山市	he shan shi	238
-合山市	he shan shi	152
 河升镇	he sheng zhen	205
-合水县	he shui xian	154
-和顺县	he shun xian	167
-和硕县	he shuo xian	157
-荷塘区	he tang qu	164
-和田市	he tian shi	191
-和田县	he tian xian	154
 河西村	he xi cun	303
-河西区	he xi qu	248
 河西乡	he xi xiang	242
 河西镇	he xi zhen	291
 河仙镇	he xian zhen	274
-合阳县	he yang xian	176
-河源市	he yuan shi	284
-菏泽市	he ze shi	278
 何寨村	he zhai cun	163
-赫章县	he zhang xian	174
-和政县	he zheng xian	151
-贺州市	he zhou shi	216
 何庄村	he zhuang cun	231
-合作市	he zuo shi	170
 黑城堡	hei cheng bao	322
-黑河市	hei he shi	213
-黑龙江	hei long jiang	331
-黑山县	hei shan xian	169
-黑水县	hei shui xian	192
 恒春镇	heng chun zhen	394
-衡东县	heng dong xian	180
-横峰县	heng feng xian	166
 横栏镇	heng lan zhen	263
-衡南县	heng nan xian	190
-横山区	heng shan qu	150
-恒山区	heng shan qu	89
-衡山县	heng shan xian	192
 横山乡	heng shan xiang	1
-衡水市	heng shui shi	250
-衡阳市	heng yang shi	255
-衡阳县	heng yang xian	194
-横州市	heng zhou shi	1
-红安县	hong an xian	194
-红岗区	hong gang qu	123
-红古区	hong gu qu	178
-红谷滩	hong gu tan	253
-红河县	hong he xian	168
-洪湖市	hong hu shi	194
-红花岗	hong hua gang	168
-洪江市	hong jiang shi	170
-虹口区	hong kou qu	256
 红名村	hong ming cun	197
-红旗区	hong qi qu	129
-红桥区	hong qiao qu	230
 虹桥镇	hong qiao zhen	352
 红山堡	hong shan bao	190
-洪山区	hong shan qu	240
-红山区	hong shan qu	211
 红寺堡	hong si bu	374
-红塔区	hong ta qu	180
-洪洞县	hong tong xian	208
-宏伟区	hong wei qu	90
 红星村	hong xing cun	337
-洪雅县	hong ya xian	188
 红岩村	hong yan cun	354
 红叶村	hong ye cun	287
-红原县	hong yuan xian	184
-洪泽区	hong ze qu	152
 后壁区	hou bi qu	1
 侯家庄	hou jia zhuang	210
 厚街镇	hou jie zhen	413
-后里区	hou li qu	1
 后龙镇	hou long zhen	1
-侯马市	hou ma shi	172
-湖北省	hu bei sheng	330
-湖滨区	hu bin qu	186
 胡德堡	hu de bao	306
-壶关县	hu guan xian	178
 胡家堡	hu jia bao	98
 扈家庄	hu jia zhuang	261
-湖口县	hu kou xian	174
 湖口乡	hu kou xiang	1
-呼兰区	hu lan qu	198
-湖里区	hu li qu	274
-虎林市	hu lin shi	145
 葫芦堡	hu lu bao	126
-葫芦岛	hu lu dao	236
 虎门镇	hu men zhen	416
-湖南省	hu nan sheng	337
 湖内区	hu nei qu	1
 琥珀堡	hu po bao	271
-虎丘区	hu qiu qu	152
 湖山庄	hu shan zhuang	203
 湖塘镇	hu tang zhen	220
-呼图壁	hu tu bi	156
 虎尾镇	hu wei zhen	1
 湖西乡	hu xi xiang	1
-胡杨河	hu yang he	1
-鄠邑区	hu yi qu	152
-湖州市	hu zhou shi	245
 华安村	hua an cun	1
-华安县	hua an xian	187
 华埠村	hua bu cun	31
 华埠镇	hua bu zhen	171
 华漕镇	hua cao zhen	290
 华城村	hua cheng cun	112
 华城镇	hua cheng zhen	208
-华池县	hua chi xian	199
 华冲镇	hua chong zhen	175
 华川村	hua chuan cun	127
-桦川县	hua chuan xian	144
-化德县	hua de xian	158
-桦甸市	hua dian shi	163
 华东村	hua dong cun	145
 华东镇	hua dong zhen	31
-花都区	hua du qu	234
 华丰村	hua feng cun	167
 华峰村	hua feng cun	52
 华峰乡	hua feng xiang	163
@@ -4782,31 +976,22 @@ sort: by_weight
 华坑村	hua keng cun	1
 华里村	hua li cun	52
 华联村	hua lian cun	52
-花莲市	hua lian shi	213
-花莲县	hua lian xian	270
 华林村	hua lin cun	1
 华岭村	hua ling cun	94
 华龙村	hua long cun	167
-华龙区	hua long qu	141
 华美村	hua mei cun	69
 华民乡	hua min xiang	150
 华明村	hua ming cun	103
 华明镇	hua ming zhen	196
 华南村	hua nan cun	139
-桦南县	hua nan xian	168
-华宁县	hua ning xian	169
 华坪村	hua ping cun	1
-华坪县	hua ping xian	156
 华岐乡	hua qi xiang	1
 华侨村	hua qiao cun	250
 华桥村	hua qiao cun	1
 华桥乡	hua qiao xiang	163
 华荣村	hua rong cun	1
-华容区	hua rong qu	136
-华容县	hua rong xian	194
 华容镇	hua rong zhen	159
 华山村	hua shan cun	265
-花山区	hua shan qu	132
 华山镇	hua shan zhen	257
 华盛村	hua sheng cun	94
 华石村	hua shi cun	1
@@ -4817,13 +1002,11 @@ sort: by_weight
 华堂村	hua tang cun	127
 华塘村	hua tang cun	94
 华塘镇	hua tang zhen	139
-华亭市	hua ting shi	108
 华亭镇	hua ting zhen	291
 话桐乡	hua tong xiang	8
 华佗镇	hua tuo zhen	219
 华西村	hua xi cun	436
 华溪村	hua xi cun	1
-花溪区	hua xi qu	260
 华溪镇	hua xi zhen	150
 华西镇	hua xi zhen	127
 华夏村	hua xia cun	1
@@ -4840,41 +1023,18 @@ sort: by_weight
 华阳村	hua yang cun	252
 华阳镇	hua yang zhen	317
 华一村	hua yi cun	167
-华阴市	hua yin shi	197
-华蓥市	hua ying shi	178
 华蓥乡	hua ying xiang	163
 花园村	hua yuan cun	356
 华源村	hua yuan cun	94
-花垣县	hua yuan xian	195
 花园庄	hua yuan zhuang	227
 华寨村	hua zhai cun	52
 华中村	hua zhong cun	133
-华州区	hua zhou qu	196
-化州市	hua zhou shi	188
 华州镇	hua zhou zhen	69
 华庄村	hua zhuang cun	69
 淮安区	huai an qu	1
-淮安市	huai an shi	250
-怀安县	huai an xian	184
-淮北市	huai bei shi	223
-淮滨县	huai bin xian	164
-怀化市	huai hua shi	342
-怀集县	huai ji xian	175
-怀来县	huai lai xian	205
-淮南市	huai nan shi	228
-怀宁县	huai ning xian	195
-怀仁市	huai ren shi	147
-怀柔区	huai rou qu	244
-淮上区	huai shang qu	160
 怀朔镇	huai shuo zhen	277
-淮阳区	huai yang qu	271
-槐荫区	huai yin qu	216
-淮阴区	huai yin qu	192
-怀远县	huai yuan xian	197
 怀远镇	huai yuan zhen	262
-环翠区	huan cui qu	180
 欢乐堡	huan le bao	158
-桓台县	huan tai xian	186
 黄安村	huang an cun	103
 黄庵村	huang an cun	69
 黄安镇	huang an zhen	133
@@ -4902,14 +1062,12 @@ sort: by_weight
 黄池村	huang chi cun	1
 黄池镇	huang chi zhen	120
 黄川村	huang chuan cun	31
-潢川县	huang chuan xian	186
 黄川镇	huang chuan zhen	150
 黄祠村	huang ci cun	69
 黄村村	huang cun cun	167
 黄村镇	huang cun zhen	349
 黄厝村	huang cuo cun	191
 黄埭镇	huang dai zhen	271
-黄岛区	huang dao qu	245
 黄刀镇	huang dao zhen	317
 黄店村	huang dian cun	94
 黄店镇	huang dian zhen	193
@@ -4929,14 +1087,12 @@ sort: by_weight
 黄丰村	huang feng cun	1
 黄岗村	huang gang cun	247
 黄港村	huang gang cun	82
-黄冈市	huang gang shi	236
 黄岗乡	huang gang xiang	155
 黄冈镇	huang gang zhen	281
 黄岗镇	huang gang zhen	257
 黄阁镇	huang ge zhen	297
 黄沟村	huang gou cun	175
 黄谷村	huang gu cun	103
-皇姑区	huang gu qu	234
 黄官镇	huang guan zhen	163
 黄国镇	huang guo zhen	208
 黄海村	huang hai cun	31
@@ -4948,7 +1104,6 @@ sort: by_weight
 黄湖镇	huang hu zhen	178
 黄花村	huang hua cun	210
 黄华村	huang hua cun	103
-黄骅市	huang hua shi	240
 黄花乡	huang hua xiang	213
 黄花镇	huang hua zhen	326
 黄华镇	huang hua zhen	171
@@ -4986,11 +1141,9 @@ sort: by_weight
 黄麟乡	huang lin xiang	133
 黄岭村	huang ling cun	236
 黄陵村	huang ling cun	69
-黄陵县	huang ling xian	186
 黄岭镇	huang ling zhen	133
 黄流镇	huang liu zhen	155
 黄龙村	huang long cun	246
-黄龙县	huang long xian	169
 黄龙乡	huang long xiang	231
 黄龙镇	huang long zhen	269
 黄楼村	huang lou cun	127
@@ -5003,7 +1156,6 @@ sort: by_weight
 黄毛村	huang mao cun	69
 黄茅镇	huang mao zhen	112
 黄梅村	huang mei cun	52
-黄梅县	huang mei xian	210
 黄梅镇	huang mei zhen	199
 黄门村	huang men cun	31
 黄冕乡	huang mian xiang	133
@@ -5021,17 +1173,13 @@ sort: by_weight
 黄棚村	huang peng cun	69
 黄陂村	huang pi cun	139
 黄皮村	huang pi cun	69
-黄陂区	huang pi qu	212
 黄陂镇	huang pi zhen	199
 黄坪村	huang ping cun	191
-黄平县	huang ping xian	172
 黄坪乡	huang ping xiang	199
 黄坪镇	huang ping zhen	112
 黄坡村	huang po cun	188
 黄坡镇	huang po zhen	237
 黄埔村	huang pu cun	317
-黄浦区	huang pu qu	283
-黄埔区	huang pu qu	241
 黄圃镇	huang pu zhen	299
 黄旗堡	huang qi bao	208
 黄旗村	huang qi cun	82
@@ -5045,14 +1193,10 @@ sort: by_weight
 黄沙乡	huang sha xiang	120
 黄沙镇	huang sha zhen	268
 黄山村	huang shan cun	305
-黄山区	huang shan qu	186
-黄山市	huang shan shi	322
 黄山乡	huang shan xiang	167
 黄山镇	huang shan zhen	231
 黄石村	huang shi cun	265
 黄狮村	huang shi cun	167
-黄石港	huang shi gang	178
-黄石市	huang shi shi	272
 黄市乡	huang shi xiang	139
 黄石镇	huang shi zhen	308
 黄市镇	huang shi zhen	171
@@ -5099,7 +1243,6 @@ sort: by_weight
 黄雁村	huang yan cun	204
 黄岩村	huang yan cun	139
 黄堰村	huang yan cun	52
-黄岩区	huang yan qu	172
 黄洋村	huang yang cun	127
 黄杨村	huang yang cun	31
 黄阳村	huang yang cun	1
@@ -5113,14 +1256,12 @@ sort: by_weight
 黄峪乡	huang yu xiang	155
 黄源村	huang yuan cun	94
 黄园村	huang yuan cun	1
-湟源县	huang yuan xian	189
 黄泽镇	huang ze zhen	224
 黄寨村	huang zhai cun	231
 黄宅镇	huang zhai zhen	199
 黄寨镇	huang zhai zhen	163
 黄站镇	huang zhan zhen	150
 湟中区	huang zhong qu	1
-黄州区	huang zhou qu	174
 黄洲镇	huang zhou zhen	185
 黄竹村	huang zhu cun	191
 黄竹镇	huang zhu zhen	185
@@ -5129,141 +1270,36 @@ sort: by_weight
 黄庄乡	huang zhuang xiang	175
 黄庄镇	huang zhuang zhen	252
 惠安堡	hui an bao	175
-惠安县	hui an xian	206
 回北镇	hui bei zhen	1
-会昌县	hui chang xian	178
-惠城区	hui cheng qu	227
-汇川区	hui chuan qu	181
-惠东县	hui dong xian	264
-会东县	hui dong xian	153
 回丰镇	hui feng zhen	338
-惠济区	hui ji qu	222
-惠来县	hui lai xian	199
 会理市	hui li shi	1
-回民区	hui min qu	207
-惠民县	hui min xian	174
-辉南县	hui nan xian	150
-会宁县	hui ning xian	191
 回宁乡	hui ning xiang	1
-惠农区	hui nong qu	136
 回萍乡	hui ping xiang	474
 回清镇	hui qing zhen	446
-惠山区	hui shan qu	196
-惠水县	hui shui xian	196
-会同县	hui tong xian	158
 回桐乡	hui tong xiang	455
 会文镇	hui wen zhen	282
-辉县市	hui xian shi	200
 回湘乡	hui xiang xiang	401
 回新乡	hui xin xiang	528
-惠阳区	hui yang qu	209
 回枣庄	hui zao zhuang	504
-会泽县	hui ze xian	194
-徽州区	hui zhou qu	189
-惠州市	hui zhou shi	274
-回族区	hui zu qu	130
-珲春市	hun chun shi	197
 浑河堡	hun he bao	169
-浑江区	hun jiang qu	130
-浑南区	hun nan qu	224
-浑源县	hun yuan xian	176
-霍城县	huo cheng xian	182
 霍夫堡	huo fu bao	386
-获嘉县	huo jia xian	173
 霍姆堡	huo mu bao	178
-霍邱县	huo qiu xian	272
-霍山县	huo shan xian	195
-霍州市	huo zhou shi	163
-吉安市	ji an shi	226
-集安市	ji an shi	167
-吉安县	ji an xian	236
 吉安乡	ji an xiang	1
 吉的堡	ji de bao	330
-鸡东县	ji dong xian	161
-鸡冠区	ji guan qu	112
 集集镇	ji ji zhen	1
 及老庄	ji lao zhuang	32
-吉林省	ji lin sheng	318
-吉林市	ji lin shi	314
-激流堡	ji liu bao	52
-基隆市	ji long shi	266
-吉隆县	ji long xian	155
-集美区	ji mei qu	232
-即墨区	ji mo qu	169
-吉木乃	ji mu nai	154
-济南市	ji nan shi	356
-集宁区	ji ning qu	190
-济宁市	ji ning shi	294
-稷山县	ji shan xian	186
-积石山	ji shi shan	146
-吉首市	ji shou shi	234
-吉水县	ji shui xian	194
-鸡腿堡	ji tui bao	197
-鸡西市	ji xi shi	248
-绩溪县	ji xi xian	246
-集贤县	ji xian xian	134
 吉祥村	ji xiang cun	280
-吉阳区	ji yang qu	236
-济阳区	ji yang qu	102
-济源市	ji yuan shi	203
-鸡泽县	ji ze xian	170
-蓟州区	ji zhou qu	257
-吉州区	ji zhou qu	247
-冀州区	ji zhou qu	153
-加查县	jia cha xian	111
-嘉定区	jia ding qu	248
 佳冬乡	jia dong xiang	1
-嘉禾县	jia he xian	170
 贾家庄	jia jia zhuang	199
-夹江县	jia jiang xian	178
-佳里区	jia li qu	196
-嘉黎县	jia li xian	137
-嘉陵区	jia ling qu	186
-佳木斯	jia mu si	240
-嘉善县	jia shan xian	255
-伽师县	jia shi xian	153
-贾汪区	jia wang qu	167
-甲仙区	jia xian qu	1
-嘉祥县	jia xiang xian	195
-嘉兴市	jia xing shi	253
-嘉义市	jia yi shi	268
-嘉义县	jia yi xian	281
-嘉荫县	jia yin xian	141
 贾雨村	jia yu cun	408
-嘉峪关	jia yu guan	242
-嘉鱼县	jia yu xian	170
-建安区	jian an qu	98
-尖草坪	jian cao ping	196
-建昌县	jian chang xian	176
-剑川县	jian chuan xian	178
-建德市	jian de shi	216
-剑阁县	jian ge xian	190
-剑河县	jian he xian	233
-建湖县	jian hu xian	158
-建华区	jian hua qu	132
 监利市	jian li shi	1
-建宁县	jian ning xian	173
-建瓯市	jian ou shi	230
-建平县	jian ping xian	194
 尖山堡	jian shan bao	226
-尖山区	jian shan qu	79
-建始县	jian shi xian	192
 尖石乡	jian shi xiang	1
-建水县	jian shui xian	186
-涧西区	jian xi qu	173
-建阳区	jian yang qu	186
-简阳市	jian yang shi	256
-建邺区	jian ye qu	223
-尖扎县	jian zha xian	164
-建制镇	jian zhi zhen	452
-江岸区	jiang an qu	238
-江安县	jiang an xian	227
 江安镇	jiang an zhen	246
 江坝村	jiang ba cun	31
 蒋坝镇	jiang ba zhen	159
 江北村	jiang bei cun	163
 江背村	jiang bei cun	145
-江北区	jiang bei qu	257
 江北乡	jiang bei xiang	159
 江背镇	jiang bei zhen	242
 江北镇	jiang bei zhen	163
@@ -5272,18 +1308,15 @@ sort: by_weight
 江滨村	jiang bin cun	155
 江埠乡	jiang bu xiang	276
 江城村	jiang cheng cun	127
-江城区	jiang cheng qu	404
 江城乡	jiang cheng xiang	94
 江城镇	jiang cheng zhen	204
 江川村	jiang chuan cun	178
-江川区	jiang chuan qu	133
 江村村	jiang cun cun	94
 江村乡	jiang cun xiang	133
 蒋村乡	jiang cun xiang	127
 蒋村镇	jiang cun zhen	281
 江村镇	jiang cun zhen	178
 江达村	jiang da cun	31
-江达县	jiang da xian	132
 江达乡	jiang da xiang	103
 江达镇	jiang da zhen	82
 江底乡	jiang di xiang	231
@@ -5296,7 +1329,6 @@ sort: by_weight
 江东镇	jiang dong zhen	252
 江兜村	jiang dou cun	150
 江渡村	jiang du cun	52
-江都区	jiang du qu	333
 蒋垛镇	jiang duo zhen	139
 江坊村	jiang fang cun	82
 蒋坊村	jiang fang cun	1
@@ -5307,9 +1339,7 @@ sort: by_weight
 江根村	jiang gen cun	188
 姜沟村	jiang gou cun	69
 江谷镇	jiang gu zhen	120
-江海区	jiang hai qu	186
 江汉村	jiang han cun	222
-江汉区	jiang han qu	225
 江河村	jiang he cun	94
 蒋河村	jiang he cun	1
 江河镇	jiang he zhen	133
@@ -5326,19 +1356,14 @@ sort: by_weight
 蒋家庄	jiang jia zhuang	167
 江家庄	jiang jia zhuang	103
 江津村	jiang jin cun	112
-江津区	jiang jin qu	298
 江镜镇	jiang jing zhen	222
 江咀村	jiang ju cun	94
-将军区	jiang jun qu	332
 江口村	jiang kou cun	281
-江口县	jiang kou xian	168
 江口乡	jiang kou xiang	247
 江口镇	jiang kou zhen	451
-将乐县	jiang le xian	172
 江里村	jiang li cun	31
 江林村	jiang lin cun	120
 江岭村	jiang ling cun	133
-江陵县	jiang ling xian	190
 江陵镇	jiang ling zhen	181
 江龙村	jiang long cun	69
 江龙镇	jiang long zhen	139
@@ -5346,14 +1371,11 @@ sort: by_weight
 江楼村	jiang lou cun	31
 姜楼村	jiang lou cun	1
 姜楼镇	jiang lou zhen	145
-江门市	jiang men shi	257
 江门镇	jiang men zhen	231
 姜庙村	jiang miao cun	1
 江南村	jiang nan cun	304
-江南区	jiang nan qu	292
 江南乡	jiang nan xiang	299
 江南镇	jiang nan zhen	312
-江宁区	jiang ning qu	242
 江宁镇	jiang ning zhen	264
 江平村	jiang ping cun	224
 江坪村	jiang ping cun	82
@@ -5369,14 +1391,12 @@ sort: by_weight
 蒋山村	jiang shan cun	251
 江山村	jiang shan cun	213
 姜山村	jiang shan cun	31
-江山市	jiang shan shi	196
 江山乡	jiang shan xiang	171
 姜山镇	jiang shan zhen	320
 江山镇	jiang shan zhen	196
 姜畲镇	jiang she zhen	199
 江市镇	jiang shi zhen	171
 江水村	jiang shui cun	94
-江苏省	jiang su sheng	347
 将台堡	jiang tai bao	418
 江塘村	jiang tang cun	139
 蒋堂村	jiang tang cun	133
@@ -5399,33 +1419,25 @@ sort: by_weight
 江尾镇	jiang wei zhen	159
 江西村	jiang xi cun	259
 江溪村	jiang xi cun	127
-江西省	jiang xi sheng	324
 江西乡	jiang xi xiang	133
 江西镇	jiang xi zhen	254
 姜席镇	jiang xi zhen	155
 江夏村	jiang xia cun	139
-江夏区	jiang xia qu	418
 蒋巷村	jiang xiang cun	206
 蒋巷镇	jiang xiang zhen	250
 江新村	jiang xin cun	298
 姜旭镇	jiang xu zhen	94
 江垭镇	jiang ya zhen	181
-姜堰区	jiang yan qu	201
 姜堰镇	jiang yan zhen	150
-江阳区	jiang yang qu	194
 姜窑村	jiang yao cun	94
 姜驿乡	jiang yi xiang	120
 江益镇	jiang yi zhen	145
-江阴市	jiang yin shi	423
 江阴镇	jiang yin zhen	245
 江英村	jiang ying cun	155
 姜营村	jiang ying cun	1
 蒋营村	jiang ying cun	1
 江英镇	jiang ying zhen	206
-江永县	jiang yong xian	183
-江油市	jiang you shi	244
 江源村	jiang yuan cun	112
-江源区	jiang yuan qu	418
 江源镇	jiang yuan zhen	191
 江藻镇	jiang zao zhen	155
 江寨村	jiang zhai cun	94
@@ -5433,36 +1445,18 @@ sort: by_weight
 姜寨村	jiang zhai cun	1
 江中村	jiang zhong cun	31
 江洲村	jiang zhou cun	127
-江州区	jiang zhou qu	159
 江洲镇	jiang zhou zhen	224
 江州镇	jiang zhou zhen	145
 蒋庄村	jiang zhuang cun	217
 姜庄村	jiang zhuang cun	155
 江庄村	jiang zhuang cun	120
 姜庄镇	jiang zhuang zhen	139
-江孜县	jiang zi xian	162
 江孜镇	jiang zi zhen	145
-蕉城区	jiao cheng qu	193
-交城县	jiao cheng xian	178
-蛟河市	jiao he shi	258
-椒江区	jiao jiang qu	190
-交口县	jiao kou xian	152
-蕉岭县	jiao ling xian	182
 角美镇	jiao mei zhen	265
 礁溪乡	jiao xi xiang	1
-胶州市	jiao zhou shi	224
-焦作市	jiao zuo shi	238
-揭东区	jie dong qu	154
 解放村	jie fang cun	281
-解放区	jie fang qu	251
 结古镇	jie gu zhen	284
-界首市	jie shou shi	268
-揭西县	jie xi xian	178
-介休市	jie xiu shi	174
-揭阳市	jie yang shi	230
 金安村	jin an cun	120
-晋安区	jin an qu	234
-金安区	jin an qu	198
 金安乡	jin an xiang	145
 金岙村	jin ao cun	1
 金坝村	jin ba cun	82
@@ -5476,19 +1470,14 @@ sort: by_weight
 金钗镇	jin chai zhen	159
 金厂村	jin chang cun	94
 金场村	jin chang cun	1
-金昌市	jin chang shi	254
 金厂镇	jin chang zhen	159
 金城堡	jin cheng bao	159
 金城村	jin cheng cun	210
-金城江	jin cheng jiang	196
-晋城市	jin cheng shi	292
 金城乡	jin cheng xiang	249
 金城镇	jin cheng zhen	391
 金成镇	jin cheng zhen	103
 金池村	jin chi cun	69
 金川村	jin chuan cun	210
-金川区	jin chuan qu	150
-金川县	jin chuan xian	174
 金川乡	jin chuan xiang	159
 金川镇	jin chuan zhen	322
 金茨堡	jin ci bao	279
@@ -5502,7 +1491,6 @@ sort: by_weight
 金鼎镇	jin ding zhen	127
 金东村	jin dong cun	103
 金洞村	jin dong cun	103
-金东区	jin dong qu	192
 金洞乡	jin dong xiang	255
 金东乡	jin dong xiang	145
 金垌镇	jin dong zhen	163
@@ -5516,7 +1504,6 @@ sort: by_weight
 金凤村	jin feng cun	185
 金峰村	jin feng cun	133
 金丰村	jin feng cun	112
-金凤区	jin feng qu	182
 金峰乡	jin feng xiang	338
 金凤镇	jin feng zhen	281
 金峰镇	jin feng zhen	270
@@ -5540,12 +1527,10 @@ sort: by_weight
 金河乡	jin he xiang	127
 金河镇	jin he zhen	330
 金湖村	jin hu cun	69
-金湖县	jin hu xian	242
 金湖乡	jin hu xiang	159
 金湖镇	jin hu zhen	353
 金花村	jin hua cun	280
 金华村	jin hua cun	199
-金华市	jin hua shi	314
 金花乡	jin hua xiang	233
 金华乡	jin hua xiang	163
 金华镇	jin hua zhen	275
@@ -5560,10 +1545,7 @@ sort: by_weight
 金家村	jin jia cun	273
 金家镇	jin jia zhen	150
 金甲镇	jin jia zhen	103
-金家庄	jin jia zhuang	259
 金江村	jin jiang cun	236
-锦江区	jin jiang qu	246
-晋江市	jin jiang shi	245
 金江乡	jin jiang xiang	167
 金江镇	jin jiang zhen	355
 金井村	jin jing cun	103
@@ -5574,7 +1556,6 @@ sort: by_weight
 金坑乡	jin keng xiang	171
 金孔镇	jin kong zhen	133
 金口村	jin kou cun	112
-金口河	jin kou he	172
 金口镇	jin kou zhen	178
 金库村	jin ku cun	94
 金宽镇	jin kuan zhen	298
@@ -5601,16 +1582,13 @@ sort: by_weight
 金马镇	jin ma zhen	222
 金美村	jin mei cun	120
 金门村	jin men cun	52
-金门县	jin men xian	241
 金门镇	jin men zhen	322
 金明村	jin ming cun	52
 金木村	jin mu cun	133
 金南村	jin nan cun	155
-津南区	jin nan qu	219
 金南镇	jin nan zhen	150
 晋宁区	jin ning qu	1
 金牛村	jin niu cun	185
-金牛区	jin niu qu	226
 金牛镇	jin niu zhen	314
 金瓯村	jin ou cun	188
 金盘村	jin pan cun	120
@@ -5619,8 +1597,6 @@ sort: by_weight
 金坪村	jin ping cun	159
 金屏村	jin ping cun	1
 金平村	jin ping cun	1
-金平区	jin ping qu	184
-锦屏县	jin ping xian	238
 金坪乡	jin ping xiang	199
 金坡村	jin po cun	103
 金浦村	jin pu cun	112
@@ -5635,13 +1611,11 @@ sort: by_weight
 金瑞镇	jin rui zhen	163
 金沙村	jin sha cun	246
 金砂村	jin sha cun	139
-金沙县	jin sha xian	159
 金砂乡	jin sha xiang	159
 金沙乡	jin sha xiang	145
 金沙镇	jin sha zhen	363
 金山堡	jin shan bao	215
 金山村	jin shan cun	338
-金山区	jin shan qu	236
 金山乡	jin shan xiang	295
 金山镇	jin shan zhen	348
 金山庄	jin shan zhuang	391
@@ -5653,28 +1627,22 @@ sort: by_weight
 金仕堡	jin shi bao	333
 金狮村	jin shi cun	219
 金石村	jin shi cun	103
-津市市	jin shi shi	133
 金石镇	jin shi zhen	274
 金水村	jin shui cun	94
-金水区	jin shui qu	231
 金水镇	jin shui zhen	139
 金斯堡	jin si bao	436
 金寺村	jin si cun	69
 金薮乡	jin sou xiang	150
 金锁镇	jin suo zhen	120
 金塔村	jin ta cun	127
-金塔县	jin ta xian	167
 金塔镇	jin ta zhen	120
 金台村	jin tai cun	167
-金台区	jin tai qu	163
 金滩村	jin tan cun	150
 金潭村	jin tan cun	1
-金坛区	jin tan qu	177
 金滩乡	jin tan xiang	196
 金滩镇	jin tan zhen	228
 金塘村	jin tang cun	188
 金堂村	jin tang cun	171
-金堂县	jin tang xian	204
 金塘镇	jin tang zhen	265
 金淘镇	jin tao zhen	266
 金田村	jin tian cun	250
@@ -5686,17 +1654,13 @@ sort: by_weight
 金屯镇	jin tun zhen	188
 金洼村	jin wa cun	112
 金湾村	jin wan cun	103
-金湾区	jin wan qu	202
 金王村	jin wang cun	1
 金圩村	jin wei cun	1
 金武村	jin wu cun	145
 金溪村	jin xi cun	201
 金西村	jin xi cun	112
-金溪县	jin xi xian	176
 金溪镇	jin xi zhen	188
-进贤县	jin xian xian	206
 金仙镇	jin xian zhen	139
-金乡县	jin xiang xian	193
 金乡镇	jin xiang zhen	265
 金厢镇	jin xiang zhen	155
 金新村	jin xin cun	31
@@ -5715,7 +1679,6 @@ sort: by_weight
 金堰村	jin yan cun	1
 金洋村	jin yang cun	159
 金阳村	jin yang cun	1
-金阳县	jin yang xian	144
 金羊镇	jin yang zhen	145
 金银村	jin yin cun	215
 金营村	jin ying cun	31
@@ -5727,25 +1690,18 @@ sort: by_weight
 金源村	jin yuan cun	133
 金园村	jin yuan cun	82
 金元村	jin yuan cun	1
-晋源区	jin yuan qu	262
 金源乡	jin yuan xiang	215
 金云村	jin yun cun	1
-缙云县	jin yun xian	194
 金灶镇	jin zao zhen	372
 金泽村	jin ze cun	201
 金泽镇	jin ze zhen	287
 金寨村	jin zhai cun	145
-金寨县	jin zhai xian	222
 金寨镇	jin zhai zhen	139
 金盏乡	jin zhan xiang	300
 金钟村	jin zhong cun	145
 金中村	jin zhong cun	31
-晋中市	jin zhong shi	299
 金钟镇	jin zhong zhen	175
 金洲村	jin zhou cun	127
-金州区	jin zhou qu	188
-锦州市	jin zhou shi	218
-晋州市	jin zhou shi	170
 金洲乡	jin zhou xiang	127
 金洲镇	jin zhou zhen	171
 金竹村	jin zhu cun	236
@@ -5756,93 +1712,20 @@ sort: by_weight
 金兹堡	jin zi bao	289
 金子村	jin zi cun	178
 金紫村	jin zi cun	1
-静安区	jing an qu	267
-靖安县	jing an xian	169
 井岸镇	jing an zhen	324
-靖边县	jing bian xian	198
-泾川县	jing chuan xian	174
-旌德县	jing de xian	190
 景德镇	jing de zhen	632
-井冈山	jing gang shan	316
-静海区	jing hai qu	196
-精河县	jing he xian	159
-景洪市	jing hong shi	201
-镜湖区	jing hu qu	171
-靖江市	jing jiang shi	190
-京口区	jing kou qu	155
-静乐县	jing le xian	162
-荆门市	jing men shi	226
-静宁县	jing ning xian	223
-京山市	jing shan shi	126
-景泰县	jing tai xian	170
-靖西市	jing xi shi	203
-井陉县	jing xing xian	198
-竞秀区	jing xiu qu	142
-井研县	jing yan xian	163
-旌阳区	jing yang qu	182
-泾阳县	jing yang xian	202
-靖宇县	jing yu xian	168
-泾源县	jing yuan xian	228
-靖远县	jing yuan xian	167
-荆州区	jing zhou qu	176
-荆州市	jing zhou shi	348
-鸠江区	jiu jiang qu	157
-九江市	jiu jiang shi	249
 九江镇	jiu jiang zhen	284
-九龙坡	jiu long po	222
-九龙县	jiu long xian	142
 久米村	jiu mi cun	320
-酒泉市	jiu quan shi	218
 九如乡	jiu ru xiang	1
-九台区	jiu tai qu	176
-九原区	jiu yuan qu	181
-九寨沟	jiu zhai gou	312
-久治县	jiu zhi xian	147
 聚乐堡	ju le bao	120
-巨鹿县	ju lu xian	169
-莒南县	ju nan xian	194
-句容市	ju rong shi	251
-聚贤庄	ju xian zhuang	40
-巨野县	ju ye xian	192
-鄄城县	juan cheng xian	182
 均安镇	jun an zhen	310
-筠连县	jun lian xian	182
-君山区	jun shan qu	154
 卡芬堡	ka fen bao	120
-卡若区	ka ruo qu	131
-喀什市	ka shi shi	249
 卡斯堡	ka si bao	219
-开封市	kai feng shi	296
-开福区	kai fu qu	236
-开化县	kai hua xian	190
-开江县	kai jiang xian	170
-凯里市	kai li shi	266
-开鲁县	kai lu xian	246
-开平区	kai ping qu	164
-开平市	kai ping shi	260
 恺撒堡	kai sa bao	244
-开阳县	kai yang xian	238
-开远市	kai yuan shi	479
-开原市	kai yuan shi	469
-开州区	kai zhou qu	182
 崁顶乡	kan ding xiang	1
-康巴什	kang ba shi	209
-康保县	kang bao xian	155
-康定市	kang ding shi	173
-康乐县	kang le xian	166
-康马县	kang ma xian	133
-康平县	kang ping xian	190
 烤腿堡	kao tui bao	210
-柯城区	ke cheng qu	176
-克东县	ke dong xian	146
-科尔沁	ke er qin	218
-岢岚县	ke lan xian	152
 克伦堡	ke lun bao	276
 柯能堡	ke neng bao	281
-柯坪县	ke ping xian	120
-柯桥区	ke qiao qu	211
-克山县	ke shan xian	136
-垦利区	ken li qu	138
 恐怖堡	kong bu bao	219
 孔城镇	kong cheng zhen	167
 孔村镇	kong cun zhen	188
@@ -5862,84 +1745,33 @@ sort: by_weight
 孔滩镇	kong tan zhen	159
 孔塘村	kong tang cun	82
 孔田镇	kong tian zhen	155
-崆峒区	kong tong qu	168
 孔头村	kong tou cun	1
 孔营村	kong ying cun	1
 孔寨村	kong zhai cun	201
 孔庄村	kong zhuang cun	163
 口湖乡	kou hu xiang	1
 库车市	ku che shi	1
-库尔勒	ku er le	236
-库伦旗	ku lun qi	175
-宽城区	kuan cheng qu	202
-奎屯市	kui tun shi	169
-奎文区	kui wen qu	177
 昆都仑	kun du lun	1
-昆明市	kun ming shi	361
-昆山市	kun shan shi	288
 昆士堡	kun shi bao	158
 昆阳镇	kun yang zhen	291
-昆玉市	kun yu shi	122
 拉夫堡	la fu bao	405
-拉萨市	la sa shi	306
 拉斯堡	la si bao	201
 辣腿堡	la tui bao	310
-拉孜县	la zi xian	148
-来安县	lai an xian	190
 来北镇	lai bei zhen	1
-来宾市	lai bin shi	212
-来凤县	lai feng xian	161
 来丰镇	lai feng zhen	338
 来宁乡	lai ning xiang	1
 来萍乡	lai ping xiang	474
 来清镇	lai qing zhen	446
-莱山区	lai shan qu	190
-涞水县	lai shui xian	191
 来桐乡	lai tong xiang	455
-莱芜区	lai wu qu	166
-莱西市	lai xi shi	262
 来湘乡	lai xiang xiang	401
 来新乡	lai xin xiang	528
-莱阳市	lai yang shi	180
-来义乡	lai yi xiang	1
-涞源县	lai yuan xian	188
 来枣庄	lai zao zhuang	504
-莱州市	lai zhou shi	190
-岚皋县	lan gao xian	161
-兰考县	lan kao xian	204
-兰陵县	lan ling xian	209
-兰山区	lan shan qu	248
-岚山区	lan shan qu	169
-蓝山县	lan shan xian	170
-蓝田县	lan tian xian	211
-兰溪市	lan xi shi	200
-兰西县	lan xi xian	202
 蓝兴堡	lan xing bao	274
 兰屿乡	lan yu xiang	1
-兰州市	lan zhou shi	338
-廊坊市	lang fang shi	253
-浪卡子	lang ka zi	110
-郎溪县	lang xi xian	167
-琅琊区	lang ya qu	146
-阆中市	lang zhong shi	212
-老边区	lao bian qu	136
-老城区	lao cheng qu	288
 老城镇	lao cheng zhen	322
 劳恩堡	lao en bao	345
-老河口	lao he kou	190
 老隆镇	lao long zhen	199
-崂山区	lao shan qu	246
-乐亭县	lao ting xian	188
 老转村	lao zhuan cun	293
-乐安县	le an xian	181
-乐昌市	le chang shi	162
-乐都区	le du qu	200
-乐陵市	le ling shi	177
-乐平市	le ping shi	172
-乐山市	le shan shi	293
-乐业县	le ye xian	139
-乐至县	le zhi xian	191
-雷波县	lei bo xian	162
 雷埠村	lei bu cun	159
 雷埠乡	lei bu xiang	302
 雷池乡	lei chi xiang	171
@@ -5962,35 +1794,21 @@ sort: by_weight
 雷平镇	lei ping zhen	159
 雷坡村	lei po cun	69
 雷山村	lei shan cun	120
-雷山县	lei shan xian	196
 雷屯村	lei tun cun	82
-类乌齐	lei wu qi	146
-耒阳市	lei yang shi	198
 雷音村	lei yin cun	94
 雷寨村	lei zhai cun	1
-雷州市	lei zhou shi	186
 雷庄村	lei zhuang cun	201
-冷水江	leng shui jiang	156
-冷水滩	leng shui tan	142
 李安村	li an cun	82
 李岙村	li ao cun	185
 李坝村	li ba cun	133
 李堡村	li bao cun	145
 李堡镇	li bao zhen	163
 李砭村	li bian cun	139
-荔波县	li bo xian	187
 李埠镇	li bu zhen	120
-李沧区	li cang qu	240
 李曹镇	li cao zhen	103
 李岔村	li cha cun	133
 李场村	li chang cun	133
 李城村	li cheng cun	69
-历城区	li cheng qu	242
-荔城区	li cheng qu	198
-鲤城区	li cheng qu	193
-黎城县	li cheng xian	176
-利川市	li chuan shi	252
-黎川县	li chuan xian	159
 李村镇	li cun zhen	246
 李厝村	li cuo cun	120
 李道村	li dao cun	69
@@ -6031,9 +1849,7 @@ sort: by_weight
 李家镇	li jia zhen	294
 李家庄	li jia zhuang	382
 李江村	li jiang cun	199
-丽江市	li jiang shi	292
 李街村	li jie cun	31
-利津县	li jin xian	187
 李井村	li jing cun	52
 李咀村	li ju cun	1
 李俊镇	li jun zhen	155
@@ -6042,7 +1858,6 @@ sort: by_weight
 李口镇	li kou zhen	213
 李林村	li lin cun	103
 李岭村	li ling cun	178
-醴陵市	li ling shi	194
 李楼村	li lou cun	237
 李楼乡	li lou xiang	155
 李楼镇	li lou zhen	204
@@ -6054,50 +1869,37 @@ sort: by_weight
 黎明村	li ming cun	267
 李明庄	li ming zhuang	155
 李坪村	li ping cun	133
-黎平县	li ping xian	197
 李坡村	li po cun	150
-荔浦市	li pu shi	96
 李七庄	li qi zhuang	265
 李桥村	li qiao cun	150
 李桥乡	li qiao xiang	178
 李桥镇	li qiao zhen	302
 李渠村	li qu cun	94
 李渠镇	li qu zhen	139
-礼泉县	li quan xian	244
 李瑞镇	li rui zhen	345
 李山村	li shan cun	139
-立山区	li shan qu	120
 李市村	li shi cun	94
 李石村	li shi cun	69
-离石区	li shi qu	200
 李市镇	li shi zhen	246
 犁市镇	li shi zhen	146
 李士庄	li shi zhuang	127
-梨树区	li shu qu	123
-梨树县	li shu xian	178
-溧水区	li shui qu	215
-丽水市	li shui shi	236
 利斯堡	li si bao	278
 李寺村	li si cun	1
 李遂镇	li sui zhen	234
 李台村	li tai cun	69
 李堂村	li tang cun	69
 李塘村	li tang cun	1
-理塘县	li tang xian	182
 李田村	li tian cun	1
 李廷镇	li ting zhen	289
-利通区	li tong qu	156
 李屯村	li tun cun	103
 李屯乡	li tun xiang	103
 李洼村	li wa cun	52
 李湾村	li wan cun	263
-荔湾区	li wan qu	247
 李王村	li wang cun	1
 李圩村	li wei cun	1
 李屋村	li wu cun	231
 李西村	li xi cun	120
 李溪镇	li xi zhen	120
-历下区	li xia qu	232
 李仙村	li xian cun	1
 李相村	li xiang cun	127
 李巷村	li xiang cun	112
@@ -6105,11 +1907,9 @@ sort: by_weight
 李晓村	li xiao cun	127
 李新村	li xin cun	247
 李辛村	li xin cun	82
-利辛县	li xin xian	187
 李兴镇	li xing zhen	52
 李阳村	li yang cun	1
 李杨村	li yang cun	1
-溧阳市	li yang shi	198
 李阳镇	li yang zhen	145
 李窑村	li yao cun	188
 李尧村	li yao cun	31
@@ -6127,37 +1927,19 @@ sort: by_weight
 李张村	li zhang cun	1
 李振村	li zhen cun	196
 李中镇	li zhong zhen	155
-利州区	li zhou qu	174
 李庄村	li zhuang cun	353
 里庄村	li zhuang cun	185
 李庄乡	li zhuang xiang	243
 李庄镇	li zhuang zhen	354
 李子村	li zi cun	167
 李子乡	li zi xiang	133
-连城县	lian cheng xian	194
-莲池区	lian chi qu	148
-莲都区	lian du qu	180
-莲湖区	lian hu qu	222
-莲花县	lian hua xian	166
-廉江市	lian jiang shi	202
-连江县	lian jiang xian	300
-连平县	lian ping xian	172
-连山区	lian shan qu	146
-涟水县	lian shui xian	209
 练塘镇	lian tang zhen	250
-濂溪区	lian xi qu	140
-涟源市	lian yuan shi	184
-连云港	lian yun gang	276
-连云区	lian yun qu	166
-连州市	lian zhou shi	176
 梁板乡	liang ban xiang	159
 梁岔镇	liang cha zhen	139
-凉城县	liang cheng xian	171
 梁村乡	liang cun xiang	193
 梁村镇	liang cun zhen	208
 梁厝村	liang cuo cun	112
 梁带村	liang dai cun	208
-两当县	liang dang xian	148
 梁东村	liang dong cun	1
 梁垛镇	liang duo zhen	163
 梁岗村	liang gang cun	82
@@ -6166,7 +1948,6 @@ sort: by_weight
 梁官村	liang guan cun	69
 梁河村	liang he cun	112
 两河村	liang he cun	100
-梁河县	liang he xian	174
 两河乡	liang he xiang	100
 两河镇	liang he zhen	271
 梁后庄	liang hou zhuang	210
@@ -6186,10 +1967,8 @@ sort: by_weight
 梁坡村	liang po cun	94
 梁前村	liang qian cun	1
 梁桥村	liang qiao cun	1
-良庆区	liang qing qu	207
 梁泉村	liang quan cun	69
 梁山村	liang shan cun	163
-梁山县	liang shan xian	190
 梁山镇	liang shan zhen	206
 梁淑庄	liang shu zhuang	215
 梁水镇	liang shui zhen	159
@@ -6202,206 +1981,73 @@ sort: by_weight
 梁王村	liang wang cun	94
 梁屋村	liang wu cun	163
 梁西村	liang xi cun	82
-梁溪区	liang xi qu	200
 梁营村	liang ying cun	1
 两英镇	liang ying zhen	100
 梁永镇	liang yong zhen	163
-梁园区	liang yuan qu	168
 梁原乡	liang yuan xiang	127
 梁园镇	liang yuan zhen	171
 梁寨村	liang zhai cun	82
 梁赵村	liang zhao cun	133
-凉州区	liang zhou qu	208
 梁庄村	liang zhuang cun	222
 梁庄乡	liang zhuang xiang	224
 梁庄镇	liang zhuang zhen	159
 梁子村	liang zi cun	219
-梁子湖	liang zi hu	188
-聊城市	liao cheng shi	244
-辽宁省	liao ning sheng	327
-辽阳市	liao yang shi	415
-辽阳县	liao yang xian	157
-辽源市	liao yuan shi	202
-辽中区	liao zhong qu	164
-烈山区	lie shan qu	164
-临安区	lin an qu	157
 林边乡	lin bian xiang	1
 林伯镇	lin bo zhen	8
-临沧市	lin cang shi	222
-临城县	lin cheng xian	174
 临城镇	lin cheng zhen	254
-临川区	lin chuan qu	180
-林甸县	lin dian xian	142
-临汾市	lin fen shi	248
-临高县	lin gao xian	190
 临桂区	lin gui qu	1
-临海市	lin hai shi	200
-临河区	lin he qu	178
 临河镇	lin he zhen	100
 临湖镇	lin hu zhen	100
 林家堡	lin jia bao	285
 临江村	lin jiang cun	100
-临江市	lin jiang shi	148
 临江镇	lin jiang zhen	291
 林口区	lin kou qu	1
-林口县	lin kou xian	137
-临澧县	lin li xian	172
 麟洛乡	lin luo xiang	324
 林内乡	lin nei xiang	1
 临平区	lin ping qu	1
 临平镇	lin ping zhen	100
 临浦镇	lin pu zhen	100
-临清市	lin qing shi	170
-临朐县	lin qu xian	202
-临泉县	lin quan xian	204
-临沭县	lin shu xian	186
-邻水县	lin shui xian	220
-临潭县	lin tan xian	161
-临洮县	lin tao xian	194
-临潼区	lin tong qu	219
-临渭区	lin wei qu	198
-临武县	lin wu xian	168
-林西县	lin xi xian	177
-临西县	lin xi xian	160
-临夏市	lin xia shi	177
-临夏县	lin xia xian	159
-临翔区	lin xiang qu	138
-临湘市	lin xiang shi	178
-临沂市	lin yi shi	316
-临猗县	lin yi xian	199
-临邑县	lin yi xian	192
-临颍县	lin ying xian	232
-麟游县	lin you xian	168
-林园区	lin yuan qu	1
-临泽县	lin ze xian	162
-临漳县	lin zhang xian	194
 林芝市	lin zhi shi	1
-林州市	lin zhou shi	222
-林周县	lin zhou xian	156
-临淄区	lin zi qu	200
-灵宝市	ling bao shi	207
-灵璧县	ling bi xian	246
-陵城区	ling cheng qu	195
-陵川县	ling chuan xian	196
-灵川县	ling chuan xian	174
-岭东区	ling dong qu	71
-凌海市	ling hai shi	140
-凌河区	ling he qu	106
-零陵区	ling ling qu	170
-灵丘县	ling qiu xian	172
-灵山县	ling shan xian	192
-灵石县	ling shi xian	234
-灵寿县	ling shou xian	203
-灵台县	ling tai xian	154
-灵武市	ling wu shi	180
-苓雅区	ling ya qu	200
-凌源市	ling yuan shi	160
-凌云县	ling yun xian	166
-留坝县	liu ba xian	174
-柳北区	liu bei qu	166
-柳城县	liu cheng xian	172
 六村堡	liu cun pu	243
 六龟区	liu gui qu	1
-柳河县	liu he xian	162
 浏河镇	liu he zhen	236
 刘家村	liu jia cun	296
 六甲区	liu jia qu	1
 刘家庄	liu jia zhuang	256
-柳江区	liu jiang qu	374
 六脚乡	liu jiao xiang	1
 刘克庄	liu ke zhuang	330
 刘客庄	liu ke zhuang	8
-柳林县	liu lin xian	174
 柳林镇	liu lin zhen	326
-柳南区	liu nan qu	152
-六盘水	liu pan shui	236
 刘绮庄	liu qi zhuang	8
 琉球乡	liu qiu xiang	1
-浏阳市	liu yang shi	225
-柳营区	liu ying qu	1
-六枝特	liu zhi te	1
-柳州市	liu zhou shi	259
 刘庄村	liu zhuang cun	287
-龙安区	long an qu	114
-隆安县	long an xian	182
-隆昌市	long chang shi	107
-龙城区	long cheng qu	138
-龙川县	long chuan xian	230
-陇川县	long chuan xian	177
-隆德县	long de xian	174
 龙洞堡	long dong bao	430
-龙凤区	long feng qu	140
-龙岗区	long gang qu	320
-龙港区	long gang qu	118
-龙港市	long gang shi	140
 龙港镇	long gang zhen	338
 龙海区	long hai qu	1
-龙湖区	long hu qu	180
-龙华区	long hua qu	235
-隆化县	long hua xian	222
 龙华镇	long hua zhen	311
-隆回县	long hui xian	191
 龙家堡	long jia bao	132
-龙江县	long jiang xian	168
 龙江镇	long jiang zhen	306
 龙井村	long jing cun	408
-龙井区	long jing qu	1
-龙井市	long jing shi	214
-龙口市	long kou shi	191
-龙里县	long li xian	172
-龙陵县	long ling xian	172
-龙马潭	long ma tan	1
-龙门县	long men xian	197
 龙门镇	long men zhen	359
 龙南市	long nan shi	1
-陇南市	long nan shi	1
-龙崎区	long qi qu	1
-龙泉市	long quan shi	172
-龙泉驿	long quan yi	257
 龙泉镇	long quan zhen	368
-龙沙区	long sha qu	133
-龙山区	long shan qu	187
-龙山县	long shan xian	186
 龙山镇	long shan zhen	376
 龙山庄	long shan zhuang	151
-龙潭区	long tan qu	202
-龙亭区	long ting qu	137
-龙湾区	long wan qu	204
-龙文区	long wen qu	186
-陇西县	long xi xian	183
 龙圩区	long xu qu	1
-龙岩市	long yan shi	240
-隆阳区	long yang qu	178
-隆尧县	long yao xian	177
-龙游县	long you xian	191
-龙州县	long zhou xian	158
-龙子湖	long zi hu	1
-隆子县	long zi xian	138
-娄底市	lou di shi	228
-娄烦县	lou fan xian	164
-娄星区	lou xing qu	162
-六安市	lu an shi	242
 鲁班村	lu ban cun	52
 鲁班镇	lu ban zhen	204
 鲁堡村	lu bao cun	31
 芦苞镇	lu bao zhen	226
-路北区	lu bei qu	186
 鲁北镇	lu bei zhen	206
 鹿草乡	lu cao xiang	1
 鲁城村	lu cheng cun	31
-鹿城区	lu cheng qu	294
-潞城区	lu cheng qu	108
 鲁城镇	lu cheng zhen	127
-陆川县	lu chuan xian	164
 鲁村村	lu cun cun	52
 鲁村镇	lu cun zhen	167
 鲁店村	lu dian cun	69
-鲁甸县	lu dian xian	166
 鲁丁村	lu ding cun	31
-泸定县	lu ding xian	191
 鲁东村	lu dong cun	201
 鲁垛镇	lu duo zhen	178
-陆丰市	lu feng shi	196
 禄丰市	lu feng shi	1
 鲁岗村	lu gang cun	1
 鹿港镇	lu gang zhen	414
@@ -6409,36 +2055,18 @@ sort: by_weight
 鲁沟村	lu gou cun	201
 鹿谷乡	lu gu xiang	389
 鲁河村	lu he cun	103
-六合区	lu he qu	214
-陆河县	lu he xian	166
 鲁河乡	lu he xiang	167
-炉霍县	lu huo xian	160
 鲁集村	lu ji cun	1
 鲁家村	lu jia cun	240
 陆家庄	lu jia zhuang	314
-庐江县	lu jiang xian	221
 鲁克村	lu ke cun	155
-渌口区	lu kou qu	117
 鲁朗镇	lu lang zhen	236
-陆良县	lu liang xian	180
-卢龙县	lu long xian	185
 鲁楼村	lu lou cun	69
-路南区	lu nan qu	160
 卢嫩堡	lu nen bao	229
-路桥区	lu qiao qu	173
 鲁桥镇	lu qiao zhen	254
-碌曲县	lu qu xian	148
-鹿泉区	lu quan qu	190
 鲁容乡	lu rong xiang	181
-卢森堡	lu sen bao	622
 鲁山村	lu shan cun	52
-庐山市	lu shan shi	157
-芦山县	lu shan xian	214
-鲁山县	lu shan xian	201
-卢氏县	lu shi xian	216
 鲁史镇	lu shi zhen	127
-泸水市	lu shui shi	126
-芦淞区	lu song qu	174
 鲁塘村	lu tang cun	1
 鲁塘镇	lu tang zhen	193
 鲁屯村	lu tun cun	52
@@ -6446,39 +2074,21 @@ sort: by_weight
 鲁文庄	lu wen zhuang	171
 鲁西村	lu xi cun	145
 鲁溪村	lu xi cun	31
-泸溪县	lu xi xian	179
-泸西县	lu xi xian	166
-芦溪县	lu xi xian	157
 鲁溪镇	lu xi zhen	145
 鲁新村	lu xin cun	163
-庐阳区	lu yang qu	238
 鹿野乡	lu ye xiang	1
-鹿邑县	lu yi xian	192
 鲁营村	lu ying cun	159
 鲁寨村	lu zhai cun	1
-鹿寨县	lu zhai xian	166
 鲁掌镇	lu zhang zhen	167
-潞州区	lu zhou qu	112
-芦洲区	lu zhou qu	1
-泸州市	lu zhou shi	296
-路竹区	lu zhu qu	1
 芦竹区	lu zhu qu	1
 鲁庄村	lu zhuang cun	139
 鲁庄镇	lu zhuang zhen	82
-栾城区	luan cheng qu	184
-栾川县	luan chuan xian	190
-滦南县	luan nan xian	168
-滦平县	luan ping xian	208
-滦州市	luan zhou shi	112
-略阳县	lue yang xian	168
 仑背乡	lun bei xiang	1
-轮台县	lun tai xian	157
 罗坳镇	luo ao zhen	199
 罗坝村	luo ba cun	69
 罗坝镇	luo ba zhen	181
 罗碑村	luo bei cun	139
 罗陂村	luo bei cun	1
-萝北县	luo bei xian	154
 罗布村	luo bu cun	249
 罗埠镇	luo bu zhen	139
 罗场镇	luo chang zhen	167
@@ -6486,15 +2096,12 @@ sort: by_weight
 罗城乡	luo cheng xiang	145
 罗城镇	luo cheng zhen	280
 罗川村	luo chuan cun	52
-洛川县	luo chuan xian	166
 罗村镇	luo cun zhen	185
 罗厝村	luo cuo cun	163
 洛带镇	luo dai zhen	230
 罗道庄	luo dao zhuang	167
 罗店村	luo dian cun	69
-罗甸县	luo dian xian	156
 罗店镇	luo dian zhen	336
-罗定市	luo ding shi	184
 罗东村	luo dong cun	94
 罗洞村	luo dong cun	31
 罗东镇	luo dong zhen	420
@@ -6521,7 +2128,6 @@ sort: by_weight
 罗洪乡	luo hong xiang	188
 罗宏镇	luo hong zhen	215
 罗湖村	luo hu cun	185
-罗湖区	luo hu qu	267
 罗集村	luo ji cun	1
 罗吉镇	luo ji zhen	188
 罗家村	luo jia cun	283
@@ -6529,8 +2135,6 @@ sort: by_weight
 罗家镇	luo jia zhen	296
 罗家庄	luo jia zhuang	208
 罗江村	luo jiang cun	120
-洛江区	luo jiang qu	169
-罗江区	luo jiang qu	156
 罗江乡	luo jiang xiang	133
 罗江镇	luo jiang zhen	199
 罗锦镇	luo jin zhen	167
@@ -6547,25 +2151,19 @@ sort: by_weight
 罗岭村	luo ling cun	1
 罗岭乡	luo ling xiang	196
 罗岭镇	luo ling zhen	120
-洛龙区	luo long qu	170
-洛隆县	luo long xian	92
 罗龙镇	luo long zhen	127
 罗楼村	luo lou cun	31
 罗马村	luo ma cun	112
 罗敏庄	luo min zhuang	293
 罗目镇	luo mu zhen	150
 罗南村	luo nan cun	82
-洛南县	luo nan xian	179
-洛宁县	luo ning xian	186
 罗盘村	luo pan cun	69
 罗平村	luo ping cun	178
 罗坪村	luo ping cun	127
-罗平县	luo ping xian	192
 罗坪乡	luo ping xiang	139
 罗坪镇	luo ping zhen	139
 罗平镇	luo ping zhen	133
 罗坡村	luo po cun	1
-洛浦县	luo pu xian	161
 罗桥村	luo qiao cun	127
 罗桥镇	luo qiao zhen	167
 罗圈村	luo quan cun	191
@@ -6573,7 +2171,6 @@ sort: by_weight
 罗森堡	luo sen bao	410
 罗沙村	luo sha cun	1
 罗山村	luo shan cun	145
-罗山县	luo shan xian	185
 罗山庄	luo shan zhuang	103
 罗市镇	luo shi zhen	278
 罗斯村	luo si cun	69
@@ -6585,7 +2182,6 @@ sort: by_weight
 罗滕堡	luo teng bao	350
 罗腾堡	luo teng bao	256
 罗田村	luo tian cun	171
-罗田县	luo tian xian	188
 罗田镇	luo tian zhen	204
 罗亭镇	luo ting zhen	246
 罗头村	luo tou cun	1
@@ -6609,7 +2205,6 @@ sort: by_weight
 罗秀镇	luo xiu zhen	145
 罗岩村	luo yan cun	1
 罗阳村	luo yang cun	1
-洛阳市	luo yang shi	312
 罗阳镇	luo yang zhen	332
 洛阳镇	luo yang zhen	320
 罗窑村	luo yao cun	163
@@ -6617,18 +2212,14 @@ sort: by_weight
 罗营村	luo ying cun	167
 罗峪村	luo yu cun	1
 罗源村	luo yuan cun	258
-罗源县	luo yuan xian	216
 罗源镇	luo yuan zhen	155
 罗云村	luo yun cun	112
-洛扎县	luo zha xian	147
 罗寨村	luo zhai cun	82
 罗丈村	luo zhang cun	163
 罗庄村	luo zhuang cun	221
-罗庄区	luo zhuang qu	195
 罗庄乡	luo zhuang xiang	191
 罗庄镇	luo zhuang zhen	167
 吕城镇	lv cheng zhen	150
-绿春县	lv chun xian	146
 绿岛乡	lv dao xiang	1
 吕店村	lv dian cun	31
 吕店乡	lv dian xiang	120
@@ -6640,13 +2231,11 @@ sort: by_weight
 吕集村	lv ji cun	1
 吕家村	lv jia cun	222
 吕家庄	lv jia zhuang	133
-吕梁市	lv liang shi	234
 吕良镇	lv liang zhen	139
 吕楼村	lv lou cun	69
 吕庙村	lv miao cun	31
 吕桥村	lv qiao cun	52
 吕山乡	lv shan xiang	201
-旅顺口	lv shun kou	206
 吕塘村	lv tang cun	181
 吕田镇	lv tian zhen	266
 吕亭镇	lv ting zhen	206
@@ -6656,13 +2245,11 @@ sort: by_weight
 吕西村	lv xi cun	1
 吕巷镇	lv xiang zhen	259
 绿杨村	lv yang cun	302
-绿园区	lv yuan qu	200
 吕寨村	lv zhai cun	139
 吕寨镇	lv zhai zhen	139
 吕庄村	lv zhuang cun	193
 马安村	ma an cun	224
 马鞍村	ma an cun	219
-马鞍山	ma an shan	276
 马鞍乡	ma an xiang	247
 马安乡	ma an xiang	127
 马安镇	ma an zhen	292
@@ -6686,11 +2273,9 @@ sort: by_weight
 马厂镇	ma chang zhen	258
 马场镇	ma chang zhen	239
 马城村	ma cheng cun	163
-麻城市	ma cheng shi	192
 马城镇	ma cheng zhen	155
 马川村	ma chuan cun	1
 马村村	ma cun cun	31
-马村区	ma cun qu	166
 马村乡	ma cun xiang	199
 马村镇	ma cun zhen	222
 马村庄	ma cun zhuang	1
@@ -6707,12 +2292,9 @@ sort: by_weight
 马店镇	ma dian zhen	249
 马东村	ma dong cun	139
 马洞村	ma dong cun	31
-麻豆区	ma dou qu	1
 马渡村	ma du cun	171
 马墩村	ma dun cun	139
-玛多县	ma duo xian	153
 马尔堡	ma er bao	453
-马尔康	ma er kang	218
 马畈村	ma fan cun	133
 马坊村	ma fang cun	304
 马房村	ma fang cun	171
@@ -6725,12 +2307,10 @@ sort: by_weight
 马冈镇	ma gang zhen	256
 马港镇	ma gang zhen	139
 马各庄	ma ge zhuang	282
-马公市	ma gong shi	210
 马公镇	ma gong zhen	231
 马沟村	ma gou cun	199
 马固村	ma gu cun	373
 马关村	ma guan cun	1
-马关县	ma guan xian	178
 马关乡	ma guan xiang	167
 马贵镇	ma gui zhen	145
 马海村	ma hai cun	163
@@ -6756,7 +2336,6 @@ sort: by_weight
 马涧镇	ma jian zhen	127
 马剑镇	ma jian zhen	127
 马江村	ma jiang cun	1
-麻江县	ma jiang xian	154
 马江镇	ma jiang zhen	185
 马街村	ma jie cun	181
 马街乡	ma jie xiang	167
@@ -6782,7 +2361,6 @@ sort: by_weight
 马郎村	ma lang cun	94
 马里村	ma li cun	254
 马李村	ma li cun	1
-麻栗坡	ma li po	167
 马力镇	ma li zhen	150
 马利镇	ma li zhen	82
 马莲村	ma lian cun	82
@@ -6815,7 +2393,6 @@ sort: by_weight
 马鸣村	ma ming cun	112
 马鸣乡	ma ming xiang	196
 马牧村	ma mu cun	191
-玛纳斯	ma na si	193
 马南村	ma nan cun	82
 马脑村	ma nao cun	31
 马棚村	ma peng cun	1
@@ -6831,16 +2408,12 @@ sort: by_weight
 马桥村	ma qiao cun	199
 马桥乡	ma qiao xiang	217
 马桥镇	ma qiao zhen	310
-玛沁县	ma qin xian	153
 马曲村	ma qu cun	112
 马渠村	ma qu cun	52
 马区村	ma qu cun	1
-玛曲县	ma qu xian	133
 马泉村	ma quan cun	181
 马桑村	ma sang cun	69
 马山村	ma shan cun	270
-麻山区	ma shan qu	78
-马山县	ma shan xian	184
 马山乡	ma shan xiang	171
 马山镇	ma shan zhen	314
 马山庄	ma shan zhuang	224
@@ -6882,7 +2455,6 @@ sort: by_weight
 马王乡	ma wang xiang	155
 马尾村	ma wei cun	94
 马圩村	ma wei cun	31
-马尾区	ma wei qu	200
 马尾镇	ma wei zhen	236
 马圩镇	ma wei zhen	150
 马嵬镇	ma wei zhen	139
@@ -6927,7 +2499,6 @@ sort: by_weight
 马站乡	ma zhan xiang	175
 马站镇	ma zhan zhen	221
 马张村	ma zhang cun	1
-麻章区	ma zhang qu	150
 马召镇	ma zhao zhen	199
 马镇镇	ma zhen zhen	52
 马芝堡	ma zhi bao	250
@@ -6941,390 +2512,107 @@ sort: by_weight
 马祖乡	ma zu xiang	155
 马祖镇	ma zu zhen	150
 马嘴村	ma zui cun	1
-麦盖提	mai gai ti	146
 卖汉堡	mai han bao	298
-麦积区	mai ji qu	191
 麦寮乡	mai liao xiang	1
-满城区	man cheng qu	144
 漫云村	man yun cun	158
-满洲里	man zhou li	244
 满州乡	man zhou xiang	1
-芒康县	mang kang xian	178
 茫崖市	mang ya shi	1
 毛德镇	mao de zhen	151
-茅箭区	mao jian qu	146
 茂林区	mao lin qu	1
-茂名市	mao ming shi	236
-茂南区	mao nan qu	174
 茅台镇	mao tai zhen	442
 梅城镇	mei cheng zhen	295
-美姑县	mei gu xian	172
-梅河口	mei he kou	175
-梅江区	mei jiang qu	169
-美兰区	mei lan qu	235
 梅里斯	mei li si	1
 梅龙镇	mei long zhen	446
-美浓区	mei nong qu	1
-眉山市	mei shan shi	288
 梅山乡	mei shan xiang	1
 梅山镇	mei shan zhen	253
-美食村	mei shi cun	27
-湄潭县	mei tan xian	176
-梅县区	mei xian qu	201
 梅泽堡	mei ze bao	279
-梅州市	mei zhou shi	277
-门头沟	men tou gou	246
-蒙城县	meng cheng xian	200
 孟封镇	meng feng zhen	113
-勐海县	meng hai xian	201
 孟家庄	meng jia zhuang	195
 孟津区	meng jin qu	1
-勐腊县	meng la xian	190
-蒙山县	meng shan xian	144
-蒙阴县	meng yin xian	184
-孟州市	meng zhou shi	174
-蒙自市	meng zi shi	194
 米德堡	mi de bao	317
-米东区	mi dong qu	204
-弥渡县	mi du xian	170
 米汉堡	mi han bao	388
-弥勒市	mi le shi	223
 米林市	mi lin shi	1
-汨罗市	mi luo shi	186
-密山市	mi shan shi	157
-弥陀区	mi tuo qu	1
-米易县	mi yi xian	173
-密云区	mi yun qu	214
-米脂县	mi zhi xian	176
-渑池县	mian chi xian	203
 棉花堡	mian hua bao	387
-冕宁县	mian ning xian	170
-绵阳市	mian yang shi	246
-绵竹市	mian zhu shi	176
-苗栗市	miao li shi	194
-苗栗县	miao li xian	272
-民丰县	min feng xian	146
-闵行区	min hang qu	260
-闽侯县	min hou xian	231
-民勤县	min qin xian	163
-闽清县	min qing xian	212
-民权县	min quan xian	185
-民俗村	min su cun	44
 民雄乡	min xiong xiang	1
-民乐县	min yue xian	170
 民族村	min zu cun	401
-民族乡	min zu xiang	487
-明光市	ming guang shi	175
 名间乡	ming jian xiang	376
-名山区	ming shan qu	180
-明山区	ming shan qu	138
-明水县	ming shui xian	168
-明溪县	ming xi xian	162
-模范村	mo fan cun	169
-漠河市	mo he shi	134
 魔界村	mo jie cun	282
-墨脱县	mo tuo xian	174
 魔仙堡	mo xian bao	235
-墨玉县	mo yu xian	172
-牟定县	mou ding xian	141
-沐川县	mu chuan xian	162
-牡丹江	mu dan jiang	244
-牡丹区	mu dan qu	177
 牡丹乡	mu dan xiang	347
 木渎镇	mu du zhen	327
-木兰县	mu lan xian	156
-穆棱市	mu ling shi	146
-牟平区	mu ping qu	192
 穆斯堡	mu si bao	318
-牧野区	mu ye qu	120
 纳丹堡	na dan bao	155
 那吉镇	na ji zhen	162
 那玛夏	na ma xia	1
-那坡县	na po xian	152
 那曲市	na qu shi	1
-纳溪区	na xi qu	173
-纳雍县	na yong xian	176
 乃东区	nai dong qu	1
-奈曼旗	nai man qi	198
-南岸区	nan an qu	246
-南安市	nan an shi	330
-南澳县	nan ao xian	174
 南澳乡	nan ao xiang	1
-南部县	nan bu xian	196
 南岔县	nan cha xian	1
-南昌市	nan chang shi	343
-南昌县	nan chang xian	242
-南城县	nan cheng xian	181
-南充市	nan chong shi	244
-南川区	nan chuan qu	197
 南村镇	nan cun zhen	369
-南丹县	nan dan xian	164
-南芬区	nan fen qu	122
-南丰县	nan feng xian	181
 南竿乡	nan gan xiang	330
-南岗区	nan gang qu	243
-南港区	nan gang qu	200
-南宫市	nan gong shi	202
 南沟村	nan gou cun	253
-南关区	nan guan qu	213
-南海区	nan hai qu	252
 南河村	nan he cun	199
 南和区	nan he qu	1
-南湖区	nan hu qu	262
-南化区	nan hua qu	168
-南华县	nan hua xian	164
-南江县	nan jiang xian	280
 南街村	nan jie cun	372
-南京市	nan jing shi	368
-南靖县	nan jing xian	203
-南开区	nan kai qu	250
-南康区	nan kang qu	181
 南口镇	nan kou zhen	309
-南乐县	nan le xian	178
 南岭村	nan ling cun	312
-南陵县	nan ling xian	194
-南明区	nan ming qu	222
-南木林	nan mu lin	114
-南宁市	nan ning shi	298
-南皮县	nan pi xian	162
-南票区	nan piao qu	104
-南平市	nan ping shi	282
-南谯区	nan qiao qu	177
-南沙区	nan sha qu	234
 南山村	nan shan cun	311
-南山区	nan shan qu	278
 南塘镇	nan tang zhen	254
-南通市	nan tong shi	329
-南投市	nan tou shi	202
-南投县	nan tou xian	273
-南屯区	nan tun qu	202
-南溪区	nan xi qu	156
-楠西区	nan xi qu	1
-南雄市	nan xiong shi	194
-南浔区	nan xun qu	180
 南浔镇	nan xun zhen	330
 南阳村	nan yang cun	246
-南阳市	nan yang shi	264
 南阳镇	nan yang zhen	337
-南岳区	nan yue qu	162
 南岳镇	nan yue zhen	210
-南漳县	nan zhang xian	184
-南召县	nan zhao xian	192
-南郑区	nan zheng qu	121
 南州乡	nan zhou xiang	1
 南庄乡	nan zhuang xiang	1
 南庄镇	nan zhuang zhen	323
-楠梓区	nan zi qu	200
-囊谦县	nang qian xian	178
 瑙姆堡	nao mu bao	234
-讷河市	ne he shi	139
 内埔乡	nei bu xiang	1
-内湖区	nei hu qu	210
-内黄县	nei huang xian	188
-内江市	nei jiang shi	222
-内门区	nei men qu	1
-内蒙古	nei meng gu	338
-内丘县	nei qiu xian	178
-内乡县	nei xiang xian	206
-嫩江市	nen jiang shi	121
 尼巴村	ni ba cun	113
-你家乡	ni jia xiang	163
-尼勒克	ni le ke	144
-尼玛县	ni ma xian	153
-你们村	ni men cun	252
-尼木县	ni mu xian	166
 廿里堡	nian li bao	155
-碾子山	nian zi shan	1
 鸟松区	niao song qu	1
-聂拉木	nie la mu	166
-聂荣县	nie rong xian	104
-宁安市	ning an shi	169
-宁波市	ning bo shi	294
-宁城县	ning cheng xian	178
-宁德市	ning de shi	240
-宁都县	ning du xian	192
 宁芬堡	ning fen bao	305
-宁国市	ning guo shi	187
-宁海县	ning hai xian	220
-宁河区	ning he qu	190
-宁化县	ning hua xian	209
-宁江区	ning jiang qu	137
-宁津县	ning jin xian	229
-宁晋县	ning jin xian	179
-宁陵县	ning ling xian	183
-宁明县	ning ming xian	167
-宁南县	ning nan xian	116
-宁强县	ning qiang xian	196
-宁陕县	ning shan xian	178
-宁武县	ning wu xian	172
-宁乡市	ning xiang shi	177
-宁阳县	ning yang xian	188
-宁远县	ning yuan xian	186
 牛家村	niu jia cun	342
 牛家庄	niu jia zhuang	217
-纽伦堡	niu lun bao	574
-农安县	nong an xian	202
-暖暖区	nuan nuan qu	157
-瓯海区	ou hai qu	210
 欧乐堡	ou le bao	332
 𠙶山镇	ou shan zhen	94
-磐安县	pan an xian	184
-潘集区	pan ji qu	149
 潘家堡	pan jia bao	142
-盘锦市	pan jin shi	214
-盘龙区	pan long qu	238
 蟠龙镇	pan long zhen	283
 盘龙镇	pan long zhen	236
-盘山县	pan shan xian	165
-磐石市	pan shi shi	158
-番禺区	pan yu qu	253
-攀枝花	pan zhi hua	251
-盘州市	pan zhou shi	132
 庞各庄	pang ge zhuang	324
-庞家堡	pang jia bao	22
 炮台镇	pao tai zhen	212
 盆吉乡	pen ji xiang	89
-蓬安县	peng an xian	172
-澎湖县	peng hu xian	254
-蓬江区	peng jiang qu	206
 蓬莱区	peng lai qu	1
-彭山区	peng shan qu	195
-蓬溪县	peng xi xian	186
-彭阳县	peng yang xian	168
-彭泽县	peng ze xian	190
-彭州市	peng zhou shi	203
-郫都区	pi du qu	172
-皮山县	pi shan xian	166
 匹斯堡	pi si bao	199
 皮特堡	pi te bao	185
 埤头乡	pi tou xiang	1
-邳州市	pi zhou shi	204
-匹兹堡	pi zi bao	412
-偏关县	pian guan xian	146
-朴子市	piao zi shi	195
-贫困村	pin kun cun	50
 贫困乡	pin kun xiang	305
 平安堡	ping an bao	106
-平安区	ping an qu	182
-平坝区	ping ba qu	142
-平昌县	ping chang xian	212
-平城区	ping cheng qu	168
-平川区	ping chuan qu	146
 平定堡	ping ding bao	193
 平顶堡	ping ding bao	78
-平顶山	ping ding shan	297
-平定县	ping ding xian	182
-屏东市	ping dong shi	227
-屏东县	ping dong xian	284
-平度市	ping du shi	238
-平房区	ping fang qu	219
-平谷区	ping gu qu	232
-平桂区	ping gui qu	106
 平果市	ping guo shi	1
-平和县	ping he xian	199
-平湖市	ping hu shi	233
 平吉堡	ping ji bao	165
-平江县	ping jiang xian	207
-平乐县	ping le xian	163
-平利县	ping li xian	194
-平凉市	ping liang shi	265
 坪林区	ping lin qu	1
-平鲁区	ping lu qu	146
-平陆县	ping lu xian	192
-平罗县	ping luo xian	190
-平南县	ping nan xian	226
-屏南县	ping nan xian	176
-平桥区	ping qiao qu	194
-平泉市	ping quan shi	114
-坪山区	ping shan qu	252
-平山区	ping shan qu	127
-平山县	ping shan xian	268
-屏山县	ping shan xian	180
 平山镇	ping shan zhen	285
-平顺县	ping shun xian	183
-平潭县	ping tan xian	182
-平塘县	ping tang xian	178
-平武县	ping wu xian	176
 平溪区	ping xi qu	1
-萍乡市	ping xiang shi	270
-凭祥市	ping xiang shi	164
-平乡县	ping xiang xian	164
-平阳县	ping yang xian	228
-平遥县	ping yao xian	203
-平邑县	ping yi xian	242
-平阴县	ping yin xian	197
-平舆县	ping yu xian	212
-平原县	ping yuan xian	248
-平远县	ping yuan xian	172
-平镇区	ping zhen qu	1
-坡头区	po tou qu	125
-鄱阳县	po yang xian	214
-普安县	pu an xian	230
-浦北县	pu bei xian	162
-浦城县	pu cheng xian	259
-蒲城县	pu cheng xian	252
-普定县	pu ding xian	198
-普洱市	pu er shi	124
-普格县	pu ge xian	154
-浦江县	pu jiang xian	246
-蒲江县	pu jiang xian	194
 浦江镇	pu jiang zhen	375
-浦口区	pu kou qu	228
-普兰店	pu lan dian	196
-普兰县	pu lan xian	156
-普宁市	pu ning shi	208
 普斯堡	pu si bao	247
-莆田市	pu tian shi	296
-普陀区	pu tuo qu	262
-濮阳市	pu yang shi	227
-濮阳县	pu yang xian	208
-淇滨区	qi bin qu	173
-蕲春县	qi chun xian	190
-启东市	qi dong shi	239
-祁东县	qi dong xian	232
 七都镇	qi dou zhen	295
-七堵区	qi du qu	1
 七亘村	qi gen cun	100
-七股区	qi gu qu	1
-齐河县	qi he xian	186
-祁家堡	qi jia bao	104
-綦江区	qi jiang qu	194
-旗津区	qi jin qu	175
 七里堡	qi li bao	165
-七里河	qi li he	217
 七里乡	qi li xiang	100
 七里镇	qi li zhen	100
-祁连县	qi lian xian	188
-麒麟区	qi lin qu	172
 七美乡	qi mei xiang	1
-祁门县	qi men xian	180
-旗山区	qi shan qu	1
-岐山县	qi shan xian	171
-七台河	qi tai he	194
-奇台县	qi tai xian	174
-栖霞区	qi xia qu	270
-栖霞市	qi xia shi	203
 七贤庄	qi xian zhuang	118
 七星村	qi xing cun	100
-七星关	qi xing guan	176
-七星区	qi xing qu	167
 七星镇	qi xing zhen	100
-祁阳市	qi yang shi	1
-迁安市	qian an shi	368
 乾安县	qian an xian	1
 钱仓村	qian cang cun	145
 钱场镇	qian chang zhen	155
-黔东南	qian dong nan	240
 钱东镇	qian dong zhen	265
-前锋区	qian feng qu	175
 钱岗村	qian gang cun	139
 钱集镇	qian ji zhen	181
 钱家村	qian jia cun	127
 钱家乡	qian jia xiang	233
-黔江区	qian jiang qu	197
-潜江市	qian jiang shi	210
-前金区	qian jin qu	168
-前进区	qian jin qu	115
 钱坑镇	qian keng zhen	120
 钱库镇	qian ku zhen	247
 钱排村	qian pai cun	1
@@ -7332,45 +2620,24 @@ sort: by_weight
 钱桥村	qian qiao cun	94
 钱桥镇	qian qiao zhen	181
 钱清镇	qian qing zhen	210
-千山区	qian shan qu	126
-潜山市	qian shan shi	120
 钱山乡	qian shan xiang	94
 钱塘村	qian tang cun	171
 钱塘区	qian tang qu	1
 钱塘镇	qian tang zhen	150
-犍为县	qian wei xian	181
-黔西南	qian xi nan	208
 黔西市	qian xi shi	1
-迁西县	qian xi xian	166
-千阳县	qian yang xian	142
 乾元镇	qian yuan zhen	100
 钱寨村	qian zhai cun	31
-前镇区	qian zhen qu	202
 钱庄村	qian zhuang cun	1
-谯城区	qiao cheng qu	188
-桥东区	qiao dong qu	200
 乔家堡	qiao jia bao	151
-巧家县	qiao jia xian	178
-硚口区	qiao kou qu	206
-桥头堡	qiao tou bao	556
-桥头区	qiao tou qu	177
 桥头镇	qiao tou zhen	385
-桥西区	qiao xi qu	229
 乔治堡	qiao zhi bao	226
 茄萣区	qie ding qu	1
-且末县	qie mo xian	162
-茄子河	qie zi he	1
-秦安县	qin an xian	184
-钦北区	qin bei qu	146
 秦城村	qin cheng cun	133
 秦城乡	qin cheng xiang	145
 秦川镇	qin chuan zhen	222
 秦东镇	qin dong zhen	139
-秦都区	qin du qu	170
 秦渡镇	qin du zhen	224
 秦古镇	qin gu zhen	139
-秦淮区	qin huai qu	236
-秦皇岛	qin huang dao	296
 秦集村	qin ji cun	31
 秦集镇	qin ji zhen	120
 秦家村	qin jia cun	171
@@ -7381,156 +2648,42 @@ sort: by_weight
 秦林村	qin lin cun	139
 秦岭村	qin ling cun	31
 秦楼村	qin lou cun	1
-钦南区	qin nan qu	126
 秦桥村	qin qiao cun	1
 秦山村	qin shan cun	31
 秦市乡	qin shi xiang	139
-沁水县	qin shui xian	184
-覃塘区	qin tang qu	128
 秦湾村	qin wan cun	31
 秦许乡	qin xu xiang	188
-沁阳市	qin yang shi	200
 秦屿镇	qin yu zhen	208
-沁源县	qin yuan xian	160
-秦州区	qin zhou qu	199
-钦州市	qin zhou shi	214
 秦庄村	qin zhuang cun	163
-庆安县	qing an xian	149
-青白江	qing bai jiang	200
-清城区	qing cheng qu	188
-庆城县	qing cheng xian	168
-青川县	qing chuan xian	176
-青岛市	qing dao shi	368
-清丰县	qing feng xian	194
-青冈县	qing gang xian	168
-青海省	qing hai sheng	302
-清河门	qing he men	92
-清河区	qing he qu	170
-清河县	qing he xian	237
-青河县	qing he xian	158
 清河镇	qing he zhen	295
-清涧县	qing jian xian	175
-清江浦	qing jiang pu	173
 青莲镇	qing lian zhen	248
-清流县	qing liu xian	174
-晴隆县	qing long xian	174
 青龙镇	qing long zhen	327
-青浦区	qing pu qu	282
-青山湖	qing shan hu	216
-青山区	qing shan qu	234
-青神县	qing shen xian	178
-清水河	qing shui he	216
-清水区	qing shui qu	206
-清水县	qing shui xian	187
-青田县	qing tian xian	188
-青铜峡	qing tong xia	181
 清溪镇	qing xi zhen	382
-清新区	qing xin qu	172
-青秀区	qing xiu qu	218
-清徐县	qing xu xian	188
-青羊区	qing yang qu	238
-庆阳市	qing yang shi	271
-青阳县	qing yang xian	224
 青阳镇	qing yang zhen	271
-清苑区	qing yuan qu	209
-青原区	qing yuan qu	159
-清远市	qing yuan shi	237
-庆元县	qing yuan xian	236
-青云谱	qing yun pu	319
-庆云县	qing yun xian	166
-清镇市	qing zhen shi	210
-青州市	qing zhou shi	262
-琼海市	qiong hai shi	218
-琼结县	qiong jie xian	110
-邛崃市	qiong lai shi	202
-琼山区	qiong shan qu	203
-丘北县	qiu bei xian	174
 去北镇	qu bei zhen	1
 去丰镇	qu feng zhen	338
-曲阜市	qu fu shi	197
-曲江区	qu jiang qu	176
-衢江区	qu jiang qu	160
-曲靖市	qu jing shi	456
-曲麻莱	qu ma lai	137
 去宁乡	qu ning xiang	1
 去萍乡	qu ping xiang	474
 去清镇	qu qing zhen	446
-曲水县	qu shui xian	165
-曲松县	qu song xian	95
 去桐乡	qu tong xiang	455
-曲沃县	qu wo xian	177
 去湘乡	qu xiang xiang	401
 去新乡	qu xin xiang	528
-曲阳县	qu yang xian	187
 去枣庄	qu zao zhuang	504
-衢州市	qu zhou shi	534
-曲周县	qu zhou xian	172
-泉港区	quan gang qu	178
-全椒县	quan jiao xian	189
-全南县	quan nan xian	157
-泉山区	quan shan qu	175
 泉山庄	quan shan zhuang	229
 全县村	quan xian cun	100
 全运村	quan yun cun	100
-泉州市	quan zhou shi	316
-全州县	quan zhou xian	182
 全州镇	quan zhou zhen	100
-确山县	que shan xian	188
 群益村	qun yi cun	163
-让胡路	rang hu lu	1
-壤塘县	rang tang xian	140
-饶河县	rao he xian	152
-饶平县	rao ping xian	212
-饶阳县	rao yang xian	160
 热狗堡	re gou bao	172
-仁爱区	ren ai qu	160
 仁爱乡	ren ai xiang	1
-仁布县	ren bu xian	107
-任城区	ren cheng qu	184
-仁德区	ren de qu	1
-仁和区	ren he qu	172
 人和镇	ren he zhen	338
 仁和镇	ren he zhen	296
-仁化县	ren hua xian	182
-仁怀市	ren huai shi	204
-任丘市	ren qiu shi	173
-仁寿县	ren shou xian	204
-仁武区	ren wu qu	1
 任泽区	ren ze qu	1
-日喀则	ri ka ze	238
-日土县	ri tu xian	160
-日照市	ri zhao shi	237
-融安县	rong an xian	168
-荣昌区	rong chang qu	176
-榕城区	rong cheng qu	155
-荣成市	rong cheng shi	246
-容城县	rong cheng xian	167
-榕江县	rong jiang xian	178
-荣耀堡	rong yao bao	475
 荣誉堡	rong yu bao	214
-汝城县	ru cheng xian	194
-如东县	ru dong xian	194
-如皋市	ru gao shi	207
-汝南县	ru nan xian	194
-乳山市	ru shan shi	188
-汝阳县	ru yang xian	190
-汝州市	ru zhou shi	215
 瑞安堡	rui an bao	98
-瑞安市	rui an shi	214
-瑞昌市	rui chang shi	174
-芮城县	rui cheng xian	186
 瑞芳区	rui fang qu	1
-瑞金市	rui jin shi	188
-瑞丽市	rui li shi	215
 瑞穗乡	rui sui xiang	353
-润州区	run zhou qu	164
-若尔盖	ruo er gai	213
-若羌县	ruo qiang xian	184
 萨茨堡	sa ci bao	155
-萨尔图	sa er tu	284
-萨嘎县	sa ga xian	120
-萨迦县	sa jia xian	130
-赛罕区	sai han qu	216
 三宝村	san bao cun	100
 三岔村	san cha cun	100
 三岔镇	san cha zhen	261
@@ -7544,7 +2697,6 @@ sort: by_weight
 三合村	san he cun	100
 三和村	san he cun	100
 三河村	san he cun	100
-三河市	san he shi	206
 三合乡	san he xiang	100
 三河镇	san he zhen	376
 三合镇	san he zhen	100
@@ -7553,7 +2705,6 @@ sort: by_weight
 三家镇	san jia zhen	100
 三甲镇	san jia zhen	100
 三江乡	san jiang xiang	100
-三江镇	san jiang zhen	100
 三角乡	san jiao xiang	100
 三交镇	san jiao zhen	269
 三角镇	san jiao zhen	100
@@ -7561,21 +2712,13 @@ sort: by_weight
 三里镇	san li zhen	100
 三连庄	san lian zhuang	100
 三林镇	san lin zhen	100
-三门峡	san men xia	255
-三门县	san men xian	178
 三门镇	san men zhen	100
-三民区	san min qu	211
-三明市	san ming shi	233
 三坪村	san ping cun	100
 三桥镇	san qiao zhen	100
 三泉镇	san quan zhen	100
-三沙市	san sha shi	244
 三沙镇	san sha zhen	100
 三山镇	san shan zhen	100
-三水区	san shui qu	210
-三穗县	san sui xian	150
 三台村	san tai cun	100
-三台县	san tai xian	189
 三台镇	san tai zhen	100
 三塘村	san tang cun	100
 三塘镇	san tang zhen	100
@@ -7583,147 +2726,72 @@ sort: by_weight
 三溪乡	san xi xiang	100
 三溪镇	san xi zhen	100
 三峡区	san xia qu	1
-三下乡	san xia xiang	428
 三乡镇	san xiang zhen	100
 三星乡	san xing xiang	1
 三星镇	san xing zhen	100
-三亚市	san ya shi	314
 三阳乡	san yang xiang	100
 三阳镇	san yang zhen	100
 三义乡	san yi xiang	1
-三元区	san yuan qu	160
-三原县	san yuan xian	198
 三灶镇	san zao zhen	100
 三芝区	san zhi qu	1
 桑德堡	sang de bao	267
-桑日县	sang ri xian	108
 桑特堡	sang te bao	220
-桑植县	sang zhi xian	200
 桑珠孜	sang zhu zi	1
-色达县	se da xian	166
-色尼区	se ni qu	102
-莎车县	sha che xian	177
 沙城堡	sha cheng bao	175
 沙芬堡	sha fen bao	96
 沙河堡	sha he bao	212
-沙河口	sha he kou	182
-沙河市	sha he shi	188
 沙河镇	sha he zhen	365
 沙井镇	sha jing zhen	223
 沙连堡	sha lian bao	244
-沙鹿区	sha lu qu	1
 刹马镇	sha ma zhen	263
-沙坪坝	sha ping ba	245
-沙坡头	sha po tou	199
-沙市区	sha shi qu	163
-沙湾区	sha wan qu	141
-沙湾市	sha wan shi	120
 沙湾镇	sha wan zhen	332
 沙溪镇	sha xi zhen	369
 沙县区	sha xian qu	1
-沙雅县	sha ya xian	145
-沙洋县	sha yang xian	174
 山城堡	shan cheng bao	320
-山城区	shan cheng qu	137
-山丹县	shan dan xian	162
 山东堡	shan dong bao	217
-山东省	shan dong sheng	349
 膳房堡	shan fang bao	120
-山海关	shan hai guan	304
-善化区	shan hua qu	1
 闪金镇	shan jin zhen	306
-杉林区	shan lin qu	1
 山南市	shan nan shi	1
-鄯善县	shan shan xian	188
-山上区	shan shang qu	1
-山亭区	shan ting qu	168
-汕头市	shan tou shi	266
-汕尾市	shan wei shi	227
-山西省	shan xi sheng	330
-陕西省	shan xi sheng	328
-山阳区	shan yang qu	124
-山阳县	shan yang xian	208
-山阴县	shan yin xian	202
-陕州区	shan zhou qu	209
 上坝村	shang ba cun	100
-上蔡县	shang cai xian	188
-上城区	shang cheng qu	244
-商城县	shang cheng xian	178
-上党区	shang dang qu	119
-商都县	shang du xian	151
 上访村	shang fang cun	100
 上港乡	shang gang xiang	100
-上高县	shang gao xian	159
 上关镇	shang guan zhen	100
-上海市	shang hai shi	400
-上杭县	shang hang xian	202
-商河县	shang he xian	274
 上集镇	shang ji zhen	100
 商家堡	shang jia bao	185
-上街区	shang jie qu	182
 上街镇	shang jie zhen	100
 上口镇	shang kou zhen	100
-上栗县	shang li xian	170
-上林县	shang lin xian	190
-商洛市	shang luo shi	274
 上马村	shang ma cun	100
-商南县	shang nan xian	210
 上农村	shang nong cun	100
 上派镇	shang pai zhen	100
 上坪村	shang ping cun	100
 上坪镇	shang ping zhen	100
-商丘市	shang qiu shi	234
-上饶市	shang rao shi	242
 上水村	shang shui cun	100
-商水县	shang shui xian	182
-上思县	shang si xian	153
 上塘镇	shang tang zhen	100
 上湾村	shang wan cun	100
 上王村	shang wang cun	100
 上溪镇	shang xi zhen	100
 上兴镇	shang xing zhen	100
 尚阳堡	shang yang bao	183
-尚义县	shang yi xian	165
 上营村	shang ying cun	100
 上游村	shang you cun	100
-上犹县	shang you xian	160
-上虞区	shang yu qu	192
 上元村	shang yuan cun	100
-尚志市	shang zhi shi	173
-商州区	shang zhou qu	194
 上庄村	shang zhuang cun	100
 上庄乡	shang zhuang xiang	100
 上庄镇	shang zhuang zhen	100
-邵东市	shao dong shi	1
-韶关市	shao guan shi	236
-召陵区	shao ling qu	154
 绍姆堡	shao mu bao	330
-韶山市	shao shan shi	168
-邵武市	shao wu shi	174
-绍兴市	shao xing shi	258
-邵阳市	shao yang shi	231
-邵阳县	shao yang xian	184
 射洪市	she hong shi	1
-社旗县	she qi xian	196
 社头乡	she tou xiang	1
-射阳县	she yang xian	182
-神池县	shen chi xian	165
 沈村镇	shen cun zhen	127
 沈荡镇	shen dang zhen	159
-神冈区	shen gang qu	1
 伸港乡	shen gang xiang	1
 沈高镇	shen gao zhen	215
-沈河区	shen he qu	254
 沈集村	shen ji cun	1
 沈家村	shen jia cun	185
 沈家庄	shen jia zhuang	196
 深坑区	shen keng qu	1
 沈楼村	shen lou cun	1
 沈眉庄	shen mei zhuang	369
-神木市	shen mu shi	129
-神农架	shen nong jia	262
 沈桥村	shen qiao cun	94
-沈丘县	shen qiu xian	201
 沈塘村	shen tang cun	1
 沈塘镇	shen tang zhen	112
 沈屯村	shen tun cun	31
@@ -7731,158 +2799,70 @@ sort: by_weight
 沈圩村	shen wei cun	82
 沈贤镇	shen xian zhen	82
 沈巷镇	shen xiang zhen	233
-沈阳市	shen yang shi	358
 沈营村	shen ying cun	1
-深泽县	shen ze xian	162
-申扎县	shen zha xian	111
 沈宅村	shen zhai cun	112
 沈寨村	shen zhai cun	69
-深圳市	shen zhen shi	396
-深州市	shen zhou shi	186
 沈庄村	shen zhuang cun	201
 沈子村	shen zi cun	233
 胜利村	sheng li cun	331
-嵊泗县	sheng si xian	174
-生态村	sheng tai cun	49
 盛泽镇	sheng ze zhen	319
-嵊州市	sheng zhou shi	202
-市北区	shi bei qu	262
 市北屯	shi bei tun	1
-施秉县	shi bing xian	142
-石城县	shi cheng xian	184
 石城镇	shi cheng zhen	310
 什蒂乡	shi di xiang	402
-施甸县	shi dian xian	165
-石碇区	shi ding qu	1
 石碇乡	shi ding xiang	248
-示范村	shi fan cun	32
-什邡市	shi fang shi	272
 石峰堡	shi feng bao	158
-石峰区	shi feng qu	155
 石冈区	shi gang qu	1
-石鼓区	shi gu qu	157
-石拐区	shi guai qu	146
 什寒村	shi han cun	195
-浉河区	shi he qu	184
-石河子	shi he zi	274
 士嘉堡	shi jia bao	400
 十家堡	shi jia bao	65
-石家庄	shi jia zhuang	668
 史家庄	shi jia zhuang	217
 石碣镇	shi jie zhen	346
-石景山	shi jing shan	306
 石井乡	shi jing xiang	235
 施克堡	shi ke bao	146
-十里堡	shi li pu	468
 石梁镇	shi liang zhen	209
-士林区	shi lin qu	223
-石龙区	shi long qu	96
 石龙镇	shi long zhen	384
-石楼县	shi lou xian	177
 石门区	shi men qu	1
-石门县	shi men xian	193
 石门乡	shi men xiang	325
 石门镇	shi men zhen	344
-石棉县	shi mian xian	166
-市南区	shi nan qu	259
 史匹堡	shi pi bao	296
-石屏县	shi ping xian	154
-石阡县	shi qian xian	182
 石桥镇	shi qiao zhen	340
-石渠县	shi qu xian	162
-石泉县	shi quan xian	190
-石狮市	shi shi shi	525
-石首市	shi shou shi	172
 市双河	shi shuang he	1
-石台县	shi tai xian	240
 狮潭乡	shi tan xiang	324
 市町村	shi ting cun	471
 石湾镇	shi wan zhen	311
-始兴县	shi xing xian	188
-十堰市	shi yan shi	413
 世业镇	shi ye zhen	100
 使赵村	shi zhao cun	157
-市中区	shi zhong qu	255
 狮子乡	shi zi xiang	1
-师宗县	shi zong xian	166
-石嘴山	shi zui shan	197
 寿丰乡	shou feng xiang	1
-寿光市	shou guang shi	206
-寿宁县	shou ning xian	183
 守望堡	shou wang bao	215
-寿阳县	shou yang xian	245
-舒城县	shu cheng xian	213
-疏附县	shu fu xian	174
-舒兰市	shu lan shi	223
-疏勒县	shu le xian	157
-树林区	shu lin qu	1
 树林镇	shu lin zhen	271
 舒伦堡	shu lun bao	273
-蜀山区	shu shan qu	227
-舒适堡	shu shi bao	158
-沭阳县	shu yang xian	216
 书洋镇	shu yang zhen	254
-双柏县	shuang bai xian	172
 双城堡	shuang cheng bao	243
-双城区	shuang cheng qu	176
 双城镇	shuang cheng zhen	245
-双峰县	shuang feng xian	252
 双港镇	shuang gang zhen	261
-双河市	shuang he shi	130
-双湖县	shuang hu xian	149
 双鸡堡	shuang ji bao	248
-双辽市	shuang liao shi	163
 双林镇	shuang lin zhen	296
-双流区	shuang liu qu	208
-双滦区	shuang luan qu	140
-双牌县	shuang pai xian	158
-双桥区	shuang qiao qu	168
 双桥镇	shuang qiao zhen	296
-双清区	shuang qing qu	130
 双泉堡	shuang quan bao	180
 双水村	shuang shui cun	303
-双塔区	shuang ta qu	137
-双台子	shuang tai zi	116
 双溪区	shuang xi qu	1
-双鸭山	shuang ya shan	195
-双阳区	shuang yang qu	178
 水城堡	shui cheng bao	120
 水城区	shui cheng qu	1
-水富市	shui fu shi	92
 水口镇	shui kou zhen	355
 水里乡	shui li xiang	1
 水林乡	shui lin xiang	336
-水磨沟	shui mo gou	161
 水上乡	shui shang xiang	1
 水头镇	shui tou zhen	327
-顺昌县	shun chang xian	173
-顺城区	shun cheng qu	144
-顺德区	shun de qu	254
-顺平县	shun ping xian	168
-顺庆区	shun qing qu	185
-顺义区	shun yi qu	247
-朔城区	shuo cheng qu	178
-朔州市	shuo zhou shi	221
-四川省	si chuan sheng	342
 斯登堡	si deng bao	250
 思帝乡	si di xiang	8
-四方台	si fang tai	130
-泗洪县	si hong xian	194
 四湖乡	si hu xiang	1
-四会市	si hui shi	190
 斯加堡	si jia bao	151
 思拉堡	si la bao	188
 思礼镇	si li zhen	113
-思茅区	si mao qu	180
-思明区	si ming qu	252
-思南县	si nan xian	166
-四平市	si ping shi	218
-泗水县	si shui xian	178
 斯滕堡	si teng bao	266
 斯文堡	si wen bao	175
-泗阳县	si yang xian	186
 宋岙村	song ao cun	133
-松北区	song bei qu	196
 宋埠镇	song bu zhen	239
 宋村村	song cun cun	52
 宋村乡	song cun xiang	270
@@ -7900,41 +2880,32 @@ sort: by_weight
 宋家乡	song jia xiang	127
 宋家镇	song jia zhen	229
 宋家庄	song jia zhuang	375
-松江区	song jiang qu	246
 松江镇	song jiang zhen	258
 宋楼村	song lou cun	120
 宋楼镇	song lou zhen	193
 宋洛乡	song luo xiang	167
 宋庙村	song miao cun	201
-嵩明县	song ming xian	182
-松潘县	song pan xian	182
 宋坪村	song ping cun	112
 宋坪乡	song ping xiang	199
 宋桥村	song qiao cun	1
 宋山村	song shan cun	31
-松山区	song shan qu	273
 宋台村	song tai cun	31
 宋疃镇	song tuan zhen	167
 宋屯村	song tun cun	31
 宋湾村	song wan cun	1
 宋王村	song wang cun	1
 宋圩村	song wei cun	1
-松溪县	song xi xian	172
 宋溪镇	song xi zhen	120
-松阳县	song yang xian	180
 宋窑村	song yao cun	103
 宋营村	song ying cun	82
 宋营镇	song ying zhen	201
-松原市	song yuan shi	480
 宋寨村	song zhai cun	150
 宋宅村	song zhai cun	31
 宋庄村	song zhuang cun	281
 宋庄镇	song zhuang zhen	349
-松滋市	song zi shi	168
 苏澳镇	su ao zhen	416
 苏堡镇	su bao zhen	112
 苏埠镇	su bu zhen	201
-宿城区	su cheng qu	178
 苏村村	su cun cun	255
 苏村乡	su cun xiang	247
 苏村镇	su cun zhen	193
@@ -7952,7 +2923,6 @@ sort: by_weight
 苏稽镇	su ji zhen	219
 苏集镇	su ji zhen	185
 苏家村	su jia cun	318
-苏家屯	su jia tun	198
 苏家庄	su jia zhuang	237
 苏坑村	su keng cun	82
 苏坑镇	su keng zhen	155
@@ -7966,9 +2936,7 @@ sort: by_weight
 苏木村	su mu cun	155
 苏木乡	su mu xiang	295
 苏木镇	su mu zhen	325
-肃宁县	su ning xian	162
 苏坪村	su ping cun	1
-宿迁市	su qian shi	242
 苏桥村	su qiao cun	52
 苏桥乡	su qiao xiang	150
 苏桥镇	su qiao zhen	204
@@ -7976,7 +2944,6 @@ sort: by_weight
 苏区镇	su qu zhen	127
 苏山村	su shan cun	103
 苏山乡	su shan xiang	163
-宿松县	su song xian	190
 苏松镇	su song zhen	175
 苏塘村	su tang cun	52
 苏屯村	su tun cun	1
@@ -7988,36 +2955,13 @@ sort: by_weight
 苏溪村	su xi cun	139
 苏溪乡	su xi xiang	150
 苏溪镇	su xi zhen	221
-苏仙区	su xian qu	163
 苏巷镇	su xiang zhen	133
 苏洋村	su yang cun	155
 苏阳村	su yang cun	31
-宿豫区	su yu qu	179
 苏寨村	su zhai cun	1
-肃州区	su zhou qu	172
-苏州市	su zhou shi	344
-宿州市	su zhou shi	340
 苏庄村	su zhuang cun	263
 苏庄镇	su zhuang zhen	159
 苏嘴镇	su zui zhen	159
-绥滨县	sui bin xian	136
-遂昌县	sui chang xian	187
-遂川县	sui chuan xian	182
-绥德县	sui de xian	183
-绥芬河	sui fen he	204
-绥化市	sui hua shi	210
-绥江县	sui jiang xian	118
-绥棱县	sui ling xian	126
-遂宁市	sui ning shi	230
-睢宁县	sui ning xian	250
-绥宁县	sui ning xian	170
-遂平县	sui ping xian	174
-濉溪县	sui xi xian	195
-遂溪县	sui xi xian	172
-睢阳区	sui yang qu	185
-绥阳县	sui yang xian	227
-绥中县	sui zhong xian	182
-随州市	sui zhou shi	208
 孙堡村	sun bao cun	171
 孙伯镇	sun bo zhen	188
 孙埠镇	sun bu zhen	133
@@ -8055,7 +2999,6 @@ sort: by_weight
 孙洼村	sun wa cun	31
 孙湾村	sun wan cun	82
 孙王村	sun wang cun	1
-孙吴县	sun wu xian	140
 孙武镇	sun wu zhen	112
 孙营村	sun ying cun	69
 孙营乡	sun ying xiang	150
@@ -8065,70 +3008,28 @@ sort: by_weight
 孙庄乡	sun zhuang xiang	159
 孙庄镇	sun zhuang zhen	52
 孙祖镇	sun zu zhen	127
-塔城市	ta cheng shi	174
-漯河市	ta he shi	508
-塔河县	ta he xian	142
-泰安市	tai an shi	246
-台安县	tai an xian	156
 泰安乡	tai an xiang	1
-太白县	tai bai xian	166
-太保市	tai bao shi	194
-台北市	tai bei shi	390
-太仓市	tai cang shi	210
-台东市	tai dong shi	210
-台东县	tai dong xian	268
 台儿庄	tai er zhuang	548
 太谷区	tai gu qu	1
-太和区	tai he qu	122
-太和县	tai he xian	206
-泰和县	tai he xian	202
-太湖县	tai hu xian	190
 台怀镇	tai huai zhen	296
-台江区	tai jiang qu	220
-台江县	tai jiang xian	179
-太康县	tai kang xian	190
-泰来县	tai lai xian	146
 太麻里	tai ma li	1
-台南市	tai nan shi	310
-泰宁县	tai ning xian	178
 太平堡	tai ping bao	98
-太平村	tai ping cun	368
-太平区	tai ping qu	202
 太平乡	tai ping xiang	343
 太平镇	tai ping zhen	441
 太平庄	tai ping zhuang	359
-台前县	tai qian xian	168
-泰山区	tai shan qu	197
-台山市	tai shan shi	216
 泰山乡	tai shan xiang	260
-泰顺县	tai shun xian	195
-台湾省	tai wan sheng	292
 泰武乡	tai wu xiang	1
 台西乡	tai xi xiang	1
-泰兴市	tai xing shi	198
-太原市	tai yuan shi	348
-台中市	tai zhong shi	366
-台州市	tai zhou shi	253
-泰州市	tai zhou shi	238
-太子河	tai zi he	156
-宕昌县	tan chang xian	162
-郯城县	tan cheng xian	210
 坦能堡	tan neng bao	299
 滩头堡	tan tou bao	219
 潭头镇	tan tou zhen	293
 潭子区	tan zi qu	1
-唐河县	tang he xian	211
 唐家堡	tang jia bao	340
 塘厦镇	tang sha zhen	404
-唐山市	tang shan shi	268
 汤旺县	tang wang xian	1
-汤阴县	tang yin xian	185
 汤峪镇	tang yu zhen	336
-汤原县	tang yuan xian	160
 陶北村	tao bei cun	219
-洮北区	tao bei qu	144
 陶厂镇	tao chang zhen	127
-桃城区	tao cheng qu	180
 陶村镇	tao cun zhen	181
 陶店村	tao dian cun	31
 陶店乡	tao dian xiang	210
@@ -8142,17 +3043,13 @@ sort: by_weight
 陶家村	tao jia cun	191
 陶家镇	tao jia zhen	206
 桃涧堡	tao jian bao	288
-桃江县	tao jiang xian	180
 陶梁村	tao liang cun	155
 陶楼村	tao lou cun	31
 陶楼乡	tao lou xiang	204
 陶庙镇	tao miao zhen	145
-洮南市	tao nan shi	196
-淘气堡	tao qi bao	257
 陶桥村	tao qiao cun	127
 陶泉乡	tao quan xiang	327
 陶山村	tao shan cun	52
-桃山区	tao shan qu	88
 陶山镇	tao shan zhen	243
 陶寺乡	tao si xiang	221
 陶唐乡	tao tang xiang	181
@@ -8165,129 +3062,41 @@ sort: by_weight
 陶营村	tao ying cun	1
 陶营乡	tao ying xiang	188
 桃源村	tao yuan cun	363
-桃园区	tao yuan qu	218
 桃源区	tao yuan qu	1
-桃园市	tao yuan shi	294
-桃源县	tao yuan xian	304
 陶庄村	tao zhuang cun	155
 陶庄镇	tao zhuang zhen	240
-特克斯	te ke si	264
 特利堡	te li bao	209
 特瑞堡	te rui bao	155
-腾冲市	teng chong shi	180
-滕州市	teng zhou shi	206
-天长市	tian chang shi	194
-天等县	tian deng xian	144
-田东县	tian dong xian	149
-天鹅堡	tian e bao	284
-天峨县	tian e xian	131
-天河区	tian he qu	276
-田家庵	tian jia an	1
 田家镇	tian jia zhen	291
-天津市	tian jin shi	376
-天峻县	tian jun xian	156
 天籁村	tian lai cun	250
 田寮区	tian liao qu	1
-田林县	tian lin xian	159
-天门市	tian men shi	198
-天宁区	tian ning qu	184
-天桥区	tian qiao qu	210
-天全县	tian quan xian	188
-天山区	tian shan qu	206
-天水市	tian shui shi	295
-天台县	tian tai xian	202
 天堂堡	tian tang bao	207
 田尾乡	tian wei xiang	1
-天心区	tian xin qu	228
-天涯区	tian ya qu	179
 田阳区	tian yang qu	1
-天元区	tian yuan qu	172
-天镇县	tian zhen xian	168
 田中镇	tian zhong zhen	1
-天柱县	tian zhu xian	168
 条顿堡	tiao dun bao	287
-铁东区	tie dong qu	170
-铁锋区	tie feng qu	138
-铁力市	tie li shi	149
-铁岭市	tie ling shi	212
-铁岭县	tie ling xian	170
-铁炉堡	tie lu bao	378
-铁门关	tie men guan	154
-铁山港	tie shan gang	117
-铁山区	tie shan qu	120
-铁西区	tie xi qu	252
-亭湖区	ting hu qu	150
-同安区	tong an qu	226
-桐柏县	tong bai xian	194
-桐城市	tong cheng shi	246
-通城县	tong cheng xian	168
-通川区	tong chuan qu	176
-铜川市	tong chuan shi	272
-同德县	tong de xian	153
 佟二堡	tong er bao	242
-铜鼓县	tong gu xian	160
-铜官区	tong guan qu	150
-潼关县	tong guan xian	162
-通海县	tong hai xian	171
-通河县	tong he xian	164
-通化市	tong hua shi	270
-通化县	tong hua xian	177
-同江市	tong jiang shi	145
-通江县	tong jiang xian	216
 同里镇	tong li zhen	312
-铜梁区	tong liang qu	182
-通辽市	tong liao shi	238
-铜陵市	tong ling shi	224
-桐庐县	tong lu xian	212
 铜锣乡	tong luo xiang	1
-潼南区	tong nan qu	180
-铜仁市	tong ren shi	230
 同仁市	tong ren shi	1
-铜山区	tong shan qu	199
-通山县	tong shan xian	187
-通渭县	tong wei xian	180
-桐乡市	tong xiang shi	212
 通霄镇	tong xiao zhen	1
-同心县	tong xin xian	175
-通许县	tong xu xian	199
-通榆县	tong yu xian	166
-通远堡	tong yuan bao	203
-通州区	tong zhou qu	270
-桐梓县	tong zi xian	192
 头城镇	tou cheng zhen	1
 头份市	tou fen shi	1
 头份镇	tou fen zhen	287
-头屯河	tou tun he	160
 头屋乡	tou wu xiang	1
 土城区	tu cheng qu	1
 土城乡	tu cheng xiang	274
 土库镇	tu ku zhen	1
-吐鲁番	tu lu fan	260
-图们市	tu men shi	157
 土木堡	tu mu bao	418
-突泉县	tu quan xian	164
-团风县	tuan feng xian	168
 团结村	tuan jie cun	356
 团结乡	tuan jie xiang	287
 团山堡	tuan shan bao	113
-屯昌县	tun chang xian	177
-屯留区	tun liu qu	92
-屯溪区	tun xi qu	182
 屯字镇	tun zi zhen	243
 沱江镇	tuo jiang zhen	261
-托克托	tuo ke tuo	180
-托克逊	tuo ke xun	170
-托里县	tuo li xian	144
 瓦尔堡	wa er bao	290
-瓦房店	wa fang dian	202
 瓦瑟堡	wa se bao	180
-瓦窑堡	wa yao bu	341
-外埔区	wai bu qu	1
-万安县	wan an xian	169
 万安镇	wan an zhen	297
-万柏林	wan bai lin	165
 万宝镇	wan bao zhen	100
-宛城区	wan cheng qu	192
 万城乡	wan cheng xiang	100
 万城镇	wan cheng zhen	100
 万春镇	wan chun zhen	100
@@ -8295,31 +3104,19 @@ sort: by_weight
 万福村	wan fu cun	100
 万福镇	wan fu zhen	100
 万古镇	wan gu zhen	100
-万华区	wan hua qu	216
 万家村	wan jia cun	100
 万家乡	wan jia xiang	100
 万家镇	wan jia zhen	100
-万里区	wan li qu	1
 万隆乡	wan long xiang	100
 万峦乡	wan luan xiang	1
-万年县	wan nian xian	201
-万宁市	wan ning shi	238
-万全区	wan quan qu	50
 万全镇	wan quan zhen	100
 万泉镇	wan quan zhen	100
 万泉庄	wan quan zhuang	272
-万荣县	wan rong xian	189
 万荣乡	wan rong xiang	1
-万山区	wan shan qu	164
 万寿村	wan shou cun	100
 万田乡	wan tian xiang	100
 万祥镇	wan xiang zhen	100
 万秀村	wan xiu cun	100
-万秀区	wan xiu qu	130
-万源市	wan yuan shi	179
-万载县	wan zai xian	205
-湾沚区	wan zhi qu	388
-万州区	wan zhou qu	238
 王安村	wang an cun	52
 望安乡	wang an xiang	1
 王安镇	wang an zhen	229
@@ -8331,13 +3128,11 @@ sort: by_weight
 王奔镇	wang ben zhen	94
 王卜庄	wang bo zhuang	245
 王埠村	wang bu cun	120
-旺苍县	wang cang xian	186
 王岔村	wang cha cun	31
 王场村	wang chang cun	159
 王厂村	wang chang cun	31
 王场镇	wang chang zhen	236
 王城村	wang cheng cun	150
-望城区	wang cheng qu	224
 王城镇	wang cheng zhen	196
 王川村	wang chuan cun	52
 王村村	wang cun cun	145
@@ -8350,7 +3145,6 @@ sort: by_weight
 王店乡	wang dian xiang	217
 王店镇	wang dian zhen	353
 王东村	wang dong cun	1
-望都县	wang du xian	175
 王垛村	wang duo cun	188
 王畈村	wang fan cun	139
 王坊村	wang fang cun	112
@@ -8384,7 +3178,6 @@ sort: by_weight
 王虎村	wang hu cun	1
 王胡村	wang hu cun	1
 王化村	wang hua cun	94
-望花区	wang hua qu	144
 王集村	wang ji cun	181
 王集乡	wang ji xiang	289
 王集镇	wang ji zhen	302
@@ -8392,7 +3185,6 @@ sort: by_weight
 王家乡	wang jia xiang	237
 王家镇	wang jia zhen	295
 王家庄	wang jia zhuang	326
-望江县	wang jiang xian	172
 王街村	wang jie cun	120
 王金庄	wang jin zhuang	249
 王井村	wang jing cun	82
@@ -8401,7 +3193,6 @@ sort: by_weight
 王口村	wang kou cun	52
 王口镇	wang kou zhen	188
 王快镇	wang kuai zhen	199
-望奎县	wang kui xian	190
 王兰庄	wang lan zhuang	234
 王里村	wang li cun	69
 王李村	wang li cun	1
@@ -8422,7 +3213,6 @@ sort: by_weight
 王门村	wang men cun	1
 王庙村	wang miao cun	273
 王庙镇	wang miao zhen	292
-望谟县	wang mo xian	168
 王木村	wang mu cun	145
 王南村	wang nan cun	31
 王坪村	wang ping cun	263
@@ -8434,7 +3224,6 @@ sort: by_weight
 王桥村	wang qiao cun	199
 王桥乡	wang qiao xiang	171
 王桥镇	wang qiao zhen	229
-汪清县	wang qing xian	174
 王曲村	wang qu cun	167
 王渠村	wang qu cun	69
 王曲乡	wang qu xiang	181
@@ -8483,7 +3272,6 @@ sort: by_weight
 王演庄	wang yan zhuang	103
 王杨乡	wang yang xiang	150
 王窑村	wang yao cun	82
-王益区	wang yi qu	381
 王营村	wang ying cun	185
 王郢村	wang ying cun	1
 王营乡	wang ying xiang	145
@@ -8511,10 +3299,6 @@ sort: by_weight
 王子庄	wang zi zhuang	133
 王佐村	wang zuo cun	159
 王佐镇	wang zuo zhen	288
-渭滨区	wei bin qu	214
-卫滨区	wei bin qu	124
-渭城区	wei cheng qu	227
-潍城区	wei cheng qu	157
 卫城镇	wei cheng zhen	245
 魏城镇	wei cheng zhen	215
 魏村镇	wei cun zhen	133
@@ -8522,18 +3306,12 @@ sort: by_weight
 魏店村	wei dian cun	1
 卫店镇	wei dian zhen	213
 卫东村	wei dong cun	150
-卫东区	wei dong qu	134
-魏都区	wei du qu	166
 韦恩堡	wei en bao	342
-潍坊市	wei fang shi	254
 魏岗村	wei gang cun	31
-魏公村	wei gong cun	434
 魏沟村	wei gou cun	69
 卫国村	wei guo cun	94
-威海市	wei hai shi	292
 魏河村	wei he cun	1
 卫华村	wei hua cun	133
-卫辉市	wei hui shi	195
 魏集村	wei ji cun	1
 魏集镇	wei ji zhen	196
 魏家村	wei jia cun	226
@@ -8545,29 +3323,22 @@ sort: by_weight
 魏楼村	wei lou cun	133
 卫民村	wei min cun	188
 卫闽镇	wei min zhen	133
-渭南市	wei nan shi	302
 魏桥村	wei qiao cun	1
 魏桥镇	wei qiao zhen	181
 维桑堡	wei sang bao	351
 魏森堡	wei sen bao	304
-微山县	wei shan xian	234
 魏善庄	wei shan zhuang	199
 卫生村	wei sheng cun	221
 卫生镇	wei sheng zhen	381
-尉氏县	wei shi xian	190
 魏塘镇	wei tang zhen	215
 维滕堡	wei teng bao	236
 魏屯村	wei tun cun	1
 魏湾村	wei wan cun	69
 魏湾镇	wei wan zhen	178
 魏孝庄	wei xiao zhuang	352
-威信县	wei xin xian	158
 卫星村	wei xing cun	266
 卫星镇	wei xing zhen	254
-未央区	wei yang qu	264
 魏营村	wei ying cun	1
-威远县	wei yuan xian	239
-渭源县	wei yuan xian	168
 魏寨村	wei zhai cun	120
 魏寨乡	wei zhai xiang	139
 魏庄村	wei zhuang cun	242
@@ -8575,244 +3346,109 @@ sort: by_weight
 魏庄乡	wei zhuang xiang	139
 魏庄镇	wei zhuang zhen	145
 卫庄镇	wei zhuang zhen	127
-文安县	wen an xian	178
-文昌市	wen chang shi	214
-文成县	wen cheng xian	198
-汶川县	wen chuan xian	204
-文登区	wen deng qu	174
-文峰区	wen feng qu	146
 文化村	wen hua cun	487
 温家堡	wen jia bao	137
-温江区	wen jiang qu	212
-温岭市	wen ling shi	210
-文明村	wen ming cun	44
-温泉县	wen quan xian	180
 温泉乡	wen quan xiang	379
-温泉镇	wen quan zhen	414
 温柔乡	wen rou xiang	385
 温莎堡	wen sha bao	305
-文山区	wen shan qu	1
 文山市	wen shan shi	1
-汶上县	wen shang xian	188
-文圣区	wen sheng qu	92
-文水县	wen shui xian	188
-温宿县	wen su xian	154
-闻喜县	wen xi xian	200
-温州市	wen zhou shi	286
-瓮安县	weng an xian	168
-翁源县	weng yuan xian	209
 卧龙堡	wo long bao	151
-卧龙区	wo long qu	198
 沃斯堡	wo si bao	405
 沃思堡	wo si bao	365
-武安市	wu an shi	206
 吴岙村	wu ao cun	139
 吴坝村	wu ba cun	1
 吴堡村	wu bu cun	31
-吴堡县	wu bu xian	153
 吴场村	wu chang cun	1
-武昌区	wu chang qu	246
-五常市	wu chang shi	198
 吴城村	wu cheng cun	94
-婺城区	wu cheng qu	250
-武城县	wu cheng xian	194
 吴城乡	wu cheng xiang	163
 吴城镇	wu cheng zhen	254
-吴川市	wu chuan shi	186
-武川县	wu chuan xian	226
 武川镇	wu chuan zhen	269
 乌翠区	wu cui qu	1
 吴村镇	wu cun zhen	272
 吴厝村	wu cuo cun	52
-乌达区	wu da qu	136
-乌当区	wu dang qu	202
-无棣县	wu di xian	290
 吴店村	wu dian cun	103
 吴店镇	wu dian zhen	337
-武定县	wu ding xian	167
 吴东村	wu dong cun	1
-武都区	wu du qu	203
-乌尔禾	wu er he	171
-雾峰区	wu feng qu	1
 五峰乡	wu feng xiang	1
 吴岗村	wu gang cun	145
-舞钢市	wu gang shi	216
-武冈市	wu gang shi	166
 吴各庄	wu ge zhuang	231
-武功县	wu gong xian	196
 吴沟村	wu gou cun	31
 五股区	wu gu qu	1
 吴海村	wu hai cun	1
-乌海市	wu hai shi	213
-武汉市	wu han shi	368
 吴航镇	wu hang zhen	150
 吴河村	wu he cun	69
-五河县	wu he xian	195
 吴河乡	wu he xiang	155
-武侯区	wu hou qu	242
-芜湖市	wu hu shi	246
-五华区	wu hua qu	236
-五华县	wu hua xian	199
 吴集村	wu ji cun	127
-无极县	wu ji xian	162
 吴集镇	wu ji zhen	236
 吴家村	wu jia cun	300
-伍家岗	wu jia gang	138
-五家渠	wu jia qu	166
 吴家镇	wu jia zhen	196
 吴家庄	wu jia zhuang	210
 吴江村	wu jiang cun	31
-吴江区	wu jiang qu	279
-武江区	wu jiang qu	141
 乌江镇	wu jiang zhen	255
 五结乡	wu jie xiang	361
-武进区	wu jin qu	255
 吴泾镇	wu jing zhen	277
 吴坑村	wu keng cun	94
-乌来区	wu lai qu	1
-乌兰县	wu lan xian	178
 五里堡	wu li bao	279
 五里镇	wu li zhen	274
-五莲县	wu lian xian	187
-武陵区	wu ling qu	160
-武陵源	wu ling yuan	230
-武隆区	wu long qu	138
 吴楼村	wu lou cun	178
 吴炉镇	wu lu zhen	181
 吴梅村	wu mei cun	295
 吴庙村	wu miao cun	1
-武鸣区	wu ming qu	152
-武宁县	wu ning xian	182
 吴坪村	wu ping cun	139
-武平县	wu ping xian	185
 吴铺镇	wu pu zhen	175
 梧栖区	wu qi qu	1
-吴起县	wu qi xian	221
 吴起镇	wu qi zhen	382
 吴旗镇	wu qi zhen	167
-乌恰县	wu qia xian	168
-武强县	wu qiang xian	167
 吴桥村	wu qiao cun	139
-吴桥县	wu qiao xian	158
-武清区	wu qing qu	226
-乌日区	wu ri qu	1
 乌沙堡	wu sha bao	165
 吴山村	wu shan cun	120
-巫山县	wu shan xian	266
-武山县	wu shan xian	176
 吴山乡	wu shan xiang	419
 吴山镇	wu shan zhen	252
-乌审旗	wu shen qi	178
-武胜县	wu sheng xian	194
-乌什县	wu shi xian	221
 吴寺村	wu si cun	145
 吴淞镇	wu song zhen	258
-乌苏市	wu su shi	186
 乌苏镇	wu su zhen	280
 吴台村	wu tai cun	1
-五台县	wu tai xian	197
 雾台乡	wu tai xiang	1
 吴滩镇	wu tan zhen	196
 吴塘村	wu tang cun	199
 吴堂村	wu tang cun	1
 吴田村	wu tian cun	1
-五通桥	wu tong qiao	145
 吴屯村	wu tun cun	103
 吴屯乡	wu tun xiang	201
 吴湾村	wu wan cun	82
 吴王村	wu wang cun	94
 吴圩村	wu wei cun	82
-武威市	wu wei shi	281
 无为市	wu wei shi	1
 吴圩镇	wu wei zhen	290
 吴屋村	wu wu cun	208
 武西堡	wu xi bao	241
 吴西村	wu xi cun	31
-无锡市	wu xi shi	278
-巫溪县	wu xi xian	254
 吴巷村	wu xiang cun	82
-武乡县	wu xiang xian	181
 吴兴村	wu xing cun	150
-五星村	wu xing cun	50
-吴兴区	wu xing qu	189
-武宣县	wu xuan xian	162
-武穴市	wu xue shi	188
 吴垟村	wu yang cun	159
 吴洋村	wu yang cun	1
-舞阳县	wu yang xian	174
 吴阳镇	wu yang zhen	185
 吴窑镇	wu yao zhen	228
-武夷山	wu yi shan	322
-武义县	wu yi xian	245
-武邑县	wu yi xian	156
 吴营村	wu ying cun	31
-婺源县	wu yuan xian	271
-五原县	wu yuan xian	168
 吴寨村	wu zhai cun	94
 吴宅村	wu zhai cun	82
-五寨县	wu zhai xian	165
-五指山	wu zhi shan	242
-武陟县	wu zhi xian	194
-吴中区	wu zhong qu	240
-吴忠市	wu zhong shi	256
-梧州市	wu zhou shi	264
 吴庄村	wu zhuang cun	270
 西安堡	xi an bao	165
-西安区	xi an qu	148
-西安市	xi an shi	359
-西昌市	xi chang shi	206
-西城区	xi cheng qu	350
-西充县	xi chong xian	184
-西畴县	xi chou xian	166
-淅川县	xi chuan xian	221
-喜德县	xi de xian	157
-西峰区	xi feng qu	171
-西丰县	xi feng xian	230
-息烽县	xi feng xian	180
-西岗区	xi gang qu	229
-西港区	xi gang qu	1
-西工区	xi gong qu	172
 西沟村	xi gou cun	327
-西固区	xi gu qu	212
 西海镇	xi hai zhen	325
-细河区	xi he qu	96
-西和县	xi he xian	174
-西湖区	xi hu qu	315
-溪湖区	xi hu qu	137
 西湖乡	xi hu xiang	1
 溪湖镇	xi hu zhen	1
-西华县	xi hua xian	186
-西吉县	xi ji xian	200
 西坑村	xi keng cun	241
 溪口乡	xi kou xiang	1
 溪口镇	xi kou zhen	370
-西林县	xi lin xian	147
-西陵区	xi ling qu	175
 西螺镇	xi luo zhen	1
 溪木镇	xi mu zhen	293
-西宁市	xi ning shi	268
 希农堡	xi nong bao	317
-西平县	xi ping xian	200
 犀浦镇	xi pu zhen	195
-西青区	xi qing qu	236
-西塞山	xi sai shan	172
 西沙区	xi sha qu	1
-西山区	xi shan qu	238
-锡山区	xi shan qu	192
-西市区	xi shi qu	160
-习水县	xi shui xian	181
-浠水县	xi shui xian	170
-西屯区	xi tun qu	212
 西湾堡	xi wan bao	89
-西夏区	xi xia qu	236
-西峡县	xi xia xian	206
-西乡塘	xi xiang tang	224
-西乡县	xi xiang xian	190
-西秀区	xi xiu qu	188
-昔阳县	xi yang xian	188
 西营镇	xi ying zhen	300
 西屿乡	xi yu xiang	1
-汐止区	xi zhi qu	1
 汐止镇	xi zhi zhen	279
 溪州乡	xi zhou xiang	1
 西庄村	xi zhuang cun	314
@@ -8840,31 +3476,23 @@ sort: by_weight
 下关镇	xia guan zhen	100
 下过乡	xia guo xiang	100
 下河村	xia he cun	100
-夏河县	xia he xian	178
 下河乡	xia he xiang	100
 夏侯村	xia hou cun	94
-下花园	xia hua yuan	158
 夏集镇	xia ji zhen	219
 夏家村	xia jia cun	231
 夏家庄	xia jia zhuang	199
 下姜村	xia jiang cun	100
-峡江县	xia jiang xian	156
-夏津县	xia jin xian	177
 夏楼村	xia lou cun	52
-下陆区	xia lu qu	138
 夏履镇	xia lv zhen	167
 夏茅村	xia mao cun	52
 夏茂镇	xia mao zhen	208
 下梅村	xia mei cun	100
-厦门市	xia men shi	350
 夏门镇	xia men zhen	133
 夏庙村	xia miao cun	1
 下农村	xia nong cun	100
-霞浦县	xia pu xian	278
 夏桥村	xia qiao cun	1
 夏邛镇	xia qiong zhen	127
 夏邱镇	xia qiu zhen	175
-霞山区	xia shan qu	150
 夏石镇	xia shi zhen	171
 下蜀镇	xia shu zhen	100
 下司镇	xia si zhen	100
@@ -8882,10 +3510,8 @@ sort: by_weight
 夏阳村	xia yang cun	94
 夏阳乡	xia yang xiang	181
 下洋镇	xia yang zhen	100
-夏邑县	xia yi xian	186
 下营村	xia ying cun	100
 夏营村	xia ying cun	1
-下营区	xia ying qu	1
 夏郢镇	xia ying zhen	155
 下营镇	xia ying zhen	100
 夏云镇	xia yun zhen	139
@@ -8895,217 +3521,60 @@ sort: by_weight
 夏庄村	xia zhuang cun	221
 下庄村	xia zhuang cun	100
 夏庄镇	xia zhuang zhen	236
-咸安区	xian an qu	164
-咸丰县	xian feng xian	162
-先进村	xian jin cun	26
-仙居县	xian ju xian	210
-咸宁市	xian ning shi	238
-仙桃市	xian tao shi	200
 线西乡	xian xi xiang	1
 县乡镇	xian xiang zhen	380
-咸阳市	xian yang shi	242
-仙游县	xian you xian	212
-翔安区	xiang an qu	206
 像城堡	xiang cheng bao	235
-相城区	xiang cheng qu	268
-芗城区	xiang cheng qu	263
-襄城区	xiang cheng qu	163
-项城市	xiang cheng shi	272
-襄城县	xiang cheng xian	188
-乡城县	xiang cheng xian	158
-湘东区	xiang dong qu	149
 襄都区	xiang du qu	1
-香坊区	xiang fang qu	227
-襄汾县	xiang fen xian	196
-祥符区	xiang fu qu	179
-香河县	xiang he xian	182
-镶黄旗	xiang huang qi	242
-乡宁县	xiang ning xian	160
 像农村	xiang nong cun	100
-湘桥区	xiang qiao qu	164
-香山区	xiang shan qu	182
-相山区	xiang shan qu	155
-象山区	xiang shan qu	149
-象山县	xiang shan xian	260
 响水堡	xiang shui bao	162
-响水县	xiang shui xian	168
-湘潭市	xiang tan shi	233
-湘潭县	xiang tan xian	216
-湘乡市	xiang xiang shi	182
-向阳区	xiang yang qu	144
-襄阳市	xiang yang shi	1
 向阳镇	xiang yang zhen	267
-湘阴县	xiang yin xian	189
-襄垣县	xiang yuan xian	176
-祥云县	xiang yun xian	198
-香洲区	xiang zhou qu	236
-襄州区	xiang zhou qu	176
-象州县	xiang zhou xian	168
-孝昌县	xiao chang xian	170
-小城堡	xiao cheng bao	228
 小橙堡	xiao cheng bao	132
-小城镇	xiao cheng zhen	566
-小村镇	xiao cun zhen	34
-小店区	xiao dian qu	222
-孝感市	xiao gan shi	218
-小岗村	xiao gang cun	397
-小港区	xiao gang qu	194
-小皇堡	xiao huang bao	346
-小金县	xiao jin xian	188
-小康村	xiao kang cun	311
-小莲庄	xiao lian zhuang	282
 小马庄	xiao ma zhuang	126
-孝南区	xiao nan qu	158
-小山村	xiao shan cun	485
-萧山区	xiao shan qu	248
-小市镇	xiao shi zhen	38
-猇亭区	xiao ting qu	128
-小屯村	xiao tun cun	297
-小王庄	xiao wang zhuang	251
 逍遥镇	xiao yao zhen	323
-孝义市	xiao yi shi	450
 蟹黄堡	xie huang bao	274
-谢家集	xie jia ji	116
 谢利堡	xie li bao	193
-谢通门	xie tong men	56
-新安县	xin an xian	215
+解州镇	xie zhou zhen	105
 新安镇	xin an zhen	351
-新北区	xin bei qu	205
-新北市	xin bei shi	324
 新埔镇	xin bu zhen	1
-新蔡县	xin cai xian	170
-新昌县	xin chang xian	254
 新城堡	xin cheng bao	303
-新城区	xin cheng qu	271
-忻城县	xin cheng xian	166
 新城乡	xin cheng xiang	1
-新城镇	xin cheng zhen	407
 辛店村	xin dian cun	220
-新店区	xin dian qu	213
 辛店镇	xin dian zhen	271
-新都区	xin du qu	212
 信都区	xin du qu	1
-信丰县	xin feng xian	224
-新丰县	xin feng xian	174
 新丰乡	xin feng xiang	1
-忻府区	xin fu qu	172
-新抚区	xin fu qu	134
-新干县	xin gan xian	167
 新港乡	xin gang xiang	1
 新汉堡	xin han bao	220
-新河县	xin he xian	192
-新和县	xin he xian	136
 新河镇	xin he zhen	328
 新华村	xin hua cun	296
-新华区	xin hua qu	208
-新化区	xin hua qu	1
-新化县	xin hua xian	204
-新会区	xin hui qu	206
-辛集市	xin ji shi	280
 辛家庄	xin jia zhuang	219
-新建村	xin jian cun	27
-新建区	xin jian qu	206
-新绛县	xin jiang xian	188
 新街镇	xin jie zhen	316
 新津区	xin jin qu	1
-新乐市	xin le shi	168
 新立堡	xin li bao	214
 新立村	xin li cun	264
-新龙县	xin long xian	168
-新罗区	xin luo qu	214
-新密市	xin mi shi	199
 新民堡	xin min bao	169
-新民市	xin min shi	192
-新宁县	xin ning xian	192
 新埤乡	xin pi xiang	1
 新桥镇	xin qiao zhen	379
-新邱区	xin qiu qu	88
-新荣区	xin rong qu	146
-新邵县	xin shao xian	183
-新社区	xin she qu	225
-新市区	xin shi qu	216
-新市镇	xin shi zhen	549
-新手村	xin shou cun	45
-新泰市	xin tai shi	230
 新田村	xin tian cun	286
-新田县	xin tian xian	167
 新圩镇	xin wei zhen	340
-新吴区	xin wu qu	217
-新屋区	xin wu qu	1
 新屋乡	xin wu xiang	278
-新乡市	xin xiang shi	290
-新乡县	xin xiang xian	266
 新兴村	xin xing cun	267
-新兴区	xin xing qu	183
-新星市	xin xing shi	1
-新兴县	xin xing xian	190
-信阳市	xin yang shi	290
 新叶村	xin ye cun	316
-新野县	xin ye xian	200
-信义区	xin yi qu	222
-新沂市	xin yi shi	270
-信宜市	xin yi shi	268
 信义乡	xin yi xiang	1
-新营区	xin ying qu	1
-新余市	xin yu shi	218
-新源县	xin yuan xian	183
 新园乡	xin yuan xiang	1
-新郑市	xin zheng shi	394
-新洲区	xin zhou qu	272
-信州区	xin zhou qu	172
-忻州市	xin zhou shi	234
-新竹市	xin zhu shi	270
-新竹县	xin zhu xian	278
 辛庄村	xin zhuang cun	281
-新庄区	xin zhuang qu	1
 新庄镇	xin zhuang zhen	329
 辛庄镇	xin zhuang zhen	291
-兴安盟	xing an meng	229
-兴安区	xing an qu	95
-兴安县	xing an xian	181
-兴宾区	xing bin qu	162
-兴城市	xing cheng shi	288
-兴登堡	xing deng bao	300
 幸福乡	xing fu xiang	215
-兴国县	xing guo xian	206
-兴海县	xing hai xian	153
-兴和县	xing he xian	156
-杏花岭	xing hua ling	164
-兴化市	xing hua shi	199
 邢家堡	xing jia bao	98
 兴隆堡	xing long bao	199
 兴隆村	xing long cun	301
-兴隆台	xing long tai	1
-兴隆县	xing long xian	200
-兴宁区	xing ning qu	198
-兴宁市	xing ning shi	167
-兴平市	xing ping shi	165
-兴庆区	xing qing qu	206
-兴仁市	xing ren shi	100
-兴山区	xing shan qu	81
-兴山县	xing shan xian	172
-邢台市	xing tai shi	392
-行唐县	xing tang xian	172
-兴文县	xing wen xian	177
-荥阳市	xing yang shi	208
-兴业县	xing ye xian	150
-兴义市	xing yi shi	440
 芎林乡	xiong lin xiang	1
-秀峰区	xiu feng qu	146
 秀林乡	xiu lin xiang	1
-休宁县	xiu ning xian	206
-修水县	xiu shui xian	190
 秀水乡	xiu shui xiang	1
-修文县	xiu wen xian	208
-修武县	xiu wu xian	180
-秀英区	xiu ying qu	215
-秀屿区	xiu yu qu	185
-秀洲区	xiu zhou qu	191
 徐岙村	xu ao cun	52
 徐岙乡	xu ao xiang	178
 徐堡村	xu bao cun	1
 许堡乡	xu bao xiang	167
-许昌市	xu chang shi	229
 许村镇	xu cun zhen	305
 许村庄	xu cun zhuang	1
 许厝村	xu cuo cun	133
@@ -9123,7 +3592,6 @@ sort: by_weight
 许河村	xu he cun	94
 许河乡	xu he xiang	181
 许河镇	xu he zhen	120
-徐汇区	xu hui qu	276
 许集村	xu ji cun	94
 徐集村	xu ji cun	1
 徐集乡	xu ji xiang	159
@@ -9146,7 +3614,6 @@ sort: by_weight
 许庙村	xu miao cun	1
 许南村	xu nan cun	94
 徐坪村	xu ping cun	52
-溆浦县	xu pu xian	182
 徐桥村	xu qiao cun	94
 许桥村	xu qiao cun	94
 徐山村	xu shan cun	103
@@ -9167,105 +3634,47 @@ sort: by_weight
 徐湾村	xu wan cun	1
 徐王村	xu wang cun	52
 徐圩村	xu wei cun	1
-徐闻县	xu wen xian	185
 许西村	xu xi cun	127
 徐溪村	xu xi cun	94
 徐辛庄	xu xin zhuang	222
 徐行镇	xu xing zhen	228
 徐杨村	xu yang cun	69
-盱眙县	xu yi xian	214
 许营村	xu ying cun	150
 徐营村	xu ying cun	94
-叙永县	xu yong xian	204
 徐寨村	xu zhai cun	31
 许寨村	xu zhai cun	1
-叙州区	xu zhou qu	100
-徐州市	xu zhou shi	312
 许州镇	xu zhou zhen	185
 徐庄村	xu zhuang cun	263
 许庄村	xu zhuang cun	178
 徐庄镇	xu zhuang zhen	240
-宣城市	xuan cheng shi	274
-宣恩县	xuan en xian	174
-宣汉县	xuan han xian	193
-宣化区	xuan hua qu	180
 宣家堡	xuan jia bao	146
 选手村	xuan shou cun	366
-宣威市	xuan wei shi	192
-玄武区	xuan wu qu	231
-宣州区	xuan zhou qu	170
-薛城区	xue cheng qu	166
-学甲区	xue jia qu	205
-逊克县	xun ke xian	146
-寻乌县	xun wu xian	172
-浔阳区	xun yang qu	160
 旬阳市	xun yang shi	1
-旬邑县	xun yi xian	173
-雅安市	ya an shi	236
 鸭德堡	ya de bao	285
 鸭得堡	ya de bao	250
-亚东县	ya dong xian	144
 亚海堡	ya hai bao	203
-雅江县	ya jiang xian	152
-牙克石	ya ke shi	220
-牙屯堡	ya tun pu	201
 亚运村	ya yun cun	459
-崖州区	ya zhou qu	167
-延安市	yan an shi	300
-盐边县	yan bian xian	168
 盐埔乡	yan bu xiang	1
 盐场堡	yan chang bao	279
-延长县	yan chang xian	154
-燕巢区	yan chao qu	1
-盐埕区	yan cheng qu	184
-郾城区	yan cheng qu	166
-盐城市	yan cheng shi	248
-盐池县	yan chi xian	184
-延川县	yan chuan xian	186
 严店乡	yan dian xiang	185
-盐都区	yan du qu	190
-雁峰区	yan feng qu	149
 演丰镇	yan feng zhen	340
 盐官镇	yan guan zhen	256
 严关镇	yan guan zhen	163
-盐湖区	yan hu qu	202
-延吉市	yan ji shi	259
 严家村	yan jia cun	199
-雁江区	yan jiang qu	177
-延津县	yan jin xian	228
-盐津县	yan jin xian	162
 严坑村	yan keng cun	52
-阎良区	yan liang qu	186
-炎陵县	yan ling xian	234
-鄢陵县	yan ling xian	184
 严陵镇	yan ling zhen	193
 严坪村	yan ping cun	69
-延平区	yan ping qu	196
 延平乡	yan ping xiang	1
 严桥村	yan qiao cun	69
 严桥乡	yan qiao xiang	196
 严桥镇	yan qiao zhen	215
-延庆区	yan qing qu	240
 严山村	yan shan cun	1
-雁山区	yan shan qu	128
-砚山县	yan shan xian	235
-盐山县	yan shan xian	232
-铅山县	yan shan xian	182
 偃师区	yan shi qu	1
-延寿县	yan shou xian	300
-盐水区	yan shui qu	1
-雁塔区	yan ta qu	226
 严台村	yan tai cun	163
-烟台市	yan tai shi	258
-沿滩区	yan tan qu	148
 严塘村	yan tang cun	1
 严塘镇	yan tang zhen	188
 严田村	yan tian cun	222
-盐田区	yan tian qu	230
 严田镇	yan tian zhen	133
-盐亭县	yan ting xian	170
-盐源县	yan yuan xian	184
-兖州区	yan zhou qu	168
 严庄村	yan zhuang cun	1
 杨安镇	yang an zhen	185
 杨坝村	yang ba cun	52
@@ -9274,10 +3683,8 @@ sort: by_weight
 杨北村	yang bei cun	31
 杨埠镇	yang bu zhen	145
 杨场村	yang chang cun	31
-阳城县	yang cheng xian	203
 杨池村	yang chi cun	82
 杨川村	yang chuan cun	1
-阳春市	yang chun shi	193
 杨村村	yang cun cun	120
 杨村乡	yang cun xiang	258
 杨村镇	yang cun zhen	316
@@ -9289,7 +3696,6 @@ sort: by_weight
 杨店乡	yang dian xiang	222
 杨店镇	yang dian zhen	208
 杨东村	yang dong cun	1
-阳东区	yang dong qu	135
 杨墩村	yang dun cun	52
 杨畈村	yang fan cun	103
 杨坊村	yang fang cun	103
@@ -9297,10 +3703,8 @@ sort: by_weight
 杨柑镇	yang gan zhen	120
 杨岗村	yang gang cun	204
 杨岗镇	yang gang zhen	159
-阳高县	yang gao xian	173
 杨公村	yang gong cun	94
 杨沟村	yang gou cun	206
-阳谷县	yang gu xian	192
 杨官村	yang guan cun	139
 杨广镇	yang guang zhen	94
 杨河村	yang he cun	221
@@ -9319,7 +3723,6 @@ sort: by_weight
 杨家乡	yang jia xiang	196
 杨家镇	yang jia zhen	267
 杨家庄	yang jia zhuang	235
-阳江市	yang jiang shi	226
 杨街村	yang jie cun	1
 杨井村	yang jing cun	1
 杨咀村	yang ju cun	52
@@ -9330,7 +3733,6 @@ sort: by_weight
 杨林乡	yang lin xiang	251
 杨林镇	yang lin zhen	269
 杨岭村	yang ling cun	316
-杨陵区	yang ling qu	158
 杨陵镇	yang ling zhen	213
 杨岭镇	yang ling zhen	204
 杨柳村	yang liu cun	340
@@ -9344,7 +3746,6 @@ sort: by_weight
 杨马村	yang ma cun	31
 杨梅村	yang mei cun	213
 杨美村	yang mei cun	181
-杨梅区	yang mei qu	1
 杨梅乡	yang mei xiang	185
 杨梅镇	yang mei zhen	324
 杨梅庄	yang mei zhuang	243
@@ -9353,22 +3754,17 @@ sort: by_weight
 杨庙乡	yang miao xiang	178
 杨庙镇	yang miao zhen	263
 阳明堡	yang ming bu	271
-阳明区	yang ming qu	125
 杨木村	yang mu cun	103
 杨南村	yang nan cun	1
 杨棚村	yang peng cun	31
 杨坪村	yang ping cun	196
 杨坡村	yang po cun	69
-杨浦区	yang pu qu	265
 杨桥村	yang qiao cun	266
 杨桥乡	yang qiao xiang	178
 杨桥镇	yang qiao zhen	279
 杨侨镇	yang qiao zhen	103
 杨渠村	yang qu cun	52
-阳曲县	yang qu xian	196
-阳泉市	yang quan shi	220
 杨山村	yang shan cun	231
-阳山县	yang shan xian	181
 仰韶村	yang shao cun	241
 杨舍镇	yang she zhen	274
 杨市镇	yang shi zhen	204
@@ -9376,7 +3772,6 @@ sort: by_weight
 杨树村	yang shu cun	191
 杨树镇	yang shu zhen	193
 杨树庄	yang shu zhuang	333
-阳朔县	yang shuo xian	187
 杨泗村	yang si cun	94
 杨寺村	yang si cun	52
 杨思镇	yang si zhen	178
@@ -9404,12 +3799,9 @@ sort: by_weight
 杨伍庄	yang wu zhuang	262
 杨溪村	yang xi cun	181
 杨西村	yang xi cun	1
-阳西县	yang xi xian	166
 杨溪乡	yang xi xiang	120
 杨香村	yang xiang cun	145
 杨巷镇	yang xiang zhen	163
-阳新县	yang xin xian	239
-阳信县	yang xin xian	174
 杨辛庄	yang xin zhuang	150
 杨兴村	yang xing cun	155
 杨兴乡	yang xing xiang	178
@@ -9421,239 +3813,65 @@ sort: by_weight
 杨塬村	yang yuan cun	221
 杨源村	yang yuan cun	94
 杨园村	yang yuan cun	52
-阳原县	yang yuan xian	161
 杨源乡	yang yuan xiang	215
 杨寨村	yang zhai cun	228
 杨宅村	yang zhai cun	120
 杨寨镇	yang zhai zhen	185
 杨赵村	yang zhao cun	69
 杨召村	yang zhao cun	1
-扬中市	yang zhong shi	154
-扬州市	yang zhou shi	308
 杨庄村	yang zhuang cun	268
 杨庄乡	yang zhuang xiang	306
 杨庄镇	yang zhuang zhen	222
-姚安县	yao an xian	172
-尧都区	yao du qu	186
-瑶海区	yao hai qu	233
 窑上村	yao shang cun	100
-耀州区	yao zhou qu	186
-瑶族乡	yao zu xiang	399
-叶城县	ye cheng xian	180
 叶笃庄	ye du zhuang	269
 叶集区	ye ji qu	1
-义安区	yi an qu	172
-依安县	yi an xian	146
 一般村	yi ban cun	100
-宜宾市	yi bin shi	240
-宜昌市	yi chang shi	300
-驿城区	yi cheng qu	228
-峄城区	yi cheng qu	178
-宜城市	yi cheng shi	234
-翼城县	yi cheng xian	195
-伊川县	yi chuan xian	237
-宜川县	yi chuan xian	181
-宜春市	yi chun shi	234
-伊春市	yi chun shi	208
 一村庄	yi cun zhuang	100
-宜都市	yi du shi	172
-宜丰县	yi feng xian	172
 义和庄	yi he zhuang	265
-宜黄县	yi huang xian	176
 一级庄	yi ji zhuang	100
-弋江区	yi jiang qu	148
 一街庄	yi jie zhuang	498
-宜君县	yi jun xian	153
-宜兰市	yi lan shi	208
-宜兰县	yi lan xian	274
-依兰县	yi lan xian	194
-宜良县	yi liang xian	244
-彝良县	yi liang xian	173
-夷陵区	yi ling qu	250
-仪陇县	yi long xian	192
-义马市	yi ma shi	265
 伊美区	yi mei qu	1
-易门县	yi men xian	168
 一名村	yi ming cun	100
-沂南县	yi nan xian	196
-伊宁市	yi ning shi	204
-伊宁县	yi ning xian	186
 依牛堡	yi niu bao	169
 一农村	yi nong cun	100
 伊森堡	yi sen bao	320
-沂水县	yi shui xian	206
-义乌市	yi wu shi	350
-伊吾县	yi wu xian	162
 一乡镇	yi xiang zhen	100
 一小镇	yi xiao zhen	100
-宜兴市	yi xing shi	268
-宜秀区	yi xiu qu	146
-益阳市	yi yang shi	364
-宜阳县	yi yang xian	236
-弋阳县	yi yang xian	235
-沂源县	yi yuan xian	184
-宜章县	yi zhang xian	193
-仪征市	yi zheng shi	280
-伊州区	yi zhou qu	166
-宜州区	yi zhou qu	120
 义竹乡	yi zhu xiang	1
-银川市	yin chuan shi	258
-殷都区	yin du qu	127
-银海区	yin hai qu	164
 殷家堡	yin jia bao	126
-印台区	yin tai qu	146
-鄞州区	yin zhou qu	287
-银州区	yin zhou qu	138
-应城市	ying cheng shi	166
-英德市	ying de shi	194
-颍东区	ying dong qu	210
 英格堡	ying ge bao	344
-莺歌区	ying ge qu	1
-英吉沙	ying ji sha	172
-迎江区	ying jiang qu	160
-盈江县	ying jiang xian	196
-荥经县	ying jing xian	189
-营口市	ying kou shi	220
-颍泉区	ying quan qu	172
-营山县	ying shan xian	249
-英山县	ying shan xian	246
-颍上县	ying shang xian	246
-鹰潭市	ying tan shi	201
-迎泽区	ying ze qu	221
-颍州区	ying zhou qu	190
 永安堡	yong an bao	126
 永安村	yong an cun	328
-永安区	yong an qu	159
-永安市	yong an shi	196
 永安乡	yong an xiang	282
 永安镇	yong an zhen	360
 永昌堡	yong chang bao	158
-永昌县	yong chang xian	171
-永城市	yong cheng shi	190
-永川区	yong chuan qu	218
-永春县	yong chun xian	196
-永德县	yong de xian	141
-永登县	yong deng xian	204
-永定区	yong ding qu	214
-永丰县	yong feng xian	184
 永丰乡	yong feng xiang	306
 永丰镇	yong feng zhen	299
-永福县	yong fu xian	172
-永和区	yong he qu	194
-永和县	yong he xian	144
 永和镇	yong he zhen	348
-永济市	yong ji shi	179
-永吉县	yong ji xian	224
-永嘉县	yong jia xian	230
-永靖县	yong jing xian	162
 永靖乡	yong jing xiang	1
-永康区	yong kang qu	1
-永康市	yong kang shi	206
 永乐乡	yong le xiang	250
 永乐镇	yong le zhen	288
-永年区	yong nian qu	152
-邕宁区	yong ning qu	192
-永宁县	yong ning xian	262
 永宁镇	yong ning zhen	353
-永平县	yong ping xian	163
 永平镇	yong ping zhen	242
-埇桥区	yong qiao qu	212
-永清县	yong qing xian	168
-永仁县	yong ren xian	148
-永善县	yong shan xian	175
-永胜县	yong sheng xian	184
-永寿县	yong shou xian	154
-永顺县	yong shun xian	194
-永泰县	yong tai xian	216
 永太镇	yong tai zhen	74
-永新县	yong xin xian	190
-永兴县	yong xing xian	188
-永修县	yong xiu xian	206
-永州市	yong zhou shi	229
-友好区	you hao qu	108
 尤家村	you jia cun	1
-右江区	you jiang qu	160
-尤溪县	you xi xian	182
-游仙区	you xian qu	172
-友谊县	you yi xian	125
-右玉县	you yu xian	177
 尤彰村	you zhang cun	191
 尤庄村	you zhuang cun	229
-裕安区	yu an qu	196
-渝北区	yu bei qu	298
-雨城区	yu cheng qu	188
-禹城市	yu cheng shi	177
-虞城县	yu cheng xian	235
 于城镇	yu cheng zhen	291
 鱼池乡	yu chi xiang	1
-榆次区	yu ci qu	188
-于都县	yu du xian	196
-鱼峰区	yu feng qu	157
 渔夫堡	yu fu bao	175
-余干县	yu gan xian	201
-余杭区	yu hang qu	252
-于洪区	yu hong qu	224
-雨湖区	yu hu qu	172
-雨花区	yu hua qu	242
-裕华区	yu hua qu	202
-雨花台	yu hua tai	278
-玉环市	yu huan shi	208
-禹会区	yu hui qu	178
 于家堡	yu jia bao	365
 余江区	yu jiang qu	1
-玉井区	yu jing qu	1
 玉里镇	yu li zhen	1
-玉林市	yu lin shi	482
-榆林市	yu lin shi	481
-玉门市	yu men shi	170
 鱼米乡	yu mi xiang	230
-裕民县	yu min xian	134
-郁南县	yu nan xian	174
-余庆县	yu qing xian	148
-玉泉区	yu quan qu	204
 渔人堡	yu ren bao	229
-雨山区	yu shan qu	126
-玉山县	yu shan xian	186
 虞山镇	yu shan zhen	252
-榆社县	yu she xian	155
-玉树市	yu shu shi	192
-榆树市	yu shu shi	180
-渝水区	yu shui qu	170
-鱼台县	yu tai xian	163
-玉田县	yu tian xian	187
-于田县	yu tian xian	163
-禹王台	yu wang tai	120
-玉溪市	yu xi shi	474
-榆阳区	yu yang qu	200
-余姚市	yu yao shi	221
-渝中区	yu zhong qu	262
-榆中县	yu zhong xian	216
-玉州区	yu zhou qu	154
-禹州市	yu zhou shi	254
-远安县	yuan an xian	165
-元宝区	yuan bao qu	116
-元宝山	yuan bao shan	168
 元长乡	yuan chang xiang	1
-源城区	yuan cheng qu	174
-源汇区	yuan hui qu	147
-沅江市	yuan jiang shi	172
 苑里镇	yuan li zhen	1
-员林市	yuan lin shi	186
-沅陵县	yuan ling xian	188
-元谋县	yuan mou xian	180
-原平市	yuan ping shi	190
-垣曲县	yuan qu xian	186
 员山乡	yuan shan xiang	1
-元氏县	yuan shi xian	178
-元阳县	yuan yang xian	192
-原阳县	yuan yang xian	185
-袁州区	yuan zhou qu	188
-原州区	yuan zhou qu	176
 岳壁乡	yue bi xiang	175
 岳城村	yue cheng cun	31
-越城区	yue cheng qu	210
 岳城镇	yue cheng zhen	127
-岳池县	yue chi xian	208
 岳村乡	yue cun xiang	120
 岳村镇	yue cun zhen	188
 岳峰村	yue feng cun	181
@@ -9661,55 +3879,23 @@ sort: by_weight
 岳岗村	yue gang cun	1
 岳各庄	yue ge zhuang	377
 岳河村	yue he cun	31
-月湖区	yue hu qu	131
 岳家村	yue jia cun	188
 岳家庄	yue jia zhuang	199
 约克堡	yue ke bao	188
 岳口镇	yue kou zhen	231
 岳龙镇	yue long zhen	167
 岳楼村	yue lou cun	31
-岳麓区	yue lu qu	238
 岳屏镇	yue ping zhen	127
-岳普湖	yue pu hu	102
 岳桥村	yue qiao cun	1
-乐清市	yue qing shi	224
 岳山村	yue shan cun	133
-岳塘区	yue tang qu	170
 岳圩镇	yue wei zhen	127
 岳溪村	yue xi cun	69
-岳西县	yue xi xian	244
-越西县	yue xi xian	156
 岳溪镇	yue xi zhen	193
-越秀区	yue xiu qu	268
 岳阳村	yue yang cun	127
-岳阳楼	yue yang lou	228
-岳阳市	yue yang shi	250
-岳阳县	yue yang xian	198
 岳阳镇	yue yang zhen	242
 岳寨村	yue zhai cun	112
 岳庄村	yue zhuang cun	201
-云安区	yun an qu	136
-云城区	yun cheng qu	144
-运城市	yun cheng shi	248
-郓城县	yun cheng xian	232
-云浮市	yun fu shi	216
-云冈区	yun gang qu	136
-运河区	yun he qu	174
-云和县	yun he xian	171
 运河镇	yun he zhen	172
-云林县	yun lin xian	278
-云龙区	yun long qu	168
-云龙县	yun long xian	174
-云梦县	yun meng xian	156
-云南省	yun nan sheng	332
-云溪区	yun xi qu	151
-郧西县	yun xi xian	172
-云霄县	yun xiao xian	178
-云岩区	yun yan qu	212
-郧阳区	yun yang qu	166
-云阳县	yun yang xian	206
-云州区	yun zhou qu	118
-杂多县	za duo xian	224
 在北镇	zai bei zhen	1
 在城镇	zai cheng zhen	469
 在丰镇	zai feng zhen	338
@@ -9722,25 +3908,9 @@ sort: by_weight
 在湘乡	zai xiang xiang	401
 在新乡	zai xin xiang	528
 在枣庄	zai zao zhuang	504
-赞皇县	zan huang xian	190
-枣强县	zao qiang xian	174
 造桥乡	zao qiao xiang	1
-枣阳市	zao yang shi	188
-枣庄市	zao zhuang shi	233
 泽当镇	ze dang zhen	201
-泽州县	ze zhou xian	200
-增城区	zeng cheng qu	229
-曾都区	zeng du qu	148
-札达县	zha da xian	147
 炸碉堡	zha diao bao	323
-扎兰屯	zha lan tun	180
-扎囊县	zha nang xian	145
-柞水县	zha shui xian	177
-湛河区	zhan he qu	138
-沾化区	zhan hua qu	147
-湛江市	zhan jiang shi	291
-站前区	zhan qian qu	142
-沾益区	zhan yi qu	141
 张安村	zhang an cun	52
 张坝村	zhang ba cun	120
 张坂镇	zhang ban zhen	256
@@ -9748,7 +3918,6 @@ sort: by_weight
 张堡村	zhang bao cun	69
 张保村	zhang bao cun	1
 张北村	zhang bei cun	82
-张北县	zhang bei xian	192
 张北镇	zhang bei zhen	112
 张壁村	zhang bi cun	163
 张汴乡	zhang bian xiang	217
@@ -9764,7 +3933,6 @@ sort: by_weight
 张登镇	zhang deng zhen	69
 张堤村	zhang di cun	1
 张店村	zhang dian cun	215
-张店区	zhang dian qu	196
 张店乡	zhang dian xiang	206
 张店镇	zhang dian zhen	274
 张东村	zhang dong cun	69
@@ -9782,7 +3950,6 @@ sort: by_weight
 张各庄	zhang ge zhuang	312
 张戈庄	zhang ge zhuang	150
 张公村	zhang gong cun	52
-章贡区	zhang gong qu	178
 张公镇	zhang gong zhen	159
 张弓镇	zhang gong zhen	150
 张沟村	zhang gou cun	175
@@ -9801,21 +3968,14 @@ sort: by_weight
 张胡村	zhang hu cun	103
 张华村	zhang hua cun	139
 张化村	zhang hua cun	1
-彰化市	zhang hua shi	226
-彰化县	zhang hua xian	284
 张华镇	zhang hua zhen	175
 张黄镇	zhang huang zhen	210
 张集村	zhang ji cun	247
 张吉村	zhang ji cun	1
 张集乡	zhang ji xiang	242
 张集镇	zhang ji zhen	285
-张家堡	zhang jia bao	285
-张家川	zhang jia chuan	204
 张家村	zhang jia cun	408
 张贾村	zhang jia cun	52
-张家港	zhang jia gang	254
-张家界	zhang jia jie	320
-张家口	zhang jia kou	294
 张家乡	zhang jia xiang	226
 张家镇	zhang jia zhen	236
 张家庄	zhang jia zhuang	321
@@ -9847,10 +4007,8 @@ sort: by_weight
 张南庄	zhang nan zhuang	215
 张牌庄	zhang pai zhuang	1
 张坪村	zhang ping cun	155
-漳平市	zhang ping shi	236
 张坡村	zhang po cun	69
 张铺村	zhang pu cun	1
-漳浦县	zhang pu xian	219
 张浦镇	zhang pu zhen	274
 张铺镇	zhang pu zhen	145
 张强镇	zhang qiang zhen	127
@@ -9858,13 +4016,11 @@ sort: by_weight
 张桥乡	zhang qiao xiang	199
 张桥镇	zhang qiao zhen	264
 张庆乡	zhang qing xiang	145
-章丘区	zhang qiu qu	162
 张秋镇	zhang qiu zhen	201
 张山村	zhang shan cun	52
 张山乡	zhang shan xiang	175
 张舍村	zhang she cun	31
 张舍镇	zhang she zhen	82
-樟树市	zhang shu shi	182
 樟树镇	zhang shu zhen	248
 张台村	zhang tai cun	31
 张滩村	zhang tan cun	1
@@ -9877,7 +4033,6 @@ sort: by_weight
 张洼村	zhang wa cun	94
 张湾村	zhang wan cun	242
 张万村	zhang wan cun	82
-张湾区	zhang wan qu	149
 张湾乡	zhang wan xiang	270
 张湾镇	zhang wan zhen	221
 张王村	zhang wang cun	139
@@ -9889,7 +4044,6 @@ sort: by_weight
 张文庄	zhang wen zhuang	139
 张屋村	zhang wu cun	127
 张吴村	zhang wu cun	1
-彰武县	zhang wu xian	166
 张西村	zhang xi cun	112
 张溪村	zhang xi cun	1
 张溪镇	zhang xi zhen	133
@@ -9906,7 +4060,6 @@ sort: by_weight
 张杨村	zhang yang cun	52
 张阳村	zhang yang cun	1
 张窑村	zhang yao cun	1
-张掖市	zhang ye shi	213
 张仪村	zhang yi cun	236
 张义镇	zhang yi zhen	133
 张营村	zhang ying cun	245
@@ -9924,13 +4077,10 @@ sort: by_weight
 张寨镇	zhang zhai zhen	217
 张赵村	zhang zhao cun	145
 张镇村	zhang zhen cun	1
-漳州市	zhang zhou shi	261
 张渚镇	zhang zhu zhen	221
 张庄村	zhang zhuang cun	332
 张庄乡	zhang zhuang xiang	309
 张庄镇	zhang zhuang zhen	364
-长子县	zhang zi xian	172
-诏安县	zhao an xian	201
 赵坝村	zhao ba cun	127
 赵堡村	zhao bao cun	1
 赵堡镇	zhao bao zhen	332
@@ -9942,7 +4092,6 @@ sort: by_weight
 赵村镇	zhao cun zhen	196
 赵店村	zhao dian cun	103
 赵东村	zhao dong cun	112
-肇东市	zhao dong shi	173
 赵畈村	zhao fan cun	69
 赵坊村	zhao fang cun	1
 赵岗村	zhao gang cun	69
@@ -9953,7 +4102,6 @@ sort: by_weight
 赵河村	zhao he cun	103
 赵河镇	zhao he zhen	191
 赵湖村	zhao hu cun	159
-昭化区	zhao hua qu	158
 赵化镇	zhao hua zhen	181
 赵集村	zhao ji cun	52
 赵集乡	zhao ji xiang	175
@@ -9963,7 +4111,6 @@ sort: by_weight
 赵家乡	zhao jia xiang	120
 赵家镇	zhao jia zhen	208
 赵家庄	zhao jia zhuang	322
-昭觉县	zhao jue xian	172
 赵康镇	zhao kang zhen	112
 赵林村	zhao lin cun	94
 赵岭村	zhao ling cun	1
@@ -9973,17 +4120,13 @@ sort: by_weight
 赵庙镇	zhao miao zhen	120
 赵棚镇	zhao peng zhen	139
 赵坪村	zhao ping cun	31
-昭平县	zhao ping xian	166
 赵坡村	zhao po cun	69
 赵桥村	zhao qiao cun	1
-肇庆市	zhao qing shi	235
 赵山村	zhao shan cun	139
 赵寺村	zhao si cun	52
-昭苏县	zhao su xian	168
 赵台村	zhao tai cun	1
 赵堂村	zhao tang cun	1
 赵塘村	zhao tang cun	1
-昭通市	zhao tong shi	233
 赵疃村	zhao tuan cun	69
 赵屯村	zhao tun cun	112
 赵屯镇	zhao tun zhen	159
@@ -9999,44 +4142,20 @@ sort: by_weight
 赵巷镇	zhao xiang zhen	272
 赵辛庄	zhao xin zhuang	178
 赵行村	zhao xing cun	175
-昭阳区	zhao yang qu	172
 赵窑村	zhao yao cun	52
 赵营村	zhao ying cun	103
 赵英镇	zhao ying zhen	94
 赵峪村	zhao yu cun	1
 赵宇镇	zhao yu zhen	219
 赵塬村	zhao yuan cun	94
-招远市	zhao yuan shi	177
-肇源县	zhao yuan xian	211
 赵寨村	zhao zhai cun	204
-肇州县	zhao zhou xian	151
 赵州镇	zhao zhou zhen	127
 赵庄村	zhao zhuang cun	294
 赵庄乡	zhao zhuang xiang	210
 赵庄镇	zhao zhuang zhen	274
-柘城县	zhe cheng xian	178
 浙江村	zhe jiang cun	235
-浙江省	zhe jiang sheng	345
-柘荣县	zhe rong xian	187
-振安区	zhen an qu	114
-镇安县	zhen an xian	176
-镇巴县	zhen ba xian	159
-镇北堡	zhen bei bao	127
-贞丰县	zhen feng xian	164
-镇海区	zhen hai qu	216
-浈江区	zhen jiang qu	160
-镇江市	zhen jiang shi	244
-镇康县	zhen kang xian	173
-镇赉县	zhen lai xian	167
-镇平县	zhen ping xian	246
-镇坪县	zhen ping xian	175
-振兴区	zhen xing qu	134
-镇雄县	zhen xiong xian	186
-镇远县	zhen yuan xian	172
-镇原县	zhen yuan xian	160
 震泽镇	zhen ze zhen	309
 珍珠堡	zhen zhu bao	199
-正安县	zheng an xian	157
 郑庵镇	zheng an zhen	127
 郑场镇	zheng chang zhen	185
 郑常庄	zheng chang zhuang	222
@@ -10044,34 +4163,28 @@ sort: by_weight
 郑村镇	zheng cun zhen	262
 郑店村	zheng dian cun	127
 郑店镇	zheng dian zhen	155
-正定县	zheng ding xian	220
 郑坊村	zheng fang cun	1
 郑坊乡	zheng fang xiang	94
 郑坊镇	zheng fang zhen	167
 郑岗村	zheng gang cun	163
 郑沟村	zheng gou cun	52
 郑河村	zheng he cun	1
-政和县	zheng he xian	185
 郑集村	zheng ji cun	1
 郑集乡	zheng ji xiang	133
 郑集镇	zheng ji zhen	282
 郑家村	zheng jia cun	328
 郑家镇	zheng jia zhen	191
 郑家庄	zheng jia zhuang	312
-正蓝旗	zheng lan qi	240
 郑楼村	zheng lou cun	82
 郑楼镇	zheng lou zhen	155
 郑陆镇	zheng lu zhen	246
 郑路镇	zheng lu zhen	145
 郑庙村	zheng miao cun	1
-正宁县	zheng ning xian	161
 郑桥村	zheng qiao cun	1
 郑山村	zheng shan cun	206
 郑田村	zheng tian cun	181
 郑屯村	zheng tun cun	69
 郑湾村	zheng wan cun	155
-蒸湘区	zheng xiang qu	140
-正阳县	zheng yang xian	176
 郑营村	zheng ying cun	120
 郑余镇	zheng yu zhen	240
 郑元村	zheng yuan cun	150
@@ -10079,18 +4192,11 @@ sort: by_weight
 郑寨村	zheng zhai cun	1
 郑宅镇	zheng zhai zhen	159
 郑兆村	zheng zhao cun	219
-郑州市	zheng zhou shi	346
 郑庄村	zheng zhuang cun	219
 郑庄镇	zheng zhuang zhen	181
-志丹县	zhi dan xian	170
-治多县	zhi duo xian	176
-芝罘区	zhi fu qu	212
-枝江市	zhi jiang shi	171
-织金县	zhi jin xian	188
 植美村	zhi mei cun	214
 芝士堡	zhi shi bao	320
 中坝村	zhong ba cun	100
-仲巴县	zhong ba xian	143
 中坝镇	zhong ba zhen	207
 中堡镇	zhong bao zhen	100
 中北镇	zhong bei zhen	100
@@ -10099,48 +4205,29 @@ sort: by_weight
 中川镇	zhong chuan zhen	100
 中村村	zhong cun cun	100
 中村乡	zhong cun xiang	100
-中方县	zhong fang xian	153
 中峰镇	zhong feng zhen	100
 中关村	zhong guan cun	643
 中国村	zhong guo cun	100
 中和村	zhong he cun	100
 中河村	zhong he cun	100
-中和区	zhong he qu	211
 中和镇	zhong he zhen	100
 中级庄	zhong ji zhuang	100
-中江县	zhong jiang xian	237
-中坜区	zhong li qu	220
 中梁镇	zhong liang zhen	100
 中廖村	zhong liao cun	100
 中寮乡	zhong liao xiang	1
-钟楼区	zhong lou qu	170
-中牟县	zhong mu xian	202
 中南村	zhong nan cun	100
-中宁县	zhong ning xian	187
 中山村	zhong shan cun	100
-中山区	zhong shan qu	600
-钟山区	zhong shan qu	175
-中山市	zhong shan shi	276
-钟山县	zhong shan xian	168
 中山镇	zhong shan zhen	100
 中堂镇	zhong tang zhen	100
 中塘镇	zhong tang zhen	100
-中卫市	zhong wei shi	204
-中西区	zhong xi qu	248
-钟祥市	zhong xiang shi	194
-中心村	zhong xin cun	100
 中新村	zhong xin cun	100
 中心镇	zhong xin zhen	411
 中新镇	zhong xin zhen	100
 中兴镇	zhong xing zhen	100
-中阳县	zhong yang xian	163
 中益乡	zhong yi xiang	100
-中原区	zhong yuan qu	212
 中原镇	zhong yuan zhen	100
 中寨村	zhong zhai cun	100
 中寨镇	zhong zhai zhen	100
-中站区	zhong zhan qu	122
-中正区	zhong zheng qu	230
 中洲村	zhong zhou cun	100
 中庄村	zhong zhuang cun	100
 周岙村	zhou ao cun	103
@@ -10153,7 +4240,6 @@ sort: by_weight
 周城村	zhou cheng cun	210
 周城乡	zhou cheng xiang	94
 周城镇	zhou cheng zhen	145
-周村区	zhou cun qu	178
 周村镇	zhou cun zhen	206
 周村庄	zhou cun zhuang	69
 周厝村	zhou cuo cun	150
@@ -10180,7 +4266,6 @@ sort: by_weight
 周家庄	zhou jia zhuang	366
 周坑村	zhou keng cun	120
 周口村	zhou kou cun	69
-周口市	zhou kou shi	233
 周口镇	zhou kou zhen	178
 周礼镇	zhou li zhen	139
 周岭村	zhou ling cun	120
@@ -10189,13 +4274,10 @@ sort: by_weight
 周鹿镇	zhou lu zhen	150
 周庙村	zhou miao cun	82
 周南村	zhou nan cun	52
-周宁县	zhou ning xian	186
 周坪村	zhou ping cun	82
 周浦镇	zhou pu zhen	332
 周桥村	zhou qiao cun	1
-舟曲县	zhou qu xian	150
 周山村	zhou shan cun	210
-舟山市	zhou shan shi	230
 周市镇	zhou shi zhen	259
 周士庄	zhou shi zhuang	175
 周台村	zhou tai cun	31
@@ -10229,14 +4311,11 @@ sort: by_weight
 周寨村	zhou zhai cun	159
 周宅村	zhou zhai cun	52
 周寨镇	zhou zhai zhen	145
-周至县	zhou zhi xian	201
 周庄村	zhou zhuang cun	276
 周庄镇	zhou zhuang zhen	361
-竹北市	zhu bei shi	210
 朱场村	zhu chang cun	1
 朱昌镇	zhu chang zhen	237
 朱陈村	zhu chen cun	52
-诸城市	zhu cheng shi	192
 朱村村	zhu cun cun	159
 朱店村	zhu dian cun	120
 朱店镇	zhu dian zhen	188
@@ -10248,17 +4327,13 @@ sort: by_weight
 朱各庄	zhu ge zhuang	239
 朱公乡	zhu gong xiang	171
 朱沟村	zhu gou cun	31
-珠海市	zhu hai shi	282
 朱河村	zhu he cun	82
 朱河镇	zhu he zhen	185
 朱湖村	zhu hu cun	82
-珠晖区	zhu hui qu	153
 朱集村	zhu ji cun	112
-诸暨市	zhu ji shi	270
 朱集乡	zhu ji xiang	145
 朱集镇	zhu ji zhen	268
 主机镇	zhu ji zhen	100
-朱家村	zhu jia cun	281
 朱家镇	zhu jia zhen	94
 祝家庄	zhu jia zhuang	367
 朱家庄	zhu jia zhuang	199
@@ -10274,7 +4349,6 @@ sort: by_weight
 朱岭村	zhu ling cun	94
 朱楼村	zhu lou cun	171
 朱芦镇	zhu lu zhen	193
-驻马店	zhu ma dian	258
 朱孟村	zhu meng cun	69
 朱庙村	zhu miao cun	1
 竹南镇	zhu nan zhen	1
@@ -10287,8 +4361,6 @@ sort: by_weight
 朱砂村	zhu sha cun	120
 朱砂镇	zhu sha zhen	163
 朱山村	zhu shan cun	69
-珠山区	zhu shan qu	133
-竹山县	zhu shan xian	241
 竹山镇	zhu shan zhen	1
 朱台镇	zhu tai zhen	196
 朱塘村	zhu tang cun	145
@@ -10306,7 +4378,6 @@ sort: by_weight
 朱旺村	zhu wang cun	52
 朱圩村	zhu wei cun	31
 朱溪村	zhu xi cun	31
-竹溪县	zhu xi xian	166
 朱溪镇	zhu xi zhen	145
 朱仙镇	zhu xian zhen	441
 朱仙庄	zhu xian zhuang	266
@@ -10320,49 +4391,18 @@ sort: by_weight
 住在村	zhu zai cun	100
 朱寨村	zhu zhai cun	94
 朱寨镇	zhu zhai zhen	175
-株洲市	zhu zhou shi	292
 朱庄村	zhu zhuang cun	259
 朱庄乡	zhu zhuang xiang	145
 朱庄镇	zhu zhuang zhen	31
 专业镇	zhuan ye zhen	100
-庄河市	zhuang he shi	205
-庄浪县	zhuang lang xian	162
 壮围乡	zhuang wei xiang	1
 卓兰镇	zhuo lan zhen	1
-涿鹿县	zhuo lu xian	194
-卓尼县	zhuo ni xian	139
 卓溪乡	zhuo xi xiang	1
-涿州市	zhuo zhou shi	196
-卓资县	zhuo zi xian	154
-淄博市	zi bo shi	253
 子长市	zi chang shi	1
-淄川区	zi chuan qu	195
-自贡市	zi gong shi	283
 梓官区	zi guan qu	1
-秭归县	zi gui xian	192
-紫金县	zi jin xian	172
-自流井	zi liu jing	178
-梓潼县	zi tong xian	174
-资溪县	zi xi xian	148
-资兴市	zi xing shi	224
-资阳区	zi yang qu	140
-资阳市	zi yang shi	277
-紫阳县	zi yang xian	222
 资源县	zi yuan xian	1
-资中县	zi zhong xian	186
-子洲县	zi zhou xian	162
-枞阳县	zong yang xian	190
-邹城市	zou cheng shi	199
-邹平市	zou ping shi	120
-遵化市	zun hua shi	178
-遵义市	zun yi shi	248
-左贡县	zuo gong xian	141
 做汉堡	zuo han bao	327
 左家庄	zuo jia zhuang	356
-左权县	zuo quan xian	184
-左营区	zuo ying qu	205
-左云县	zuo yun xian	164
-左镇区	zuo zhen qu	1
 阿巴嘎旗	a ba ga qi	351
 阿采尔乡	a cai er xiang	1
 阿得博乡	a de bo xiang	35
@@ -22470,7 +16510,6 @@ sort: by_weight
 街西头村	jie xi tou cun	1
 节义庄村	jie yi zhuang cun	1
 节制闸村	jie zhi zha cun	1
-解州营村	jie zhou ying cun	1
 结子沟村	jie zi gou cun	35
 街子古镇	jie zi gu zhen	377
 界子河村	jie zi he cun	1
@@ -39332,6 +33371,7 @@ sort: by_weight
 谢乌茨乡	xie wu ci xiang	1
 谢辛庄村	xie xin zhuang cun	1
 撷云二庄	xie yun er zhuang	1
+解州营村	xie zhou ying cun	1
 蝎子庙村	xie zi miao cun	1
 蝎子山村	xie zi shan cun	1
 新艾里村	xin ai li cun	1

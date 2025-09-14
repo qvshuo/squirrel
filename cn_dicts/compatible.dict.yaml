@@ -7,6 +7,12 @@ name: compatible
 version: "LTS"
 sort: by_weight
 ...
+重装	zhong zhuang	435
+孙子	sun zi	647
+老子	lao zi	663
+和乐	he yue
+落在	la zai	429
+重刻	chong ke	553
 咳咳	ke ke	202
 编辑	bian ji	836
 播种	bo zhong	302
@@ -24,6 +30,7 @@ sort: by_weight
 大黄	dai huang
 调调	tiao tiao	462
 明朝	ming zhao	326
+还不还	huan bu huan	165
 忒过瘾	tei guo yin	81
 忒好吃	tei hao chi	136
 忒好看	tei hao kan	56
@@ -676,6 +683,7 @@ sort: by_weight
 这罪	zhei zui	332
 这尊	zhei zun	512
 这座	zhei zuo	709
+在不了	zai bu le	201
 啊这是	a zhei shi	520
 啊这些	a zhei xie	504
 爱这个	ai zhei ge	494
