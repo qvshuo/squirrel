@@ -501,6 +501,7 @@ sort: by_weight
 把	ba	925
 吧	ba	910
 爸	ba	834
+吧	ba	810
 八	ba	799
 捌	ba	782
 扒	ba	772
@@ -636,11 +637,11 @@ sort: by_weight
 䶕	ba	1
 白	bai	785
 百	bai	758
+败	bai	730
 佰	bai	712
-呗	bai	708
-败	bai	702
 摆	bai	671
 拜	bai	670
+呗	bai	622
 柏	bai	607
 掰	bai	526
 栢	bai	376
@@ -6740,8 +6741,8 @@ sort: by_weight
 得	dei	614
 嘚	dei	1
 䮻	dei	1
-扥	den	254
-扽	den	234
+扽	den	264
+扥	den	204
 㩐	den	1
 等	deng	853
 登	deng	720
@@ -6809,11 +6810,11 @@ sort: by_weight
 第	di	824
 低	di	776
 底	di	758
+递	di	742
+弟	di	737
 的	di	733
 帝	di	706
 迪	di	699
-弟	di	688
-递	di	678
 的	di	677
 抵	di	672
 滴	di	668
