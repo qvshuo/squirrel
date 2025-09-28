@@ -7,7 +7,15 @@ name: compatible
 version: "LTS"
 sort: by_weight
 ...
-尽量	bei shang	803
+调了	tiao le	675
+调了吧	tiao le ba	172
+他调了	ta tiao le	192
+我调了	wo tiao le	194
+又调了	you tiao le	283
+还上	huan shang	643
+重重	zhong zhong	470
+还得了	huan de liao	202
+尽量	jin liang	803
 背上	bei shang	571
 调至	diao zhi	551
 重装	zhong zhuang	435
@@ -57,6 +65,7 @@ sort: by_weight
 忒有才	tei you cai	104
 忒早了	tei zao le	68
 忒长了	tei zhang le	60
+碍着您了	ai zhao nin le
 忒矮了吧	tei ai le ba	597
 忒白了吧	tei bai le ba	597
 忒薄了吧	tei bao le ba	597

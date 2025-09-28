@@ -3576,7 +3576,7 @@ sort: by_weight
 琩	chang	167
 鯧	chang	166
 甞	chang	154
-镸	chang	139
+長	chang	142
 仩	chang	136
 仧	chang	134
 鱨	chang	122
@@ -3592,6 +3592,7 @@ sort: by_weight
 鼚	chang	50
 僘	chang	23
 瓺	chang	23
+镸	chang	1
 䗉	chang	1
 㫤	chang	1
 𬬮	chang	1
@@ -3600,7 +3601,6 @@ sort: by_weight
 場	chang	1
 塲	chang	1
 淌	chang	1
-長	chang	1
 闛	chang	1
 龦	chang	1
 㙊	chang	1
@@ -36410,7 +36410,6 @@ sort: by_weight
 𩦷	tie	1
 𩧀	tie	1
 𪎋	tie	1
-䄺	tii	1
 挺	ting	763
 听	ting	752
 停	ting	737
