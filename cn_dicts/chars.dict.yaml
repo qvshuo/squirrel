@@ -2342,6 +2342,7 @@ sort: by_weight
 髉	bo	38
 襏	bo	23
 鵓	bo	23
+狛	bo	6
 紴	bo	1
 懪	bo	1
 䶈	bo	1
@@ -16684,9 +16685,10 @@ sort: by_weight
 𪖄	jiao	1
 𪚰	jiao	1
 𫈇	jiao	1
-解	jie	817
-结	jie	809
-接	jie	805
+解	jie	887
+接	jie	839
+结	jie	811
+姐	jie	788
 节	jie	785
 界	jie	783
 介	jie	738
@@ -16694,7 +16696,6 @@ sort: by_weight
 阶	jie	707
 借	jie	706
 届	jie	702
-姐	jie	693
 洁	jie	691
 截	jie	685
 杰	jie	679
@@ -20750,6 +20751,7 @@ sort: by_weight
 𨈓	leng	1
 𩩡	leng	1
 里	li	868
+离	li	855
 理	li	843
 力	li	841
 利	li	817
@@ -20758,7 +20760,6 @@ sort: by_weight
 立	li	791
 历	li	779
 例	li	775
-离	li	762
 丽	li	724
 礼	li	717
 励	li	693
@@ -28290,6 +28291,7 @@ sort: by_weight
 鏺	po	50
 尀	po	38
 櫇	po	23
+狛	po	3
 砶	po	1
 駊	po	1
 𩕏	po	1
@@ -28306,7 +28308,6 @@ sort: by_weight
 泺	po	1
 湐	po	1
 濼	po	1
-狛	po	1
 猼	po	1
 箥	po	1
 繁	po	1

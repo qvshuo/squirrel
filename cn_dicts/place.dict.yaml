@@ -3027,8 +3027,8 @@ sort: by_weight
 潭头镇	tan tou zhen	293
 潭子区	tan zi qu	1
 唐家堡	tang jia bao	340
-塘厦镇	tang sha zhen	404
 汤旺县	tang wang xian	1
+塘厦镇	tang xia zhen	404
 汤峪镇	tang yu zhen	336
 陶北村	tao bei cun	219
 陶厂镇	tao chang zhen	127
@@ -3231,7 +3231,6 @@ sort: by_weight
 王渠村	wang qu cun	69
 王曲乡	wang qu xiang	181
 王圈村	wang quan cun	127
-望厦村	wang sha cun	234
 王沙村	wang sha cun	69
 王山村	wang shan cun	112
 王石村	wang shi cun	1
@@ -3264,6 +3263,7 @@ sort: by_weight
 王屋镇	wang wu zhen	163
 王武庄	wang wu zhuang	210
 王西村	wang xi cun	52
+望厦村	wang xia cun	234
 王仙镇	wang xian zhen	145
 王巷村	wang xiang cun	139
 王相村	wang xiang cun	52
@@ -5304,7 +5304,6 @@ sort: by_weight
 保安堡村	bao an bao cun	1
 保安街村	bao an jie cun	1
 保安街道	bao an jie dao	10
-保安街道	bao an jie dao	10
 宝安西乡	bao an xi xiang	340
 保安营村	bao an ying cun	1
 保安庄村	bao an zhuang cun	58
@@ -5530,13 +5529,6 @@ sort: by_weight
 北陈庄村	bei chen zhuang cun	1
 北城堡村	bei cheng bao cun	1
 北城街道	bei cheng jie dao	10
-北城街道	bei cheng jie dao	10
-北城街道	bei cheng jie dao	10
-北城街道	bei cheng jie dao	10
-北城街道	bei cheng jie dao	10
-北城街道	bei cheng jie dao	10
-北城街道	bei cheng jie dao	10
-北城街道	bei cheng jie dao	10
 北成口村	bei cheng kou cun	1
 北城里村	bei cheng li cun	1
 北程林村	bei cheng lin cun	1
@@ -5756,7 +5748,6 @@ sort: by_weight
 北焦羊村	bei jiao yang cun	1
 北界安村	bei jie an cun	1
 北界河村	bei jie he cun	1
-北街街道	bei jie jie dao	10
 北街街道	bei jie jie dao	10
 北靳楼村	bei jin lou cun	1
 北靳庄村	bei jin zhuang cun	1
@@ -6458,11 +6449,6 @@ sort: by_weight
 滨海新区	bin hai xin qu	598
 滨海一村	bin hai yi cun	1
 滨河街道	bin he jie dao	10
-滨河街道	bin he jie dao	10
-滨河街道	bin he jie dao	10
-滨河街道	bin he jie dao	10
-滨河街道	bin he jie dao	10
-滨湖街道	bin hu jie dao	10
 滨湖街道	bin hu jie dao	10
 滨江一村	bin jiang yi cun	1
 彬乌伦县	bin wu lun xian	116
@@ -7091,7 +7077,6 @@ sort: by_weight
 长河碥村	chang he bian cun	134
 长河李村	chang he li cun	1
 长虹街道	chang hong jie dao	10
-长虹街道	chang hong jie dao	10
 长湖头村	chang hu tou cun	1
 长淮卫镇	chang huai wei zhen	105
 长淮新村	chang huai xin cun	149
@@ -7528,11 +7513,6 @@ sort: by_weight
 城澳街村	cheng ao jie cun	1
 城澳里村	cheng ao li cun	1
 城北街道	cheng bei jie dao	10
-城北街道	cheng bei jie dao	10
-城北街道	cheng bei jie dao	10
-城北街道	cheng bei jie dao	10
-城北街道	cheng bei jie dao	10
-城北街道	cheng bei jie dao	10
 城北寨村	cheng bei zhai cun	1
 城北庄村	cheng bei zhuang cun	1
 程寸营村	cheng cun ying cun	1
@@ -7541,42 +7521,12 @@ sort: by_weight
 城道坡村	cheng dao po cun	1
 程德岗村	cheng de gang cun	92
 城东街道	cheng dong jie dao	10
-城东街道	cheng dong jie dao	10
-城东街道	cheng dong jie dao	10
-城东街道	cheng dong jie dao	10
-城东街道	cheng dong jie dao	10
-城东街道	cheng dong jie dao	10
-城东街道	cheng dong jie dao	10
 程东旺村	cheng dong wang cun	1
 成都郫县	cheng du pi xian	434
 成高子镇	cheng gao zi zhen	216
 程戈庄村	cheng ge zhuang cun	35
 称勾集镇	cheng gou ji zhen	35
 称钩驿镇	cheng gou yi zhen	35
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
-城关街道	cheng guan jie dao	10
 城关街道	cheng guan jie dao	10
 程官屯村	cheng guan tun cun	1
 城关新村	cheng guan xin cun	1
@@ -7633,14 +7583,6 @@ sort: by_weight
 乘马岗镇	cheng ma gang zhen	230
 澄铭窑村	cheng ming yao cun	1
 城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
-城南街道	cheng nan jie dao	10
 澄南新村	cheng nan xin cun	1
 城南新村	cheng nan xin cun	1
 城南庄镇	cheng nan zhuang zhen	178
@@ -7648,9 +7590,6 @@ sort: by_weight
 城墙头村	cheng qiang tou cun	1
 城墙峪村	cheng qiang yu cun	1
 程桥一村	cheng qiao yi cun	58
-城区街道	cheng qu jie dao	10
-城区街道	cheng qu jie dao	10
-城区街道	cheng qu jie dao	10
 城区街道	cheng qu jie dao	10
 称汝桂县	cheng ru gui xian	1
 城市化村	cheng shi hua cun	1
@@ -7667,30 +7606,21 @@ sort: by_weight
 城西岙村	cheng xi ao cun	1
 城西湖乡	cheng xi hu xiang	149
 城西街道	cheng xi jie dao	10
-城西街道	cheng xi jie dao	10
-城西街道	cheng xi jie dao	10
 城西三村	cheng xi san cun	1
 城西头村	cheng xi tou cun	1
 城西新村	cheng xi xin cun	1
 城西一村	cheng xi yi cun	1
-城厢街道	cheng xiang jie dao	10
-城厢街道	cheng xiang jie dao	10
 城厢街道	cheng xiang jie dao	10
 成辛庄村	cheng xin zhuang cun	1
 程新庄村	cheng xin zhuang cun	1
 城崖地村	cheng ya di cun	58
 澄阳街道	cheng yang jie dao	10
 城阳街道	cheng yang jie dao	10
-城阳街道	cheng yang jie dao	10
 成益新村	cheng yi xin cun	1
 程油子乡	cheng you zi xiang	116
 成语之乡	cheng yu zhi xiang	77
 成园山庄	cheng yuan shan zhuang	1
 城镇街道	cheng zhen jie dao	10
-城中街道	cheng zhong jie dao	10
-城中街道	cheng zhong jie dao	10
-城中街道	cheng zhong jie dao	10
-城中街道	cheng zhong jie dao	10
 城中街道	cheng zhong jie dao	10
 程朱庄村	cheng zhu zhuang cun	1
 程庄子村	cheng zhuang zi cun	35
@@ -7711,7 +7641,6 @@ sort: by_weight
 赤壁街道	chi bi jie dao	10
 赤不苏镇	chi bu su zhen	58
 吃茶坡村	chi cha po cun	1
-赤城街道	chi cheng jie dao	10
 赤城街道	chi cheng jie dao	10
 赤川口村	chi chuan kou cun	191
 池稻地村	chi dao di cun	1
@@ -7818,7 +7747,6 @@ sort: by_weight
 创新街道	chuang xin jie dao	10
 创新型县	chuang xin xing xian	1
 吹麻滩镇	chui ma tan zhen	168
-春城街道	chun cheng jie dao	10
 春城街道	chun cheng jie dao	10
 春芳营村	chun fang ying cun	1
 春谷山庄	chun gu shan zhuang	58
@@ -9672,15 +9600,6 @@ sort: by_weight
 东城坊镇	dong cheng fang zhen	77
 东城角村	dong cheng jiao cun	1
 东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
-东城街道	dong cheng jie dao	10
 东城口村	dong cheng kou cun	1
 东成瀬村	dong cheng lai cun	35
 东城武村	dong cheng wu cun	1
@@ -9882,8 +9801,6 @@ sort: by_weight
 东官坊村	dong guan fang cun	1
 东关街村	dong guan jie cun	1
 东关街道	dong guan jie dao	10
-东关街道	dong guan jie dao	10
-东关街道	dong guan jie dao	10
 东观街道	dong guan jie dao	10
 东观津村	dong guan jin cun	1
 东关门村	dong guan men cun	1
@@ -9964,7 +9881,6 @@ sort: by_weight
 东侯庄村	dong hou zhuang cun	1
 东户部庄	dong hu bu zhuang	1
 东胡集镇	dong hu ji zhen	35
-东湖街道	dong hu jie dao	10
 东湖街道	dong hu jie dao	10
 东湖口村	dong hu kou cun	1
 东胡林村	dong hu lin cun	1
@@ -10085,7 +10001,6 @@ sort: by_weight
 东角山村	dong jiao shan cun	1
 东角头村	dong jiao tou cun	1
 东焦湾村	dong jiao wan cun	1
-东街街道	dong jie jie dao	10
 东街街道	dong jie jie dao	10
 东界脑村	dong jie nao cun	1
 东金店乡	dong jin dian xiang	77
@@ -10444,8 +10359,6 @@ sort: by_weight
 东山根村	dong shan gen cun	1
 东山沟村	dong shan gou cun	1
 东山街道	dong shan jie dao	10
-东山街道	dong shan jie dao	10
-东山街道	dong shan jie dao	10
 东山口村	dong shan kou cun	1
 东山梁村	dong shan liang cun	1
 东山坡村	dong shan po cun	1
@@ -10471,7 +10384,6 @@ sort: by_weight
 东申寨村	dong shen zhai cun	1
 东沈庄村	dong shen zhuang cun	1
 东盛街道	dong sheng jie dao	10
-东升街道	dong sheng jie dao	10
 东升街道	dong sheng jie dao	10
 东盛山庄	dong sheng shan zhuang	1
 东胜堂村	dong sheng tang cun	1
@@ -10775,7 +10687,6 @@ sort: by_weight
 东新庄村	dong xin zhuang cun	1
 东新庄镇	dong xin zhuang zhen	35
 东兴堡村	dong xing bao cun	1
-东兴街道	dong xing jie dao	10
 东兴街道	dong xing jie dao	10
 东兴隆村	dong xing long cun	1
 东杏山村	dong xing shan cun	1
@@ -11571,7 +11482,6 @@ sort: by_weight
 方石坪镇	fang shi ping zhen	35
 方顺桥乡	fang shun qiao xiang	1
 方松街道	fang song jie dao	10
-方松街道	fang song jie dao	10
 方塔新村	fang ta xin cun	1
 方亭街道	fang ting jie dao	10
 芳香茶庄	fang xiang cha zhuang	1
@@ -11640,10 +11550,7 @@ sort: by_weight
 丰北河乡	feng bei he xiang	1
 冯茶庄村	feng cha zhuang cun	1
 凤城街道	feng cheng jie dao	10
-凤城街道	feng cheng jie dao	10
-凤城街道	feng cheng jie dao	10
 丰城街道	feng cheng jie dao	10
-凤城街道	feng cheng jie dao	10
 逢春岭乡	feng chun ling xiang	35
 丰代尼乡	feng dai ni xiang	58
 凤德岭村	feng de ling cun	116
@@ -11655,7 +11562,6 @@ sort: by_weight
 峰峰矿区	feng feng kuang qu	377
 丰富墕村	feng fu yan cun	1
 丰富庄村	feng fu zhuang cun	1
-凤岗街道	feng gang jie dao	10
 凤岗街道	feng gang jie dao	10
 冯高庄村	feng gao zhuang cun	1
 凤阁岭村	feng ge ling cun	1
@@ -11678,12 +11584,6 @@ sort: by_weight
 凤凰沟村	feng huang gou cun	77
 凤凰观村	feng huang guan cun	1
 凤凰官庄	feng huang guan zhuang	1
-凤凰街道	feng huang jie dao	10
-凤凰街道	feng huang jie dao	10
-凤凰街道	feng huang jie dao	10
-凤凰街道	feng huang jie dao	10
-凤凰街道	feng huang jie dao	10
-凤凰街道	feng huang jie dao	10
 凤凰街道	feng huang jie dao	10
 凤凰泾村	feng huang jing cun	1
 凤凰咀村	feng huang ju cun	1
@@ -11914,7 +11814,6 @@ sort: by_weight
 阜昌街道	fu chang jie dao	10
 阜城店村	fu cheng dian cun	1
 阜城街道	fu cheng jie dao	10
-府城街道	fu cheng jie dao	10
 府城街道	fu cheng jie dao	10
 复成新村	fu cheng xin cun	1
 富春江镇	fu chun jiang zhen	341
@@ -12888,7 +12787,6 @@ sort: by_weight
 共青城市	gong qing cheng shi	341
 共青团村	gong qing tuan cun	1
 工人街道	gong ren jie dao	10
-工人街道	gong ren jie dao	10
 弓手刘村	gong shou liu cun	1
 龚滩古镇	gong tan gu zhen	357
 贡土尔县	gong tu er xian	105
@@ -12905,7 +12803,6 @@ sort: by_weight
 公营子镇	gong ying zi zhen	134
 公屿农村	gong yu nong cun	1
 公屿渔村	gong yu yu cun	1
-公园街道	gong yuan jie dao	10
 公园街道	gong yuan jie dao	10
 公元新村	gong yuan xin cun	92
 公园新村	gong yuan xin cun	1
@@ -12962,8 +12859,6 @@ sort: by_weight
 古城堡村	gu cheng bao cun	1
 固城店镇	gu cheng dian zhen	35
 古城界村	gu cheng jie cun	1
-古城街道	gu cheng jie dao	10
-古城街道	gu cheng jie dao	10
 古城街道	gu cheng jie dao	10
 古城里村	gu cheng li cun	1
 古城梁村	gu cheng liang cun	1
@@ -13037,7 +12932,6 @@ sort: by_weight
 古柳树村	gu liu shu cun	1
 古龙冈镇	gu long gang zhen	1
 古楼街村	gu lou jie cun	1
-鼓楼街道	gu lou jie dao	10
 鼓楼街道	gu lou jie dao	10
 古楼坪村	gu lou ping cun	1
 鼓楼坡村	gu lou po cun	1
@@ -13360,8 +13254,6 @@ sort: by_weight
 广灵新村	guang ling xin cun	1
 广禄庄村	guang lu zhuang cun	1
 广梅沟村	guang mei gou cun	1
-光明街道	guang ming jie dao	10
-光明街道	guang ming jie dao	10
 光明街道	guang ming jie dao	10
 广木河村	guang mu he cun	1
 广坪河村	guang ping he cun	1
@@ -13717,7 +13609,6 @@ sort: by_weight
 海楼渔村	hai lou yu cun	1
 海鲁吐镇	hai lu tu zhen	142
 海门街道	hai men jie dao	10
-海门街道	hai men jie dao	10
 海南羊庄	hai nan yang zhuang	329
 海努克乡	hai nu ke xiang	105
 海荣新村	hai rong xin cun	58
@@ -13903,7 +13794,6 @@ sort: by_weight
 汉阴沟村	han yin gou cun	1
 含元殿村	han yuan dian cun	1
 汉源街道	han yuan jie dao	10
-汉源街道	han yuan jie dao	10
 韩园子村	han yuan zi cun	1
 韩寨府村	han zhai fu cun	1
 韩寨子村	han zhai zi cun	1
@@ -14071,9 +13961,6 @@ sort: by_weight
 贺东沟村	he dong gou cun	1
 河东街村	he dong jie cun	1
 河东街道	he dong jie dao	10
-河东街道	he dong jie dao	10
-河东街道	he dong jie dao	10
-河东街道	he dong jie dao	10
 河东李村	he dong li cun	1
 河东台村	he dong tai cun	1
 鹤洞新村	he dong xin cun	105
@@ -14213,7 +14100,6 @@ sort: by_weight
 河南郏县	he nan jia xian	272
 河南街村	he nan jie cun	1
 河南街道	he nan jie dao	10
-河南街道	he nan jie dao	10
 河南刘村	he nan liu cun	1
 河南内乡	he nan nei xiang	288
 河南杞县	he nan qi xian	444
@@ -14240,8 +14126,6 @@ sort: by_weight
 鹤盘山村	he pan shan cun	1
 合朋溪镇	he peng xi zhen	77
 河坪沟村	he ping gou cun	1
-和平街道	he ping jie dao	10
-和平街道	he ping jie dao	10
 和平街道	he ping jie dao	10
 和平溪村	he ping xi cun	1
 和平溪乡	he ping xi xiang	92
@@ -14310,7 +14194,6 @@ sort: by_weight
 河西埭村	he xi dai cun	58
 河西董村	he xi dong cun	1
 河西沟村	he xi gou cun	1
-河西街道	he xi jie dao	10
 河西街道	he xi jie dao	10
 河西刘村	he xi liu cun	1
 河西坡村	he xi po cun	1
@@ -14512,7 +14395,7 @@ sort: by_weight
 横湖桥村	heng hu qiao cun	1
 衡家坳村	heng jia ao cun	1
 横江桥乡	heng jiang qiao xiang	58
-横江厦村	heng jiang sha cun	156
+横江厦村	heng jiang xia cun	156
 横滘头村	heng jiao tou cun	1
 横街子村	heng jie zi cun	92
 横泾堂村	heng jing tang cun	1
@@ -14695,11 +14578,6 @@ sort: by_weight
 红旗甸村	hong qi dian cun	1
 红旗沟村	hong qi gou cun	1
 红旗街道	hong qi jie dao	10
-红旗街道	hong qi jie dao	10
-红旗街道	hong qi jie dao	10
-红旗街道	hong qi jie dao	10
-红旗街道	hong qi jie dao	10
-红旗街道	hong qi jie dao	10
 红旗口村	hong qi kou cun	1
 红旗梁村	hong qi liang cun	1
 红旗岭镇	hong qi ling zhen	142
@@ -14707,7 +14585,6 @@ sort: by_weight
 红旗营村	hong qi ying cun	134
 红旗营乡	hong qi ying xiang	77
 红旗庄村	hong qi zhuang cun	1
-虹桥街道	hong qiao jie dao	10
 虹桥街道	hong qiao jie dao	10
 洪桥头村	hong qiao tou cun	1
 红桥头村	hong qiao tou cun	1
@@ -14724,7 +14601,6 @@ sort: by_weight
 红沙窝村	hong sha wo cun	1
 红山堡村	hong shan bao cun	1
 洪山殿镇	hong shan dian zhen	203
-红山街道	hong shan jie dao	10
 红山街道	hong shan jie dao	10
 红山口村	hong shan kou cun	35
 洪山口村	hong shan kou cun	1
@@ -14802,8 +14678,6 @@ sort: by_weight
 鸿禧山庄	hong xi shan zhuang	92
 红翔新村	hong xiang xin cun	58
 红鑫新村	hong xin xin cun	58
-红星街道	hong xing jie dao	10
-红星街道	hong xing jie dao	10
 红星街道	hong xing jie dao	10
 虹星桥镇	hong xing qiao zhen	191
 红杏山庄	hong xing shan zhuang	116
@@ -15357,7 +15231,6 @@ sort: by_weight
 花明楼镇	hua ming lou zhen	255
 花明泉村	hua ming quan cun	92
 花木街道	hua mu jie dao	10
-花木街道	hua mu jie dao	10
 花木之乡	hua mu zhi xiang	319
 花牌坊村	hua pai fang cun	1
 桦皮厂镇	hua pi chang zhen	191
@@ -15444,8 +15317,6 @@ sort: by_weight
 花园港村	hua yuan gang cun	77
 花园岗村	hua yuan gang cun	1
 花园沟村	hua yuan gou cun	125
-花园街道	hua yuan jie dao	10
-花园街道	hua yuan jie dao	10
 花园街道	hua yuan jie dao	10
 花园九村	hua yuan jiu cun	1
 花园口村	hua yuan kou cun	228
@@ -16612,7 +16483,6 @@ sort: by_weight
 涧沟崖村	jian gou ya cun	1
 涧沟峪村	jian gou yu cun	1
 建国街道	jian guo jie dao	10
-建国街道	jian guo jie dao	10
 见过老乡	jian guo lao xiang	315
 涧河街道	jian he jie dao	10
 鉴湖新村	jian hu xin cun	1
@@ -16643,8 +16513,6 @@ sort: by_weight
 尖山子村	jian shan zi cun	77
 尖山子乡	jian shan zi xiang	58
 建设街村	jian she jie cun	1
-建设街道	jian she jie dao	10
-建设街道	jian she jie dao	10
 建设街道	jian she jie dao	10
 建设一村	jian she yi cun	1
 涧水坳村	jian shui ao cun	1
@@ -16779,7 +16647,6 @@ sort: by_weight
 将军墓镇	jiang jun mu zhen	116
 将军尧镇	jiang jun yao zhen	125
 江口街道	jiang kou jie dao	10
-江口街道	jiang kou jie dao	10
 江口墟镇	jiang kou xu zhen	116
 蒋李集镇	jiang li ji zhen	116
 蒋里庄村	jiang li zhuang cun	58
@@ -16793,9 +16660,6 @@ sort: by_weight
 江南堡村	jiang nan bao cun	1
 江南煲庄	jiang nan bao zhuang	58
 江南街道	jiang nan jie dao	10
-江南街道	jiang nan jie dao	10
-江南街道	jiang nan jie dao	10
-江南街道	jiang nan jie dao	10
 江南鱼村	jiang nan yu cun	1
 江南渔村	jiang nan yu cun	1
 姜南庄村	jiang nan zhuang cun	1
@@ -16808,7 +16672,6 @@ sort: by_weight
 江热夏乡	jiang re xia xiang	92
 江日堂乡	jiang ri tang xiang	116
 蒋三鸡庄	jiang san ji zhuang	35
-江厦街道	jiang sha jie dao	10
 江山底村	jiang shan di cun	1
 姜山头村	jiang shan tou cun	1
 蒋山镇村	jiang shan zhen cun	1
@@ -16837,6 +16700,7 @@ sort: by_weight
 江西营村	jiang xi ying cun	35
 江西俞村	jiang xi yu cun	58
 将熙泽村	jiang xi ze cun	1
+江厦街道	jiang xia jie dao	10
 降香坪村	jiang xiang ping cun	1
 蒋巷镇村	jiang xiang zhen cun	1
 蒋辛屯镇	jiang xin tun zhen	173
@@ -16953,10 +16817,6 @@ sort: by_weight
 杰尔泊堡	jie er po bao	1
 解放街村	jie fang jie cun	58
 解放街道	jie fang jie dao	10
-解放街道	jie fang jie dao	10
-解放街道	jie fang jie dao	10
-解放街道	jie fang jie dao	10
-解放街道	jie fang jie dao	10
 解放四村	jie fang si cun	58
 解放滩镇	jie fang tan zhen	1
 解放岩乡	jie fang yan xiang	77
@@ -17047,7 +16907,6 @@ sort: by_weight
 金城街道	jin cheng jie dao	10
 锦城街道	jin cheng jie dao	10
 津城街道	jin cheng jie dao	10
-金城街道	jin cheng jie dao	10
 晋城街道	jin cheng jie dao	10
 金城山庄	jin cheng shan zhuang	1
 金称市镇	jin cheng shi zhen	35
@@ -17111,7 +16970,6 @@ sort: by_weight
 金湖山庄	jin hu shan zhuang	58
 金湖新村	jin hu xin cun	58
 金华煲庄	jin hua bao zhuang	105
-锦华街道	jin hua jie dao	10
 锦华街道	jin hua jie dao	10
 金花岭村	jin hua ling cun	1
 金华庙村	jin hua miao cun	1
@@ -17238,12 +17096,9 @@ sort: by_weight
 金沙夼村	jin sha kuang cun	1
 金厦山庄	jin sha shan zhuang	1
 金沙滩镇	jin sha tan zhen	183
-锦厦新村	jin sha xin cun	1
 金沙新村	jin sha xin cun	1
 金山堡村	jin shan bao cun	105
 金山店镇	jin shan dian zhen	207
-金山街道	jin shan jie dao	10
-金山街道	jin shan jie dao	10
 金山街道	jin shan jie dao	10
 金山铺村	jin shan pu cun	1
 金山铺乡	jin shan pu xiang	58
@@ -17289,6 +17144,7 @@ sort: by_weight
 锦溪古镇	jin xi gu zhen	387
 金溪山庄	jin xi shan zhuang	203
 金霞街道	jin xia jie dao	10
+锦厦新村	jin xia xin cun	1
 进鲜港村	jin xian gang cun	1
 金线沟村	jin xian gou cun	1
 金乡街道	jin xiang jie dao	10
@@ -17543,10 +17399,6 @@ sort: by_weight
 九莲新村	jiu lian xin cun	280
 九龙岗镇	jiu long gang zhen	77
 九龙观村	jiu long guan cun	105
-九龙街道	jiu long jie dao	10
-九龙街道	jiu long jie dao	10
-九龙街道	jiu long jie dao	10
-九龙街道	jiu long jie dao	10
 九龙街道	jiu long jie dao	10
 九龙岭镇	jiu long ling zhen	92
 九龙坡村	jiu long po cun	1
@@ -18128,7 +17980,6 @@ sort: by_weight
 兰家营村	lan jia ying cun	1
 兰家庄村	lan jia zhuang cun	92
 蓝家庄村	lan jia zhuang cun	1
-兰江街道	lan jiang jie dao	10
 兰江街道	lan jiang jie dao	10
 岚角山镇	lan jiao shan zhen	92
 烂井坝村	lan jing ba cun	1
@@ -19928,9 +19779,6 @@ sort: by_weight
 龙场街道	long chang jie dao	10
 龙场营镇	long chang ying zhen	58
 龙城街道	long cheng jie dao	10
-龙城街道	long cheng jie dao	10
-龙城街道	long cheng jie dao	10
-龙城街道	long cheng jie dao	10
 拢船头村	long chuan tou cun	1
 龙床沟村	long chuang gou cun	1
 龙洞沟村	long dong gou cun	1
@@ -19972,7 +19820,6 @@ sort: by_weight
 龙虎庄乡	long hu zhuang xiang	77
 龙华店村	long hua dian cun	1
 龙华店乡	long hua dian xiang	35
-龙华街道	long hua jie dao	10
 龙华街道	long hua jie dao	10
 龙华寺村	long hua si cun	1
 龙槐塬村	long huai yuan cun	1
@@ -20047,8 +19894,6 @@ sort: by_weight
 龙泉罐村	long quan guan cun	1
 龙泉关镇	long quan guan zhen	195
 龙泉街道	long quan jie dao	10
-龙泉街道	long quan jie dao	10
-龙泉街道	long quan jie dao	10
 龙泉寺村	long quan si cun	149
 龙泉寺乡	long quan si xiang	142
 龙泉寺镇	long quan si zhen	168
@@ -20063,8 +19908,6 @@ sort: by_weight
 龙泉庄村	long quan zhuang cun	35
 龙桑寺镇	long sang si zhen	134
 龙山店村	long shan dian cun	1
-龙山街道	long shan jie dao	10
-龙山街道	long shan jie dao	10
 龙山街道	long shan jie dao	10
 龙山头村	long shan tou cun	1
 龙山院村	long shan yuan cun	1
@@ -20233,7 +20076,6 @@ sort: by_weight
 路村营乡	lu cun ying xiang	116
 鹿道口村	lu dao kou cun	1
 芦荻山乡	lu di shan xiang	187
-路东街道	lu dong jie dao	10
 路东街道	lu dong jie dao	10
 鲁渡外村	lu du wai cun	1
 鲁渡中村	lu du zhong cun	1
@@ -20656,7 +20498,6 @@ sort: by_weight
 罗巷新村	luo xiang xin cun	35
 罗辛庄村	luo xin zhuang cun	1
 落星堡村	luo xing bao cun	1
-罗星街道	luo xing jie dao	10
 罗星街道	luo xing jie dao	10
 罗雄街道	luo xiong jie dao	10
 罗秀新村	luo xiu xin cun	35
@@ -21880,7 +21721,6 @@ sort: by_weight
 闽越水镇	min yue shui zhen	322
 民主街村	min zhu jie cun	1
 民主街道	min zhu jie dao	10
-民主街道	min zhu jie dao	10
 民主一村	min zhu yi cun	35
 明安图镇	ming an tu zhen	191
 明城新村	ming cheng xin cun	1
@@ -22515,8 +22355,6 @@ sort: by_weight
 南角峪村	nan jiao yu cun	1
 南界城村	nan jie cheng cun	1
 南界河村	nan jie he cun	1
-南街街道	nan jie jie dao	10
-南街街道	nan jie jie dao	10
 南街街道	nan jie jie dao	10
 南皆瘴乡	nan jie zhang xiang	1
 南靳庄村	nan jin zhuang cun	1
@@ -23869,7 +23707,6 @@ sort: by_weight
 平桥街道	ping qiao jie dao	10
 平山街道	ping shan jie dao	10
 坪山街道	ping shan jie dao	10
-平山街道	ping shan jie dao	10
 屏山街道	ping shan jie dao	10
 平山新村	ping shan xin cun	1
 屏山一村	ping shan yi cun	58
@@ -24397,7 +24234,6 @@ sort: by_weight
 前金沟村	qian jin gou cun	1
 千斤沟镇	qian jin gou zhen	116
 前津江村	qian jin jiang cun	58
-前进街道	qian jin jie dao	10
 前进街道	qian jin jie dao	10
 前荆沟村	qian jing gou cun	1
 前景庄村	qian jing zhuang cun	1
@@ -24934,7 +24770,6 @@ sort: by_weight
 清河店村	qing he dian cun	1
 清河坊村	qing he fang cun	1
 清河街道	qing he jie dao	10
-清河街道	qing he jie dao	10
 清河口村	qing he kou cun	1
 清河门区	qing he men qu	235
 清河南镇	qing he nan zhen	183
@@ -25163,7 +24998,6 @@ sort: by_weight
 青云庵村	qing yun an cun	1
 庆云堡镇	qing yun bao zhen	77
 青云店镇	qing yun dian zhen	284
-青云街道	qing yun jie dao	10
 青云街道	qing yun jie dao	10
 青云谱区	qing yun pu qu	450
 青云谱镇	qing yun pu zhen	251
@@ -25645,7 +25479,6 @@ sort: by_weight
 三和集镇	san he ji zhen	210
 三河尖乡	san he jian xiang	1
 三合街道	san he jie dao	10
-三合街道	san he jie dao	10
 三河口村	san he kou cun	116
 三合口乡	san he kou xiang	58
 三河口乡	san he kou xiang	35
@@ -25877,9 +25710,7 @@ sort: by_weight
 沙樊头村	sha fan tou cun	1
 沙凤新村	sha feng xin cun	1
 沙岗店村	sha gang dian cun	1
-厦港街道	sha gang jie dao	10
 沙港头村	sha gang tou cun	1
-厦港新村	sha gang xin cun	134
 沙岗子村	sha gang zi cun	77
 沙圪垯村	sha ge da cun	1
 沙圪堵镇	sha ge du zhen	183
@@ -26765,9 +26596,6 @@ sort: by_weight
 胜利沟村	sheng li gou cun	1
 胜利街村	sheng li jie cun	1
 胜利街道	sheng li jie dao	10
-胜利街道	sheng li jie dao	10
-胜利街道	sheng li jie dao	10
-胜利街道	sheng li jie dao	10
 圣力寺村	sheng li si cun	1
 胜利庄村	sheng li zhuang cun	1
 省茂比县	sheng mao bi xian	1
@@ -27619,9 +27447,6 @@ sort: by_weight
 市之濑村	shi zhi lai cun	35
 石钟沟村	shi zhong gou cun	1
 市中街道	shi zhong jie dao	10
-市中街道	shi zhong jie dao	10
-市中街道	shi zhong jie dao	10
-市中街道	shi zhong jie dao	10
 史中坞村	shi zhong wu cun	1
 石州营村	shi zhou ying cun	1
 石柱庵村	shi zhu an cun	1
@@ -27806,7 +27631,6 @@ sort: by_weight
 双河川村	shuang he chuan cun	1
 双河灌村	shuang he guan cun	1
 双河街道	shuang he jie dao	10
-双河街道	shuang he jie dao	10
 双河口村	shuang he kou cun	228
 双河口乡	shuang he kou xiang	92
 双河口镇	shuang he kou zhen	228
@@ -27827,8 +27651,6 @@ sort: by_weight
 双家湾村	shuang jia wan cun	1
 双涧子村	shuang jian zi cun	1
 双江古镇	shuang jiang gu zhen	266
-双江街道	shuang jiang jie dao	10
-双江街道	shuang jiang jie dao	10
 双江街道	shuang jiang jie dao	10
 双江口村	shuang jiang kou cun	1
 双江口镇	shuang jiang kou zhen	290
@@ -27910,8 +27732,6 @@ sort: by_weight
 双水磨村	shuang shui mo cun	1
 双苏堡村	shuang su bao cun	35
 双塔街道	shuang ta jie dao	10
-双塔街道	shuang ta jie dao	10
-双塔街道	shuang ta jie dao	10
 双台沟村	shuang tai gou cun	58
 双台子村	shuang tai zi cun	58
 双台子区	shuang tai zi qu	276
@@ -27967,7 +27787,6 @@ sort: by_weight
 水甸沟村	shui dian gou cun	1
 水洞底镇	shui dong di zhen	58
 水东江镇	shui dong jiang zhen	92
-水东街道	shui dong jie dao	10
 水东街道	shui dong jie dao	10
 水洞坪村	shui dong ping cun	1
 水洞桥村	shui dong qiao cun	1
@@ -28030,7 +27849,6 @@ sort: by_weight
 水磨坝村	shui mo ba cun	1
 水磨沟村	shui mo gou cun	178
 水磨沟区	shui mo gou qu	399
-水磨沟区	shui mo gou qu	10
 水磨沟乡	shui mo gou xiang	105
 水磨古镇	shui mo gu zhen	306
 水磨河村	shui mo he cun	116
@@ -28521,11 +28339,9 @@ sort: by_weight
 宋崖窑村	song ya yao cun	1
 宋严王村	song yan wang cun	1
 嵩阳街道	song yang jie dao	10
-嵩阳街道	song yang jie dao	10
 松隐山庄	song yin shan zhuang	58
 宋鱼池村	song yu chi cun	1
 嵩屿街道	song yu jie dao	10
-松源街道	song yuan jie dao	10
 松源街道	song yuan jie dao	10
 宋杖子村	song zhang zi cun	1
 宋杖子镇	song zhang zi zhen	191
@@ -28927,8 +28743,6 @@ sort: by_weight
 太平官庄	tai ping guan zhuang	77
 太平集村	tai ping ji cun	1
 太平街村	tai ping jie cun	35
-太平街道	tai ping jie dao	10
-太平街道	tai ping jie dao	10
 太平街道	tai ping jie dao	10
 太平口村	tai ping kou cun	77
 太平里村	tai ping li cun	35
@@ -29683,8 +29497,6 @@ sort: by_weight
 铁提尔村	tie ti er cun	134
 铁铜沟村	tie tong gou cun	1
 铁西街道	tie xi jie dao	10
-铁西街道	tie xi jie dao	10
-铁西街道	tie xi jie dao	10
 铁西三村	tie xi san cun	1
 铁心桥乡	tie xin qiao xiang	1
 铁心桥镇	tie xin qiao zhen	1
@@ -29984,7 +29796,6 @@ sort: by_weight
 团结沟村	tuan jie gou cun	1
 团结街村	tuan jie jie cun	1
 团结街道	tuan jie jie dao	10
-团结街道	tuan jie jie dao	10
 团聚庄村	tuan ju zhuang cun	1
 疃里新村	tuan li xin cun	1
 团里庄村	tuan li zhuang cun	1
@@ -30176,8 +29987,6 @@ sort: by_weight
 外南峪镇	wai nan yu zhen	1
 外山头村	wai shan tou cun	1
 外山郑村	wai shan zheng cun	1
-外滩街道	wai tan jie dao	10
-外滩街道	wai tan jie dao	10
 外滩街道	wai tan jie dao	10
 外桐坞村	wai tong wu cun	183
 歪头山村	wai tou shan cun	1
@@ -30726,7 +30535,6 @@ sort: by_weight
 王沙埠村	wang sha bu cun	1
 王沙沟村	wang sha gou cun	1
 王沙湾村	wang sha wan cun	1
-望厦新村	wang sha xin cun	1
 王山底村	wang shan di cun	77
 王山沟村	wang shan gou cun	1
 王芟河村	wang shan he cun	1
@@ -30803,6 +30611,7 @@ sort: by_weight
 王西沟村	wang xi gou cun	1
 王西章乡	wang xi zhang xiang	35
 王喜庄村	wang xi zhuang cun	1
+望厦新村	wang xia xin cun	1
 王仙庄村	wang xian zhuang cun	1
 王香铺村	wang xiang pu cun	1
 王辛店村	wang xin dian cun	1
@@ -31092,9 +30901,6 @@ sort: by_weight
 文昌阁乡	wen chang ge xiang	58
 文昌宫村	wen chang gong cun	1
 文昌街道	wen chang jie dao	10
-文昌街道	wen chang jie dao	10
-文昌街道	wen chang jie dao	10
-文昌街道	wen chang jie dao	10
 文昌寨村	wen chang zhai cun	1
 文川武乡	wen chuan wu xiang	1
 温厝角庄	wen cuo jiao zhuang	1
@@ -31156,8 +30962,6 @@ sort: by_weight
 文庙口村	wen miao kou cun	1
 文明塬村	wen ming yuan cun	1
 文屏山庄	wen ping shan zhuang	242
-温泉街道	wen quan jie dao	10
-温泉街道	wen quan jie dao	10
 温泉街道	wen quan jie dao	10
 温泉汤村	wen quan tang cun	1
 温泉屯乡	wen quan tun xiang	77
@@ -31678,7 +31482,6 @@ sort: by_weight
 梧桐花村	wu tong hua cun	1
 梧桐花镇	wu tong hua zhen	77
 梧桐街道	wu tong jie dao	10
-梧桐街道	wu tong jie dao	10
 五通桥区	wu tong qiao qu	307
 梧桐山村	wu tong shan cun	222
 五通山村	wu tong shan cun	34
@@ -31909,10 +31712,6 @@ sort: by_weight
 锡澄二村	xi cheng er cun	1
 西城坊村	xi cheng fang cun	1
 西城汇村	xi cheng hui cun	1
-西城街道	xi cheng jie dao	10
-西城街道	xi cheng jie dao	10
-西城街道	xi cheng jie dao	10
-西城街道	xi cheng jie dao	10
 西城街道	xi cheng jie dao	10
 硒城街道	xi cheng jie dao	10
 西城南村	xi cheng nan cun	1
@@ -32322,7 +32121,6 @@ sort: by_weight
 西蒋峪村	xi jiang yu cun	1
 西姜寨乡	xi jiang zhai xiang	249
 西焦城村	xi jiao cheng cun	1
-西郊街道	xi jiao jie dao	10
 西郊街道	xi jiao jie dao	10
 西交口乡	xi jiao kou xiang	58
 西角兰村	xi jiao lan cun	1
@@ -33336,6 +33134,8 @@ sort: by_weight
 下房子村	xia fang zi cun	92
 下符桥镇	xia fu qiao zhen	116
 下甘沟村	xia gan gou cun	1
+厦港街道	xia gang jie dao	10
+厦港新村	xia gang xin cun	134
 夏各庄村	xia ge zhuang cun	92
 夏各庄镇	xia ge zhuang zhen	173
 夏格庄镇	xia ge zhuang zhen	116
@@ -33510,7 +33310,6 @@ sort: by_weight
 下亚东乡	xia ya dong xiang	173
 夏砑河村	xia ya he cun	1
 下岩贝村	xia yan bei cun	92
-夏阳街道	xia yang jie dao	10
 夏阳街道	xia yang jie dao	10
 下窑沟村	xia yao gou cun	1
 下英水村	xia ying shui cun	77
@@ -33884,7 +33683,6 @@ sort: by_weight
 乡阳朝村	xiang yang chao cun	1
 向阳川镇	xiang yang chuan zhen	35
 向阳湖镇	xiang yang hu zhen	134
-向阳街道	xiang yang jie dao	10
 向阳街道	xiang yang jie dao	10
 向阳口村	xiang yang kou cun	92
 乡阳乐县	xiang yang le xian	1
@@ -34406,11 +34204,7 @@ sort: by_weight
 新安集镇	xin an ji zhen	302
 新安江镇	xin an jiang zhen	149
 新安街道	xin an jie dao	10
-新安街道	xin an jie dao	10
-新安街道	xin an jie dao	10
 信安街道	xin an jie dao	10
-新安街道	xin an jie dao	10
-新安街道	xin an jie dao	10
 辛安南村	xin an nan cun	1
 辛安泉镇	xin an quan zhen	116
 新安山庄	xin an shan zhuang	1
@@ -34439,17 +34233,7 @@ sort: by_weight
 新城堡村	xin cheng bao cun	1
 新城沟村	xin cheng gou cun	1
 新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
 信城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
-新城街道	xin cheng jie dao	10
 新城局乡	xin cheng ju xiang	1
 新城铺村	xin cheng pu cun	1
 新城铺镇	xin cheng pu zhen	125
@@ -34523,10 +34307,6 @@ sort: by_weight
 新湖街道	xin hu jie dao	10
 新户梁村	xin hu liang cun	1
 新华街道	xin hua jie dao	10
-新华街道	xin hua jie dao	10
-新华街道	xin hua jie dao	10
-新华街道	xin hua jie dao	10
-新华街道	xin hua jie dao	10
 新华七村	xin hua qi cun	1
 新华四村	xin hua si cun	1
 新华五村	xin hua wu cun	58
@@ -34567,7 +34347,6 @@ sort: by_weight
 新建堡村	xin jian bao cun	1
 新建队村	xin jian dui cun	1
 新建沟村	xin jian gou cun	1
-新建街道	xin jian jie dao	10
 新建街道	xin jian jie dao	10
 新建五村	xin jian wu cun	1
 新建一村	xin jian yi cun	1
@@ -34758,9 +34537,6 @@ sort: by_weight
 新兴港村	xin xing gang cun	1
 新兴沟村	xin xing gou cun	1
 新兴街道	xin xing jie dao	10
-新兴街道	xin xing jie dao	10
-新兴街道	xin xing jie dao	10
-新兴街道	xin xing jie dao	10
 新兴路村	xin xing lu cun	1
 新兴屯村	xin xing tun cun	1
 新兴垸村	xin xing yuan cun	1
@@ -34840,8 +34616,6 @@ sort: by_weight
 新庄子镇	xin zhuang zi zhen	142
 兴安堡村	xing an bao cun	1
 兴安街道	xing an jie dao	10
-兴安街道	xing an jie dao	10
-兴安街道	xing an jie dao	10
 兴安营村	xing an ying cun	1
 行比一乡	xing bi yi xiang	203
 行别营乡	xing bie ying xiang	1
@@ -34871,7 +34645,6 @@ sort: by_weight
 兴国寺村	xing guo si cun	1
 邢胡刘村	xing hu liu cun	1
 兴湖山庄	xing hu shan zhuang	1
-兴华街道	xing hua jie dao	10
 兴华街道	xing hua jie dao	10
 杏花岭区	xing hua ling qu	432
 杏花崖村	xing hua ya cun	1
@@ -35029,7 +34802,6 @@ sort: by_weight
 雄龙西乡	xiong long xi xiang	35
 熊山街道	xiong shan jie dao	10
 熊之庄村	xiong zhi zhuang cun	35
-雄州街道	xiong zhou jie dao	10
 雄州街道	xiong zhou jie dao	10
 休兵宇县	xiu bing yu xian	8
 秀川新村	xiu chuan xin cun	251
@@ -35216,7 +34988,6 @@ sort: by_weight
 畜牧场村	xu mu chang cun	1
 畜牧大县	xu mu da xian	315
 徐清吉庄	xu qing ji zhuang	1
-旭日街道	xu ri jie dao	10
 旭日街道	xu ri jie dao	10
 徐戎三村	xu rong san cun	125
 徐戎新村	xu rong xin cun	1
@@ -36439,7 +36210,6 @@ sort: by_weight
 以城带乡	yi cheng dai xiang	369
 义成功村	yi cheng gong cun	1
 宜城街道	yi cheng jie dao	10
-宜城街道	yi cheng jie dao	10
 沂城街道	yi cheng jie dao	10
 驿城新村	yi cheng xin cun	1
 宜冲桥乡	yi chong qiao xiang	77
@@ -36621,7 +36391,6 @@ sort: by_weight
 义学堂村	yi xue tang cun	1
 移沿山村	yi yan shan cun	58
 宜阳街道	yi yang jie dao	10
-宜阳街道	yi yang jie dao	10
 益阳南县	yi yang nan xian	222
 宜野座村	yi ye zuo cun	230
 以游梨乡	yi you li xiang	58
@@ -36654,7 +36423,6 @@ sort: by_weight
 银宝湖乡	yin bao hu xiang	58
 银厂沟村	yin chang gou cun	77
 殷陈庄村	yin chen zhuang cun	1
-银城街道	yin cheng jie dao	10
 银城街道	yin cheng jie dao	10
 银城铺乡	yin cheng pu xiang	35
 因丹萨县	yin dan sa xian	1
@@ -36885,8 +36653,6 @@ sort: by_weight
 永丰观村	yong feng guan cun	1
 永丰街村	yong feng jie cun	1
 永丰街道	yong feng jie dao	10
-永丰街道	yong feng jie dao	10
-永丰街道	yong feng jie dao	10
 永丰滩乡	yong feng tan xiang	1
 永丰庄村	yong feng zhuang cun	1
 永福庵村	yong fu an cun	1
@@ -36942,7 +36708,6 @@ sort: by_weight
 永兴寺村	yong xing si cun	1
 永兴坞村	yong xing wu cun	1
 永兴庄村	yong xing zhuang cun	1
-永阳街道	yong yang jie dao	10
 永阳街道	yong yang jie dao	10
 雍阳街道	yong yang jie dao	10
 永乐官庄	yong yue guan zhuang	1
@@ -37068,10 +36833,8 @@ sort: by_weight
 鱼包头村	yu bao tou cun	1
 玉保庄村	yu bao zhuang cun	1
 育才街道	yu cai jie dao	10
-育才街道	yu cai jie dao	10
 玉蟾街道	yu chan jie dao	10
 雨敞坪镇	yu chang ping zhen	207
-玉城街道	yu cheng jie dao	10
 玉城街道	yu cheng jie dao	10
 鱼城街道	yu cheng jie dao	10
 鱼池沟村	yu chi gou cun	1
@@ -37276,7 +37039,6 @@ sort: by_weight
 玉女观村	yu nv guan cun	1
 榆皮沟村	yu pi gou cun	1
 峪坪河村	yu ping he cun	1
-玉屏街道	yu ping jie dao	10
 玉屏街道	yu ping jie dao	10
 玉屏寺村	yu ping si cun	1
 玉瓶寨村	yu ping zhai cun	1
@@ -37876,8 +37638,6 @@ sort: by_weight
 站马屯村	zhan ma tun cun	1
 站马墕村	zhan ma yan cun	1
 粘泥岭村	zhan ni ling cun	1
-站前街道	zhan qian jie dao	10
-站前街道	zhan qian jie dao	10
 站前街道	zhan qian jie dao	10
 站塘新村	zhan tang xin cun	35
 展王河村	zhan wang he cun	1
@@ -38532,7 +38292,6 @@ sort: by_weight
 赵兴庄村	zhao xing zhuang cun	1
 照阳河镇	zhao yang he zhen	58
 昭阳街道	zhao yang jie dao	10
-昭阳街道	zhao yang jie dao	10
 赵油房村	zhao you fang cun	1
 赵油坊村	zhao you fang cun	1
 赵元湾村	zhao yuan wan cun	1
@@ -38732,7 +38491,6 @@ sort: by_weight
 真新新村	zhen xin xin cun	168
 镇新卓村	zhen xin zhuo cun	58
 镇杏虎村	zhen xing hu cun	1
-振兴街道	zhen xing jie dao	10
 振兴街道	zhen xing jie dao	10
 镇秀玛村	zhen xiu ma cun	35
 镇巽玉村	zhen xun yu cun	1
@@ -39854,8 +39612,6 @@ sort: by_weight
 调兵山街道	diao bing shan jie dao	10
 东安路街道	dong an lu jie dao	10
 东大街街道	dong da jie jie dao	10
-东大街街道	dong da jie jie dao	10
-东风路街道	dong feng lu jie dao	10
 东风路街道	dong feng lu jie dao	10
 董公寺街道	dong gong si jie dao	10
 东河区街道	dong he qu jie dao	10
@@ -39882,7 +39638,6 @@ sort: by_weight
 抚顺城街道	fu shun cheng jie dao	10
 干河陈街道	gan he chen jie dao	10
 杆石桥街道	gan shi qiao jie dao	10
-钢铁路街道	gang tie lu jie dao	10
 钢铁路街道	gang tie lu jie dao	10
 高良涧街道	gao liang jian jie dao	10
 高塘岭街道	gao tang ling jie dao	10
@@ -39924,13 +39679,10 @@ sort: by_weight
 济源路街道	ji yuan lu jie dao	10
 加格达奇区	jia ge da qi qu	1
 嘉兴路街道	jia xing lu jie dao	10
-嘉兴路街道	jia xing lu jie dao	10
 建国街街道	jian guo jie jie dao	10
 健康路街道	jian kang lu jie dao	10
 建设路街道	jian she lu jie dao	10
 江宁路街道	jiang ning lu jie dao	10
-江宁路街道	jiang ning lu jie dao	10
-江苏路街道	jiang su lu jie dao	10
 江苏路街道	jiang su lu jie dao	10
 浆洗街街道	jiang xi jie jie dao	10
 解放道街道	jie fang dao jie dao	10
@@ -39949,7 +39701,6 @@ sort: by_weight
 克拉玛依区	ke la ma yi qu	1
 克拉玛依市	ke la ma yi shi	443
 克什克腾旗	ke shi ke teng qi	426
-昆仑路街道	kun lun lu jie dao	10
 昆仑路街道	kun lun lu jie dao	10
 拉僧仲街道	la seng zhong jie dao	10
 老城路街道	lao cheng lu jie dao	10
@@ -39981,7 +39732,6 @@ sort: by_weight
 南院门街道	nan yuan men jie dao	10
 宁海路街道	ning hai lu jie dao	10
 平凉路街道	ping liang lu jie dao	10
-平凉路街道	ping liang lu jie dao	10
 平潭街街道	ping tan jie jie dao	10
 七里村街道	qi li cun jie dao	10
 七里甸街道	qi li dian jie dao	10
@@ -39994,22 +39744,15 @@ sort: by_weight
 琴断口街道	qin duan kou jie dao	10
 青得里街道	qing de li jie dao	10
 青年路街道	qing nian lu jie dao	10
-青年路街道	qing nian lu jie dao	10
-青年路街道	qing nian lu jie dao	10
 青屏街街道	qing ping jie jie dao	10
 青山路街道	qing shan lu jie dao	10
 清香坪街道	qing xiang ping jie dao	10
 雀儿山街道	que er shan jie dao	10
 人民路街道	ren min lu jie dao	10
-人民路街道	ren min lu jie dao	10
-人民路街道	ren min lu jie dao	10
-人民路街道	ren min lu jie dao	10
-人民路街道	ren min lu jie dao	10
 荣校路街道	rong xiao lu jie dao	10
 三家店街道	san jia dian jie dao	10
 三里庵街道	san li an jie dao	10
 三里堡街道	san li bao jie dao	10
-三里河街道	san li he jie dao	10
 三里河街道	san li he jie dao	10
 三里坪街道	san li ping jie dao	10
 沙依巴克区	sha yi ba ke qu	1
@@ -40025,7 +39768,6 @@ sort: by_weight
 石狮埠街道	shi shi bu jie dao	10
 石围塘街道	shi wei tang jie dao	10
 十字路街道	shi zi lu jie dao	10
-曙光街街道	shu guang jie jie dao	10
 曙光街街道	shu guang jie jie dao	10
 双湖峪街道	shuang hu yu jie dao	10
 双子河街道	shuang zi he jie dao	10
@@ -40092,12 +39834,9 @@ sort: by_weight
 小寨路街道	xiao zhai lu jie dao	10
 新安江街道	xin an jiang jie dao	10
 新成路街道	xin cheng lu jie dao	10
-新成路街道	xin cheng lu jie dao	10
 新城子街道	xin cheng zi jie dao	10
 新沟桥街道	xin gou qiao jie dao	10
 新华街街道	xin hua jie jie dao	10
-新华路街道	xin hua lu jie dao	10
-新华路街道	xin hua lu jie dao	10
 新华路街道	xin hua lu jie dao	10
 新江口街道	xin jiang kou jie dao	10
 新山村街道	xin shan cun jie dao	10
@@ -40110,7 +39849,6 @@ sort: by_weight
 星海湾街道	xing hai wan jie dao	10
 兴华路街道	xing hua lu jie dao	10
 兴平路街道	xing ping lu jie dao	10
-徐家汇街道	xu jia hui jie dao	10
 徐家汇街道	xu jia hui jie dao	10
 徐家井街道	xu jia jing jie dao	10
 鸭绿江街道	ya lu jiang jie dao	10
@@ -40127,8 +39865,6 @@ sort: by_weight
 永安路街道	yong an lu jie dao	10
 永安台街道	yong an tai jie dao	10
 永定路街道	yong ding lu jie dao	10
-友谊路街道	you yi lu jie dao	10
-友谊路街道	you yi lu jie dao	10
 友谊路街道	you yi lu jie dao	10
 雨湖路街道	yu hu lu jie dao	10
 尉犁尉犁县	yu li yu li xian	1
@@ -40150,15 +39886,11 @@ sort: by_weight
 招宝山街道	zhao bao shan jie dao	10
 昭君路街道	zhao jun lu jie dao	10
 真如镇街道	zhen ru zhen jie dao	10
-真如镇街道	zhen ru zhen jie dao	10
 真武洞街道	zhen wu dong jie dao	10
 真武山街道	zhen wu shan jie dao	10
 正东路街道	zheng dong lu jie dao	10
 中华路街道	zhong hua lu jie dao	10
-中华路街道	zhong hua lu jie dao	10
 中山路街道	zhong shan lu jie dao	10
-中山路街道	zhong shan lu jie dao	10
-中兴路街道	zhong xing lu jie dao	10
 中兴路街道	zhong xing lu jie dao	10
 中原路街道	zhong yuan lu jie dao	10
 状元洲街道	zhuang yuan zhou jie dao	10
