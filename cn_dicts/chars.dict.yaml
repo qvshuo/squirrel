@@ -16534,6 +16534,7 @@ sort: by_weight
 嘐	jiao	1
 學	jiao	1
 徼	jiao	1
+徼	jiao	1
 悎	jiao	1
 憢	jiao	1
 摎	jiao	1
@@ -17456,10 +17457,10 @@ sort: by_weight
 𫞬	jing	1
 经	jing	1
 囧	jiong	543
-窘	jiong	495
+炯	jiong	500
+炅	jiong	495
+窘	jiong	482
 迥	jiong	478
-炯	jiong	471
-炅	jiong	469
 冏	jiong	336
 颎	jiong	301
 煚	jiong	281
@@ -29932,6 +29933,7 @@ sort: by_weight
 琴	qin	659
 勤	qin	651
 秦	qin	649
+覃	qin	581
 寝	qin	572
 钦	qin	567
 芹	qin	567
@@ -30016,7 +30018,6 @@ sort: by_weight
 肣	qin	1
 臤	qin	1
 菳	qin	1
-覃	qin	1
 㓎	qin	1
 㓎	qin	1
 㕋	qin	1
@@ -33605,6 +33606,7 @@ sort: by_weight
 售	shou	746
 守	shou	705
 授	shou	698
+熟	shou	680
 寿	shou	672
 瘦	shou	663
 兽	shou	645
@@ -33628,7 +33630,6 @@ sort: by_weight
 嘼	shou	1
 扌	shou	1
 敊	shou	1
-熟	shou	1
 醻	shou	1
 龵	shou	1
 㖟	shou	1
@@ -37428,12 +37429,12 @@ sort: by_weight
 𪉭	wai	1
 𪑷	wai	1
 万	wan	850
-萬	wan	818
 碗	wan	810
 完	wan	798
 玩	wan	759
 晚	wan	755
 湾	wan	719
+萬	wan	667
 卍	wan	649
 卐	wan	644
 丸	wan	642
@@ -43221,6 +43222,7 @@ sort: by_weight
 邎	yao	23
 纅	yao	23
 柼	yao	23
+徼	yao	3
 袎	yao	1
 鴁	yao	1
 蘨	yao	1

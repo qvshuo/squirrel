@@ -7,6 +7,11 @@ name: compatible
 version: "LTS"
 sort: by_weight
 ...
+捏坏	nie pei	120
+糁馆	sa guan	88
+糁面	sa mian	83
+糁粥	sa zhou	94
+糁汤	sa tang	67
 吃子	chi zi	411
 教授	jiao shou	609
 褪去	tun qu	340
@@ -18,6 +23,11 @@ sort: by_weight
 支着	zhi zhao	341
 一朝	yi chao	310
 特勒	te lei	310
+大汗	da han	481
+玉米糁粥	yu mi sa zhou
+玉米糁汤	yu mi sa tang
+玉米糁面	yu mi sa mian
+玉米糁饼	yu mi sa bing
 将进酒	jiang jin jiu	169
 调了吧	tiao le ba	170
 他调了	ta tiao le	190
@@ -343,6 +353,19 @@ sort: by_weight
 长羽毛	chang yu mao	250
 长羽毛	zhang yu mao	250
 区队长	qu dui zhang	280
+会落下	hui la xia	168
+落下了	la xia le	234
+他落下	ta la xia	110
+我落下	wo la xia	109
+已落下	yi la xia	110
+落下的	la xia de	312
+落下一个	la xia yi ge	1
+落下一个人	la xia yi ge ren	1
+不要落下	bu yao la xia	33
+不要落下	bu yao lao xia	33
+落下的功课	la xia de gong ke	1
+落下的课程	la xia de ke cheng	1
+已经落下了	yi jing la xia le	1
 重活	chong huo	120
 重天	chong tian	500
 穿着	chuan zhe	740
@@ -357,6 +380,7 @@ sort: by_weight
 累累	lei lei	580
 累累	lei lei	510
 落下	luo xia	820
+落下	luo xia	400
 略长	lve chang	450
 掠夺	lve duo	690
 掠夺	lve duo	300
@@ -2879,6 +2903,7 @@ sort: by_weight
 也不熟	ye bu shou	230
 也熟了	ye shou le	80
 也熟悉	ye shou xi	160
+烫熟	tang shou	462
 已成熟	yi cheng shou	190
 一锅熟	yi guo shou	100
 异熟果	yi shou guo	130
