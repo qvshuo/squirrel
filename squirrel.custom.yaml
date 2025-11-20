@@ -78,5 +78,3 @@ patch:
       ascii_mode: true
     com.vscodium:
       ascii_mode: true
-    net.kovidgoyal.kitty:
-      ascii_mode: true

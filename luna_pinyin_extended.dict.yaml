@@ -3,19 +3,17 @@
 
 ---
 name: luna_pinyin_extended
-version: "2025-08-01"
+version: "2025-11-21"
 import_tables:
-  - cn_dicts/chars
-  - cn_dicts/base
-  - cn_dicts/correlation
-  - cn_dicts/suggestion
-  - cn_dicts/compatible
-  - cn_dicts/corrections
-  - cn_dicts/people
-  - cn_dicts/place
-  - cn_dicts/poetry
+  - cn_dicts/单字表
+  - cn_dicts/基础词库
+  - cn_dicts/联想词库
+  - cn_dicts/错音错字
+  - cn_dicts/读音兼容
+  - cn_dicts/诗词文
+  - cn_dicts/行政区划
+  - cn_dicts/人名
+  - cn_dicts/生物
 
-  # 拓展词库
-  - cn_dicts/yuanshen
   - cn_dicts/buzzwords
-  
+  - cn_dicts/yuanshen
