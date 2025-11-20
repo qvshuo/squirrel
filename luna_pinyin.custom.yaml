@@ -1,16 +1,10 @@
+# https://github.com/rime/rime-luna-pinyin/blob/master/luna_pinyin.schema.yaml
+# https://github.com/iDvel/rime-ice/blob/main/rime_ice.schema.yaml
+
 patch:
   schema/dependencies:
     - melt_eng  # 英文输入，作为次翻译器挂载到拼音方案
 
-  engine/processors:
-    - ascii_composer
-    - recognizer
-    - key_binder
-    - speller
-    - punctuator
-    - selector
-    - navigator
-    - express_editor
   engine/translators:
     - punct_translator
     - table_translator@custom_phrase
@@ -33,16 +27,16 @@ patch:
   # （匹配的是编码，不是单词）
   reduce_english_filter:
     mode: all  # all | custom | none
-    idx: 2     # 降低到第 idx 个位置
+    idx: 2        # 降低到第 idx 个位置
     # 自定义的单词列表，示例列表没有降低部分常用单词，如 and cat mail Mac but bad shit ……
     words: [
       aid, ann,
-      bail, bait, bam, band, bans, bat, bay, bend, bent, benz, bib, bid, bien, biz, boc, bop, bos, bud, buf, bach, bench, bush,
+      bail, bait, bam, band, bans, bat, bay, bend, bent, benz, bib, bid, bien, biz, boc, bop, bos, bud, buf, bus, bach, bench, bush,
       cab, cad, cain, cam, cans, cap, cef, chad, chan, chap, chef, cher, chew, chic, chin, chip, chit, coup, cum, cunt, cur, couch,
       dab, dag, dal, dam, dent, dew, dial, diet, dim, din, dip, dis, dit, doug, dub, dug, dunn, don,
       fab, fax, fob, fog, foul, fur,
       gag, gail, gain, gal, gam, gaol, ged, gel, ger, guam, gus, gut,
-      hail, ham, hank, hans, hat, hay, heil, heir, hem, hep, hud, hum, hung, hunk, hut, hush,
+      hail, ham, hank, hans, hat, hay, heil, heir, hem, hep, hex, hud, hum, hung, hunk, hut, hush,
       jim, jug,
       kat,
       lab, lad, lag, laid, lam, laos, lap, lat, lax, lay, led, leg, lex, liam, lib, lid, lied, lien, lies, linn, lip, lit, liz, lob, lug, lund, lung, lux, lash, loch, lush,
