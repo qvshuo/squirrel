@@ -12990,6 +12990,7 @@ sort: by_weight
 姮	heng	301
 鑅	heng	209
 烆	heng	119
+行	heng	110
 鴴	heng	109
 啈	heng	101
 鵆	heng	97
@@ -13026,7 +13027,6 @@ sort: by_weight
 𪏓	heng	1
 𫰟	heng	1
 堼	heng	1
-行	heng	1
 红	hong	769
 洪	hong	655
 宏	hong	654
@@ -20115,8 +20115,8 @@ sort: by_weight
 𫓳	lai	1
 𫝫	lai	1
 𪮶	lai	1
-兰	lan	744
-蓝	lan	705
+蓝	lan	744
+兰	lan	705
 览	lan	678
 篮	lan	660
 烂	lan	657
@@ -43681,6 +43681,7 @@ sort: by_weight
 邑	yi	538
 沂	yi	531
 倚	yi	526
+羿	yi	524
 驿	yi	522
 翌	yi	517
 懿	yi	516
@@ -43702,7 +43703,6 @@ sort: by_weight
 佚	yi	448
 議	yi	441
 醫	yi	439
-羿	yi	431
 旖	yi	429
 咿	yi	427
 苡	yi	424
@@ -45584,13 +45584,13 @@ sort: by_weight
 语	yu	808
 预	yu	778
 雨	yu	776
+玉	yu	774
 育	yu	764
 域	yu	757
 鱼	yu	756
 遇	yu	730
 余	yu	720
 与	yu	700
-玉	yu	774
 娱	yu	687
 予	yu	683
 宇	yu	676
@@ -48239,7 +48239,7 @@ sort: by_weight
 𩤜	zhe	1
 𪁊	zhe	1
 𪐏	zhe	1
-这	zhei	1
+这	zhei	651
 真	zhen	814
 镇	zhen	735
 针	zhen	706
