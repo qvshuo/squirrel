@@ -7,61 +7,6 @@ name: dikuang
 version: "LTS"
 sort: by_weight
 ...
-氨矿	an kuang	410
-钴矿	gu kuang	199
-红石	hong shi	490
-矿池	kuang chi	346
-矿床	kuang chuang	444
-矿带	kuang dai	264
-矿点	kuang dian	333
-矿价	kuang jia	414
-矿建	kuang jian	399
-矿界	kuang jie	208
-矿井	kuang jing	508
-矿块	kuang kuai	204
-矿骡	kuang luo	292
-矿棉	kuang mian	223
-矿泉	kuang quan	435
-矿权	kuang quan	384
-矿砂	kuang sha	324
-矿水	kuang shui	326
-矿脂	kuang zhi	201
-矿柱	kuang zhu	219
-锂矿	li kuang	402
-砾岩	li yan	363
-磷矿	lin kuang	379
-铝矿	lv kuang	298
-绿石	lv shi	288
-煤层	mei ceng	401
-煤矿	mei kuang	614
-镁矿	mei kuang	338
-锰钢	meng gang	274
-锰矿	meng kuang	366
-锰片	meng pian	201
-锰铁	meng tie	341
-糸矿	mi kuang	201
-钼矿	mu kuang	329
-镍矿	nie kuang	434
-气矿	qi kuang	201
-铅矿	qian kuang	353
-砂矿	sha kuang	302
-闪石	shan shi	298
-涉矿	she kuang	246
-石矿	shi kuang	350
-探矿	tan kuang	358
-锑矿	ti kuang	287
-铜矿	tong kuang	504
-脱矿	tuo kuang	345
-瓦斯	wa si	551
-尾矿	wei kuang	395
-钨矿	wu kuang	380
-锡矿	xi kuang	405
-锌矿	xin kuang	388
-盐矿	yan kuang	391
-兖矿	yan kuang	310
-岩溶	yan rong	412
-页岩	ye yan	481
-铀矿	you kuang	423
 阿布石	a bu shi	52
 埃洛石	ai luo shi	92
 安多矿	an duo kuang	89
@@ -145,7 +90,6 @@ sort: by_weight
 比尔石	bi er shi	66
 闭箭石	bi jian shi	58
 闭角石	bi jiao shi	66
-铋矿床	bi kuang chuang	92
 铋矿床	bi kuang chuang	92
 鼻涕石	bi ti shi	69
 铋铜矿	bi tong kuang	75
@@ -304,7 +248,6 @@ sort: by_weight
 迪开石	di kai shi	73
 地矿部	di kuang bu	118
 碲矿床	di kuang chuang	52
-碲矿床	di kuang chuang	52
 地矿类	di kuang lei	49
 底砾岩	di li yan	65
 碲镍矿	di nie kuang	88
@@ -319,7 +262,6 @@ sort: by_weight
 垫脚石	dian jiao shi	224
 电解锰	dian jie meng	148
 点金石	dian jin shi	151
-碘矿床	dian kuang chuang	93
 碘矿床	dian kuang chuang	93
 电气石	dian qi shi	272
 靛铜矿	dian tong kuang	60
@@ -375,7 +317,6 @@ sort: by_weight
 樊春石	fan chun shi	94
 钒辉石	fan hui shi	97
 反经石	fan jing shi	60
-钒矿床	fan kuang chuang	62
 钒矿床	fan kuang chuang	62
 钒镍矿	fan nie kuang	79
 钒铅矿	fan qian kuang	116
@@ -487,7 +428,6 @@ sort: by_weight
 高级矿	gao ji kuang	90
 高尖石	gao jian shi	82
 锆矿床	gao kuang chuang	73
-锆矿床	gao kuang chuang	73
 高岭石	gao ling shi	307
 高锰钢	gao meng gang	140
 高山石	gao shan shi	112
@@ -503,8 +443,6 @@ sort: by_weight
 铬钾矿	ge jia kuang	80
 铬钾石	ge jia shi	96
 铬矿床	ge kuang chuang	75
-铬矿床	ge kuang chuang	75
-镉矿床	ge kuang chuang	73
 镉矿床	ge kuang chuang	73
 铬岭石	ge ling shi	93
 铬镍矿	ge nie kuang	65
@@ -529,7 +467,6 @@ sort: by_weight
 公会石	gong hui shi	722
 攻击石	gong ji shi	92
 弓角石	gong jiao shi	97
-汞矿床	gong kuang chuang	100
 汞矿床	gong kuang chuang	100
 工矿灯	gong kuang deng	120
 工矿区	gong kuang qu	178
@@ -601,7 +538,6 @@ sort: by_weight
 国内矿	guo nei kuang	124
 哈八石	ha ba shi	59
 铪锆石	ha gao shi	51
-铪矿床	ha kuang chuang	72
 铪矿床	ha kuang chuang	72
 蛤蟆石	ha ma shi	108
 海底矿	hai di kuang	471
@@ -822,7 +758,6 @@ sort: by_weight
 钾沸石	jia fei shi	92
 钾锆石	jia gao shi	87
 镓矿床	jia kuang chuang	89
-镓矿床	jia kuang chuang	89
 假砾岩	jia li yan	67
 钾锰盐	jia meng yan	53
 加冕石	jia mian shi	79
@@ -882,7 +817,6 @@ sort: by_weight
 金精矿	jin jing kuang	90
 进口矿	jin kou kuang	186
 金矿床	jin kuang chuang	130
-金矿床	jin kuang chuang	130
 金矿脉	jin kuang mai	94
 金矿区	jin kuang qu	127
 金矿石	jin kuang shi	342
@@ -934,7 +868,6 @@ sort: by_weight
 凯乐石	kai le shi	198
 钪辉石	kang hui shi	96
 钪矿床	kang kuang chuang	95
-钪矿床	kang kuang chuang	95
 康盘石	kang pan shi	74
 康石石	kang shi shi	188
 钪钇石	kang yi shi	65
@@ -966,7 +899,6 @@ sort: by_weight
 矿产志	kuang chan zhi	79
 矿场主	kuang chang zhu	60
 矿车弹	kuang che dan	98
-矿床学	kuang chuang xue	117
 矿床学	kuang chuang xue	117
 矿灯房	kuang deng fang	61
 矿灯工	kuang deng gong	68
@@ -1053,7 +985,6 @@ sort: by_weight
 莱河矿	lai he kuang	63
 来黄石	lai huang shi	239
 铼矿床	lai kuang chuang	67
-铼矿床	lai kuang chuang	67
 来磐石	lai pan shi	168
 赖杉石	lai shan shi	71
 蓝方石	lan fang shi	97
@@ -1095,7 +1026,6 @@ sort: by_weight
 粒辉石	li hui shi	82
 锂精矿	li jing kuang	140
 锂矿床	li kuang chuang	99
-锂矿床	li kuang chuang	99
 锂矿石	li kuang shi	104
 黎磊石	li lei shi	61
 粒榴石	li liu shi	85
@@ -1119,7 +1049,6 @@ sort: by_weight
 鳞迭矿	lin die kuang	95
 磷钙矿	lin gai kuang	67
 磷灰石	lin hui shi	182
-磷矿床	lin kuang chuang	52
 磷矿床	lin kuang chuang	52
 磷矿粉	lin kuang fen	95
 磷矿石	lin kuang shi	154
@@ -1166,7 +1095,6 @@ sort: by_weight
 硫磺石	liu huang shi	68
 硫精矿	liu jing kuang	98
 硫矿床	liu kuang chuang	83
-硫矿床	liu kuang chuang	83
 溜矿井	liu kuang jing	100
 硫矿石	liu kuang shi	54
 硫钌矿	liu liao kuang	89
@@ -1210,7 +1138,6 @@ sort: by_weight
 绿辉石	lv hui shi	120
 绿晶石	lv jing shi	278
 铝矿床	lv kuang chuang	95
-铝矿床	lv kuang chuang	95
 铝矿石	lv kuang shi	92
 绿帘石	lv lian shi	140
 绿鳞石	lv lin shi	86
@@ -1245,10 +1172,8 @@ sort: by_weight
 麻杏石	ma xing shi	122
 麦饭石	mai fan shi	192
 脉矿床	mai kuang chuang	83
-脉矿床	mai kuang chuang	83
 买矿机	mai kuang ji	50
 脉矿石	mai kuang shi	72
-盲矿床	mang kuang chuang	63
 盲矿床	mang kuang chuang	63
 盲矿体	mang kuang ti	100
 毛矾石	mao fan shi	64
@@ -1269,8 +1194,6 @@ sort: by_weight
 梅花石	mei hua shi	73
 煤矿厂	mei kuang chang	79
 镁矿床	mei kuang chuang	85
-镁矿床	mei kuang chuang	85
-煤矿床	mei kuang chuang	69
 煤矿床	mei kuang chuang	69
 煤矿井	mei kuang jing	66
 煤矿石	mei kuang shi	88
@@ -1349,7 +1272,6 @@ sort: by_weight
 木化石	mu hua shi	153
 钼精矿	mu jing kuang	117
 钼矿床	mu kuang chuang	54
-钼矿床	mu kuang chuang	54
 钼矿石	mu kuang shi	78
 穆磐石	mu pan shi	64
 钼铅矿	mu qian kuang	107
@@ -1397,7 +1319,6 @@ sort: by_weight
 尿结石	niao jie shi	193
 镍钴锰	nie gu meng	162
 镍矿床	nie kuang chuang	98
-镍矿床	nie kuang chuang	98
 镍矿石	nie kuang shi	122
 镍铁矿	nie tie kuang	50
 镍纹石	nie wen shi	118
@@ -1423,13 +1344,11 @@ sort: by_weight
 硼铵石	peng an shi	92
 硼钙石	peng gai shi	97
 硼矿床	peng kuang chuang	86
-硼矿床	peng kuang chuang	86
 硼铝石	peng lv shi	96
 硼镁石	peng mei shi	92
 硼铍石	peng pi shi	59
 膨润石	peng run shi	73
 硼铁矿	peng tie kuang	97
-铍矿床	pi kuang chuang	58
 铍矿床	pi kuang chuang	58
 铍榴石	pi liu shi	74
 霹破石	pi po shi	94
@@ -1573,7 +1492,6 @@ sort: by_weight
 肉与石	rou yu shi	75
 乳白石	ru bai shi	86
 铷矿床	ru kuang chuang	66
-铷矿床	ru kuang chuang	66
 如磐石	ru pan shi	155
 蠕状石	ru zhuang shi	74
 软铋矿	ruan bi kuang	72
@@ -1598,14 +1516,12 @@ sort: by_weight
 三一石	san yi shi	80
 铯沸石	se fei shi	80
 铯矿床	se kuang chuang	80
-铯矿床	se kuang chuang	80
 色理石	se li shi	49
 铯榴石	se liu shi	92
 铯柱石	se zhu shi	65
 砂金矿	sha jin kuang	108
 沙金矿	sha jin kuang	84
 砂金石	sha jin shi	127
-砂矿床	sha kuang chuang	84
 砂矿床	sha kuang chuang	84
 砂砾石	sha li shi	62
 砂砾岩	sha li yan	74
@@ -1653,7 +1569,6 @@ sort: by_weight
 砷灰石	shen hui shi	67
 伸角石	shen jiao shi	72
 肾结石	shen jie shi	276
-砷矿床	shen kuang chuang	64
 砷矿床	shen kuang chuang	64
 砷镁石	shen mei shi	78
 神锰矿	shen meng kuang	69
@@ -1780,7 +1695,6 @@ sort: by_weight
 似箭石	si jian shi	62
 似晶石	si jing shi	62
 锶矿床	si kuang chuang	66
-锶矿床	si kuang chuang	66
 斯昆石	si kun shi	86
 锶帘石	si lian shi	59
 斯天石	si tian shi	82
@@ -1800,7 +1714,6 @@ sort: by_weight
 塔节石	ta jie shi	98
 塔菊石	ta ju shi	60
 铊矿床	ta kuang chuang	50
-铊矿床	ta kuang chuang	50
 他山石	ta shan shi	130
 它山石	ta shan shi	75
 太湖石	tai hu shi	183
@@ -1808,7 +1721,6 @@ sort: by_weight
 台阶石	tai jie shi	66
 台金矿	tai jin kuang	54
 钛精矿	tai jing kuang	108
-钛矿床	tai kuang chuang	54
 钛矿床	tai kuang chuang	54
 钛矿石	tai kuang shi	63
 钛榴石	tai liu shi	95
@@ -1849,7 +1761,6 @@ sort: by_weight
 锑铂矿	ti bo kuang	95
 锑钙石	ti gai shi	70
 锑矿床	ti kuang chuang	93
-锑矿床	ti kuang chuang	93
 提炼石	ti lian shi	526
 锑铌矿	ti ni kuang	99
 锑钽矿	ti tan kuang	98
@@ -1883,7 +1794,6 @@ sort: by_weight
 铁矿场	tie kuang chang	90
 铁矿厂	tie kuang chang	60
 铁矿床	tie kuang chuang	100
-铁矿床	tie kuang chuang	100
 铁矿粉	tie kuang fen	116
 铁矿区	tie kuang qu	102
 铁矿砂	tie kuang sha	172
@@ -1910,7 +1820,6 @@ sort: by_weight
 铜金矿	tong jin kuang	138
 铜精矿	tong jing kuang	176
 铜矿床	tong kuang chuang	94
-铜矿床	tong kuang chuang	94
 铜矿砂	tong kuang sha	94
 铜矿山	tong kuang shan	98
 铜矿石	tong kuang shi	212
@@ -1929,7 +1838,6 @@ sort: by_weight
 透闪石	tou shan shi	190
 透视石	tou shi shi	67
 吐酒石	tu jiu shi	53
-钍矿床	tu kuang chuang	58
 钍矿床	tu kuang chuang	58
 屠枰石	tu ping shi	60
 突破石	tu po shi	66
@@ -2007,7 +1915,6 @@ sort: by_weight
 乌金石	wu jin shi	270
 钨精矿	wu jing kuang	174
 钨矿床	wu kuang chuang	70
-钨矿床	wu kuang chuang	70
 钨矿石	wu kuang shi	79
 无矿岩	wu kuang yan	66
 钨锰矿	wu meng kuang	75
@@ -2031,8 +1938,6 @@ sort: by_weight
 洗矿槽	xi kuang cao	94
 锡矿场	xi kuang chang	100
 硒矿床	xi kuang chuang	82
-硒矿床	xi kuang chuang	82
-锡矿床	xi kuang chuang	54
 锡矿床	xi kuang chuang	54
 锡矿工	xi kuang gong	70
 洗矿机	xi kuang ji	74
@@ -2114,7 +2019,6 @@ sort: by_weight
 新箭石	xin jian shi	59
 新角石	xin jiao shi	53
 锌精矿	xin jing kuang	178
-锌矿床	xin kuang chuang	61
 锌矿床	xin kuang chuang	61
 锌矿石	xin kuang shi	95
 新矿物	xin kuang wu	125
@@ -2252,8 +2156,6 @@ sort: by_weight
 尹介石	yin jie shi	72
 银金矿	yin jin kuang	100
 铟矿床	yin kuang chuang	79
-铟矿床	yin kuang chuang	79
-银矿床	yin kuang chuang	68
 银矿床	yin kuang chuang	68
 银矿洞	yin kuang dong	73
 银矿山	yin kuang shan	71
@@ -2289,7 +2191,6 @@ sort: by_weight
 黝方石	you fang shi	81
 铀钙石	you gai shi	80
 铀硅石	you gui shi	82
-铀矿床	you kuang chuang	100
 铀矿床	you kuang chuang	100
 铀矿石	you kuang shi	162
 铀矿物	you kuang wu	94
@@ -2353,7 +2254,6 @@ sort: by_weight
 长结石	zhang jie shi	133
 召唤石	zhao huan shi	310
 沼铁矿	zhao tie kuang	70
-锗矿床	zhe kuang chuang	69
 锗矿床	zhe kuang chuang	69
 哲人石	zhe ren shi	110
 针沸石	zhen fei shi	98
@@ -2445,7 +2345,6 @@ sort: by_weight
 祖马石	zu ma shi	66
 祖正石	zu zheng shi	99
 钻矿床	zuan kuang chuang	52
-钻矿床	zuan kuang chuang	52
 钻石矿	zuan shi kuang	181
 左萝石	zuo luo shi	94
 阿钙霞石	a gai xia shi	10
@@ -2474,7 +2373,6 @@ sort: by_weight
 八面沸石	ba mian fei shi	7
 白斑霞石	bai ban xia shi	9
 柏比氏石	bai bi shi shi	6
-白垩矿床	bai e kuang chuang	8
 白垩矿床	bai e kuang chuang	8
 白硅钙石	bai gui gai shi	5
 白虎魂石	bai hu hun shi	5
@@ -2560,7 +2458,6 @@ sort: by_weight
 变铀钍石	bian you tu shi	10
 变余矿物	bian yu kuang wu	5
 变质矿床	bian zhi kuang chuang	7
-变质矿床	bian zhi kuang chuang	7
 变质砾岩	bian zhi li yan	6
 表生矿物	biao sheng kuang wu	3
 标型矿物	biao xing kuang wu	8
@@ -2615,10 +2512,8 @@ sort: by_weight
 采石矿区	cai shi kuang qu	9
 采准矿量	cai zhun kuang liang	10
 残积矿床	can ji kuang chuang	9
-残积矿床	can ji kuang chuang	9
 残积砂矿	can ji sha kuang	8
 残留结石	can liu jie shi	14
-残留矿床	can liu kuang chuang	8
 残留矿床	can liu kuang chuang	8
 残留矿渣	can liu kuang zha	5
 残余矿物	can yu kuang wu	7
@@ -2629,9 +2524,7 @@ sort: by_weight
 层间砾岩	ceng jian li yan	9
 层间岩溶	ceng jian yan rong	5
 层控矿床	ceng kong kuang chuang	10
-层控矿床	ceng kong kuang chuang	10
 层内砾岩	ceng nei li yan	9
-层状矿床	ceng zhuang kuang chuang	7
 层状矿床	ceng zhuang kuang chuang	7
 层状矿脉	ceng zhuang kuang mai	5
 层状铁矿	ceng zhuang tie kuang	8
@@ -2648,7 +2541,6 @@ sort: by_weight
 长沙矿山	chang sha kuang shan	9
 长沙矿冶	chang sha kuang ye	8
 长石矿床	chang shi kuang chuang	5
-长石矿床	chang shi kuang chuang	5
 肠胃结石	chang wei jie shi	3
 长坞页岩	chang wu ye yan	8
 超白窿石	chao bai long shi	7
@@ -2658,9 +2550,7 @@ sort: by_weight
 朝鲜辉石	chao xian hui shi	8
 尘寰遗石	chen huan yi shi	7
 沉积矿床	chen ji kuang chuang	18
-沉积矿床	chen ji kuang chuang	18
 辰州矿业	chen zhou kuang ye	30
-成层矿床	cheng ceng kuang chuang	6
 成层矿床	cheng ceng kuang chuang	6
 程潮铁矿	cheng chao tie kuang	7
 橙钒钙石	cheng fan gai shi	8
@@ -2699,12 +2589,10 @@ sort: by_weight
 重复矿化	chong fu kuang hua	6
 虫管化石	chong guan hua shi	9
 冲积矿床	chong ji kuang chuang	9
-冲积矿床	chong ji kuang chuang	9
 冲积砾石	chong ji li shi	8
 冲积砂矿	chong ji sha kuang	14
 重庆矿难	chong qing kuang nan	4
 重庆气矿	chong qing qi kuang	3
-充填矿床	chong tian kuang chuang	1
 充填矿床	chong tian kuang chuang	1
 出矿品位	chu kuang pin wei	12
 储矿平巷	chu kuang ping hang	6
@@ -2725,7 +2613,6 @@ sort: by_weight
 磁铅铁矿	ci qian tie kuang	6
 次软岩石	ci ruan yan shi	8
 次生化石	ci sheng hua shi	9
-次生矿床	ci sheng kuang chuang	16
 次生矿床	ci sheng kuang chuang	16
 次生矿物	ci sheng kuang wu	29
 次铁钒矿	ci tie fan kuang	6
@@ -2824,8 +2711,6 @@ sort: by_weight
 电泳选矿	dian yong xuan kuang	6
 钓鱼岛石	diao yu dao shi	6
 叠生矿床	die sheng kuang chuang	1
-叠生矿床	die sheng kuang chuang	1
-叠套矿床	die tao kuang chuang	6
 叠套矿床	die tao kuang chuang	6
 顶板岩石	ding ban yan shi	8
 鼎铛玉石	ding cheng yu shi	16
@@ -2933,14 +2818,12 @@ sort: by_weight
 飞沙走石	fei sha zou shi	43
 飞砂走石	fei sha zou shi	27
 沸石矿床	fei shi kuang chuang	1
-沸石矿床	fei shi kuang chuang	1
 废石尾矿	fei shi wei kuang	21
 非洲矿难	fei zhou kuang nan	4
 非洲矿业	fei zhou kuang ye	6
 分带化石	fen dai hua shi	9
 粉硅镁石	fen gui mei shi	7
 粉红钻石	fen hong zuan shi	21
-分凝矿床	fen ning kuang chuang	8
 分凝矿床	fen ning kuang chuang	8
 粉碎矿石	fen sui kuang shi	6
 汾西矿业	fen xi kuang ye	28
@@ -2949,7 +2832,6 @@ sort: by_weight
 分子化石	fen zi hua shi	10
 风成砂矿	feng cheng sha kuang	8
 峰大斑石	feng da ban shi	4
-风化矿床	feng hua kuang chuang	1
 风化矿床	feng hua kuang chuang	1
 风化矿苗	feng hua kuang miao	10
 风化矿石	feng hua kuang shi	1
@@ -2967,7 +2849,6 @@ sort: by_weight
 富钙铀矿	fu gai you kuang	7
 氟硅铈矿	fu gui shi kuang	6
 复合矿层	fu he kuang ceng	6
-复合矿床	fu he kuang chuang	8
 复合矿床	fu he kuang chuang	8
 复合矿石	fu he kuang shi	6
 复合矿物	fu he kuang wu	15
@@ -3066,7 +2947,6 @@ sort: by_weight
 各省矿难	ge sheng kuang nan	7
 各省矿业	ge sheng kuang ye	6
 铬铁矿床	ge tie kuang chuang	8
-铬铁矿床	ge tie kuang chuang	8
 铬铁矿浆	ge tie kuang jiang	10
 铬铁矿砂	ge tie kuang sha	3
 铬透辉石	ge tou hui shi	19
@@ -3146,7 +3026,6 @@ sort: by_weight
 硅铅锌矿	gui qian xin kuang	6
 硅铅铀矿	gui qian you kuang	9
 硅石矿床	gui shi kuang chuang	9
-硅石矿床	gui shi kuang chuang	9
 硅酸钍矿	gui suan tu kuang	1
 硅钛钠石	gui tai na shi	6
 硅锑锰矿	gui ti meng kuang	9
@@ -3171,7 +3050,6 @@ sort: by_weight
 海滨砂矿	hai bin sha kuang	9
 海底采矿	hai di cai kuang	6
 海底矿产	hai di kuang chan	8
-海底矿床	hai di kuang chuang	6
 海底矿床	hai di kuang chuang	6
 海底砂矿	hai di sha kuang	5
 海蓝石的	hai lan shi de	32
@@ -3345,8 +3223,6 @@ sort: by_weight
 红阳三矿	hong yang san kuang	3
 红叶石楠	hong ye shi nan	33
 后成矿床	hou cheng kuang chuang	5
-后成矿床	hou cheng kuang chuang	5
-后生矿床	hou sheng kuang chuang	9
 后生矿床	hou sheng kuang chuang	9
 湖北黄石	hu bei huang shi	37
 湖北络石	hu bei luo shi	9
@@ -3366,7 +3242,6 @@ sort: by_weight
 华联矿业	hua lian kuang ye	38
 花山煤矿	hua shan mei kuang	3
 滑蛇纹石	hua she wen shi	5
-滑石矿床	hua shi kuang chuang	1
 滑石矿床	hua shi kuang chuang	1
 化为滚石	hua wei gun shi	1
 华夏基石	hua xia ji shi	47
@@ -3404,7 +3279,6 @@ sort: by_weight
 黄山松石	huang shan song shi	16
 黄砷榴石	huang shen liu shi	8
 黄钽铁矿	huang tan tie kuang	9
-黄铁矿床	huang tie kuang chuang	10
 黄铁矿床	huang tie kuang chuang	10
 黄铁矿化	huang tie kuang hua	15
 黄铁矿硫	huang tie kuang liu	10
@@ -3447,7 +3321,6 @@ sort: by_weight
 混合矿石	hun he kuang shi	6
 火币矿池	huo bi kuang chi	32
 火山矿床	huo shan kuang chuang	10
-火山矿床	huo shan kuang chuang	10
 火山砾岩	huo shan li yan	12
 火山岩石	huo shan yan shi	28
 火星陨石	huo xing yun shi	41
@@ -3479,7 +3352,6 @@ sort: by_weight
 假硅灰石	jia gui hui shi	8
 夹河煤矿	jia he mei kuang	3
 钾碱矿床	jia jian kuang chuang	8
-钾碱矿床	jia jian kuang chuang	8
 假角砾岩	jia jiao li yan	7
 假晶滑石	jia jing hua shi	6
 假孔雀石	jia kong que shi	8
@@ -3495,7 +3367,6 @@ sort: by_weight
 甲霜锰锌	jia shuang meng xin	1
 家无担石	jia wu dan shi	17
 家无儋石	jia wu dan shi	1
-钾盐矿床	jia yan kuang chuang	14
 钾盐矿床	jia yan kuang chuang	14
 家中有矿	jia zhong you kuang	12
 假胄菊石	jia zhou ju shi	5
@@ -3527,7 +3398,6 @@ sort: by_weight
 胶赤铁矿	jiao chi tie kuang	9
 交错矿脉	jiao cuo kuang mai	6
 交代矿床	jiao dai kuang chuang	8
-交代矿床	jiao dai kuang chuang	8
 交代矿物	jiao dai kuang wu	10
 胶硅锰矿	jiao gui meng kuang	10
 胶黄铁矿	jiao huang tie kuang	5
@@ -3541,7 +3411,6 @@ sort: by_weight
 角页岩相	jiao ye yan xiang	8
 胶针铁矿	jiao zhen tie kuang	7
 杰博矿灯	jie bo kuang deng	8
-接触矿床	jie chu kuang chuang	7
 接触矿床	jie chu kuang chuang	7
 接触矿脉	jie chu kuang mai	7
 接触矿物	jie chu kuang wu	6
@@ -3573,7 +3442,6 @@ sort: by_weight
 金绿柱石	jin lv zhu shi	16
 金敏煤矿	jin min mei kuang	5
 浸染矿床	jin ran kuang chuang	8
-浸染矿床	jin ran kuang chuang	8
 金瑞矿业	jin rui kuang ye	44
 金色玄石	jin se xuan shi	16
 金色炎石	jin se yan shi	11
@@ -3583,7 +3451,6 @@ sort: by_weight
 金属精矿	jin shu jing kuang	1
 金属矿产	jin shu kuang chan	8
 金属矿床	jin shu kuang chuang	9
-金属矿床	jin shu kuang chuang	9
 金属矿山	jin shu kuang shan	6
 金属矿石	jin shu kuang shi	10
 金属矿物	jin shu kuang wu	8
@@ -3592,7 +3459,6 @@ sort: by_weight
 近卫清石	jin wei qing shi	6
 金信矿业	jin xin kuang ye	3
 晶灿钻石	jing can zuan shi	26
-经济矿床	jing ji kuang chuang	7
 经济矿床	jing ji kuang chuang	7
 境界矿柱	jing jie kuang zhu	7
 精金矿脉	jing jin kuang mai	7
@@ -3642,7 +3508,6 @@ sort: by_weight
 抗眩晕石	kang xuan yun shi	1
 可采矿层	ke cai kuang ceng	6
 可采矿床	ke cai kuang chuang	5
-可采矿床	ke cai kuang chuang	5
 可采矿石	ke cai kuang shi	9
 可采煤层	ke cai mei ceng	9
 珂兰钻石	ke lan zuan shi	31
@@ -3667,7 +3532,6 @@ sort: by_weight
 块砷镍矿	kuai shen nie kuang	5
 快用炉石	kuai yong lu shi	6
 块状矿床	kuai zhuang kuang chuang	10
-块状矿床	kuai zhuang kuang chuang	10
 块状矿石	kuai zhuang kuang shi	7
 矿安标志	kuang an biao zhi	11
 矿北社区	kuang bei she qu	19
@@ -3691,30 +3555,17 @@ sort: by_weight
 矿尘浮选	kuang chen fu xuan	8
 矿储藏量	kuang chu cang liang	6
 矿床地质	kuang chuang di zhi	9
-矿床地质	kuang chuang di zhi	9
-矿床分带	kuang chuang fen dai	10
 矿床分带	kuang chuang fen dai	10
 矿床几何	kuang chuang ji he	10
-矿床几何	kuang chuang ji he	10
-矿床开拓	kuang chuang kai tuo	7
 矿床开拓	kuang chuang kai tuo	7
 矿床勘探	kuang chuang kan tan	9
-矿床勘探	kuang chuang kan tan	9
-矿床类型	kuang chuang lei xing	9
 矿床类型	kuang chuang lei xing	9
 矿床模式	kuang chuang mo shi	9
-矿床模式	kuang chuang mo shi	9
-矿床模型	kuang chuang mo xing	5
 矿床模型	kuang chuang mo xing	5
 矿床品位	kuang chuang pin wei	1
-矿床品位	kuang chuang pin wei	1
-矿床评价	kuang chuang ping jia	6
 矿床评价	kuang chuang ping jia	6
 矿床疏干	kuang chuang shu gan	1
-矿床疏干	kuang chuang shu gan	1
 矿床系列	kuang chuang xi lie	7
-矿床系列	kuang chuang xi lie	7
-矿床组合	kuang chuang zu he	9
 矿床组合	kuang chuang zu he	9
 矿大附中	kuang da fu zhong	9
 矿道地铁	kuang dao di tie	18
@@ -4070,7 +3921,6 @@ sort: by_weight
 磷褐帘石	lin he lian shi	6
 磷灰石矿	lin hui shi kuang	7
 淋积矿床	lin ji kuang chuang	7
-淋积矿床	lin ji kuang chuang	7
 磷钾铝石	lin jia lv shi	1
 临界矿物	lin jie kuang wu	9
 临矿集团	lin kuang ji tuan	14
@@ -4253,7 +4103,6 @@ sort: by_weight
 氯铜铅矿	lv tong qian kuang	5
 绿铜锌矿	lv tong xin kuang	14
 铝土矿床	lv tu kuang chuang	3
-铝土矿床	lv tu kuang chuang	3
 铝土矿石	lv tu kuang shi	9
 铝土矿渣	lv tu kuang zha	1
 绿纤石相	lv xian shi xiang	4
@@ -4276,7 +4125,6 @@ sort: by_weight
 馒头页岩	man tou ye yan	5
 满洲角石	man zhou jiao shi	9
 芒果小石	mang guo xiao shi	5
-芒硝矿床	mang xiao kuang chuang	7
 芒硝矿床	mang xiao kuang chuang	7
 毛赤铜矿	mao chi tong kuang	5
 茅坑顽石	mao keng wan shi	5
@@ -4339,7 +4187,6 @@ sort: by_weight
 镁硼锰石	mei peng meng shi	9
 梅山铁矿	mei shan tie kuang	18
 镁蛇纹石	mei she wen shi	3
-煤炭矿床	mei tan kuang chuang	9
 煤炭矿床	mei tan kuang chuang	9
 镁铁辉石	mei tie hui shi	6
 镁铁榴石	mei tie liu shi	10
@@ -4448,8 +4295,6 @@ sort: by_weight
 囊状矿脉	nang zhuang kuang mai	8
 闹鬼金矿	nao gui jin kuang	12
 内成矿床	nei cheng kuang chuang	9
-内成矿床	nei cheng kuang chuang	9
-内生矿床	nei sheng kuang chuang	6
 内生矿床	nei sheng kuang chuang	6
 内生铀矿	nei sheng you kuang	9
 内石拐矿	nei shi guai kuang	5
@@ -4457,7 +4302,6 @@ sort: by_weight
 铌钙钛矿	ni gai tai kuang	1
 泥结碎石	ni jie sui shi	18
 铌铈钇矿	ni shi yi kuang	5
-铌钽矿床	ni tan kuang chuang	16
 铌钽矿床	ni tan kuang chuang	16
 铌钽铁矿	ni tan tie kuang	7
 铌钽铀矿	ni tan you kuang	8
@@ -4467,7 +4311,6 @@ sort: by_weight
 铌钇铀矿	ni yi you kuang	9
 泥质页岩	ni zhi ye yan	7
 粘附选矿	nian fu xuan kuang	7
-粘土矿床	nian tu kuang chuang	8
 粘土矿床	nian tu kuang chuang	8
 粘土矿物	nian tu kuang wu	36
 黏土矿物	nian tu kuang wu	30
@@ -4502,8 +4345,6 @@ sort: by_weight
 佩察莫矿	pei cha mo kuang	4
 佩戴玉石	pei dai yu shi	30
 喷流矿床	pen liu kuang chuang	6
-喷流矿床	pen liu kuang chuang	6
-喷气矿床	pen qi kuang chuang	10
 喷气矿床	pen qi kuang chuang	10
 硼符山石	peng fu shan shi	7
 硼硅铈矿	peng gui shi kuang	8
@@ -4541,7 +4382,6 @@ sort: by_weight
 奇峰异石	qi feng yi shi	36
 栖管化石	qi guan hua shi	9
 气化矿床	qi hua kuang chuang	8
-气化矿床	qi hua kuang chuang	8
 七煌炉石	qi huang lu shi	32
 綦江铁矿	qi jiang tie kuang	10
 奇山怪石	qi shan guai shi	26
@@ -4549,13 +4389,11 @@ sort: by_weight
 奇松怪石	qi song guai shi	39
 其他玉石	qi ta yu shi	29
 气体矿床	qi ti kuang chuang	5
-气体矿床	qi ti kuang chuang	5
 骑田岭矿	qi tian ling kuang	9
 气象水文	qi xiang shui wen	41
 七星煤矿	qi xing mei kuang	6
 奇岩怪石	qi yan guai shi	31
 浅层岩溶	qian ceng yan rong	9
-浅成矿床	qian cheng kuang chuang	1
 浅成矿床	qian cheng kuang chuang	1
 铅钙铀矿	qian gai you kuang	9
 浅红晶石	qian hong jing shi	5
@@ -4566,7 +4404,6 @@ sort: by_weight
 铅铌铁矿	qian ni tie kuang	8
 浅色矿物	qian se kuang wu	8
 铅钛铁矿	qian tai tie kuang	5
-铅锌矿床	qian xin kuang chuang	19
 铅锌矿床	qian xin kuang chuang	19
 铅锌矿石	qian xin kuang shi	12
 铅锌铁矿	qian xin tie kuang	9
@@ -4617,10 +4454,7 @@ sort: by_weight
 全市煤矿	quan shi mei kuang	20
 燃料矿产	ran liao kuang chan	8
 燃料矿床	ran liao kuang chuang	7
-燃料矿床	ran liao kuang chuang	7
 热泉矿床	re quan kuang chuang	7
-热泉矿床	re quan kuang chuang	7
-热液矿床	re ye kuang chuang	9
 热液矿床	re ye kuang chuang	9
 人非木石	ren fei mu shi	23
 人非土石	ren fei tu shi	32
@@ -4641,9 +4475,7 @@ sort: by_weight
 熔化矿石	rong hua kuang shi	5
 熔角砾岩	rong jiao li yan	11
 熔离矿床	rong li kuang chuang	10
-熔离矿床	rong li kuang chuang	10
 绒毛紫矿	rong mao zi kuang	5
-熔析矿床	rong xi kuang chuang	7
 熔析矿床	rong xi kuang chuang	7
 熔岩巨石	rong yan ju shi	5
 溶液采矿	rong ye cai kuang	5
@@ -4683,16 +4515,13 @@ sort: by_weight
 沙佛莱石	sha fo lai shi	24
 沙弗莱石	sha fu lai shi	36
 砂积矿床	sha ji kuang chuang	1
-砂积矿床	sha ji kuang chuang	1
 砂夹碎石	sha jia sui shi	5
-砂金矿床	sha jin kuang chuang	5
 砂金矿床	sha jin kuang chuang	5
 砂矿测量	sha kuang ce liang	8
 砂矿工祖	sha kuang gong zu	7
 砂矿开采	sha kuang kai cai	6
 砂矿取样	sha kuang qu yang	6
 砂矿淘采	sha kuang tao cai	8
-砂锡矿床	sha xi kuang chuang	1
 砂锡矿床	sha xi kuang chuang	1
 砂质页岩	sha zhi ye yan	16
 筛选矿石	shai xuan kuang shi	6
@@ -4727,7 +4556,6 @@ sort: by_weight
 砷钡铀矿	shen bei you kuang	8
 砷铋铜矿	shen bi tong kuang	5
 深部砂矿	shen bu sha kuang	9
-深成矿床	shen cheng kuang chuang	7
 深成矿床	shen cheng kuang chuang	7
 身当矢石	shen dang shi shi	9
 砷钒铅矿	shen fan qian kuang	9
@@ -4781,7 +4609,6 @@ sort: by_weight
 省地矿局	sheng di kuang ju	32
 省地矿厅	sheng di kuang ting	1
 升华矿床	sheng hua kuang chuang	5
-升华矿床	sheng hua kuang chuang	5
 生矿物学	sheng kuang wu xue	9
 生硫化矿	sheng liu hua kuang	1
 生命晶石	sheng ming jing shi	3
@@ -4800,7 +4627,6 @@ sort: by_weight
 湿法磨矿	shi fa mo kuang	5
 铈钙钛矿	shi gai tai kuang	1
 石膏矿床	shi gao kuang chuang	7
-石膏矿床	shi gao kuang chuang	7
 铈黑帘石	shi hei lian shi	10
 石灰石矿	shi hui shi kuang	31
 石灰岩矿	shi hui yan kuang	18
@@ -4812,8 +4638,6 @@ sort: by_weight
 石榴子石	shi liu zi shi	29
 石录矿区	shi lu kuang qu	5
 石棉矿床	shi mian kuang chuang	5
-石棉矿床	shi mian kuang chuang	5
-石墨矿床	shi mo kuang chuang	9
 石墨矿床	shi mo kuang chuang	9
 石牌页岩	shi pai ye yan	10
 铈片榍石	shi pian xie shi	8
@@ -4821,11 +4645,9 @@ sort: by_weight
 实体化石	shi ti hua shi	9
 石铁陨石	shi tie yun shi	40
 石盐矿床	shi yan kuang chuang	3
-石盐矿床	shi yan kuang chuang	3
 试验矿井	shi yan kuang jing	7
 石英脉石	shi ying mai shi	6
 石英萤石	shi ying ying shi	5
-石油矿床	shi you kuang chuang	7
 石油矿床	shi you kuang chuang	7
 石质陨石	shi zhi yun shi	20
 十字沸石	shi zi fei shi	10
@@ -4908,7 +4730,6 @@ sort: by_weight
 水平矿层	shui ping kuang ceng	8
 水平矿柱	shui ping kuang zhu	7
 水热矿床	shui re kuang chuang	6
-水热矿床	shui re kuang chuang	6
 水蛇纹石	shui she wen shi	1
 水砷锰石	shui shen meng shi	5
 水砷锌矿	shui shen xin kuang	16
@@ -4963,7 +4784,6 @@ sort: by_weight
 水文总站	shui wen zong zhan	25
 水文组织	shui wen zu zhi	4
 水锌锰矿	shui xin meng kuang	8
-水型矿床	shui xing kuang chuang	10
 水型矿床	shui xing kuang chuang	10
 水星叶石	shui xing ye shi	5
 水铀铅矿	shui you qian kuang	7
@@ -5105,7 +4925,6 @@ sort: by_weight
 铁坑铁矿	tie keng tie kuang	9
 铁矿村乡	tie kuang cun xiang	6
 铁矿矿床	tie kuang kuang chuang	9
-铁矿矿床	tie kuang kuang chuang	9
 铁矿医院	tie kuang yi yuan	1
 铁矿原石	tie kuang yuan shi	1
 铁磷钙石	tie lin gai shi	10
@@ -5150,7 +4969,6 @@ sort: by_weight
 铜蒙脱石	tong meng tuo shi	8
 铜铅霰石	tong qian xian shi	6
 同生矿床	tong sheng kuang chuang	9
-同生矿床	tong sheng kuang chuang	9
 同生砾岩	tong sheng li yan	10
 同纹长石	tong wen chang shi	8
 铜硒铁矿	tong xi tie kuang	7
@@ -5190,7 +5008,6 @@ sort: by_weight
 瓦斯涌出	wa si yong chu	3
 瓦兹利石	wa zi li shi	18
 外模化石	wai mo hua shi	10
-外生矿床	wai sheng kuang chuang	12
 外生矿床	wai sheng kuang chuang	12
 外星岩石	wai xing yan shi	5
 万古磐石	wan gu pan shi	6
@@ -5289,7 +5106,6 @@ sort: by_weight
 锡黝铜矿	xi you tong kuang	8
 西峪煤矿	xi yu mei kuang	10
 席状矿床	xi zhuang kuang chuang	5
-席状矿床	xi zhuang kuang chuang	5
 席状矿体	xi zhuang kuang ti	6
 夏不睡石	xia bu shui shi	25
 下井投石	xia jing tou shi	12
@@ -5370,7 +5186,6 @@ sort: by_weight
 锌蒙脱石	xin meng tuo shi	9
 新浦磷矿	xin pu lin kuang	1
 新生矿床	xin sheng kuang chuang	5
-新生矿床	xin sheng kuang chuang	5
 新汶矿业	xin wen kuang ye	17
 新兴矿业	xin xing kuang ye	16
 新兴煤矿	xin xing mei kuang	24
@@ -5416,14 +5231,11 @@ sort: by_weight
 延长油矿	yan chang you kuang	19
 雁行矿脉	yan hang kuang mai	6
 盐湖矿床	yan hu kuang chuang	5
-盐湖矿床	yan hu kuang chuang	5
 盐湖岩溶	yan hu yan rong	9
-岩浆矿床	yan jiang kuang chuang	5
 岩浆矿床	yan jiang kuang chuang	5
 岩浆矿石	yan jiang kuang shi	10
 岩矿测试	yan kuang ce shi	12
 兖矿集团	yan kuang ji tuan	37
-盐类矿床	yan lei kuang chuang	16
 盐类矿床	yan lei kuang chuang	16
 淹没的矿	yan mo de kuang	5
 淹没矿井	yan mo kuang jing	7
@@ -5595,7 +5407,6 @@ sort: by_weight
 印度矿业	yin du kuang ye	7
 印度煤矿	yin du mei kuang	5
 隐伏矿床	yin fu kuang chuang	1
-隐伏矿床	yin fu kuang chuang	1
 隐伏矿体	yin fu kuang ti	9
 隐伏岩溶	yin fu yan rong	10
 银矿遗址	yin kuang yi zhi	6
@@ -5614,7 +5425,6 @@ sort: by_weight
 硬锰矿族	ying meng kuang zu	6
 硬硼钙石	ying peng gai shi	11
 硬蛇纹石	ying she wen shi	6
-萤石矿床	ying shi kuang chuang	9
 萤石矿床	ying shi kuang chuang	9
 硬铈钍石	ying shi tu shi	10
 硬水铝矿	ying shui lv kuang	9
@@ -5655,7 +5465,6 @@ sort: by_weight
 鱼鳍化石	yu qi hua shi	10
 于是怀石	yu shi huai shi	9
 玉石矿床	yu shi kuang chuang	10
-玉石矿床	yu shi kuang chuang	10
 玉石矿洞	yu shi kuang dong	3
 玉石原石	yu shi yuan shi	25
 玉髓燧石	yu sui sui shi	12
@@ -5674,7 +5483,6 @@ sort: by_weight
 元灵晶石	yuan ling jing shi	3
 原铝土矿	yuan lv tu kuang	1
 原生化石	yuan sheng hua shi	6
-原生矿床	yuan sheng kuang chuang	7
 原生矿床	yuan sheng kuang chuang	7
 原生矿石	yuan sheng kuang shi	16
 远生矿石	yuan sheng kuang shi	8
@@ -5698,7 +5506,6 @@ sort: by_weight
 云母长石	yun mu chang shi	16
 云母滑石	yun mu hua shi	10
 云母矿床	yun mu kuang chuang	1
-云母矿床	yun mu kuang chuang	1
 云母铁矿	yun mu tie kuang	1
 云母铜矿	yun mu tong kuang	5
 云母铀矿	yun mu you kuang	8
@@ -5720,7 +5527,6 @@ sort: by_weight
 在金矿上	zai jin kuang shang	18
 再矿化法	zai kuang hua fa	3
 在矿务局	zai kuang wu ju	9
-再生矿床	zai sheng kuang chuang	7
 再生矿床	zai sheng kuang chuang	7
 在五块石	zai wu kuai shi	13
 在牙克石	zai ya ke shi	17
@@ -5771,7 +5577,6 @@ sort: by_weight
 脂铅铀矿	zhi qian you kuang	6
 指示化石	zhi shi hua shi	9
 蛭石矿床	zhi shi kuang chuang	8
-蛭石矿床	zhi shi kuang chuang	8
 指示矿物	zhi shi kuang wu	9
 植物化石	zhi wu hua shi	10
 指相化石	zhi xiang hua shi	12
@@ -5801,7 +5606,6 @@ sort: by_weight
 重膜矿带	zhong mo kuang dai	7
 重膜矿脉	zhong mo kuang mai	7
 重铌铁矿	zhong ni tie kuang	1
-重砂矿床	zhong sha kuang chuang	1
 重砂矿床	zhong sha kuang chuang	1
 重砂矿物	zhong sha kuang wu	8
 重烧绿石	zhong shao lv shi	10
