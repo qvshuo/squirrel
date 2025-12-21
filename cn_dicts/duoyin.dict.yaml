@@ -7,6 +7,9 @@ name: duoyin
 version: "LTS"
 sort: by_weight
 ...
+自己打的	zi ji da de	80
+怎么打的	zen me da de	49
+打的	da de	600
 实在	shi zai	814
 长有	zhang you	510
 识记	shi ji	452
@@ -19,6 +22,7 @@ sort: by_weight
 星星	xing xing	747
 盛放	sheng fang	451
 愿为	yuan wei	490
+东西	dong xi	885
 捏坏	nie pei	120
 糁馆	sa guan	88
 糁面	sa mian	83
@@ -392,6 +396,7 @@ sort: by_weight
 落下的课程	la xia de ke cheng	1
 已经落下了	yi jing la xia le	1
 谁认得	shei ren de	444
+贴吧	tie ba	695
 找着	zhao zhe	388
 再长	zai chang	550
 行道	hang dao	165
@@ -3345,7 +3350,7 @@ sort: by_weight
 谁出资	shei chu zi	180
 谁聪明	shei cong ming	230
 谁错了	shei cuo le	330
-谁打的	shei da di	310
+谁打的	shei da de	310
 谁打你	shei da ni	190
 谁打谁	shei da shei	330
 谁打我	shei da wo	290
@@ -5322,3 +5327,4 @@ sort: by_weight
 提拉塔嘛的喇嘛拿塔嘛打了别喇叭的哑巴一塔嘛	ti la ta ma de la ma na ta ma da le bie la ba de ya ba yi ta ma	1
 也不知别喇叭的哑巴拿喇巴打坏了提拉塔嘛喇嘛的塔嘛	ye bu zhi bie la ba de ya ba na la ba da huai le ti la ta ma la ma de ta ma	1
 也不知提拉塔嘛的喇嘛拿塔嘛打坏了别喇叭哑巴的喇叭	ye bu zhi ti la ta ma de la ma na ta ma da huai le bie la ba ya ba de la ba	1
+打飞的	da fei di	1
