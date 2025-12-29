@@ -1,80 +1,56 @@
 patch:
   style:
+    status_message_type: mix
+    candidate_format: "[label]. [candidate]"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+    inline_candidate: false
+    translucency: true
+    mutual_exclusive: false
+    memorize_size: false
+    showPaging: false
+    alpha: 1e+0
+    corner_radius: 1.25e+1
+    hilited_corner_radius: 1e+1
+    border_height: -3e+0
+    border_width: 0e+0
+    line_spacing: 1e+1
+    spacing: 0e+0
+    base_offset: 5e+0
+    shadow_size: 2e+0
+    font_face: PingFangSC-Regular
+    font_point: 1.6e+1
+    label_font_face: PingFangSC-Light
+    label_font_point: 1.2e+1
     color_scheme: macos_light
     color_scheme_dark: macos_dark
 
   preset_color_schemes:
     macos_light:
-      name: "macOS 浅色"
-      font_face: "PingFangSC-Regular"
-      font_point: 16.0
-      label_font_face: "PingFangSC-Regular"
-      label_font_point: 12.0
-      comment_font_face: "PingFangSC-Regular"
-      comment_font_point: 14.0
-      candidate_list_layout: linear
-      text_orientation: horizontal
-      inline_preedit: true
-      corner_radius: 7.5
-      hilited_corner_radius: 5.0
-      border_height: 0.5
-      border_width: 0.5
-      line_spacing: 10.0
-      shadow_size: 1.0
+      author: 安静 <qvshuo@foxmail.com>
       color_space: display_p3
-      back_color: 0xF0F1F1
-      border_color: 0xCECECE
-      candidate_back_color: 0x00FFFFFF
-      candidate_text_color: 0x484949
-      comment_text_color: 0x757575
-      label_color: 0x757575
-      hilited_candidate_back_color: 0xD35000
-      hilited_candidate_text_color: 0xFFFFFF
-      hilited_comment_text_color: 0xFFFFFF
-      hilited_candidate_label_color: 0xFFFFFF
-      preedit_back_color: 0x00FFFFFF
-      text_color: 0x00FFFFFF
-      hilited_back_color: 0x00FFFFFF
-      hilited_text_color: 0x00FFFFFF
-
+      back_color: "0xB0FFFFFF"
+      hilited_candidate_back_color: "0xF99563"
+      text_color: "0xFFFFFF"
+      candidate_text_color: "0x000000"
+      hilited_candidate_text_color: "0xFFFFFF"
+      label_color: "0x80000000"
+      hilited_candidate_label_color: "0xFFFFFF"
 
     macos_dark:
-      name: "macOS 深色"
-      font_face: "PingFangSC-Regular"
-      font_point: 16.0
-      label_font_face: "PingFangSC-Regular"
-      label_font_point: 12.0
-      comment_font_face: "PingFangSC-Regular"
-      comment_font_point: 14.0
-      candidate_list_layout: linear
-      text_orientation: horizontal
-      inline_preedit: true
-      corner_radius: 7.5
-      hilited_corner_radius: 5.0
-      border_height: 0.5
-      border_width: 0.5
-      line_spacing: 10.0
-      shadow_size: 1.0
+      author: 安静 <qvshuo@foxmail.com>
       color_space: display_p3
-      back_color: 0x2F3030
-      border_color: 0x030303
-      candidate_back_color: 0x00FFFFFF
-      candidate_text_color: 0xEAEAEA
-      comment_text_color: 0x717171
-      label_color: 0x717171
-      hilited_candidate_back_color: 0xCB4F00
-      hilited_candidate_text_color: 0xFFFFFF
-      hilited_comment_text_color: 0xFFFFFF
-      hilited_candidate_label_color: 0xFFFFFF
-      preedit_back_color: 0x00FFFFFF
-      text_color: 0x00FFFFFF
-      hilited_back_color: 0x00FFFFFF
-      hilited_text_color: 0x00FFFFFF
+      back_color: "0x26000000"
+      hilited_candidate_back_color: "0xFDDFD0"
+      text_color: "0xFFFFFF"
+      candidate_text_color: "0xE6FFFFFF"
+      hilited_candidate_text_color: "0x000000"
+      label_color: "0x80FFFFFF"
+      hilited_candidate_label_color: "0x000000"
 
   app_options:
     com.apple.Spotlight:
       ascii_mode: true
     com.mitchellh.ghostty:
-      ascii_mode: true
-    com.vscodium:
       ascii_mode: true
