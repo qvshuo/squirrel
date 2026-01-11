@@ -5953,9 +5953,9 @@ sort: by_weight
 𨙲	cun	1
 𫑴	cun	1
 错	cuo	812
-措	cuo	692
+搓	cuo	692
 挫	cuo	587
-搓	cuo	559
+措	cuo	559
 錯	cuo	528
 撮	cuo	509
 厝	cuo	503
@@ -6285,10 +6285,10 @@ sort: by_weight
 疸	dan	469
 石	dan	460
 眈	dan	447
-撣	dan	428
+掸	dan	430
 啖	dan	424
+撣	dan	422
 儋	dan	420
-掸	dan	420
 澹	dan	391
 彈	dan	380
 殚	dan	373
@@ -42061,6 +42061,7 @@ sort: by_weight
 鱏	xun	92
 殾	xun	92
 鱘	xun	92
+𢁉	xun	91
 卂	xun	87
 壦	xun	82
 稄	xun	75
@@ -45284,7 +45285,7 @@ sort: by_weight
 𪅟	yong	1
 𪇛	yong	1
 𪪝	yong	1
-有	you	926
+有	you	996
 又	you	819
 由	you	809
 右	you	807
@@ -47660,8 +47661,8 @@ sort: by_weight
 站	zhan	781
 占	zhan	721
 粘	zhan	602
-詹	zhan	598
-沾	zhan	597
+沾	zhan	599
+詹	zhan	594
 斩	zhan	590
 蘸	zhan	573
 栈	zhan	562
