@@ -8342,10 +8342,8 @@ sort: by_weight
 郊区县	jiao qu xian	178
 郊区乡	jiao qu xiang	1
 蕉山乡	jiao shan xiang	1
-湫山乡	jiao shan xiang	1
 峤山镇	jiao shan zhen	1
 角山镇	jiao shan zhen	1
-湫山镇	jiao shan zhen	1
 焦石镇	jiao shi zhen	1
 焦滩乡	jiao tan xiang	1
 蛟潭镇	jiao tan zhen	1
@@ -14476,6 +14474,8 @@ sort: by_weight
 秋木乡	qiu mu xiang	1
 秋浦县	qiu pu xian	111
 秋渠乡	qiu qu xiang	1
+湫山乡	qiu shan xiang	1
+湫山镇	qiu shan zhen	1
 秋田县	qiu tian xian	238
 丘头镇	qiu tou zhen	1
 秋窝乡	qiu wo xiang	1
@@ -40380,8 +40380,8 @@ sort: by_weight
 礼明庄镇	li ming zhuang zhen	1
 里磨疃村	li mo tuan cun	1
 里木店镇	li mu dian zhen	1
-里木栅村	li mu shan cun	1
 黎母山镇	li mu shan zhen	1
+里木栅村	li mu zha cun	1
 李木庄村	li mu zhuang cun	1
 李南岗村	li nan gang cun	1
 李埝坨村	li nian tuo cun	1
@@ -52825,7 +52825,6 @@ sort: by_weight
 铁家沟村	tie jia gou cun	1
 帖家河村	tie jia he cun	1
 铁家岭村	tie jia ling cun	1
-铁茄坪村	tie jia ping cun	1
 铁家湾村	tie jia wan cun	1
 铁家庄村	tie jia zhuang cun	1
 铁匠沟村	tie jiang gou cun	1
@@ -52873,6 +52872,7 @@ sort: by_weight
 铁门关村	tie men guan cun	1
 铁门关市	tie men guan shi	1
 铁南街道	tie nan jie dao	1
+铁茄坪村	tie qie ping cun	1
 铁热克镇	tie re ke zhen	1
 铁热木乡	tie re mu xiang	1
 铁热木镇	tie re mu zhen	1
@@ -66077,7 +66077,7 @@ sort: by_weight
 来广营地区	lai guang ying di qu	1
 来华投资区	lai hua tou zi qu	1
 来龙门街道	lai long men jie dao	1
-兰花都街道	lan hua dou jie dao	1
+兰花都街道	lan hua du jie dao	1
 岚角山街道	lan jiao shan jie dao	1
 兰旗卡伦乡	lan qi ka lun xiang	1
 岚山头街道	lan shan tou jie dao	1
