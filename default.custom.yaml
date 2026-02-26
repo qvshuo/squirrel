@@ -3,8 +3,12 @@ patch:
     - schema: luna_pinyin
     - schema: japanese
 
-  switcher/hotkeys: F4
-
+  switcher/hotkeys:
+    - Control+grave
+    - Control+Shift+grave
+    - F4
+    - Shift+F4
+  
   menu/page_size: 7
 
   ascii_composer:
