@@ -16,6 +16,8 @@
 **macOS/Linux：**
 
 ```shell
+git clone --depth 1 https://github.com/rime/plum.git
+cd plum
 bash rime-install gkovacs/rime-japanese
 ```
 
