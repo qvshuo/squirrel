@@ -11,8 +11,14 @@
 
 ## 依赖
 
-#### 使用 `plum` 添加日文输入支持：
+#### 使用 [plus](https://github.com/rime/plum) 添加日文输入支持：
+
+**macOS/Linux：**
 
 ```shell
 bash rime-install gkovacs/rime-japanese
 ```
+
+**Windows：**
+
+/// Windows 用家可以通過 [小狼毫](https://rime.im/download/#windows) 0.11 以上「輸入法設定／獲取更多輸入方案」調用配置管理器。///
