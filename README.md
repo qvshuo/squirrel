@@ -11,7 +11,7 @@
 
 ## 依赖
 
-#### 使用 [plus](https://github.com/rime/plum) 添加日文输入支持：
+#### 使用 [plum](https://github.com/rime/plum) 添加日文输入支持：
 
 **macOS/Linux：**
 
