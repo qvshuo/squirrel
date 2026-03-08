@@ -1,0 +1,52 @@
+# Rime dictionary
+# encoding: utf-8
+# #https://github.com/amzxyz/RIME-LMDG
+---
+name: mixed
+version: "LTS"
+sort: by_weight
+...
+C语言	C yu yan	131
+Go语言	Go yu yan	97
+JD京东	JD jing dong	97
+JD自营	JD zi ying	331
+JK制服	JK zhi fu	297
+LAN口	LAN kou	97
+LED灯	LED deng	97
+LED屏	LED ping	97
+Mac版	Mac ban	172
+Mac端	Mac duan	107
+Q群管家	Q qun guan jia	33
+QQ表情	QQ biao qing	33
+QQ等级	QQ deng ji	33
+QQ登录	QQ deng lu	33
+QQ动态	QQ dong tai	33
+QQ飞车	QQ fei che	33
+QQ号码	QQ hao ma	33
+QQ好友	QQ hao you	33
+QQ红包	QQ hong bao	33
+QQ会员	QQ hui yuan	33
+QQ空间	QQ kong jian	33
+QQ聊天	QQ liao tian	33
+QQ密码	QQ mi ma	33
+QQ拼音	QQ pin yin	33
+QQ钱包	QQ qian bao	33
+QQ签名	QQ qian ming	33
+QQ三国	QQ san guo	33
+QQ视频	QQ shi pin	33
+QQ相册	QQ xiang ce	33
+QQ消息	QQ xiao xi	33
+QQ音速	QQ yin su	33
+QQ音乐	QQ yin yue	33
+QQ影音	QQ ying yin	33
+QQ游戏	QQ you xi	33
+QQ邮箱	QQ you xiang	33
+QQ语音	QQ yu yin	33
+QQ注册	QQ zhu ce	33
+哆啦A梦	duo la A meng	39
+飞牛OS	fei niu OS	74
+改bug	gai BUG	256
+公网IP	gong wang IP	229
+CNC加工	CNC jia gong	65
+CNY账户	CNY zhang hu	39
+WiFi伴侣	WIFI ban lv	139

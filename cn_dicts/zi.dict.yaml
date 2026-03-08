@@ -7739,10 +7739,11 @@ sort: by_weight
 餖	dou	68
 唗	dou	50
 郖	dou	50
-鈄	dou	50
+钭	dou	50
 阧	dou	38
 斣	dou	38
 毭	dou	23
+鈄	dou	1
 㪷	dou	1
 㞳	dou	1
 䇺	dou	1
@@ -7755,7 +7756,6 @@ sort: by_weight
 瞗	dou	1
 讀	dou	1
 鋀	dou	1
-钭	dou	1
 㐙	dou	1
 㛒	dou	1
 㢄	dou	1
@@ -22572,9 +22572,9 @@ sort: by_weight
 笼	long	614
 垄	long	567
 拢	long	545
-笼	long	521
+聋	long	521
 咙	long	520
-聋	long	516
+笼	long	516
 陇	long	512
 珑	long	506
 胧	long	496
