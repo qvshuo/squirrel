@@ -6,7 +6,45 @@ name: mixed
 version: "LTS"
 sort: by_weight
 ...
+B面	B mian	3
+B盘	B pan	3
+B区	B qu	3
+B型	B xing	3
+B站	B zhan	435
+B罩	B zhao	3
+B柱	B zhu	3
+B组	B zu	3
+B座	B zuo	3
+K宝	K bao	3
+K粉	K fen	3
+K歌	K ge	3
+K记	K ji	3
+K线	K xian	3
 C语言	C yu yan	131
+OK啊	OK a	3
+OK不	OK bu	3
+OK啦	OK la	3
+OK了	OK le	3
+OK吗	OK ma	3
+OK嘛	OK ma	3
+OK么	OK me	3
+OK呀	OK ya	3
+PC版	PC ban	3
+PC端	PC duan	3
+PE管	PE guan	3
+PK赛	PK sai	3
+PN结	PN jie	3
+PP袋	PP dai	3
+QQ号	QQ hao	3
+QQ群	QQ qun	3
+QQ堂	QQ tang	3
+QQ秀	QQ xiu	3
+QR码	QR ma	3
+嗑CP	ke CP	3
+梅花A	mei hua A	3
+梅花J	mei hua J	3
+梅花K	mei hua K	3
+梅花Q	mei hua Q	3
 Go语言	Go yu yan	97
 JD京东	JD jing dong	97
 JD自营	JD zi ying	331
@@ -50,3 +88,4 @@ QQ注册	QQ zhu ce	33
 CNC加工	CNC jia gong	65
 CNY账户	CNY zhang hu	39
 WiFi伴侣	WIFI ban lv	139
+WiFi密码	WIFI mi ma
