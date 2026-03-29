@@ -15,7 +15,6 @@ sort: by_weight
 豹属	bao shu	80
 鲍属	bao shu	70
 鸨属	bao shu	49
-薄叶	bao ye	343
 贝属	bei shu	351
 鹎属	bei shu	59
 鲾属	bi shu	60
@@ -29,14 +28,11 @@ sort: by_weight
 鲳属	chang shu	67
 鲿属	chang shu	48
 梣属	chen shu	64
-齿叶	chi ye	309
 椆属	chou shu	68
 鯙属	chun shu	79
 鹑属	chun shu	59
 莼属	chun shu	41
 葱属	cong shu	336
-翠叶	cui ye	341
-大叶	da ye	498
 稻属	dao shu	52
 德属	de shu	417
 貂属	diao shu	78
@@ -46,7 +42,6 @@ sort: by_weight
 鮗属	dong shu	58
 鸫属	dong shu	51
 椴属	duan shu	72
-多叶	duo ye	352
 鳄目	e mu	322
 鳄属	e shu	68
 鹗属	e shu	66
@@ -79,7 +74,6 @@ sort: by_weight
 黑叶	hei ye	273
 鸻属	heng shu	43
 猴属	hou shu	65
-厚叶	hou ye	337
 狐属	hu shu	67
 鳠属	hu shu	47
 桦属	hua shu	43
@@ -98,16 +92,12 @@ sort: by_weight
 菅属	jian shu	60
 鳒属	jian shu	51
 鲣属	jian shu	47
-尖叶	jian ye	381
-剑叶	jian ye	302
 鳉属	jiang shu	57
 姜属	jiang shu	54
 椒属	jiao shu	59
 鲸目	jing mu	332
 菊属	ju shu	342
 榉属	ju shu	70
-菊叶	ju ye	317
-卷叶	juan ye	351
 蕨属	jue shu	396
 栲属	kao shu	43
 柯属	ke shu	60
@@ -257,7 +247,6 @@ sort: by_weight
 鹬属	yu shu	41
 鸢属	yuan shu	63
 鼋属	yuan shu	51
-圆叶	yuan ye	381
 藻属	zao shu	443
 蚤属	zao shu	64
 枣属	zao shu	51
