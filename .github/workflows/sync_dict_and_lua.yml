@@ -10,20 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source repository (rime-ice)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: "iDvel/rime-ice"
           path: "ice"
 
       - name: Checkout source repository (RIME-LMDG)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: "amzxyz/RIME-LMDG"
           ref: "wanxiang"
           path: "lmdg"
 
       - name: Checkout destination repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: "qvshuo/squirrel"
           token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
