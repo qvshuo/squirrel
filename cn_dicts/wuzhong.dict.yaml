@@ -58,6 +58,7 @@ sort: by_weight
 柑属	gan shu	43
 葛属	ge shu	53
 鸽属	ge shu	47
+𮭥科	gong ke	160
 鲴属	gu shu	68
 菰属	gu shu	57
 鳤属	guan shu	74
@@ -2042,6 +2043,7 @@ sort: by_weight
 珙桐科	gong tong ke	92
 珙桐属	gong tong shu	57
 弓蟹科	gong xie ke	73
+𮭥形目	gong xing mu	16
 弓鱼属	gong yu shu	99
 公鱼属	gong yu shu	62
 沟瓣属	gou ban shu	63
@@ -5668,6 +5670,7 @@ sort: by_weight
 山苔草	shan tai cao	56
 鳝藤属	shan teng shu	74
 山兔属	shan tu shu	62
+扇尾类	shan wei lei	98
 鳝蜥属	shan xi shu	70
 山虾科	shan xia ke	85
 扇虾属	shan xia shu	64
@@ -7607,6 +7610,7 @@ sort: by_weight
 异蛙属	yi wa shu	78
 异鳚属	yi wei shu	89
 伊蚊属	yi wen shu	89
+异窝虫	yi wo chong	160
 蚁蟋科	yi xi ke	54
 异蜥科	yi xi ke	50
 异蜥属	yi xi shu	74
@@ -63487,6 +63491,7 @@ sort: by_weight
 大孔牛肝菌属	da kong niu gan jun shu	1
 大孔小美腹鲶	da kong xiao mei fu nian	1
 大口半线脂鲤	da kou ban xian zhi li	1
+大口叉齿龙䲢	da kou cha chi long teng	1
 大口短体蛇鳗	da kou duan ti she man	1
 大口副狮子鱼	da kou fu shi zi yu	1
 大口康吉鳗属	da kou kang ji man shu	1
