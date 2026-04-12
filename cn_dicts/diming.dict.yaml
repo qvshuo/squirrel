@@ -135,7 +135,7 @@ sort: by_weight
 渌口	lu kou	1
 泸县	lu xian	417
 伦镇	lun zhen	1
-螺河	luo he	609
+漯河	luo he	609
 玛家	ma jia	328
 玛乡	ma xiang	1
 马镇	ma zhen	471
@@ -1164,6 +1164,7 @@ sort: by_weight
 包垟乡	bao yang xiang	1
 保义镇	bao yi zhen	1
 宝应县	bao ying xian	198
+宝应县	bao ying xian	1
 抱由镇	bao you zhen	1
 宝源乡	bao yuan xiang	1
 宝藏镇	bao zang zhen	1
@@ -1344,6 +1345,7 @@ sort: by_weight
 本寨镇	ben zhai zhen	1
 笨珍县	ben zhen xian	125
 本庄镇	ben zhuang zhen	1
+蚌埠市	beng bu shi	1
 蚌山区	beng shan qu	160
 碧安乡	bi an xiang	1
 必背镇	bi bei zhen	1
@@ -2406,6 +2408,7 @@ sort: by_weight
 尺八镇	chi ba zhen	1
 池北区	chi bei qu	1
 赤壁市	chi bi shi	248
+赤壁市	chi bi shi	1
 赤壁镇	chi bi zhen	1
 赤城县	chi cheng xian	175
 赤城镇	chi cheng zhen	1
@@ -2783,6 +2786,7 @@ sort: by_weight
 大垌镇	da dong zhen	92
 大东镇	da dong zhen	83
 大洞镇	da dong zhen	63
+大渡口	da du kou	1
 大肚区	da du qu	1
 大塅镇	da duan zhen	91
 大垛镇	da duo zhen	71
@@ -2794,6 +2798,7 @@ sort: by_weight
 大分县	da fen xian	240
 大汾镇	da fen zhen	51
 大风堡	da feng bao	225
+大丰港	da feng gang	1
 大丰区	da feng qu	176
 大丰县	da feng xian	95
 大封镇	da feng zhen	63
@@ -2874,6 +2879,7 @@ sort: by_weight
 大块镇	da kuai zhen	78
 大夼镇	da kuang zhen	61
 大隗镇	da kui zhen	89
+达拉特	da la te	1
 达拉乡	da la xiang	1
 大赉县	da lai xian	83
 大赉乡	da lai xiang	64
@@ -3868,6 +3874,7 @@ sort: by_weight
 东峡镇	dong xia zhen	1
 东乡区	dong xiang qu	108
 东乡县	dong xiang xian	200
+东乡县	dong xiang xian	1
 东庠乡	dong xiang xiang	1
 东乡镇	dong xiang zhen	100
 东新乡	dong xin xiang	1
@@ -3888,6 +3895,7 @@ sort: by_weight
 东姚镇	dong yao zhen	1
 东冶镇	dong ye zhen	1
 东营村	dong ying cun	100
+东营港	dong ying gang	1
 东营区	dong ying qu	197
 东英县	dong ying xian	116
 东英镇	dong ying zhen	1
@@ -4284,6 +4292,7 @@ sort: by_weight
 范湖乡	fan hu xiang	1
 樊集乡	fan ji xiang	1
 范集镇	fan ji zhen	1
+范家屯	fan jia tun	1
 范家镇	fan jia zhen	1
 翻江镇	fan jiang zhen	1
 范坑乡	fan keng xiang	1
@@ -5162,6 +5171,7 @@ sort: by_weight
 高崖镇	gao ya zhen	1
 高燕镇	gao yan zhen	1
 高阳县	gao yang xian	189
+高阳县	gao yang xian	1
 高阳乡	gao yang xiang	1
 高阳镇	gao yang zhen	118
 高要区	gao yao qu	180
@@ -5901,6 +5911,7 @@ sort: by_weight
 郭镇乡	guo zhen xiang	1
 郭庄镇	guo zhuang zhen	1
 果庄镇	guo zhuang zhen	1
+哈达湾	ha da wan	1
 哈达镇	ha da zhen	1
 哈甘乡	ha gan xiang	1
 哈加乡	ha jia xiang	1
@@ -6777,6 +6788,7 @@ sort: by_weight
 湖岭镇	hu ling zhen	1
 护龙镇	hu long zhen	1
 葫芦堡	hu lu bao	126
+葫芦岛	hu lu dao	1
 葫芦乡	hu lu xiang	1
 虎鹿镇	hu lu zhen	1
 葫芦镇	hu lu zhen	1
@@ -7861,6 +7873,7 @@ sort: by_weight
 加尤镇	jia you zhen	1
 贾雨村	jia yu cun	408
 嘉鱼县	jia yu xian	170
+嘉鱼县	jia yu xian	1
 加玉乡	jia yu xiang	1
 贾峪镇	jia yu zhen	1
 贾悦镇	jia yue zhen	1
@@ -8472,6 +8485,7 @@ sort: by_weight
 金江村	jin jiang cun	236
 锦江区	jin jiang qu	246
 晋江市	jin jiang shi	245
+晋江市	jin jiang shi	1
 晋江县	jin jiang xian	196
 金江乡	jin jiang xiang	167
 金江镇	jin jiang zhen	355
@@ -9023,6 +9037,7 @@ sort: by_weight
 卡嘎镇	ka ga zhen	1
 卡攻乡	ka gong xiang	1
 卡贡乡	ka gong xiang	1
+喀喇沁	ka la qin	1
 卡拉乡	ka la xiang	1
 卡龙乡	ka long xiang	1
 卡龙镇	ka long zhen	1
@@ -9818,6 +9833,7 @@ sort: by_weight
 李街村	li jie cun	31
 立节镇	li jie zhen	1
 利津县	li jin xian	187
+利津县	li jin xian	1
 李井村	li jing cun	52
 李咀村	li ju cun	1
 黎咀镇	li ju zhen	1
@@ -10438,6 +10454,7 @@ sort: by_weight
 岭背镇	ling bei zhen	1
 灵璧县	ling bi xian	246
 灵壁县	ling bi xian	66
+灵璧县	ling bi xian	1
 陵城区	ling cheng qu	195
 凌城镇	ling cheng zhen	1
 灵城镇	ling cheng zhen	1
@@ -11448,6 +11465,7 @@ sort: by_weight
 罗腾堡	luo teng bao	256
 罗田村	luo tian cun	171
 罗田县	luo tian xian	188
+罗田县	luo tian xian	1
 罗田镇	luo tian zhen	204
 螺田镇	luo tian zhen	1
 罗亭镇	luo ting zhen	246
@@ -13139,6 +13157,7 @@ sort: by_weight
 宁郭镇	ning guo zhen	1
 宁海县	ning hai xian	220
 宁河区	ning he qu	190
+宁河区	ning he qu	1
 宁河县	ning he xian	178
 宁河镇	ning he zhen	1
 宁化县	ning hua xian	209
@@ -13296,6 +13315,7 @@ sort: by_weight
 盘克镇	pan ke zhen	1
 潘口乡	pan kou xiang	1
 攀莲镇	pan lian zhen	1
+盘龙城	pan long cheng	1
 盘龙区	pan long qu	238
 蟠龙镇	pan long zhen	283
 盘龙镇	pan long zhen	236
@@ -13867,6 +13887,7 @@ sort: by_weight
 企水镇	qi shui zhen	1
 期思镇	qi si zhen	1
 其他县	qi ta xian	211
+七台河	qi tai he	1
 奇台县	qi tai xian	174
 七台镇	qi tai zhen	1
 起台镇	qi tai zhen	1
@@ -14690,9 +14711,11 @@ sort: by_weight
 乳城镇	ru cheng zhen	1
 茹村乡	ru cun xiang	1
 如东县	ru dong xian	194
+如东县	ru dong xian	1
 如东镇	ru dong zhen	1
 儒洞镇	ru dong zhen	1
 如皋市	ru gao shi	207
+如皋市	ru gao shi	1
 如皋县	ru gao xian	144
 茹荷镇	ru he zhen	1
 汝湖镇	ru hu zhen	1
@@ -15249,6 +15272,7 @@ sort: by_weight
 上官镇	shang guan zhen	1
 上莞镇	shang guan zhen	1
 上郭乡	shang guo xiang	1
+上海庙	shang hai miao	1
 上海县	shang hai xian	196
 上杭县	shang hang xian	202
 上杭乡	shang hang xiang	1
@@ -15966,6 +15990,7 @@ sort: by_weight
 术布乡	shu bu xiang	1
 舒茶镇	shu cha zhen	1
 舒城县	shu cheng xian	213
+舒城县	shu cheng xian	1
 束城镇	shu cheng zhen	1
 淑村镇	shu cun zhen	1
 书坊乡	shu fang xiang	1
@@ -16419,6 +16444,7 @@ sort: by_weight
 松坎镇	song kan zhen	1
 嵩口镇	song kou zhen	1
 松口镇	song kou zhen	1
+松林店	song lin dian	1
 松林镇	song lin zhen	1
 松岭区	song ling qu	125
 松岭镇	song ling zhen	1
@@ -16527,6 +16553,7 @@ sort: by_weight
 苏坑村	su keng cun	82
 苏坑镇	su keng zhen	155
 苏李村	su li cun	103
+苏里格	su li ge	1
 苏里乡	su li xiang	103
 芳联堡	su lian bao	183
 苏岭村	su ling cun	139
@@ -16606,6 +16633,7 @@ sort: by_weight
 绥中县	sui zhong xian	182
 绥中乡	sui zhong xiang	1
 绥中镇	sui zhong zhen	1
+随州市	sui zhou shi	1
 孙堡村	sun bao cun	171
 孙伯镇	sun bo zhen	188
 孙埠镇	sun bu zhen	133
@@ -17969,6 +17997,7 @@ sort: by_weight
 王家庄	wang jia zhuang	326
 王家嘴	wang jia zui	127
 望江县	wang jiang xian	172
+望江县	wang jiang xian	1
 望江乡	wang jiang xiang	1
 望江镇	wang jiang zhen	1
 王街村	wang jie cun	120
@@ -20334,6 +20363,7 @@ sort: by_weight
 徐庄镇	xu zhuang zhen	240
 许庄镇	xu zhuang zhen	1
 宣堡镇	xuan bao zhen	1
+宣城市	xuan cheng shi	1
 宣城县	xuan cheng xian	156
 宣成乡	xuan cheng xiang	1
 宣恩县	xuan en xian	174
@@ -21426,6 +21456,7 @@ sort: by_weight
 营山县	ying shan xian	249
 英山县	ying shan xian	246
 应山县	ying shan xian	125
+英山县	ying shan xian	1
 英山乡	ying shan xiang	1
 影山镇	ying shan zhen	1
 颍上县	ying shang xian	246
@@ -22422,6 +22453,7 @@ sort: by_weight
 张家坟	zhang jia fen	282
 张家河	zhang jia he	221
 张家湖	zhang jia hu	103
+张家口	zhang jia kou	1
 张家岭	zhang jia ling	150
 张家楼	zhang jia lou	274
 张家庙	zhang jia miao	82
@@ -23597,6 +23629,7 @@ sort: by_weight
 庄子乡	zhuang zi xiang	1
 庄子镇	zhuang zi zhen	1
 准巴乡	zhun ba xiang	1
+准格尔	zhun ge er	1
 斫曹乡	zhuo cao xiang	1
 濯港镇	zhuo gang zhen	1
 卓兰镇	zhuo lan zhen	1
@@ -23946,14 +23979,33 @@ sort: by_weight
 安化街道	an hua jie dao	1
 安华庄村	an hua zhuang cun	1
 安怀新村	an huai xin cun	1
+安徽安庆	an hui an qing	1
+安徽定远	an hui ding yuan	1
+安徽肥西	an hui fei xi	1
+安徽阜南	an hui fu nan	1
+安徽固镇	an hui gu zhen	1
+安徽涡阳	an hui guo yang	1
+安徽含山	an hui han shan	1
 安徽和县	an hui he xian	1
+安徽和县	an hui he xian	1
+安徽怀远	an hui huai yuan	1
+安徽徽州	an hui hui zhou	1
+安徽霍邱	an hui huo qiu	1
+安徽绩溪	an hui ji xi	1
 安徽泾县	an hui jing xian	1
+安徽潜山	an hui qian shan	1
 安徽歙县	an hui she xian	1
 安徽寿县	an hui shou xian	1
+安徽寿县	an hui shou xian	1
 安徽泗县	an hui si xian	1
+安徽宿松	an hui su song	1
 安徽宿县	an hui su xian	1
+安徽五河	an hui wu he	1
+安徽无为	an hui wu wei	1
 安徽萧县	an hui xiao xian	1
+安徽新芜	an hui xin wu	1
 安徽黟县	an hui yi xian	1
+安徽颍州	an hui ying zhou	1
 安集海村	an ji hai cun	1
 安集海镇	an ji hai zhen	1
 安吉街道	an ji jie dao	1
@@ -24284,6 +24336,7 @@ sort: by_weight
 巴彦花镇	ba yan hua zhen	1
 巴彦街道	ba yan jie dao	1
 巴彦淖尔	ba yan nao er	1
+巴彦托海	ba yan tuo hai	1
 八义集镇	ba yi ji zhen	1
 八一街道	ba yi jie dao	1
 八一牧场	ba yi mu chang	1
@@ -25316,6 +25369,7 @@ sort: by_weight
 北景萌村	bei jing meng cun	1
 北井头村	bei jing tou cun	1
 北井头乡	bei jing tou xiang	1
+北京雁栖	bei jing yan qi	1
 北京亦庄	bei jing yi zhuang	1
 北荆张村	bei jing zhang cun	1
 北景芝村	bei jing zhi cun	1
@@ -26884,6 +26938,7 @@ sort: by_weight
 长山顶村	chang shan ding cun	1
 长山沟村	chang shan gou cun	1
 长山河村	chang shan he cun	1
+常山华侨	chang shan hua qiao	1
 长山岭村	chang shan ling cun	1
 长山头村	chang shan tou cun	1
 长山晏乡	chang shan yan xiang	1
@@ -26983,6 +27038,7 @@ sort: by_weight
 巢凤街道	chao feng jie dao	1
 朝凤山庄	chao feng shan zhuang	1
 潮海街道	chao hai jie dao	1
+潮河街道	chao he jie dao	1
 巢虎屯村	chao hu tun cun	1
 朝辉街道	chao hui jie dao	1
 晁家塬村	chao jia yuan cun	1
@@ -32295,6 +32351,8 @@ sort: by_weight
 符家庄村	fu jia zhuang cun	1
 付家佐乡	fu jia zuo xiang	1
 付家佐镇	fu jia zuo zhen	1
+福建建宁	fu jian jian ning	1
+福建三元	fu jian san yuan	1
 涪江街道	fu jiang jie dao	1
 福聚昌村	fu ju chang cun	1
 府君店村	fu jun dian cun	1
@@ -32611,6 +32669,7 @@ sort: by_weight
 感应庵村	gan ying an cun	1
 干峪沟村	gan yu gou cun	1
 甘峪沟村	gan yu gou cun	1
+赣榆海洋	gan yu hai yang	1
 甘峪口村	gan yu kou cun	1
 干鱼头村	gan yu tou cun	1
 甘泽堡村	gan ze bao cun	1
@@ -33844,6 +33903,7 @@ sort: by_weight
 广德公镇	guang de gong zhen	1
 广德街道	guang de jie dao	1
 广殿渔村	guang dian yu cun	1
+广东潮安	guang dong chao an	1
 广东地乡	guang dong di xiang	1
 广东街道	guang dong jie dao	1
 广发永乡	guang fa yong xiang	1
@@ -34648,14 +34708,26 @@ sort: by_weight
 河柏桥村	he bai qiao cun	1
 河包田村	he bao tian cun	1
 荷包田村	he bao tian cun	1
+河北安次	he bei an ci	1
+河北泊头	he bei bo tou	1
+河北沧州	he bei cang zhou	1
 河北磁县	he bei ci xian	1
+河北大城	he bei dai cheng	1
 河北段村	he bei duan cun	1
+河北阜平	he bei fu ping	1
+河北河间	he bei he jian	1
 河北街道	he bei jie dao	1
 河北景县	he bei jing xian	1
+河北乐亭	he bei lao ting	1
 河北李村	he bei li cun	1
+河北鹿泉	he bei lu quan	1
+河北满城	he bei man cheng	1
 河北平乡	he bei ping xiang	1
 河北铺村	he bei pu cun	1
+河北迁西	he bei qian xi	1
 河北青县	he bei qing xian	1
+河北清苑	he bei qing yuan	1
+河北任丘	he bei ren qiu	1
 河北三镇	he bei san zhen	1
 河北涉县	he bei she xian	1
 河北滩村	he bei tan cun	1
@@ -34665,12 +34737,18 @@ sort: by_weight
 河北威县	he bei wei xian	1
 河北魏县	he bei wei xian	1
 河北献县	he bei xian xian	1
+河北香河	he bei xiang he	1
 鹤北新村	he bei xin cun	1
 河北新村	he bei xin cun	1
+河北邢台	he bei xing tai	1
+河北行唐	he bei xing tang	1
 河北雄县	he bei xiong xian	1
 河北崖村	he bei ya cun	1
 河北杨村	he bei yang cun	1
 河北易县	he bei yi xian	1
+河北易县	he bei yi xian	1
+河北永清	he bei yong qing	1
+河北玉田	he bei yu tian	1
 河北蔚县	he bei yu xian	1
 河北张村	he bei zhang cun	1
 河北张庄	he bei zhang zhuang	1
@@ -34825,6 +34903,7 @@ sort: by_weight
 河坎子村	he kan zi cun	1
 河坎子乡	he kan zi xiang	1
 河口街道	he kou jie dao	1
+河口蓝色	he kou lan se	1
 荷兰街道	he lan jie dao	1
 何老湾村	he lao wan cun	1
 禾梨坳乡	he li ao xiang	1
@@ -34861,6 +34940,7 @@ sort: by_weight
 河南刘村	he nan liu cun	1
 河南内乡	he nan nei xiang	1
 河南杞县	he nan qi xian	1
+河南商丘	he nan shang qiu	1
 河南台村	he nan tai cun	1
 河南头村	he nan tou cun	1
 河南疃镇	he nan tuan zhen	1
@@ -35755,9 +35835,13 @@ sort: by_weight
 呼宝吐村	hu bao tu cun	1
 湖北房县	hu bei fang xian	1
 湖北口村	hu bei kou cun	1
+湖北麻城	hu bei ma cheng	1
 湖北随县	hu bei sui xian	1
+湖北咸安	hu bei xian an	1
 湖贝新村	hu bei xin cun	1
 沪北新村	hu bei xin cun	1
+湖北曾都	hu bei zeng du	1
+湖北钟祥	hu bei zhong xiang	1
 湖北庄村	hu bei zhuang cun	1
 湖滨街道	hu bin jie dao	1
 户部寨乡	hu bu zhai xiang	1
@@ -35940,6 +36024,7 @@ sort: by_weight
 胡南坝村	hu nan ba cun	1
 湖南道县	hu nan dao xian	1
 湖南街道	hu nan jie dao	1
+湖南醴陵	hu nan li ling	1
 湖南澧县	hu nan li xian	1
 湖南湘乡	hu nan xiang xiang	1
 湖南攸县	hu nan you xian	1
@@ -36305,6 +36390,7 @@ sort: by_weight
 槐柏街村	huai bai jie cun	1
 怀抱窝村	huai bao wo cun	1
 槐抱榆村	huai bao yu cun	1
+淮北杜集	huai bei du ji	1
 怀北庄村	huai bei zhuang cun	1
 淮滨街道	huai bin jie dao	1
 槐卜硷村	huai bo jian cun	1
@@ -37280,7 +37366,12 @@ sort: by_weight
 基立新村	ji li xin cun	1
 吉利峪村	ji li yu cun	1
 畸恋山庄	ji lian shan zhuang	1
+吉林白城	ji lin bai cheng	1
+吉林船营	ji lin chuan ying	1
 吉林街道	ji lin jie dao	1
+吉林宁江	ji lin ning jiang	1
+吉林双辽	ji lin shuang liao	1
+吉林松原	ji lin song yuan	1
 鸡柳汉堡	ji liu han bao	1
 急流口村	ji liu kou cun	1
 鸡笼山村	ji long shan cun	1
@@ -37861,8 +37952,12 @@ sort: by_weight
 僵尸山庄	jiang shi shan zhuang	1
 江水河村	jiang shui he cun	1
 江水桥村	jiang shui qiao cun	1
+江苏东海	jiang su dong hai	1
+江苏东海	jiang su dong hai	1
 江苏丰县	jiang su feng xian	1
 江苏街道	jiang su jie dao	1
+江苏邳州	jiang su pi zhou	1
+江苏铜山	jiang su tong shan	1
 江苏吴县	jiang su wu xian	1
 将台堡镇	jiang tai bao zhen	1
 将台地区	jiang tai di qu	1
@@ -37880,6 +37975,7 @@ sort: by_weight
 江溪冲村	jiang xi chong cun	1
 江西道村	jiang xi dao cun	1
 江西赣县	jiang xi gan xian	1
+江西赣县	jiang xi gan xian	1
 江西沟村	jiang xi gou cun	1
 江西沟乡	jiang xi gou xiang	1
 江西沟镇	jiang xi gou zhen	1
@@ -37888,6 +37984,8 @@ sort: by_weight
 江西街道	jiang xi jie dao	1
 江西街乡	jiang xi jie xiang	1
 江西坡镇	jiang xi po zhen	1
+江西瑞金	jiang xi rui jin	1
+江西新建	jiang xi xin jian	1
 江西营村	jiang xi ying cun	1
 江西俞村	jiang xi yu cun	1
 将熙泽村	jiang xi ze cun	1
@@ -38556,6 +38654,7 @@ sort: by_weight
 井沟子村	jing gou zi cun	1
 靖海卫村	jing hai wei cun	1
 靖海新村	jing hai xin cun	1
+京航街道	jing hang jie dao	1
 径河街道	jing he jie dao	1
 荆河街道	jing he jie dao	1
 靖和街道	jing he jie dao	1
@@ -43798,6 +43897,7 @@ sort: by_weight
 明光街道	ming guang jie dao	1
 明桂渔村	ming gui yu cun	1
 鸣鹤古镇	ming he gu zhen	1
+明湖街道	ming hu jie dao	1
 名湖山庄	ming hu shan zhuang	1
 明湖山庄	ming hu shan zhuang	1
 明桦街道	ming hua jie dao	1
@@ -44852,6 +44952,7 @@ sort: by_weight
 南天寺村	nan tian si cun	1
 南田庄村	nan tian zhuang cun	1
 南亭子村	nan ting zi cun	1
+南通崇川	nan tong chong chuan	1
 南通乐村	nan tong le cun	1
 南铜冶村	nan tong ye cun	1
 南头工村	nan tou gong cun	1
@@ -46507,6 +46608,7 @@ sort: by_weight
 前长湾村	qian chang wan cun	1
 前陈义村	qian chen yi cun	1
 前程街道	qian cheng jie dao	1
+前程街道	qian cheng jie dao	1
 前丞相村	qian cheng xiang cun	1
 前城子村	qian cheng zi cun	1
 前程子村	qian cheng zi cun	1
@@ -47931,6 +48033,7 @@ sort: by_weight
 如奥亚村	ru ao ya cun	1
 如城街道	ru cheng jie dao	1
 汝瓷小镇	ru ci xiao zhen	1
+如东沿海	ru dong yan hai	1
 如恩纳村	ru en na cun	1
 入広瀬村	ru guang lai cun	1
 茹家庄村	ru jia zhuang cun	1
@@ -48746,11 +48849,13 @@ sort: by_weight
 山王庄村	shan wang zhuang cun	1
 山王庄镇	shan wang zhuang zhen	1
 陕西彬县	shan xi bin xian	1
+山西大同	shan xi da tong	1
 山西代县	shan xi dai xian	1
 陕西工村	shan xi gong cun	1
 陕西户县	shan xi hu xian	1
 陕西华县	shan xi hua xian	1
 山西吉县	shan xi ji xian	1
+山西绛县	shan xi jiang xian	1
 山西绛县	shan xi jiang xian	1
 山西临县	shan xi lin xian	1
 陕西陇县	shan xi long xian	1
@@ -48761,6 +48866,7 @@ sort: by_weight
 山西农村	shan xi nong cun	1
 山西祁县	shan xi qi xian	1
 陕西乾县	shan xi qian xian	1
+山西朔州	shan xi shuo zhou	1
 山西头村	shan xi tou cun	1
 山西武乡	shan xi wu xiang	1
 山西夏县	shan xi xia xian	1
@@ -51475,6 +51581,7 @@ sort: by_weight
 肃州庙村	su zhou miao cun	1
 宿州泗县	su zhou si xian	1
 宿州萧县	su zhou xiao xian	1
+宿州埇桥	su zhou yong qiao	1
 苏庄则村	su zhuang ze cun	1
 苏子沟村	su zi gou cun	1
 苏子沟镇	su zi gou zhen	1
@@ -52758,6 +52865,7 @@ sort: by_weight
 桐城街道	tong cheng jie dao	1
 通城街道	tong cheng jie dao	1
 铜城街道	tong cheng jie dao	1
+桐城双新	tong cheng shuang xin	1
 铜川区县	tong chuan qu xian	1
 通达街道	tong da jie dao	1
 同德街道	tong de jie dao	1
@@ -55001,6 +55109,7 @@ sort: by_weight
 吴未城村	wu wei cheng cun	1
 武威庙村	wu wei miao cun	1
 浯溪河乡	wu xi he xiang	1
+无锡惠山	wu xi hui shan	1
 浯溪街道	wu xi jie dao	1
 无瑕街道	wu xia jie dao	1
 吴夏庄村	wu xia zhuang cun	1
@@ -57400,6 +57509,7 @@ sort: by_weight
 乡元柏村	xiang yuan bai cun	1
 象园街道	xiang yuan jie dao	1
 香员宅庄	xiang yuan zhai zhuang	1
+祥云街道	xiang yun jie dao	1
 乡云蒙村	xiang yun meng cun	1
 乡云乃乡	xiang yun nai xiang	1
 祥云寺村	xiang yun si cun	1
@@ -58970,6 +59080,7 @@ sort: by_weight
 徐杖子村	xu zhang zi cun	1
 许杖子村	xu zhang zi cun	1
 徐州丰县	xu zhou feng xian	1
+徐州泉山	xu zhou quan shan	1
 许庄街道	xu zhuang jie dao	1
 徐庄子村	xu zhuang zi cun	1
 许庄子村	xu zhuang zi cun	1
@@ -59001,6 +59112,7 @@ sort: by_weight
 薛大人庄	xue da ren zhuang	1
 薛丁庄村	xue ding zhuang cun	1
 学坊垭村	xue fang ya cun	1
+雪峰华侨	xue feng hua qiao	1
 雪枫街道	xue feng jie dao	1
 雪峰街道	xue feng jie dao	1
 雪峰岭村	xue feng ling cun	1
@@ -59749,6 +59861,7 @@ sort: by_weight
 杨家灶村	yang jia zao cun	1
 杨家寨村	yang jia zhai cun	1
 杨家宅村	yang jia zhai cun	1
+杨家杖子	yang jia zhang zi	1
 杨家庄村	yang jia zhuang cun	1
 羊家庄村	yang jia zhuang cun	1
 杨家庄乡	yang jia zhuang xiang	1
@@ -60797,6 +60910,7 @@ sort: by_weight
 盈江农场	ying jiang nong chang	1
 鹰咀山村	ying ju shan cun	1
 英俊街道	ying jun jie dao	1
+营口辽河	ying kou liao he	1
 硬路塔村	ying lu ta cun	1
 英伦华庄	ying lun hua zhuang	1
 英伦欧堡	ying lun ou bao	1
@@ -64289,6 +64403,8 @@ sort: by_weight
 安东卫街道	an dong wei jie dao	1
 安格里格镇	an ge li ge zhen	1
 安化彝族乡	an hua yi zu xiang	1
+安徽省濉溪	an hui sheng sui xi	1
+安徽岳西县	an hui yue xi xian	1
 安基山林场	an ji shan lin chang	1
 安静的街道	an jing de jie dao	1
 安康佤族乡	an kang wa zu xiang	1
@@ -64576,6 +64692,7 @@ sort: by_weight
 查甫藏族乡	cha fu zang zu xiang	1
 查干敖包镇	cha gan ao bao zhen	1
 查干郭勒乡	cha gan guo le xiang	1
+查干湖旅游	cha gan hu lv you	1
 查干湖渔场	cha gan hu yu chang	1
 查干库勒乡	cha gan ku le xiang	1
 查干淖尔镇	cha gan nao er zhen	1
@@ -65375,7 +65492,9 @@ sort: by_weight
 河马泉街道	he ma quan jie dao	1
 河门口街道	he men kou jie dao	1
 河南岸街道	he nan an jie dao	1
+河南三门峡	he nan san men xia	1
 河南屯林场	he nan tun lin chang	1
+河南驻马店	he nan zhu ma dian	1
 和平街街道	he ping jie jie dao	1
 和平里街道	he ping li jie dao	1
 和平路街道	he ping lu jie dao	1
@@ -65398,6 +65517,8 @@ sort: by_weight
 合作路街道	he zuo lu jie dao	1
 黑甲山片区	hei jia shan pian qu	1
 黑林铺街道	hei lin pu jie dao	1
+黑龙江红岗	hei long jiang hong gang	1
+黑龙江桦南	hei long jiang hua nan	1
 黑牛营子乡	hei niu ying zi xiang	1
 黑山咀嘴镇	hei shan ju zui zhen	1
 黑石礁街道	hei shi jiao jie dao	1
@@ -66272,6 +66393,7 @@ sort: by_weight
 南庄坪街道	nan zhuang ping jie dao	1
 脑木更苏木	nao mu geng su mu
 内蒙古街道	nei meng gu jie dao	1
+内蒙古武川	nei meng gu wu chuan	1
 内蒙古乡镇	nei meng gu xiang zhen	1
 腻脚彝族乡	ni jiao yi zu xiang	1
 尼玛江热乡	ni ma jiang re xiang	1
@@ -66475,6 +66597,7 @@ sort: by_weight
 清谭湖街道	qing tan hu jie dao	1
 清溪场街道	qing xi chang jie dao	1
 清香坪街道	qing xiang ping jie dao	1
+青原区河东	qing yuan qu he dong	1
 清真巷街道	qing zhen xiang jie dao	1
 青竹湖街道	qing zhu hu jie dao	1
 邱皮沟街道	qiu pi gou jie dao	1
@@ -66507,6 +66630,7 @@ sort: by_weight
 荣华街街道	rong hua jie jie dao	1
 荣山垦殖场	rong shan ken zhi chang	1
 荣校路街道	rong xiao lu jie dao	1
+如东洋口港	ru dong yang kou gang	1
 汝河路街道	ru he lu jie dao	1
 如意湖街道	ru yi hu jie dao	1
 瑞金路街道	rui jin lu jie dao	1
@@ -66622,6 +66746,7 @@ sort: by_weight
 山界回族乡	shan jie hui zu xiang	1
 山神庙子乡	shan shen miao zi xiang	1
 汕头市街道	shan tou shi jie dao	1
+山西风陵渡	shan xi feng ling du	1
 上阿图什镇	shang a tu shi zhen	1
 上白作街道	shang bai zuo jie dao	1
 商城路街道	shang cheng lu jie dao	1
@@ -67147,6 +67272,7 @@ sort: by_weight
 卧牛山街道	wo niu shan jie dao	1
 窝依莫克镇	wo yi mo ke zhen	1
 午朝门街道	wu chao men jie dao	1
+武川金三角	wu chuan jin san jiao	1
 五大道街道	wu da dao jie dao	1
 乌达力克镇	wu da li ke zhen	1
 五大连池市	wu da lian chi shi	1
@@ -67997,6 +68123,12 @@ sort: by_weight
 爱民东道街道	ai min dong dao jie dao	1
 艾维尔沟街道	ai wei er gou jie dao	1
 艾溪湖管理处	ai xi hu guan li chu
+安徽安庆海口	an hui an qing hai kou	1
+安徽蚌埠淮上	an hui beng bu huai shang	1
+安徽滁州琅琊	an hui chu zhou lang ya	1
+安徽怀远马城	an hui huai yuan ma cheng	1
+安徽芜湖鸠江	an hui wu hu jiu jiang	1
+安徽芜湖三山	an hui wu hu san shan	1
 安宁西路街道	an ning xi lu jie dao	1
 安庆矿区街道	an qing kuang qu jie dao	1
 安图县林业局	an tu xian lin ye ju
@@ -68223,6 +68355,7 @@ sort: by_weight
 德顺蒙古族乡	de shun meng gu zu xiang	1
 德州天衢新区	de zhou tian qu xin qu	1
 地宝土家族乡	di bao tu jia zu xiang	1
+迪庆扶贫民族	di qing fu pin min zu	1
 地藏寺满族乡	di zang si man zu xiang	1
 甸柳新村街道	dian liu xin cun jie dao	1
 汈汊湖养殖场	diao cha hu yang zhi chang	1
@@ -68258,6 +68391,7 @@ sort: by_weight
 敦化市林业局	dun hua shi lin ye ju
 多来特巴格乡	duo lai te ba ge xiang	1
 多来提巴格乡	duo lai ti ba ge xiang	1
+鄂尔多斯蒙苏	e er duo si meng su	1
 额肯呼都格镇	e ken hu dou ge zhen	1
 额里图种畜场	e li tu zhong chu chang	1
 鄂伦春民族乡	e lun chun min zu xiang	1
@@ -68351,8 +68485,13 @@ sort: by_weight
 浩来呼热苏木	hao lai hu re su mu
 浩勒图高勒镇	hao le tu gao le zhen	1
 号头庄回族乡	hao tou zhuang hui zu xiang	1
+河北廊坊广阳	he bei lang fang guang yang	1
+河北廊坊龙港	he bei lang fang long gang	1
 河北留善寺镇	he bei liu shan si zhen	1
+河北唐山海港	he bei tang shan hai gang	1
+河北唐山芦台	he bei tang shan lu tai	1
 和布克赛尔镇	he bu ke sai er zhen	1
+合肥龙岗综合	he fei long gang zong he	1
 禾斛岭垦殖场	he hu ling ken zhi chang	1
 贺家山原种场	he jia shan yuan zhong chang	1
 和龙市林业局	he long shi lin ye ju
@@ -68374,6 +68513,8 @@ sort: by_weight
 沪东新村街道	hu dong xin cun jie dao	1
 呼和温都尔镇	hu he wen dou er zhen	1
 呼勒斯太苏木	hu le si tai su mu
+葫芦岛打渔山	hu lu dao da yu shan	1
+湖南衡阳松木	hu nan heng yang song mu	1
 户撒阿昌族乡	hu sa a chang zu xiang	1
 呼图壁种牛场	hu tu bi zhong niu chang	1
 虎形山瑶族乡	hu xing shan yao zu xiang	1
@@ -68423,6 +68564,7 @@ sort: by_weight
 建设大街街道	jian she da jie jie dao	1
 江汉二桥街道	jiang han er qiao jie dao	1
 江桥蒙古族镇	jiang qiao meng gu zu zhen	1
+江苏吕四海洋	jiang su lv si hai yang	1
 解放北路街道	jie fang bei lu jie dao	1
 解放南路街道	jie fang nan lu jie dao	1
 解放西街街道	jie fang xi jie jie dao	1
@@ -68581,6 +68723,7 @@ sort: by_weight
 南五十家子镇	nan wu shi jia zi zhen	1
 南阳新村街道	nan yang xin cun jie dao	1
 曩宋阿昌族乡	nang song a chang zu xiang	1
+内蒙古鄂托克	nei meng gu e tuo ke	1
 内蒙古自治区	nei meng gu zi zhi qu	1
 年丰朝鲜族乡	nian feng chao xian zu xiang	1
 宁姜蒙古族乡	ning jiang meng gu zu xiang	1
@@ -68653,6 +68796,7 @@ sort: by_weight
 人民广场街道	ren min guang chang jie dao	1
 人民社区街道	ren min she qu jie dao	1
 荣炳盐资源区	rong bing yan zi yuan qu	1
+如东沿海旅游	ru dong yan hai lv you	1
 如皋市蚕种场	ru gao shi can zhong chang	1
 如皋市良种场	ru gao shi liang zhong chang	1
 如皋市农科所	ru gao shi nong ke suo
@@ -68694,6 +68838,7 @@ sort: by_weight
 沙溪土家族乡	sha xi tu jia zu xiang	1
 沙洋滨江新区	sha yang bin jiang xin qu	1
 晒北滩瑶族乡	shai bei tan yao zu xiang	1
+山东烟台福山	shan dong yan tai fu shan	1
 山河屯林业局	shan he tun lin ye ju
 山市种奶牛场	shan shi zhong nai niu chang	1
 上坝土家族乡	shang ba tu jia zu xiang	1
@@ -68784,6 +68929,7 @@ sort: by_weight
 体育中心街道	ti yu zhong xin jie dao	1
 天鹅洲开发区	tian e zhou kai fa qu	1
 天津港保税区	tian jin gang bao shui qu	1
+天津市蓟州区	tian jin shi ji zhou qu	1
 天津铁厂街道	tian jin tie chang jie dao	1
 天马华侨农场	tian ma hua qiao nong chang	1
 天目西路街道	tian mu xi lu jie dao	1
@@ -69707,10 +69853,8 @@ sort: by_weight
 宝格达音髙勒苏木	bao ge da yin gao le su mu
 包拉温都蒙古族乡	bao la wen dou meng gu zu xiang	1
 宝泉岭管理局局直	bao quan ling guan li ju ju zhi
-宝应县经济开发区	bao ying xian jing ji kai fa qu	1
 北站东路片区街道	bei zhan dong lu pian qu jie dao	1
 北站西路片区街道	bei zhan xi lu pian qu jie dao	1
-蚌埠市经济开发区	beng bu shi jing ji kai fa qu	1
 滨海新动能产业园	bin hai xin dong neng chan ye yuan
 滨湖新区教育园区	bin hu xin qu jiao yu yuan qu	1
 兵团八十六团分部	bing tuan ba shi liu tuan fen bu
@@ -69729,15 +69873,11 @@ sort: by_weight
 长阳土家族自治县	chang yang tu jia zu zi zhi xian	1
 成富朝鲜族满族乡	cheng fu chao xian zu man zu xiang	1
 成吉思汗大街街道	cheng ji si han da jie jie dao	1
-赤壁市经济开发区	chi bi shi jing ji kai fa qu	1
 船房傈僳族傣族乡	chuan fang li su zu dai zu xiang	1
 大安彝族纳西族乡	da an yi zu na xi zu xiang	1
 达坂城区盐湖街道	da ban cheng qu yan hu jie dao	1
 大柴旦行政委员会	da chai dan xing zheng wei yuan hui	1
-大渡口经济开发区	da du kou jing ji kai fa qu	1
-大丰港经济开发区	da feng gang jing ji kai fa qu	1
 大黑山特别管理区	da hei shan te bie guan li qu	1
-达拉特经济开发区	da la te jing ji kai fa qu	1
 大连华侨果树农场	da lian hua qiao guo shu nong chang	1
 大南沟乌孜别克乡	da nan gou wu zi bie ke xiang	1
 大青中朝友谊街道	da qing zhong chao you yi jie dao	1
@@ -69749,15 +69889,12 @@ sort: by_weight
 定襄县居民办事处	ding xiang xian ju min ban shi chu
 东山傈僳族彝族乡	dong shan li su zu yi zu xiang	1
 东升满族蒙古族乡	dong sheng man zu meng gu zu xiang	1
-东乡县经济开发区	dong xiang xian jing ji kai fa qu	1
-东营港经济开发区	dong ying gang jing ji kai fa qu	1
 额尔登布拉格苏木	e er deng bu la ge su mu
 额尔克哈什哈苏木	e er ke ha shi ha su mu
 鹅公岭侗族苗族乡	e gong ling dong zu miao zu xiang	1
 额鲁特街道办事处	e lu te jie dao ban shi chu
 二道河子蒙古族乡	er dao he zi meng gu zu xiang	1
 二道湾子蒙古族乡	er dao wan zi meng gu zu xiang	1
-范家屯经济开发区	fan jia tun jing ji kai fa qu	1
 凤山彝族蒙古族乡	feng shan yi zu meng gu zu xiang	1
 枫香仡佬族侗族乡	feng xiang ge lao zu dong zu xiang	1
 枫芸土家族苗族乡	feng yun tu jia zu miao zu xiang	1
@@ -69771,7 +69908,6 @@ sort: by_weight
 高淳县傅家坛林场	gao chun xian fu jia tan lin chang	1
 高新区汽车工业园	gao xin qu qi che gong ye yuan
 高新区七里河街道	gao xin qu qi li he jie dao	1
-高阳县经济开发区	gao yang xian jing ji kai fa qu	1
 高寨苗族布依族乡	gao zhai miao zu bu yi zu xiang	1
 耿家营彝族苗族乡	geng jia ying yi zu miao zu xiang	1
 光华傈僳族彝族乡	guang hua li su zu yi zu xiang	1
@@ -69784,7 +69920,6 @@ sort: by_weight
 国营桃城华侨农场	guo ying tao cheng hua qiao nong chang	1
 国营天西华侨农场	guo ying tian xi hua qiao nong chang	1
 国营中兴边防林场	guo ying zhong xing bian fang lin chang	1
-哈达湾经济开发区	ha da wan jing ji kai fa qu	1
 海伦市东方农牧场	hai lun shi dong fang nong mu chang	1
 海西州莫河畜牧场	hai xi zhou mo he xu mu chang	1
 汗德尕特蒙古族乡	han de ga te meng gu zu xiang	1
@@ -69804,7 +69939,6 @@ sort: by_weight
 湖潮苗族布依族乡	hu chao miao zu bu yi zu xiang	1
 呼和车力蒙古族乡	hu he che li meng gu zu xiang	1
 胡力海原种繁殖场	hu li hai yuan zhong fan zhi chang	1
-葫芦岛经济开发区	hu lu dao jing ji kai fa qu	1
 淮安新材料产业园	huai an xin cai liao chan ye yuan
 怀化市洪江管理区	huai hua shi hong jiang guan li qu	1
 槐树林特场管委会	huai shu lin te chang guan wei hui
@@ -69819,7 +69953,6 @@ sort: by_weight
 济东物业服务中心	ji dong wu ye fu wu zhong xin
 吉兴朝鲜族满族乡	ji xing chao xian zu man zu xiang	1
 吉州区工业园小区	ji zhou qu gong ye yuan xiao qu	1
-嘉鱼县经济开发区	jia yu xian jing ji kai fa qu	1
 建三江管理局局直	jian san jiang guan li ju ju zhi
 江南朝鲜族满族乡	jiang nan chao xian zu man zu xiang	1
 江西省良种繁殖场	jiang xi sheng liang zhong fan zhi chang	1
@@ -69829,7 +69962,6 @@ sort: by_weight
 金斗朝鲜族满族乡	jin dou chao xian zu man zu xiang	1
 金海区域服务中心	jin hai qu yu fu wu zhong xin
 金浩区域服务中心	jin hao qu yu fu wu zhong xin
-晋江市经济开发区	jin jiang shi jing ji kai fa qu	1
 金子岩侗族苗族乡	jin zi yan dong zu miao zu xiang	1
 井冈山自然保护区	jing gang shan zi ran bao hu qu	1
 京津中关村科技城	jing jin zhong guan cun ke ji cheng
@@ -69837,7 +69969,6 @@ sort: by_weight
 九成监狱管理分局	jiu cheng jian yu guan li fen ju
 九峰山生态管理区	jiu feng shan sheng tai guan li qu	1
 聚凤仡佬族侗族乡	ju feng ge lao zu dong zu xiang	1
-喀喇沁经济开发区	ka la qin jing ji kai fa qu	1
 开发区管理委员会	kai fa qu guan li wei yuan hui
 开发区沿海工业园	kai fa qu yan hai gong ye yuan
 岢岚县居民办事处	ke lan xian ju min ban shi chu
@@ -69850,9 +69981,8 @@ sort: by_weight
 来字良种繁育基地	lai zi liang zhong fan yu ji di
 澜沧拉祜族自治县	lan cang la hu zu zi zhi xian	1
 乐安铺苗族侗族乡	le an pu miao zu dong zu xiang	1
-利津县经济开发区	li jin xian jing ji kai fa qu	1
+辽宁葫芦岛八家子	liao ning hu lu dao ba jia zi	1
 辽宁省金城原种场	liao ning sheng jin cheng yuan zhong chang	1
-灵璧县经济开发区	ling bi xian jing ji kai fa qu	1
 六德傈僳族彝族乡	liu de li su zu yi zu xiang	1
 六合镇黎明奶牛场	liu he zhen li ming nai niu chang	1
 六零二所高科技园	liu ling er suo gao ke ji yuan
@@ -69861,7 +69991,6 @@ sort: by_weight
 庐山生态文化新城	lu shan sheng tai wen hua xin cheng
 落别布依族彝族乡	luo bie bu yi zu yi zu xiang	1
 罗城仫佬族自治县	luo cheng mu lao zu zi zhi xian	1
-罗田县经济开发区	luo tian xian jing ji kai fa qu	1
 绿水种畜繁育中心	lv shui zhong chu fan yu zhong xin
 马铃布依族苗族乡	ma ling bu yi zu miao zu xiang	1
 马陵山风景名胜区	ma ling shan feng jing ming sheng qu	1
@@ -69884,19 +70013,16 @@ sort: by_weight
 南昆山生态旅游区	nan kun shan sheng tai lv you qu	1
 南通市粮棉原种场	nan tong shi liang mian yuan zhong chang	1
 宁都县水东工业园	ning du xian shui dong gong ye yuan
-宁河区经济开发区	ning he qu jing ji kai fa qu	1
 宁河区贸易开发区	ning he qu mao yi kai fa qu	1
 宁武县居民办事处	ning wu xian ju min ban shi chu
 农丰满族锡伯族镇	nong feng man zu xi bo zu zhen	1
 农业技术服务中心	nong ye ji shu fu wu zhong xin
 怒江傈僳族自治州	nu jiang li su zu zi zhi zhou	1
-盘龙城经济开发区	pan long cheng jing ji kai fa qu	1
 平凉崆峒山大景区	ping liang kong tong shan da jing qu	1
 坪山仡佬族侗族乡	ping shan ge lao zu dong zu xiang	1
 蕲春县仙人台茶厂	qi chun xian xian ren tai cha chang
 七墩回族东乡族乡	qi dun hui zu dong xiang zu xiang	1
 棋山国家森林公园	qi shan guo jia sen lin gong yuan
-七台河经济开发区	qi tai he jing ji kai fa qu	1
 前山哈萨克民族乡	qian shan ha sa ke min zu xiang	1
 黔陶布依族苗族乡	qian tao bu yi zu miao zu xiang	1
 青岗岭回族彝族乡	qing gang ling hui zu yi zu xiang	1
@@ -69904,8 +70030,6 @@ sort: by_weight
 清远市羊角山林场	qing yuan shi yang jiao shan lin chang	1
 热水国营畜牧农场	re shui guo ying xu mu nong chang	1
 如东东安科技园区	ru dong dong an ke ji yuan qu	1
-如东县经济开发区	ru dong xian jing ji kai fa qu	1
-如皋市经济开发区	ru gao shi jing ji kai fa qu	1
 瑞昌市大德山林场	rui chang shi da de shan lin chang	1
 塞飞亚食品工业园	sai fei ya shi pin gong ye yuan
 三工河哈萨克族乡	san gong he ha sa ke zu xiang	1
@@ -69914,7 +70038,6 @@ sort: by_weight
 三娘湾旅游管理区	san niang wan lv you guan li qu	1
 莎车县国营二林场	sha che xian guo ying er lin chang	1
 莎车县良种繁育场	sha che xian liang zhong fan yu chang	1
-上海庙经济开发区	shang hai miao jing ji kai fa qu	1
 上海市白茅岭监狱	shang hai shi bai mao ling jian yu
 上户沟哈萨克族乡	shang hu gou ha sa ke zu xiang	1
 商洛职业技术学院	shang luo zhi ye ji shu xue yuan
@@ -69930,18 +70053,14 @@ sort: by_weight
 市坪苗族仡佬族乡	shi ping miao zu ge lao zu xiang	1
 石桥苗族土家族乡	shi qiao miao zu tu jia zu xiang	1
 石柱土家族自治县	shi zhu tu jia zu zi zhi xian	1
-舒城县经济开发区	shu cheng xian jing ji kai fa qu	1
 蜀麓社区服务中心	shu lu she qu fu wu zhong xin
 双峰山旅游渡假区	shuang feng shan lv you du jia qu	1
 双山岛旅游度假区	shuang shan dao lv you du jia qu	1
 水塘堡彝族苗族乡	shui tang bao yi zu miao zu xiang	1
 思林土家族苗族乡	si lin tu jia zu miao zu xiang	1
-松林店经济开发区	song lin dian jing ji kai fa qu	1
 松坪傈僳族彝族乡	song ping li su zu yi zu xiang	1
 肃北蒙古族自治县	su bei meng gu zu zi zhi xian	1
-苏里格经济开发区	su li ge jing ji kai fa qu	1
 肃南裕固族自治县	su nan yu gu zu zi zhi xian	1
-随州市经济开发区	sui zhou shi jing ji kai fa qu	1
 塔尔塔吉克民族乡	ta er ta ji ke min zu xiang	1
 塔木素布拉格苏木	ta mu su bu la ge su mu
 太泊湖水产养殖场	tai po hu shui chan yang zhi chang	1
@@ -69953,7 +70072,6 @@ sort: by_weight
 外向型工业加工区	wai xiang xing gong ye jia gong qu	1
 湾碧傣族傈僳族乡	wan bi dai zu li su zu xiang	1
 王岗坪彝族藏族乡	wang gang ping yi zu zang zu xiang	1
-望江县经济开发区	wang jiang xian jing ji kai fa qu	1
 王母宫经济发展区	wang mu gong jing ji fa zhan qu	1
 王庄布依族苗族乡	wang zhuang bu yi zu miao zu xiang	1
 维西傈僳族自治县	wei xi li su zu zi zhi xian	1
@@ -69989,7 +70107,6 @@ sort: by_weight
 兴隆林业局办事处	xing long lin ye ju ban shi chu
 兴隆土家族苗族乡	xing long tu jia zu miao zu xiang	1
 兴园社区服务中心	xing yuan she qu fu wu zhong xin
-宣城市经济开发区	xuan cheng shi jing ji kai fa qu	1
 循化撒拉族自治县	xun hua sa la zu zi zhi xian	1
 延边朝鲜族自治州	yan bian chao xian zu zi zhi zhou	1
 沿河土家族自治县	yan he tu jia zu zi zhi xian	1
@@ -70006,7 +70123,6 @@ sort: by_weight
 伊斯拉木阿瓦提乡	yi si la mu a wa ti xiang	1
 伊吾县工业加工区	yi wu xian gong ye jia gong qu	1
 伊吾县山南开发区	yi wu xian shan nan kai fa qu	1
-英山县经济开发区	ying shan xian jing ji kai fa qu	1
 玉龙纳西族自治县	yu long na xi zu zi zhi xian	1
 圆陀角旅游度假区	yuan tuo jiao lv you du jia qu	1
 原种示范服务中心	yuan zhong shi fan fu wu zhong xin
@@ -70015,48 +70131,25 @@ sort: by_weight
 站北社区服务中心	zhan bei she qu fu wu zhong xin
 张家川回族自治县	zhang jia chuan hui zu zi zhi xian	1
 张家港宿豫工业园	zhang jia gang su yu gong ye yuan
-张家口经济开发区	zhang jia kou jing ji kai fa qu	1
 招商局漳州开发区	zhao shang ju zhang zhou kai fa qu	1
 珍珠泉旅游度假区	zhen zhu quan lv you du jia qu	1
 中亚北路片区街道	zhong ya bei lu pian qu jie dao	1
 中亚南路片区街道	zhong ya nan lu pian qu jie dao	1
 钟英傈僳族彝族乡	zhong ying li su zu yi zu xiang	1
 驻马店市职教园区	zhu ma dian shi zhi jiao yuan qu	1
-准格尔经济开发区	zhun ge er jing ji kai fa qu	1
 左鸠戛彝族苗族乡	zuo jiu jia yi zu miao zu xiang	1
 阿坝藏族羌族自治州	a ba zang zu qiang zu zi zhi zhou	1
 阿荣旗林业和草原局	a rong qi lin ye he cao yuan ju
 阿什里哈萨克民族乡	a shi li ha sa ke min zu xiang	1
 阿西尔达斡尔民族乡	a xi er da wo er min zu xiang	1
-安徽安庆经济开发区	an hui an qing jing ji kai fa qu	1
-安徽定远经济开发区	an hui ding yuan jing ji kai fa qu	1
-安徽肥西经济开发区	an hui fei xi jing ji kai fa qu	1
-安徽阜南经济开发区	an hui fu nan jing ji kai fa qu	1
-安徽固镇经济开发区	an hui gu zhen jing ji kai fa qu	1
-安徽涡阳经济开发区	an hui guo yang jing ji kai fa qu	1
-安徽含山经济开发区	an hui han shan jing ji kai fa qu	1
-安徽和县经济开发区	an hui he xian jing ji kai fa qu	1
-安徽怀远经济开发区	an hui huai yuan jing ji kai fa qu	1
-安徽徽州经济开发区	an hui hui zhou jing ji kai fa qu	1
-安徽霍邱经济开发区	an hui huo qiu jing ji kai fa qu	1
-安徽绩溪经济开发区	an hui ji xi jing ji kai fa qu	1
-安徽潜山经济开发区	an hui qian shan jing ji kai fa qu	1
-安徽寿县经济开发区	an hui shou xian jing ji kai fa qu	1
-安徽宿松经济开发区	an hui su song jing ji kai fa qu	1
-安徽五河经济开发区	an hui wu he jing ji kai fa qu	1
-安徽无为经济开发区	an hui wu wei jing ji kai fa qu	1
-安徽新芜经济开发区	an hui xin wu jing ji kai fa qu	1
-安徽颍州经济开发区	an hui ying zhou jing ji kai fa qu	1
 安洛苗族彝族满族乡	an luo miao zu yi zu man zu xiang	1
 巴嘎乌图布拉格牧场	ba ga wu tu bu la ge mu chang	1
 巴里坤哈萨克自治县	ba li kun ha sa ke zi zhi xian	1
 巴里坤县山南开发区	ba li kun xian shan nan kai fa qu	1
-巴彦托海经济开发区	ba yan tuo hai jing ji kai fa qu	1
 巴音郭楞蒙古自治州	ba yin guo leng meng gu zi zhi zhou	1
 白浪开发区白浪街道	bai lang kai fa qu bai lang jie dao	1
 保亭黎族苗族自治县	bao ting li zu miao zu zi zhi xian	1
 北京经济技术开发区	bei jing jing ji ji shu kai fa qu	1
-北京雁栖经济开发区	bei jing yan qi jing ji kai fa qu	1
 博尔塔拉蒙古自治州	bo er ta la meng gu zi zhi zhou	1
 博孜墩柯尔克孜族乡	bo zi dun ke er ke zi zu xiang	1
 布依鲁克塔吉克族乡	bu yi lu ke ta ji ke zu xiang	1
@@ -70065,7 +70158,6 @@ sort: by_weight
 长春经济技术开发区	chang chun jing ji ji shu kai fa qu	1
 常德市西洞庭管理区	chang de shi xi dong ting guan li qu	1
 长岭环城工业集中区	chang ling huan cheng gong ye ji zhong qu	1
-常山华侨经济开发区	chang shan hua qiao jing ji kai fa qu	1
 长山余热鱼苗繁殖场	chang shan yu re yu miao fan zhi chang	1
 常熟国家大学科技园	chang shu guo jia da xue ke ji yuan
 常熟经济技术开发区	chang shu jing ji ji shu kai fa qu	1
@@ -70090,17 +70182,13 @@ sort: by_weight
 恩和俄罗斯族民族乡	en he e luo si zu min zu xiang	1
 二克浅镇二里种畜场	er ke qian zhen er li zhong chu chang	1
 枫树维吾尔族回族乡	feng shu wei wu er zu hui zu xiang	1
-福建建宁经济开发区	fu jian jian ning jing ji kai fa qu	1
-福建三元经济开发区	fu jian san yuan jing ji kai fa qu	1
 阜阳经济技术开发区	fu yang jing ji ji shu kai fa qu	1
 阜阳开发区京九街道	fu yang kai fa qu jing jiu jie dao	1
-赣榆海洋经济开发区	gan yu hai yang jing ji kai fa qu	1
 赣州经济技术开发区	gan zhou jing ji ji shu kai fa qu	1
 高端装备制造产业园	gao duan zhuang bei zhi zao chan ye yuan
 高良壮族苗族瑶族乡	gao liang zhuang zu miao zu yao zu xiang	1
 高新技术产业开发区	gao xin ji shu chan ye kai fa qu	1
 耿马傣族佤族自治县	geng ma dai zu wa zu zi zhi xian	1
-广东潮安经济开发区	guang dong chao an jing ji kai fa qu	1
 广西凭祥综合保税区	guang xi ping xiang zong he bao shui qu	1
 龟峰山风景区管理处	gui feng shan feng jing qu guan li chu
 国营新兴县岩头林场	guo ying xin xing xian yan tou lin chang	1
@@ -70108,68 +70196,31 @@ sort: by_weight
 海棠区直辖村级区划	hai tang qu zhi xia cun ji qu hua
 海西三明生态工贸区	hai xi san ming sheng tai gong mao qu	1
 邯郸经济技术开发区	han dan jing ji ji shu kai fa qu	1
-河北安次经济开发区	he bei an ci jing ji kai fa qu	1
-河北泊头经济开发区	he bei bo tou jing ji kai fa qu	1
-河北沧州经济开发区	he bei cang zhou jing ji kai fa qu	1
-河北大城经济开发区	he bei dai cheng jing ji kai fa qu	1
-河北阜平经济开发区	he bei fu ping jing ji kai fa qu	1
-河北河间经济开发区	he bei he jian jing ji kai fa qu	1
-河北乐亭经济开发区	he bei lao ting jing ji kai fa qu	1
-河北鹿泉经济开发区	he bei lu quan jing ji kai fa qu	1
-河北满城经济开发区	he bei man cheng jing ji kai fa qu	1
-河北迁西经济开发区	he bei qian xi jing ji kai fa qu	1
-河北清苑经济开发区	he bei qing yuan jing ji kai fa qu	1
-河北任丘经济开发区	he bei ren qiu jing ji kai fa qu	1
-河北香河经济开发区	he bei xiang he jing ji kai fa qu	1
-河北邢台经济开发区	he bei xing tai jing ji kai fa qu	1
-河北行唐经济开发区	he bei xing tang jing ji kai fa qu	1
-河北易县经济开发区	he bei yi xian jing ji kai fa qu	1
-河北永清经济开发区	he bei yong qing jing ji kai fa qu	1
-河北玉田经济开发区	he bei yu tian jing ji kai fa qu	1
 鹤壁经济技术开发区	he bi jing ji ji shu kai fa qu	1
 合肥经济技术开发区	he fei jing ji ji shu kai fa qu	1
 合肥循环经济示范园	he fei xun huan jing ji shi fan yuan
 鹤岗市林业局生活区	he gang shi lin ye ju sheng huo qu	1
-河口蓝色经济开发区	he kou lan se jing ji kai fa qu	1
 禾木哈纳斯蒙古族乡	he mu ha na si meng gu zu xiang	1
-河南商丘经济开发区	he nan shang qiu jing ji kai fa qu	1
 和硕县马兰公安管区	he shuo xian ma lan gong an guan qu	1
 和田市京和物流园区	he tian shi jing he wu liu yuan qu	1
 菏泽高新技术开发区	he ze gao xin ji shu kai fa qu	1
 菏泽经济技术开发区	he ze jing ji ji shu kai fa qu	1
 黑龙江省双鸭山监狱	hei long jiang sheng shuang ya shan jian yu
 红嘴高新技术开发区	hong zui gao xin ji shu kai fa qu	1
-湖北麻城经济开发区	hu bei ma cheng jing ji kai fa qu	1
-湖北咸安经济开发区	hu bei xian an jing ji kai fa qu	1
-湖北曾都经济开发区	hu bei zeng du jing ji kai fa qu	1
-湖北钟祥经济开发区	hu bei zhong xiang jing ji kai fa qu	1
 呼和浩特综合保税区	hu he hao te zong he bao shui qu	1
 呼吉尔特蒙古民族乡	hu ji er te meng gu min zu xiang	1
 胡家湾苗族土家族乡	hu jia wan miao zu tu jia zu xiang	1
-湖南醴陵经济开发区	hu nan li ling jing ji kai fa qu	1
 桦南林业局岚峰林场	hua nan lin ye ju lan feng lin chang	1
 淮安经济技术开发区	huai an jing ji ji shu kai fa qu	1
-淮北杜集经济开发区	huai bei du ji jing ji kai fa qu	1
 黄骅经济技术开发区	huang hua jing ji ji shu kai fa qu	1
 黄泥彝族苗族满族乡	huang ni yi zu miao zu man zu xiang	1
 会昌县燕子窝工业园	hui chang xian yan zi wo gong ye yuan
 惠南高新科技产业园	hui nan gao xin ke ji chan ye yuan
 徽州区直辖村级区划	hui zhou qu zhi xia cun ji qu hua
 霍吉尔特蒙古民族乡	huo ji er te meng gu min zu xiang	1
-吉林白城经济开发区	ji lin bai cheng jing ji kai fa qu	1
-吉林船营经济开发区	ji lin chuan ying jing ji kai fa qu	1
-吉林宁江经济开发区	ji lin ning jiang jing ji kai fa qu	1
-吉林双辽经济开发区	ji lin shuang liao jing ji kai fa qu	1
-吉林松原经济开发区	ji lin song yuan jing ji kai fa qu	1
 吉阳区直辖村级区划	ji yang qu zhi xia cun ji qu hua
 江宁高新技术产业园	jiang ning gao xin ji shu chan ye yuan
-江苏东海经济开发区	jiang su dong hai jing ji kai fa qu	1
-江苏邳州经济开发区	jiang su pi zhou jing ji kai fa qu	1
 江苏生命科技创新园	jiang su sheng ming ke ji chuang xin yuan
-江苏铜山经济开发区	jiang su tong shan jing ji kai fa qu	1
-江西赣县经济开发区	jiang xi gan xian jing ji kai fa qu	1
-江西瑞金经济开发区	jiang xi rui jin jing ji kai fa qu	1
-江西新建经济开发区	jiang xi xin jian jing ji kai fa qu	1
 胶州经济技术开发区	jiao zhou jing ji ji shu kai fa qu	1
 金坡苗族彝族满族乡	jin po miao zu yi zu man zu xiang	1
 金桥经济技术开发区	jin qiao jing ji ji shu kai fa qu	1
@@ -70211,7 +70262,6 @@ sort: by_weight
 木老元布朗族彝族乡	mu lao yuan bu lang zu yi zu xiang	1
 南京经济技术开发区	nan jing jing ji ji shu kai fa qu	1
 南京紫东国际创意园	nan jing zi dong guo ji chuang yi yuan
-南通崇川经济开发区	nan tong chong chuan jing ji kai fa qu	1
 南通经济技术开发区	nan tong jing ji ji shu kai fa qu	1
 南通市海门区农科所	nan tong shi hai men qu nong ke suo
 南通市海门区种羊场	nan tong shi hai men qu zhong yang chang	1
@@ -70235,15 +70285,11 @@ sort: by_weight
 琼中黎族苗族自治县	qiong zhong li zu miao zu zi zhi xian	1
 人民大垸农场管理区	ren min da yuan nong chang guan li qu	1
 日照经济技术开发区	ri zhao jing ji ji shu kai fa qu	1
-如东沿海经济开发区	ru dong yan hai jing ji kai fa qu	1
 萨马街鄂温克民族乡	sa ma jie e wen ke min zu xiang	1
 三道水土家族苗族乡	san dao shui tu jia zu miao zu xiang	1
 三元彝族苗族白族乡	san yuan yi zu miao zu bai zu xiang	1
 沙金台蒙古族满族乡	sha jin tai meng gu zu man zu xiang	1
-山西大同经济开发区	shan xi da tong jing ji kai fa qu	1
-山西绛县经济开发区	shan xi jiang xian jing ji kai fa qu	1
 陕西省太白山旅游区	shan xi sheng tai bai shan lv you qu	1
-山西朔州经济开发区	shan xi shuo zhou jing ji kai fa qu	1
 上党经济技术开发区	shang dang jing ji ji shu kai fa qu	1
 上海松江出口加工区	shang hai song jiang chu kou jia gong qu	1
 上游水库工程管理局	shang you shui ku gong cheng guan li ju
@@ -70257,13 +70303,11 @@ sort: by_weight
 四平市铁东区石岭镇	si ping shi tie dong qu shi ling zhen	1
 宿迁经济技术开发区	su qian jing ji ji shu kai fa qu	1
 宿州经济技术开发区	su zhou jing ji ji shu kai fa qu	1
-宿州埇桥经济开发区	su zhou yong qiao jing ji kai fa qu	1
 梭戛苗族彝族回族乡	suo jia miao zu yi zu hui zu xiang	1
 天津经济技术开发区	tian jin jing ji ji shu kai fa qu	1
 天津武清汽车产业园	tian jin wu qing qi che chan ye yuan
 天涯区直辖村级区划	tian ya qu zhi xia cun ji qu hua
 铁岭经济技术开发区	tie ling jing ji ji shu kai fa qu	1
-桐城双新经济开发区	tong cheng shuang xin jing ji kai fa qu	1
 通辽经济技术开发区	tong liao jing ji ji shu kai fa qu	1
 通辽市国有胜利农场	tong liao shi guo you sheng li nong chang	1
 铜陵经济技术开发区	tong ling jing ji ji shu kai fa qu	1
@@ -70283,7 +70327,6 @@ sort: by_weight
 吴桥经济技术开发区	wu qiao jing ji ji shu kai fa qu	1
 武清经济技术开发区	wu qing jing ji ji shu kai fa qu	1
 乌什塔拉回族民族乡	wu shi ta la hui zu min zu xiang	1
-无锡惠山经济开发区	wu xi hui shan jing ji kai fa qu	1
 无锡太湖国际科技园	wu xi tai hu guo ji ke ji yuan
 武乡经济技术开发区	wu xiang jing ji ji shu kai fa qu	1
 西阿超满族蒙古族乡	xi a chao man zu meng gu zu xiang	1
@@ -70309,8 +70352,6 @@ sort: by_weight
 兴县经济技术开发区	xing xian jing ji ji shu kai fa qu	1
 许昌经济技术开发区	xu chang jing ji ji shu kai fa qu	1
 徐州经济技术开发区	xu zhou jing ji ji shu kai fa qu	1
-徐州泉山经济开发区	xu zhou quan shan jing ji kai fa qu	1
-雪峰华侨经济开发区	xue feng hua qiao jing ji kai fa qu	1
 寻甸回族彝族自治县	xun dian hui zu yi zu zi zhi xian	1
 巺寮滨海旅游度假区	xun liao bin hai lv you du jia qu	1
 亚曼苏柯尔克孜族乡	ya man su ke er ke zi zu xiang	1
@@ -70322,14 +70363,12 @@ sort: by_weight
 铅山县国营森林苗圃	yan shan xian guo ying sen lin miao pu
 烟台经济技术开发区	yan tai jing ji ji shu kai fa qu	1
 杨家坳苗族土家族乡	yang jia ao miao zu tu jia zu xiang	1
-杨家杖子经济开发区	yang jia zhang zi jing ji kai fa qu	1
 杨梅彝族苗族回族乡	yang mei yi zu miao zu hui zu xiang	1
 央塔库都片区管委会	yang ta ku dou pian qu guan wei hui
 扬州经济技术开发区	yang zhou jing ji ji shu kai fa qu	1
 伊克乌图布拉格牧场	yi ke wu tu bu la ge mu chang	1
 益阳市大通湖管理区	yi yang shi da tong hu guan li qu	1
 阴底彝族苗族白族乡	yin di yi zu miao zu bai zu xiang	1
-营口辽河经济开发区	ying kou liao he jing ji kai fa qu	1
 营盘苗族彝族白族乡	ying pan miao zu yi zu bai zu xiang	1
 永州经济技术开发区	yong zhou jing ji ji shu kai fa qu	1
 永州市回龙圩管理区	yong zhou shi hui long xu guan li qu	1
@@ -70354,8 +70393,6 @@ sort: by_weight
 阿克塞哈萨克族自治县	a ke sai ha sa ke zu zi zhi xian	1
 安徽省国营十字铺茶场	an hui sheng guo ying shi zi pu cha chang	1
 安徽省江北产业集中区	an hui sheng jiang bei chan ye ji zhong qu	1
-安徽省濉溪经济开发区	an hui sheng sui xi jing ji kai fa qu	1
-安徽岳西县经济开发区	an hui yue xi xian jing ji kai fa qu	1
 敖鲁古雅鄂温克民族乡	ao lu gu ya e wen ke min zu xiang	1
 巴尔鲁克山塔斯特林场	ba er lu ke shan ta si te lin chang	1
 巴彦塔拉达斡尔民族乡	ba yan ta la da wo er min zu xiang	1
@@ -70369,7 +70406,6 @@ sort: by_weight
 步行街综合治理办公室	bu xing jie zong he zhi li ban gong shi
 漕河泾新兴技术开发区	cao he jing xin xing ji shu kai fa qu	1
 茶店布依族苗族彝族乡	cha dian bu yi zu miao zu yi zu xiang	1
-查干湖旅游经济开发区	cha gan hu lv you jing ji kai fa qu	1
 柴河林机厂街道办事处	chai he lin ji chang jie dao ban shi chu
 滁州高教科创城管委会	chu zhou gao jiao ke chuang cheng guan wei hui
 滁州市经济技术开发区	chu zhou shi jing ji ji shu kai fa qu	1
@@ -70402,10 +70438,6 @@ sort: by_weight
 海西蒙古族藏族自治州	hai xi meng gu zu zang zu zi zhi zhou	1
 汉川市经济技术开发区	han chuan shi jing ji ji shu kai fa qu	1
 和布克赛尔蒙古自治县	he bu ke sai er meng gu zi zhi xian	1
-河南三门峡经济开发区	he nan san men xia jing ji kai fa qu	1
-河南驻马店经济开发区	he nan zhu ma dian jing ji kai fa qu	1
-黑龙江红岗经济开发区	hei long jiang hong gang jing ji kai fa qu	1
-黑龙江桦南经济开发区	hei long jiang hua nan jing ji kai fa qu	1
 红河哈尼族彝族自治州	hong he ha ni zu yi zu zi zhi zhou	1
 壶关县经济技术开发区	hu guan xian jing ji ji shu kai fa qu	1
 胡松图喀尔逊蒙古族乡	hu song tu ka er xun meng gu zu xiang	1
@@ -70447,7 +70479,6 @@ sort: by_weight
 南阳高新区百里奚街道	nan yang gao xin qu bai li xi jie dao	1
 南阳市黄牛良种繁育场	nan yang shi huang niu liang zhong fan yu chang	1
 垴阿巴提塔吉克民族乡	nao a ba ti ta ji ke min zu xiang	1
-内蒙古武川经济开发区	nei meng gu wu chuan jing ji kai fa qu	1
 宁洱哈尼族彝族自治县	ning er ha ni zu yi zu zi zhi xian	1
 农科院莎车农业试验站	nong ke yuan sha che nong ye shi yan zhan
 彭水苗族土家族自治县	peng shui miao zu tu jia zu zi zhi xian	1
@@ -70460,11 +70491,8 @@ sort: by_weight
 清水河子哈萨克民族乡	qing shui he zi ha sa ke min zu xiang	1
 清水泉片区管委会街道	qing shui quan pian qu guan wei hui jie dao	1
 青阳苗族仡佬族侗族乡	qing yang miao zu ge lao zu dong zu xiang	1
-青原区河东经济开发区	qing yuan qu he dong jing ji kai fa qu	1
 曲仁矿务局曲仁管理区	qu ren kuang wu ju qu ren guan li qu	1
-如东洋口港经济开发区	ru dong yang kou gang jing ji kai fa qu	1
 三溪科创小镇发展中心	san xi ke chuang xiao zhen fa zhan zhong xin
-山西风陵渡经济开发区	shan xi feng ling du jing ji kai fa qu	1
 上高桥回族彝族苗族乡	shang gao qiao hui zu yi zu miao zu xiang	1
 厍东关彝族白族苗族乡	she dong guan yi zu bai zu miao zu xiang	1
 沈阳市经济技术开发区	shen yang shi jing ji ji shu kai fa qu	1
@@ -70487,7 +70515,6 @@ sort: by_weight
 通辽市国有查金台牧场	tong liao shi guo you cha jin tai mu chang	1
 围场满族蒙古族自治县	wei chang man zu meng gu zu zi zhi xian	1
 务川仡佬族苗族自治县	wu chuan ge lao zu miao zu zi zhi xian	1
-武川金三角经济开发区	wu chuan jin san jiao jing ji kai fa qu	1
 无锡高新区综合保税区	wu xi gao xin qu zong he bao shui qu	1
 西藏文化旅游创意园区	xi zang wen hua lv you chuang yi yuan qu	1
 咸宁市经济技术开发区	xian ning shi jing ji ji shu kai fa qu	1
@@ -70525,13 +70552,7 @@ sort: by_weight
 中寨苗族彝族布依族乡	zhong zhai miao zu yi zu bu yi zu xiang	1
 孜热甫夏提塔吉克族乡	zi re fu xia ti ta ji ke zu xiang	1
 紫云苗族布依族自治县	zi yun miao zu bu yi zu zi zhi xian	1
-安徽安庆海口经济开发区	an hui an qing hai kou jing ji kai fa qu	1
-安徽蚌埠淮上经济开发区	an hui beng bu huai shang jing ji kai fa qu	1
-安徽滁州琅琊经济开发区	an hui chu zhou lang ya jing ji kai fa qu	1
 安徽和县台湾农民创业园	an hui he xian tai wan nong min chuang ye yuan	1
-安徽怀远马城经济开发区	an hui huai yuan ma cheng jing ji kai fa qu	1
-安徽芜湖鸠江经济开发区	an hui wu hu jiu jiang jing ji kai fa qu	1
-安徽芜湖三山经济开发区	an hui wu hu san shan jing ji kai fa qu	1
 安阳高新技术产业开发区	an yang gao xin ji shu chan ye kai fa qu	1
 敖汉旗人民政府新州街道	ao han qi ren min zheng fu xin zhou jie dao	1
 巴彦淖尔市乌梁素海渔场	ba yan nao er shi wu liang su hai yu chang	1
@@ -70556,9 +70577,7 @@ sort: by_weight
 大庆高新技术产业开发区	da qing gao xin ji shu chan ye kai fa qu	1
 大雪山彝族拉祜族傣族乡	da xue shan yi zu la hu zu dai zu xiang	1
 邓马营湖生态建设指挥部	deng ma ying hu sheng tai jian she zhi hui bu	1
-迪庆扶贫民族经济开发区	di qing fu pin min zu jing ji kai fa qu	1
 东城城乡统筹发展试验区	dong cheng cheng xiang tong chou fa zhan shi yan qu	1
-鄂尔多斯蒙苏经济开发区	e er duo si meng su jing ji kai fa qu	1
 二连边境经济技术合作区	er lian bian jing jing ji ji shu he zuo qu	1
 高淳县团结圩良种繁育场	gao chun xian tuan jie wei liang zhong fan yu chang	1
 果布戛彝族苗族布依族乡	guo bu jia yi zu miao zu bu yi zu xiang	1
@@ -70566,24 +70585,15 @@ sort: by_weight
 海伦市董家农作物种植场	hai lun shi dong jia nong zuo wu zhong zhi chang	1
 海伦市森林资源保护中心	hai lun shi sen lin zi yuan bao hu zhong xin	1
 海峡两岸科技产业管理处	hai xia liang an ke ji chan ye guan li chu	1
-河北廊坊广阳经济开发区	he bei lang fang guang yang jing ji kai fa qu	1
-河北廊坊龙港经济开发区	he bei lang fang long gang jing ji kai fa qu	1
-河北唐山海港经济开发区	he bei tang shan hai gang jing ji kai fa qu	1
-河北唐山芦台经济开发区	he bei tang shan lu tai jing ji kai fa qu	1
 合肥高新技术产业开发区	he fei gao xin ji shu chan ye kai fa qu	1
-合肥龙岗综合经济开发区	he fei long gang zong he jing ji kai fa qu	1
 呼和浩特经济技术开发区	hu he hao te jing ji ji shu kai fa qu	1
 呼和浩特留学人员创业园	hu he hao te liu xue ren yuan chuang ye yuan	1
-葫芦岛打渔山经济开发区	hu lu dao da yu shan jing ji kai fa qu	1
-湖南衡阳松木经济开发区	hu nan heng yang song mu jing ji kai fa qu	1
 淮安高新技术产业开发区	huai an gao xin ji shu chan ye kai fa qu	1
 惠东县珠三角产业转移园	hui dong xian zhu san jiao chan ye zhuan yi yuan	1
 吉林高新技术产业开发区	ji lin gao xin ji shu chan ye kai fa qu	1
 吉林前郭经济技术开发区	ji lin qian guo jing ji ji shu kai fa qu	1
 济南高新技术产业开发区	ji nan gao xin ji shu chan ye kai fa qu	1
 济宁高新技术产业开发区	ji ning gao xin ji shu chan ye kai fa qu	1
-江苏东海高新技术开发区	jiang su dong hai gao xin ji shu kai fa qu	1
-江苏吕四海洋经济开发区	jiang su lv si hai yang jing ji kai fa qu	1
 江西龙南经济技术开发区	jiang xi long nan jing ji ji shu kai fa qu	1
 江阴高新技术产业开发区	jiang yin gao xin ji shu chan ye kai fa qu	1
 揭阳高新技术产业开发区	jie yang gao xin ji shu chan ye kai fa qu	1
@@ -70606,7 +70616,6 @@ sort: by_weight
 南通市海门区永隆沙农场	nan tong shi hai men qu yong long sha nong chang	1
 南阳高新技术产业开发区	nan yang gao xin ji shu chan ye kai fa qu	1
 南阳市城乡一体化示范区	nan yang shi cheng xiang yi ti hua shi fan qu	1
-内蒙古鄂托克经济开发区	nei meng gu e tuo ke jing ji kai fa qu	1
 内蒙古自治区五一种畜场	nei meng gu zi zhi qu wu yi zhong chu chang	1
 盘锦高新技术产业开发区	pan jin gao xin ji shu chan ye kai fa qu	1
 磐石经济开发区特殊街道	pan shi jing ji kai fa qu te shu jie dao	1
@@ -70619,12 +70628,10 @@ sort: by_weight
 青海石油管理局生活基地	qing hai shi you guan li ju sheng huo ji di	1
 清水县科技养殖示范园区	qing shui xian ke ji yang zhi shi fan yuan qu	1
 曲仁矿务局田螺冲管理区	qu ren kuang wu ju tian luo chong guan li qu	1
-如东沿海旅游经济开发区	ru dong yan hai lv you jing ji kai fa qu	1
 如皋高新技术产业开发区	ru gao gao xin ji shu chan ye kai fa qu	1
 如皋市中心沙水产养殖场	ru gao shi zhong xin sha shui chan yang zhi chang	1
 三骏满族蒙古族锡伯族乡	san jun man zu meng gu zu xi bo zu xiang	1
 三明高新技术产业开发区	san ming gao xin ji shu chan ye kai fa qu	1
-山东烟台福山经济开发区	shan dong yan tai fu shan jing ji kai fa qu	1
 山西鲁能晋北铝业工矿区	shan xi lu neng jin bei lv ye gong kuang qu	1
 山西朔州经济开发区街道	shan xi shuo zhou jing ji kai fa qu jie dao	1
 山西转型综合改革示范区	shan xi zhuan xing zong he gai ge shi fan qu	1
@@ -70655,7 +70662,6 @@ sort: by_weight
 天津经济技术开发区西区	tian jin jing ji ji shu kai fa qu xi qu	1
 天津京津电子商务产业园	tian jin jing jin dian zi shang wu chan ye yuan	1
 天津市东丽区临空经济区	tian jin shi dong li qu lin kong jing ji qu	1
-天津市蓟州区经济开发区	tian jin shi ji zhou qu jing ji kai fa qu	1
 天津医药医疗器械工业园	tian jin yi yao yi liao qi xie gong ye yuan	1
 天津子牙经济技术开发区	tian jin zi ya jing ji ji shu kai fa qu	1
 通化经济开发区特殊乡镇	tong hua jing ji kai fa qu te shu xiang zhen	1
@@ -70769,7 +70775,6 @@ sort: by_weight
 昆明国家高新技术产业开发区	kun ming guo jia gao xin ji shu chan ye kai fa qu	1
 廊坊龙河高新技术产业开发区	lang fang long he gao xin ji shu chan ye kai fa qu	1
 莲花山白盆珠省级自然保护区	lian hua shan bai pen zhu sheng ji zi ran bao hu qu	1
-辽宁葫芦岛八家子经济开发区	liao ning hu lu dao ba jia zi jing ji kai fa qu	1
 灵石县城区社会事务服务中心	ling shi xian cheng qu she hui shi wu fu wu zhong xin	1
 漉湖湿地保护与发展事务中心	lu hu shi di bao hu yu fa zhan shi wu zhong xin	1
 南京浦口高新技术产业开发区	nan jing pu kou gao xin ji shu chan ye kai fa qu	1
@@ -70792,8 +70797,3 @@ sort: by_weight
 宜春丰城高新技术产业开发区	yi chun feng cheng gao xin ji shu chan ye kai fa qu	1
 湛江奋勇高新技术产业开发区	zhan jiang fen yong gao xin ji shu chan ye kai fa qu	1
 镇沅彝族哈尼族拉祜族自治县	zhen yuan yi zu ha ni zu la hu zu zi zhi xian	1
-郑州经济技术开发区潮河街道	zheng zhou jing ji ji shu kai fa qu chao he jie dao	1
-郑州经济技术开发区京航街道	zheng zhou jing ji ji shu kai fa qu jing hang jie dao	1
-郑州经济技术开发区明湖街道	zheng zhou jing ji ji shu kai fa qu ming hu jie dao	1
-郑州经济技术开发区前程街道	zheng zhou jing ji ji shu kai fa qu qian cheng jie dao	1
-郑州经济技术开发区祥云街道	zheng zhou jing ji ji shu kai fa qu xiang yun jie dao	1
