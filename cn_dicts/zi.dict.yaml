@@ -8891,10 +8891,10 @@ sort: by_weight
 翻	fan	733
 犯	fan	692
 泛	fan	688
-樊	fan	684
-烦	fan	682
+烦	fan	684
+凡	fan	680
+樊	fan	678
 繁	fan	675
-凡	fan	665
 番	fan	663
 帆	fan	592
 贩	fan	592
@@ -33078,6 +33078,7 @@ sort: by_weight
 圣	sheng	652
 盛	sheng	633
 剩	sheng	621
+晟	sheng	610
 绳	sheng	605
 牲	sheng	592
 笙	sheng	502
@@ -33127,7 +33128,6 @@ sort: by_weight
 㾪	sheng	1
 乗	sheng	1
 娍	sheng	1
-晟	sheng	1
 椉	sheng	1
 殸	sheng	1
 渑	sheng	1
@@ -34396,6 +34396,8 @@ sort: by_weight
 淞	song	471
 凇	song	402
 崧	song	400
+𪨊	song	400
+㞞	song	391
 鬆	song	387
 菘	song	368
 忪	song	362
@@ -34424,11 +34426,9 @@ sort: by_weight
 憽	song	50
 梥	song	23
 庺	song	23
-㞞	song	1
 𧊕	song	1
 𩠌	song	1
 㧐	song	1
-𪨊	song	1
 㩳	song	1
 𡾼	song	1
 吅	song	1
@@ -37753,14 +37753,14 @@ sort: by_weight
 纬	wei	570
 惟	wei	562
 萎	wei	557
-為	wei	556
+渭	wei	556
 尉	wei	550
 蔚	wei	545
 帷	wei	526
 巍	wei	524
 玮	wei	522
 猥	wei	518
-渭	wei	516
+爲	wei	516
 潍	wei	509
 炜	wei	495
 苇	wei	495
@@ -37770,7 +37770,7 @@ sort: by_weight
 煨	wei	467
 衛	wei	463
 圩	wei	460
-爲	wei	456
+為	wei	456
 桅	wei	442
 偎	wei	440
 诿	wei	425
