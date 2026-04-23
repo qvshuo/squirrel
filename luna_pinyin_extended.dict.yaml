@@ -3,7 +3,7 @@
 
 ---
 name: luna_pinyin_extended
-version: "2026-02-25"
+version: "2026-04-23"
 import_tables:
   - cn_dicts/zi
   - cn_dicts/jichu
@@ -14,6 +14,7 @@ import_tables:
   - cn_dicts/diming
   - cn_dicts/renming
   - cn_dicts/wuzhong
+  - cn_dicts/mixed
 
   - cn_dicts/buzzwords
   - cn_dicts/yuanshen
