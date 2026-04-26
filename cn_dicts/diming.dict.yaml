@@ -1164,7 +1164,6 @@ sort: by_weight
 包垟乡	bao yang xiang	1
 保义镇	bao yi zhen	1
 宝应县	bao ying xian	198
-宝应县	bao ying xian	1
 抱由镇	bao you zhen	1
 宝源乡	bao yuan xiang	1
 宝藏镇	bao zang zhen	1
@@ -2408,7 +2407,6 @@ sort: by_weight
 尺八镇	chi ba zhen	1
 池北区	chi bei qu	1
 赤壁市	chi bi shi	248
-赤壁市	chi bi shi	1
 赤壁镇	chi bi zhen	1
 赤城县	chi cheng xian	175
 赤城镇	chi cheng zhen	1
@@ -3874,7 +3872,6 @@ sort: by_weight
 东峡镇	dong xia zhen	1
 东乡区	dong xiang qu	108
 东乡县	dong xiang xian	200
-东乡县	dong xiang xian	1
 东庠乡	dong xiang xiang	1
 东乡镇	dong xiang zhen	100
 东新乡	dong xin xiang	1
@@ -5171,7 +5168,6 @@ sort: by_weight
 高崖镇	gao ya zhen	1
 高燕镇	gao yan zhen	1
 高阳县	gao yang xian	189
-高阳县	gao yang xian	1
 高阳乡	gao yang xiang	1
 高阳镇	gao yang zhen	118
 高要区	gao yao qu	180
@@ -7873,7 +7869,6 @@ sort: by_weight
 加尤镇	jia you zhen	1
 贾雨村	jia yu cun	408
 嘉鱼县	jia yu xian	170
-嘉鱼县	jia yu xian	1
 加玉乡	jia yu xiang	1
 贾峪镇	jia yu zhen	1
 贾悦镇	jia yue zhen	1
@@ -8485,7 +8480,6 @@ sort: by_weight
 金江村	jin jiang cun	236
 锦江区	jin jiang qu	246
 晋江市	jin jiang shi	245
-晋江市	jin jiang shi	1
 晋江县	jin jiang xian	196
 金江乡	jin jiang xiang	167
 金江镇	jin jiang zhen	355
@@ -9833,7 +9827,6 @@ sort: by_weight
 李街村	li jie cun	31
 立节镇	li jie zhen	1
 利津县	li jin xian	187
-利津县	li jin xian	1
 李井村	li jing cun	52
 李咀村	li ju cun	1
 黎咀镇	li ju zhen	1
@@ -10454,7 +10447,6 @@ sort: by_weight
 岭背镇	ling bei zhen	1
 灵璧县	ling bi xian	246
 灵壁县	ling bi xian	66
-灵璧县	ling bi xian	1
 陵城区	ling cheng qu	195
 凌城镇	ling cheng zhen	1
 灵城镇	ling cheng zhen	1
@@ -11465,7 +11457,6 @@ sort: by_weight
 罗腾堡	luo teng bao	256
 罗田村	luo tian cun	171
 罗田县	luo tian xian	188
-罗田县	luo tian xian	1
 罗田镇	luo tian zhen	204
 螺田镇	luo tian zhen	1
 罗亭镇	luo ting zhen	246
@@ -13157,7 +13148,6 @@ sort: by_weight
 宁郭镇	ning guo zhen	1
 宁海县	ning hai xian	220
 宁河区	ning he qu	190
-宁河区	ning he qu	1
 宁河县	ning he xian	178
 宁河镇	ning he zhen	1
 宁化县	ning hua xian	209
@@ -14711,11 +14701,9 @@ sort: by_weight
 乳城镇	ru cheng zhen	1
 茹村乡	ru cun xiang	1
 如东县	ru dong xian	194
-如东县	ru dong xian	1
 如东镇	ru dong zhen	1
 儒洞镇	ru dong zhen	1
 如皋市	ru gao shi	207
-如皋市	ru gao shi	1
 如皋县	ru gao xian	144
 茹荷镇	ru he zhen	1
 汝湖镇	ru hu zhen	1
@@ -15990,7 +15978,6 @@ sort: by_weight
 术布乡	shu bu xiang	1
 舒茶镇	shu cha zhen	1
 舒城县	shu cheng xian	213
-舒城县	shu cheng xian	1
 束城镇	shu cheng zhen	1
 淑村镇	shu cun zhen	1
 书坊乡	shu fang xiang	1
@@ -17997,7 +17984,6 @@ sort: by_weight
 王家庄	wang jia zhuang	326
 王家嘴	wang jia zui	127
 望江县	wang jiang xian	172
-望江县	wang jiang xian	1
 望江乡	wang jiang xiang	1
 望江镇	wang jiang zhen	1
 王街村	wang jie cun	120
@@ -21456,7 +21442,6 @@ sort: by_weight
 营山县	ying shan xian	249
 英山县	ying shan xian	246
 应山县	ying shan xian	125
-英山县	ying shan xian	1
 英山乡	ying shan xiang	1
 影山镇	ying shan zhen	1
 颍上县	ying shang xian	246
@@ -23987,7 +23972,6 @@ sort: by_weight
 安徽涡阳	an hui guo yang	1
 安徽含山	an hui han shan	1
 安徽和县	an hui he xian	1
-安徽和县	an hui he xian	1
 安徽怀远	an hui huai yuan	1
 安徽徽州	an hui hui zhou	1
 安徽霍邱	an hui huo qiu	1
@@ -23995,7 +23979,6 @@ sort: by_weight
 安徽泾县	an hui jing xian	1
 安徽潜山	an hui qian shan	1
 安徽歙县	an hui she xian	1
-安徽寿县	an hui shou xian	1
 安徽寿县	an hui shou xian	1
 安徽泗县	an hui si xian	1
 安徽宿松	an hui su song	1
@@ -34746,7 +34729,6 @@ sort: by_weight
 河北崖村	he bei ya cun	1
 河北杨村	he bei yang cun	1
 河北易县	he bei yi xian	1
-河北易县	he bei yi xian	1
 河北永清	he bei yong qing	1
 河北玉田	he bei yu tian	1
 河北蔚县	he bei yu xian	1
@@ -37953,7 +37935,6 @@ sort: by_weight
 江水河村	jiang shui he cun	1
 江水桥村	jiang shui qiao cun	1
 江苏东海	jiang su dong hai	1
-江苏东海	jiang su dong hai	1
 江苏丰县	jiang su feng xian	1
 江苏街道	jiang su jie dao	1
 江苏邳州	jiang su pi zhou	1
@@ -37974,7 +37955,6 @@ sort: by_weight
 江西庵村	jiang xi an cun	1
 江溪冲村	jiang xi chong cun	1
 江西道村	jiang xi dao cun	1
-江西赣县	jiang xi gan xian	1
 江西赣县	jiang xi gan xian	1
 江西沟村	jiang xi gou cun	1
 江西沟乡	jiang xi gou xiang	1
@@ -46608,7 +46588,6 @@ sort: by_weight
 前长湾村	qian chang wan cun	1
 前陈义村	qian chen yi cun	1
 前程街道	qian cheng jie dao	1
-前程街道	qian cheng jie dao	1
 前丞相村	qian cheng xiang cun	1
 前城子村	qian cheng zi cun	1
 前程子村	qian cheng zi cun	1
@@ -48855,7 +48834,6 @@ sort: by_weight
 陕西户县	shan xi hu xian	1
 陕西华县	shan xi hua xian	1
 山西吉县	shan xi ji xian	1
-山西绛县	shan xi jiang xian	1
 山西绛县	shan xi jiang xian	1
 山西临县	shan xi lin xian	1
 陕西陇县	shan xi long xian	1
