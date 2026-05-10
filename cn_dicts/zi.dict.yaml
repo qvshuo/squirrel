@@ -8050,12 +8050,13 @@ sort: by_weight
 队	dui	783
 堆	dui	654
 兑	dui	619
-對	dui	534
-怼	dui	503
+怼	dui	533
 隊	dui	430
 対	dui	409
 碓	dui	380
 頧	dui	372
+對	dui	334
+㨃	dui	331
 兌	dui	271
 鐜	dui	216
 憝	dui	182
@@ -8073,7 +8074,6 @@ sort: by_weight
 譵	dui	23
 濧	dui	23
 瀩	dui	1
-㨃	dui	1
 㳔	dui	1
 譈	dui	1
 鴭	dui	1
@@ -11675,9 +11675,9 @@ sort: by_weight
 𩧉	guang	1
 𪇵	guang	1
 𪕓	guang	1
-柜	gui	845
+贵	gui	845
 规	gui	785
-贵	gui	740
+柜	gui	740
 归	gui	712
 轨	gui	672
 鬼	gui	663
@@ -12000,6 +12000,7 @@ sort: by_weight
 咼	guo	132
 聝	guo	130
 囻	guo	127
+掴	guo	120
 囶	guo	105
 惈	guo	97
 鈛	guo	87
@@ -12019,7 +12020,6 @@ sort: by_weight
 喐	guo	1
 囗	guo	1
 懖	guo	1
-掴	guo	1
 摑	guo	1
 敋	guo	1
 楇	guo	1
@@ -13036,10 +13036,10 @@ sort: by_weight
 哄	hong	561
 哄	hong	477
 泓	hong	467
-紅	hong	452
 哄	hong	441
+讧	hong	430
 薨	hong	406
-讧	hong	403
+紅	hong	403
 纮	hong	390
 訇	hong	390
 闳	hong	376
@@ -14937,8 +14937,8 @@ sort: by_weight
 記	ji	466
 笈	ji	466
 計	ji	461
-雞	ji	457
 骥	ji	457
+鷄	ji	457
 稷	ji	455
 岌	ji	453
 箕	ji	452
@@ -14987,6 +14987,7 @@ sort: by_weight
 罽	ji	298
 伋	ji	297
 齑	ji	296
+雞	ji	292
 其	ji	292
 殛	ji	291
 漈	ji	287
@@ -14994,7 +14995,6 @@ sort: by_weight
 劑	ji	283
 丌	ji	283
 鶏	ji	282
-鷄	ji	278
 蕺	ji	268
 姞	ji	264
 飢	ji	263
@@ -16711,8 +16711,8 @@ sort: by_weight
 芥	jie	565
 睫	jie	545
 结	jie	539
-羯	jie	524
-诫	jie	515
+诫	jie	524
+羯	jie	515
 婕	jie	495
 秸	jie	473
 結	jie	472
@@ -41427,6 +41427,7 @@ sort: by_weight
 盢	xu	38
 殈	xu	23
 諝	xu	23
+許	xu	19
 𫚈	xu	1
 汿	xu	1
 𬣙	xu	1
