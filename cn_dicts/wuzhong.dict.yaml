@@ -22,7 +22,7 @@ sort: by_weight
 鳖属	bie shu	79
 菜薹	cai tai	12
 菜苔	cai tai	12
-草属	cao shu	391
+草属	cao shu	91
 茶属	cha shu	57
 豺属	chai shu	45
 鲳属	chang shu	67
@@ -32,9 +32,9 @@ sort: by_weight
 鯙属	chun shu	79
 鹑属	chun shu	59
 莼属	chun shu	41
-葱属	cong shu	336
+葱属	cong shu	136
 稻属	dao shu	52
-德属	de shu	417
+德属	de shu	117
 貂属	diao shu	78
 雕属	diao shu	73
 鲷属	diao shu	48
@@ -45,20 +45,20 @@ sort: by_weight
 鳄目	e mu	322
 鳄属	e shu	68
 鹗属	e shu	66
-藩属	fan shu	393
+藩属	fan shu	193
 鲂属	fang shu	59
 榧属	fei shu	57
 鲱属	fei shu	54
 鲼属	fen shu	69
 蜂属	feng shu	60
 枫属	feng shu	48
-蝠属	fu shu	400
+蝠属	fu shu	100
 蝮属	fu shu	53
 鳡属	gan shu	78
 柑属	gan shu	43
 葛属	ge shu	53
 鸽属	ge shu	47
-𮭥科	gong ke	160
+𮭥科	gong ke	60
 鲴属	gu shu	68
 菰属	gu shu	57
 鳤属	guan shu	74
@@ -70,7 +70,7 @@ sort: by_weight
 蚶属	han shu	74
 蒿属	hao shu	66
 貉属	hao shu	44
-荷属	he shu	506
+荷属	he shu	106
 鹤属	he shu	49
 黑叶	hei ye	273
 鸻属	heng shu	43
@@ -83,9 +83,8 @@ sort: by_weight
 獾属	huan shu	46
 鳇属	huang shu	64
 蛔属	hui shu	59
-灰叶	hui ye	284
-蓟属	ji shu	266
-荠属	ji shu	222
+蓟属	ji shu	166
+荠属	ji shu	122
 麂属	ji shu	72
 鲫属	ji shu	63
 鱾属	ji shu	54
@@ -96,10 +95,10 @@ sort: by_weight
 鳉属	jiang shu	57
 姜属	jiang shu	54
 椒属	jiao shu	59
-鲸目	jing mu	332
-菊属	ju shu	342
+鲸目	jing mu	132
+菊属	ju shu	142
 榉属	ju shu	70
-蕨属	jue shu	396
+蕨属	jue shu	196
 栲属	kao shu	43
 柯属	ke shu	60
 蝰属	kui shu	71
@@ -111,25 +110,25 @@ sort: by_weight
 藜属	li shu	54
 鳢属	li shu	54
 栎属	li shu	40
-莲属	lian shu	276
+莲属	lian shu	176
 楝属	lian shu	48
 鲢属	lian shu	43
-僚属	liao shu	349
+僚属	liao shu	149
 蓼属	liao shu	69
 菱属	ling shu	70
 柃属	ling shu	58
 鲮属	ling shu	56
-柳属	liu shu	371
-硫属	liu shu	316
+柳属	liu shu	171
+硫属	liu shu	116
 鹨属	liu shu	77
-龙目	long mu	375
-龙属	long shu	546
+龙目	long mu	175
+龙属	long shu	146
 鹿属	lu shu	77
 鲈属	lu shu	72
 鹭属	lu shu	54
 鯥属	lu shu	44
 栾属	luan shu	61
-螺属	luo shu	510
+螺属	luo shu	110
 马属	ma shu	57
 芒属	mang shu	66
 蟒属	mang shu	60
@@ -140,8 +139,8 @@ sort: by_weight
 虻属	meng shu	50
 棉属	mian shu	66
 貘属	mo shu	59
-木属	mu shu	381
-楠属	nan shu	259
+木属	mu shu	181
+楠属	nan shu	159
 鲶属	nian shu	71
 鲇属	nian shu	58
 牛属	niu shu	58
@@ -151,7 +150,7 @@ sort: by_weight
 魮属	pi shu	56
 苹属	ping shu	60
 鲆属	ping shu	50
-葡属	pu shu	435
+葡属	pu shu	135
 朴属	pu shu	62
 獛属	pu shu	57
 漆属	qi shu	67
@@ -159,16 +158,16 @@ sort: by_weight
 旗属	qi shu	57
 蜞属	qi shu	42
 芡属	qian shu	45
-茄属	qie shu	306
+茄属	qie shu	106
 芹属	qin shu	69
 蜻属	qing shu	80
 鲭属	qing shu	52
 鳅属	qiu shu	50
 鸲属	qu shu	69
-犬属	quan shu	318
+犬属	quan shu	118
 鳈属	quan shu	80
 蚺属	ran shu	40
-榕属	rong shu	343
+榕属	rong shu	143
 狨属	rong shu	56
 蚋属	rui shu	52
 桑属	sang shu	42
@@ -184,17 +183,17 @@ sort: by_weight
 鲺属	shi shu	50
 蓍属	shi shu	49
 虱属	shi shu	40
-鼠属	shu shu	448
+鼠属	shu shu	148
 黍属	shu shu	53
-松属	song shu	310
-酸模	suan mo	258
+松属	song shu	110
+酸模	suan mo	158
 隼属	sun shu	64
 鮻属	suo shu	64
 鳎属	ta shu	65
 苔属	tai shu	59
 螳属	tang shu	74
 桃属	tao shu	46
-藤属	teng shu	360
+藤属	teng shu	160
 鳀属	ti shu	63
 菾属	tian shu	43
 蜓属	ting shu	47
@@ -220,7 +219,7 @@ sort: by_weight
 魣属	xu shu	68
 鳕属	xue shu	50
 鲟属	xun shu	52
-蚜属	ya shu	391
+蚜属	ya shu	91
 鸭属	ya shu	74
 鸦属	ya shu	45
 鼹属	yan shu	74
@@ -242,15 +241,15 @@ sort: by_weight
 鲉属	you shu	65
 莸属	you shu	62
 鼬属	you shu	49
-鱼属	yu shu	506
-芋属	yu shu	338
+芋属	yu shu	138
+鱼属	yu shu	106
 榆属	yu shu	55
 鹬属	yu shu	41
 鸢属	yuan shu	63
 鼋属	yuan shu	51
-藻属	zao shu	443
 蚤属	zao shu	64
 枣属	zao shu	51
+藻属	zao shu	43
 鲗属	zei shu	80
 蚱属	zha shu	53
 獐属	zhang shu	60
@@ -290,7 +289,7 @@ sort: by_weight
 矮螳属	ai tang shu	80
 艾蚜属	ai ya shu	97
 矮荫鱼	ai yin yu	69
-艾蛛属	ai zhu shu	404
+艾蛛属	ai zhu shu	104
 桉蚕属	an can shu	65
 暗蝉属	an chan shu	66
 鹌鹑属	an chun shu	86
@@ -304,7 +303,7 @@ sort: by_weight
 鞍龙属	an long shu	66
 暗罗属	an luo shu	86
 安蜻属	an qing shu	81
-按蚊属	an wen shu	622
+按蚊属	an wen shu	122
 安蛛科	an zhu ke	99
 暗蛛科	an zhu ke	64
 安蛛属	an zhu shu	87
@@ -312,7 +311,7 @@ sort: by_weight
 昂刺鱼	ang ci yu	210
 澳鵖属	ao bi shu	84
 螯蜂科	ao feng ke	73
-獒蝠属	ao fu shu	509
+獒蝠属	ao fu shu	109
 澳龟属	ao gui shu	53
 澳虎属	ao hu shu	93
 鳌花鱼	ao hua yu	90
@@ -357,7 +356,7 @@ sort: by_weight
 菝葜属	ba qia shu	132
 巴山属	ba shan shu	87
 巴索科	ba suo ke	76
-八腕目	ba wan mu	380
+八腕目	ba wan mu	180
 霸王属	ba wang shu	82
 巴味鱼	ba wei yu	100
 霸鹟科	ba weng ke	84
@@ -380,10 +379,10 @@ sort: by_weight
 白鲑属	bai gui shu	92
 白鱥属	bai gui shu	91
 白蚶属	bai han shu	70
-百合科	bai he ke	213
+百合科	bai he ke	113
 百合目	bai he mu	120
 百合属	bai he shu	158
-白花蛇	bai hua she	230
+白花蛇	bai hua she	130
 白花鱼	bai hua yu	83
 白鹮属	bai huan shu	94
 白芨属	bai ji shu	62
@@ -401,11 +400,11 @@ sort: by_weight
 百灵属	bai ling shu	82
 白蛉属	bai ling shu	51
 白鲮鱼	bai ling yu	82
-白鹭属	bai lu shu	478
+白鹭属	bai lu shu	178
 白麻属	bai ma shu	65
 白茅属	bai mao shu	94
 白蘑科	bai mo ke	90
-柏木属	bai mu shu	478
+柏木属	bai mu shu	178
 白旗鱼	bai qi yu	68
 白前属	bai qian shu	68
 白伞属	bai san shu	83
@@ -429,7 +428,7 @@ sort: by_weight
 柏蚜属	bai ya shu	67
 白蚁科	bai yi ke	87
 白蚁属	bai yi shu	159
-白银目	bai yin mu	331
+白银目	bai yin mu	131
 白鱼属	bai yu shu	55
 百鸢科	bai yuan ke	58
 白樟科	bai zhang ke	75
@@ -454,7 +453,7 @@ sort: by_weight
 半孔鱼	ban kong yu	51
 斑盔鱼	ban kui yu	87
 板蓝属	ban lan shu	73
-斑蠊属	ban lian shu	262
+斑蠊属	ban lian shu	162
 斑羚属	ban ling shu	92
 板龙科	ban long ke	80
 斑龙科	ban long ke	80
