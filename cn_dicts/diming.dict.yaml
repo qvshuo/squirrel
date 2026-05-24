@@ -33183,9 +33183,6 @@ sort: by_weight
 阁老峪村	ge lao yu cun	1
 革勒车乡	ge le che xiang	1
 革勒车镇	ge le che zhen	1
-歌乐山村	ge le shan cun	1
-歌乐山镇	ge le shan zhen	1
-歌乐沱乡	ge le tuo xiang	1
 格里坪镇	ge li ping zhen	1
 葛礼瓦镇	ge li wa zhen	1
 格林街道	ge lin jie dao	1
@@ -33239,6 +33236,9 @@ sort: by_weight
 隔洋塘村	ge yang tang cun	1
 葛崾岘乡	ge yao xian xiang	1
 葛渔城镇	ge yu cheng zhen	1
+歌乐山村	ge yue shan cun	1
+歌乐山镇	ge yue shan zhen	1
+歌乐沱乡	ge yue tuo xiang	1
 革镇堡镇	ge zhen bao zhen	1
 圪针梁村	ge zhen liang cun	1
 格针庙村	ge zhen miao cun	1
@@ -58652,7 +58652,6 @@ sort: by_weight
 兴凯湖乡	xing kai hu xiang	1
 兴开街道	xing kai jie dao	1
 兴开岭村	xing kai ling cun	1
-兴乐坊村	xing le fang cun	1
 杏林街道	xing lin jie dao	1
 杏岭子乡	xing ling zi xiang	1
 兴隆堡村	xing long bao cun	1
@@ -58772,6 +58771,7 @@ sort: by_weight
 杏园街道	xing yuan jie dao	1
 星园街道	xing yuan jie dao	1
 兴园街道	xing yuan jie dao	1
+兴乐坊村	xing yue fang cun	1
 星云街道	xing yun jie dao	1
 兴云山庄	xing yun shan zhuang	1
 行者街道	xing zhe jie dao	1
@@ -65262,13 +65262,13 @@ sort: by_weight
 高寨子街道	gao zhai zi jie dao	1
 葛店开发区	ge dian kai fa qu	1
 葛家满族乡	ge jia man zu xiang	1
-歌乐山街道	ge le shan jie dao	1
 格球山农场	ge qiu shan nong chang	1
 格日僧苏木	ge ri seng su mu
 各苏木乡镇	ge su mu xiang zhen	1
 各塔埠街道	ge ta bu jie dao	1
 各乡镇街道	ge xiang zhen jie dao	1
 革新街街道	ge xin jie jie dao	1
+歌乐山街道	ge yue shan jie dao	1
 革镇堡街道	ge zhen bao jie dao	1
 葛洲坝街道	ge zhou ba jie dao	1
 根德营子乡	gen de ying zi xiang	1
