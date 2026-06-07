@@ -4071,7 +4071,6 @@ sort: by_weight
 徐海	xu hai
 徐晗	xu han
 徐浩	xu hao	179
-徐浩	xu hao
 徐皓	xu hao
 徐珩	xu heng
 许衡	xu heng
@@ -26690,7 +26689,6 @@ sort: by_weight
 王楚钦	wang chu qin
 王楚轩	wang chu xuan
 王处一	wang chu yi
-王处长	wang chu zhang
 王处直	wang chu zhi
 王串场	wang chuan chang
 王船山	wang chuan shan
@@ -26809,7 +26807,6 @@ sort: by_weight
 王大治	wang da zhi
 王大中	wang da zhong
 王大壮	wang da zhuang
-王大夫	wang dai fu
 王带河	wang dai he
 王代记	wang dai ji
 王代里	wang dai li
@@ -26902,20 +26899,16 @@ sort: by_weight
 王德志	wang de zhi
 王德忠	wang de zhong
 王登峰	wang deng feng
-王登基	wang deng ji
 王登科	wang deng ke
 王登联	wang deng lian
 王登平	wang deng ping
 王等人	wang deng ren
 王登云	wang deng yun
 王迪迪	wang di di
-王弟弟	wang di di
 王迪诗	wang di shi
-王地位	wang di wei
 王殿臣	wang dian chen
 王殿军	wang dian jun
 王电铁	wang dian tie
-王爹爹	wang die die
 王定保	wang ding bao
 王鼎昌	wang ding chang
 王顶堤	wang ding di
@@ -26964,7 +26957,6 @@ sort: by_weight
 王端端	wang duan duan
 王端鹏	wang duan peng
 王端廷	wang duan ting
-王队长	wang dui zhang
 王多多	wang duo duo
 王多铎	wang duo duo
 王多鱼	wang duo yu
@@ -26989,7 +26981,6 @@ sort: by_weight
 王法宝	wang fa bao
 王发兵	wang fa bing
 王法恩	wang fa en
-王法官	wang fa guan
 王法慧	wang fa hui
 王发明	wang fa ming
 王梵志	wang fan zhi
@@ -27039,9 +27030,6 @@ sort: by_weight
 王凤云	wang feng yun
 王凤珍	wang feng zhen
 王凤枝	wang feng zhi
-王疯子	wang feng zi
-王佛寺	wang fo si
-王福庵	wang fu an
 王符堡	wang fu bao
 王福保	wang fu bao
 王府仓	wang fu cang
@@ -27085,10 +27073,8 @@ sort: by_weight
 王复元	wang fu yuan
 王府园	wang fu yuan
 王夫之	wang fu zhi
-王府中	wang fu zhong
 王富洲	wang fu zhou
 王抚洲	wang fu zhou
-王夫子	wang fu zi
 王改封	wang gai feng
 王淦昌	wang gan chang
 王感化	wang gan hua
@@ -27104,7 +27090,6 @@ sort: by_weight
 王高兴	wang gao xing
 王高中	wang gao zhong
 王格飞	wang ge fei
-王哥哥	wang ge ge
 王歌慧	wang ge hui
 王个簃	wang ge yi
 王根林	wang gen lin
@@ -27132,7 +27117,6 @@ sort: by_weight
 王冠军	wang guan jun
 王观澜	wang guan lan
 王冠龙	wang guan long
-王官屯	wang guan tun
 王冠雄	wang guan xiong
 王冠伊	wang guan yi
 王冠逸	wang guan yi
@@ -27349,7 +27333,6 @@ sort: by_weight
 王荷波	wang he bo
 王和成	wang he cheng
 王鹤棣	wang he di
-王和李	wang he li
 王和霖	wang he lin
 王鹤龄	wang he ling
 王和平	wang he ping
@@ -27524,7 +27507,6 @@ sort: by_weight
 王辉耀	wang hui yao
 王慧瑛	wang hui ying
 王辉宇	wang hui yu
-王会长	wang hui zhang
 王惠珍	wang hui zhen
 王徽之	wang hui zhi
 王慧智	wang hui zhi
@@ -27714,7 +27696,6 @@ sort: by_weight
 王建民	wang jian min
 王健民	wang jian min
 王建明	wang jian ming
-王建墓	wang jian mu
 王建南	wang jian nan
 王建年	wang jian nian
 王健年	wang jian nian
@@ -27731,7 +27712,6 @@ sort: by_weight
 王建堂	wang jian tang
 王建涛	wang jian tao
 王剑涛	wang jian tao
-王见王	wang jian wang
 王建伟	wang jian wei
 王建文	wang jian wen
 王建武	wang jian wu
@@ -27762,7 +27742,6 @@ sort: by_weight
 王江涛	wang jiang tao
 王教成	wang jiao cheng
 王娇娇	wang jiao jiao
-王教头	wang jiao tou
 王娇姿	wang jiao zi
 王介安	wang jie an
 王洁恩	wang jie en
@@ -36221,7 +36200,7 @@ sort: by_weight
 叶延滨	ye yan bin
 叶衍兰	ye yan lan
 叶燕武	ye yan wu
-叶志成	ye zhi cheng	100
+叶志成	ye zhi cheng
 一秤金	yi cheng jin	1
 伊藤博	yi teng bo
 伊藤达	yi teng da
@@ -62395,7 +62374,7 @@ sort: by_weight
 志田数	zhi tian shu	88
 志田未	zhi tian wei	0
 中村俊	zhong cun jun	204
-中村亮	zhong cun liang	100
+中村亮	zhong cun liang
 中村隆	zhong cun long	128
 中村宪	zhong cun xian	146
 中村悠	zhong cun you	205
@@ -65437,19 +65416,15 @@ sort: by_weight
 山田爱子	shan tian ai zi
 山田畅久	shan tian chang jiu
 山田长政	shan tian chang zheng	260
-山田长政	shan tian chang zheng
 山田车站	shan tian che zhan
 杉田大岛	shan tian da dao
 山田电机	shan tian dian ji
 山田典枝	shan tian dian zhi
 山田耕平	shan tian geng ping	130
-山田耕平	shan tian geng ping
 山田恭子	shan tian gong zi	210
-山田恭子	shan tian gong zi
 山田光莉	shan tian guang li
 山田桂吾	shan tian gui wu
 山田圭子	shan tian gui zi	170
-山田圭子	shan tian gui zi
 山田果冻	shan tian guo dong
 山田赫敏	shan tian he min
 山田和希	shan tian he xi
@@ -65457,71 +65432,46 @@ sort: by_weight
 山田井马	shan tian jing ma
 杉田囧虚	shan tian jiong xu
 山田俊司	shan tian jun si	460
-山田俊司	shan tian jun si
 山田康雄	shan tian kang xiong	280
-山田康雄	shan tian kang xiong
 山田匡得	shan tian kuang de
 山田礼子	shan tian li zi	190
-山田礼子	shan tian li zi
 山田凉的	shan tian liang de
 山田凉介	shan tian liang jie	932
-山田凉介	shan tian liang jie
 山田凉崎	shan tian liang qi
 山田隆夫	shan tian long fu	140
-山田隆夫	shan tian long fu
 杉田美园	shan tian mei yuan
 山田妙子	shan tian miao zi	160
-山田妙子	shan tian miao zi
 山田茉莉	shan tian mo li	120
-山田茉莉	shan tian mo li
 山田千砂	shan tian qian sha
 山田晴通	shan tian qing tong
 山田荣子	shan tian rong zi	280
-山田荣子	shan tian rong zi
 山田尚辉	shan tian shang hui
 山田尚子	shan tian shang zi	832
-山田尚子	shan tian shang zi
 山田夏海	shan tian xia hai	150
-山田夏海	shan tian xia hai
 山田翔子	shan tian xiang zi
 山田孝之	shan tian xiao zhi	599
-山田孝之	shan tian xiao zhi
 山田信夫	shan tian xin fu	290
-山田信夫	shan tian xin fu
 山田杏奈	shan tian xing nai	170
-山田杏奈	shan tian xing nai
 山田雄基	shan tian xiong ji
 山田秀树	shan tian xiu shu	430
-山田秀树	shan tian xiu shu
 杉田玄白	shan tian xuan bai
 山田洋次	shan tian yang ci	580
-山田洋次	shan tian yang ci
 山田洋一	shan tian yang yi
 山田洋子	shan tian yang zi	51
-山田洋子	shan tian yang zi
 山田一郎	shan tian yi lang	700
-山田一郎	shan tian yi lang
 山田义晴	shan tian yi qing	190
 山田义暒	shan tian yi qing
-山田义晴	shan tian yi qing
 山田乙三	shan tian yi san	580
-山田乙三	shan tian yi san
 山田裕贵	shan tian yu gui	810
-山田裕贵	shan tian yu gui
 杉田郁子	shan tian yu zi
 山田章博	shan tian zhang bo	270
-山田章博	shan tian zhang bo
 山田昭夫	shan tian zhao fu
 山田真步	shan tian zhen bu	230
-山田真步	shan tian zhen bu
 山田正臣	shan tian zheng chen
 山田正彦	shan tian zheng yan	460
-山田正彦	shan tian zheng yan
 杉田智和	shan tian zhi he
 山田智子	shan tian zhi zi	120
-山田智子	shan tian zhi zi
 山田钟人	shan tian zhong ren	50
-山田钟人	shan tian zhong ren
 山田重忠	shan tian zhong zhong
 杉田庄一	shan tian zhuang yi
 山田拙者	shan tian zhuo zhe
@@ -65815,7 +65765,6 @@ sort: by_weight
 藤原弥凉	teng yuan mi liang
 藤原鸟养	teng yuan niao yang
 藤原启治	teng yuan qi zhi	585
-藤原启治	teng yuan qi zhi
 藤原千花	teng yuan qian hua
 藤原清河	teng yuan qing he	292
 藤原清衡	teng yuan qing heng
@@ -66086,7 +66035,7 @@ sort: by_weight
 小畑优奈	xiao tian you nai
 小田卓朗	xiao tian zhuo lang
 小原鞠莉	xiao yuan ju li	19
-新井里美	xin jing li mei	100
+新井里美	xin jing li mei
 新井里真	xin jing li zhen	0
 新井良平	xin jing liang ping	66
 岩田安生	yan tian an sheng
@@ -66597,11 +66546,30 @@ sort: by_weight
 渡边美智雄	du bian mei zhi xiong	1
 渡边奈绪子	du bian nai xu zi	1
 渡边信一郎	du bian xin yi lang	1
+及川古志郎	ji chuan gu zhi lang
+吉川弘文馆	ji chuan hong wen guan
+吉川幸次郎	ji chuan xing ci lang
+吉川英治奖	ji chuan ying zhi jiang
+吉村公三郎	ji cun gong san lang
+吉村贯一郎	ji cun guan yi lang
+矶村由纪子	ji cun you ji zi
 木下和津实	mu xia he jin shi
 木下杢太郎	mu xia jiang tai lang
 木下藤吉郎	mu xia teng ji lang
 木下亚由美	mu xia ya you mei
 木下优树菜	mu xia you shu cai
+藤野严九郎	teng ye yan jiu lang
+藤原不比等	teng yuan bu bi deng
+藤原道纲母	teng yuan dao gang mu
+藤原乙牟漏	teng yuan yi mou lou
+藤原仲麻吕	teng yuan zhong ma lv
+小池百合子	xiao chi bai he zi
+小池绘美子	xiao chi hui mei zi
+小池真理子	xiao chi zhen li zi
+小川阿佐美	xiao chuan a zuo mei
+小川健太郎	xiao chuan jian tai lang
+小川庆治朗	xiao chuan qing zhi lang
+小川真由美	xiao chuan zhen you mei
 朝比奈京子	zhao bi nai jing zi
 朝比奈琉依	zhao bi nai liu yi
 朝比奈瑠依	zhao bi nai liu yi

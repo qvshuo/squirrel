@@ -11495,10 +11495,10 @@ sort: by_weight
 棺	guan	412
 观	guan	391
 關	guan	317
+鹳	guan	287
 觀	guan	285
 関	guan	256
 館	guan	230
-鹳	guan	207
 観	guan	186
 慣	guan	167
 盥	guan	150
@@ -17692,7 +17692,7 @@ sort: by_weight
 居	ju	2588
 举	ju	2458
 句	ju	2335
-聚	ju	953
+聚	ju	1953
 距	ju	905
 巨	ju	698
 拒	ju	548
@@ -22585,6 +22585,7 @@ sort: by_weight
 隆	long	210
 茏	long	180
 垅	long	162
+瀧	long	162
 滝	long	146
 砻	long	131
 籠	long	118
@@ -22593,7 +22594,6 @@ sort: by_weight
 瓏	long	86
 眬	long	77
 癃	long	69
-瀧	long	62
 霳	long	56
 攏	long	50
 嚨	long	45
@@ -24172,9 +24172,9 @@ sort: by_weight
 嚒	me	5097
 嚜	me	804
 嚰	me	659
+麽	me	201
 庅	me	113
 濹	me	107
-麽	me	101
 没	mei	189122
 美	mei	37749
 每	mei	36994

@@ -51152,7 +51152,6 @@ sort: by_weight
 黏液杆菌属	nian ye gan jun shu	1
 黏液蛞蝓科	nian ye kuo yu ke	1
 黏液球菌科	nian ye qiu jun ke	1
-粘液球菌科	nian ye qiu jun ke	1
 念珠凤仙花	nian zhu feng xian hua	1
 念珠菊石科	nian zhu ju shi ke	1
 念珠冷水花	nian zhu leng shui hua	1
@@ -60720,6 +60719,7 @@ sort: by_weight
 瞻星锡伯鲶	zhan xing xi bo nian	1
 展须野螟属	zhan xu ye ming shu	1
 展叶凤仙花	zhan ye feng xian hua	1
+粘液球菌科	zhan ye qiu jun ke	1
 展羽假瘤蕨	zhan yu jia liu jue	1
 詹札克鲸属	zhan zha ke jing shu	1
 展枝唐松草	zhan zhi tang song cao	1
@@ -62238,7 +62238,7 @@ sort: by_weight
 巴拉圭细脂鲤	ba la gui xi zhi li	1
 巴拉拿大钩鲶	ba la na da gou nian	1
 巴拉那兔脂鲤	ba la na tu zhi li	1
-巴拉万石松属	ba la wan dan song shu	1
+巴拉万石松属	ba la wan shi song shu	1
 巴拉望缺鳍鲶	ba la wang que qi nian	1
 巴拉望苔鼩属	ba la wang tai qu shu	1
 巴拉乌尔龙属	ba la wu er long shu	1
@@ -64385,7 +64385,6 @@ sort: by_weight
 富妮灰蝶亚科	fu ni hui die ya ke	1
 副泥鳅粘体虫	fu ni qiu zhan ti chong	1
 副黏液病毒科	fu nian ye bing du ke	1
-副粘液病毒科	fu nian ye bing du ke	1
 腹瓢鰕虎鱼属	fu piao xia hu yu shu	1
 副球孢子菌属	fu qiu bao zi jun shu	1
 辐射海百合科	fu she hai bai he ke	1
@@ -64432,6 +64431,7 @@ sort: by_weight
 浮游蓝丝藻属	fu you lan si zao shu	1
 副原腹吸鳅属	fu yuan fu xi qiu shu	1
 腹盏喉盘鱼属	fu zhan hou pan yu shu	1
+副粘液病毒科	fu zhan ye bing du ke	1
 副直口朴丽鱼	fu zhi kou pu li yu	1
 附肢炭壳菌属	fu zhi tan ke jun shu	1
 副朱里桑贝属	fu zhu li sang bei shu	1
@@ -67555,8 +67555,6 @@ sort: by_weight
 黏胶球形菌科	nian jiao qiu xing jun ke	1
 黏身索深鼬鱼	nian shen suo shen you yu	1
 黏液乳杆菌属	nian ye ru gan jun shu	1
-粘液乳杆菌属	nian ye ru gan jun shu	1
-粘液双边凹螺	nian ye shuang bian ao luo	1
 捻转血矛线虫	nian zhuan xue mao xian chong	1
 鸟氨酸微菌属	niao an suan wei jun shu	1
 鸟斑隆头丽鱼	niao ban long tou li yu	1
@@ -68406,8 +68404,6 @@ sort: by_weight
 施迈斯内果属	shi mai si nei guo shu	1
 施米德狮子鱼	shi mi de shi zi yu	1
 食泥甲姬蜂属	shi ni jia ji feng shu	1
-嗜粘液蛞蝓科	shi nian ye kuo yu ke	1
-嗜粘液蛞蝓属	shi nian ye kuo yu shu	1
 噬脯氨酸菌属	shi pu an suan jun shu	1
 石墙乳杆菌属	shi qiang ru gan jun shu	1
 食芹岩雅罗鱼	shi qin yan ya luo yu	1
@@ -68471,6 +68467,8 @@ sort: by_weight
 始源大花蚤属	shi yuan da hua zao shu	1
 始原灵猫兽属	shi yuan ling mao shou shu	1
 始源小菊虎属	shi yuan xiao ju hu shu	1
+嗜粘液蛞蝓科	shi zhan ye kuo yu ke	1
+嗜粘液蛞蝓属	shi zhan ye kuo yu shu	1
 食植瓢虫亚科	shi zhi piao chong ya ke	1
 始中国羽龙属	shi zhong guo yu long shu	1
 饰妆背斜眼鳚	shi zhuang bei xie yan wei	1
@@ -70702,6 +70700,8 @@ sort: by_weight
 展鳍真巨口鱼	zhan qi zhen ju kou yu	1
 詹氏直线脂鲤	zhan shi zhi xian zhi li	1
 瞻星大陶乐鲶	zhan xing da tao le nian	1
+粘液乳杆菌属	zhan ye ru gan jun shu	1
+粘液双边凹螺	zhan ye shuang bian ao luo	1
 展枝玉叶金花	zhan zhi yu ye jin hua	1
 胀管玉叶金花	zhang guan yu ye jin hua	1
 张吉营锦州鸟	zhang ji ying jin zhou niao	1
@@ -71509,10 +71509,10 @@ sort: by_weight
 副链肠锡叶吸虫	fu lian chang xi ye xi chong	1
 覆裂云南金莲花	fu lie yun nan jin lian hua	1
 副矛鳍石首鱼属	fu mao qi shi shou yu shu	1
-副粘液病毒亚科	fu nian ye bing du ya ke	1
 副三角锥齿兽属	fu san jiao zhui chi shou shu	1
 富永沼银汉鱼属	fu yong zhao yin han yu shu	1
 腹疣柄牛肝菌属	fu you bing niu gan jun shu	1
+副粘液病毒亚科	fu zhan ye bing du ya ke	1
 副爪哇闪皮蛇属	fu zhao wa shan pi she shu	1
 伽马线形病毒科	ga ma xian xing bing du ke	1
 盖氏小体石脂鲤	gai shi xiao ti shi zhi li	1

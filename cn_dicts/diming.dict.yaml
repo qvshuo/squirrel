@@ -884,6 +884,7 @@ sort: by_weight
 百省乡	bai sheng xiang	1
 百胜镇	bai sheng zhen	1
 白石村	bai shi cun	341
+百石角	bai shi jiao	99
 白石乡	bai shi xiang	215
 白什乡	bai shi xiang	1
 白石镇	bai shi zhen	325
@@ -17745,7 +17746,6 @@ sort: by_weight
 万春镇	wan chun zhen	100
 万村乡	wan cun xiang	1
 万丹乡	wan dan xiang	1
-万石镇	wan dan zhen	1
 万德镇	wan de zhen	470
 万堤镇	wan di zhen	1
 万第镇	wan di zhen	1
@@ -17804,6 +17804,7 @@ sort: by_weight
 万山镇	wan shan zhen	1
 万善镇	wan shan zhen	1
 万胜镇	wan sheng zhen	1
+万石镇	wan shi zhen	1
 万市镇	wan shi zhen	1
 万寿村	wan shou cun	100
 万寿镇	wan shou zhen	1
@@ -29095,7 +29096,6 @@ sort: by_weight
 丹东街道	dan dong jie dao	1
 丹都街道	dan dou jie dao	1
 丹凤街道	dan feng jie dao	1
-石谷寺村	dan gu si cun	1
 丹桂街道	dan gui jie dao	1
 丹河街道	dan he jie dao	1
 淡家沟村	dan jia gou cun	1
@@ -49708,6 +49708,7 @@ sort: by_weight
 石鼓沟村	shi gu gou cun	1
 石鼓河村	shi gu he cun	1
 尸骨还乡	shi gu huan xiang	1
+石谷寺村	shi gu si cun	1
 石牯塘镇	shi gu tang zhen	1
 石鼓西村	shi gu xi cun	1
 石崮新村	shi gu xin cun	1
@@ -53383,7 +53384,6 @@ sort: by_weight
 万昌店村	wan chang dian cun	1
 万春街道	wan chun jie dao	1
 万村千乡	wan cun qian xiang	1
-万石坑村	wan dan keng cun	1
 万德号村	wan de hao cun	1
 万德街道	wan de jie dao	1
 万德新村	wan de xin cun	1
@@ -53495,6 +53495,7 @@ sort: by_weight
 万盛街道	wan sheng jie dao	1
 万盛山庄	wan sheng shan zhuang	1
 万胜永乡	wan sheng yong xiang	1
+万石坑村	wan shi keng cun	1
 万仕桥村	wan shi qiao cun	1
 万寿街道	wan shou jie dao	1
 万寿桥村	wan shou qiao cun	1
@@ -60516,8 +60517,6 @@ sort: by_weight
 一间房村	yi jian fang cun	1
 一建新村	yi jian xin cun	1
 一街新村	yi jie xin cun	1
-衣锦过乡	yi jin guo xiang	1
-衣锦还乡	yi jin huan xiang	1
 以金佐镇	yi jin zuo zhen	1
 义井街道	yi jing jie dao	1
 怡景新村	yi jing xin cun	1
@@ -70664,7 +70663,7 @@ sort: by_weight
 音河达斡尔鄂温克民族乡	yin he da wo er e wen ke min zu xiang	1
 永吉经济开发区特殊乡镇	yong ji jing ji kai fa qu te shu xiang zhen	1
 豫东综合物流产业聚集区	yu dong zong he wu liu chan ye ju ji qu	1
-原平市石豹沟煤矿工矿区	yuan ping shi dan bao gou mei kuang gong kuang qu	1
+原平市石豹沟煤矿工矿区	yuan ping shi shi bao gou mei kuang gong kuang qu	1
 月亮河彝族布依族苗族乡	yue liang he yi zu bu yi zu miao zu xiang	1
 云南省嵩明职业教育基地	yun nan sheng song ming zhi ye jiao yu ji di	1
 湛江市坡头区官渡工业园	zhan jiang shi po tou qu guan du gong ye yuan	1
