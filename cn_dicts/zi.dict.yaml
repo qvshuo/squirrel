@@ -14860,8 +14860,8 @@ sort: by_weight
 𫙇	huo	1
 嚄	huo	1
 锪	huo	1
-即	ji	289489
-及	ji	117088
+及	ji	289489
+即	ji	117088
 既	ji	16948
 计	ji	5508
 急	ji	5397
@@ -37774,6 +37774,7 @@ sort: by_weight
 桅	wei	14
 偎	wei	13
 诿	wei	12
+闱	wei	12
 維	wei	10
 謂	wei	9
 梶	wei	8
@@ -37785,7 +37786,6 @@ sort: by_weight
 衞	wei	2
 囗	wei	1
 嵬	wei	1
-闱	wei	1
 艉	wei	1
 逶	wei	1
 涠	wei	1
@@ -39665,11 +39665,13 @@ sort: by_weight
 藓	xian	68
 氙	xian	64
 舷	xian	60
+缐	xian	51
 鮮	xian	47
 苋	xian	42
 岘	xian	38
 蚬	xian	36
 県	xian	31
+綫	xian	31
 線	xian	29
 冼	xian	27
 霰	xian	25
@@ -39694,7 +39696,6 @@ sort: by_weight
 鹇	xian	1
 僊	xian	1
 纖	xian	1
-綫	xian	1
 燹	xian	1
 顕	xian	1
 筅	xian	1
@@ -39706,7 +39707,6 @@ sort: by_weight
 猃	xian	1
 铦	xian	1
 鱻	xian	1
-缐	xian	1
 狝	xian	1
 銜	xian	1
 廯	xian	1
@@ -50795,6 +50795,7 @@ sort: by_weight
 缵	zuan	1222
 鑽	zuan	681
 躜	zuan	196
+赚	zuan	185
 纉	zuan	105
 纘	zuan	94
 籫	zuan	85
