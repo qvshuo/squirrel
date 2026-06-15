@@ -5,6 +5,9 @@ on:
     - cron: '30 0 * * 0'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -25,8 +28,6 @@ jobs:
       - name: Checkout destination repository
         uses: actions/checkout@v6
         with:
-          repository: "qvshuo/squirrel"
-          token: ${{ secrets.TOKEN_FOR_SQUIRREL }}
           path: "target"
 
       - name: Sync dictionaries and lua scripts from rime-ice
