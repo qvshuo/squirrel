@@ -3274,7 +3274,8 @@ sort: by_weight
 忏	chan	431
 潺	chan	388
 蟾	chan	349
-產	chan	314
+産	chan	322
+產	chan	304
 搀	chan	283
 婵	chan	255
 单	chan	242
@@ -3283,7 +3284,6 @@ sort: by_weight
 孱	chan	167
 浐	chan	150
 澶	chan	135
-産	chan	122
 禪	chan	110
 觇	chan	99
 瀍	chan	89
@@ -13333,12 +13333,12 @@ sort: by_weight
 𫌩	hou	1
 𫝗	hou	1
 户	hu	10805
+胡	hu	8766
 护	hu	3420
 互	hu	3078
 乎	hu	2770
 湖	hu	2493
 呼	hu	1605
-胡	hu	766
 虎	hu	727
 忽	hu	607
 狐	hu	546
@@ -17310,6 +17310,7 @@ sort: by_weight
 迳	jing	20
 儆	jing	19
 肼	jing	18
+䴖	jing	17
 鏡	jing	14
 靚	jing	13
 競	jing	12
@@ -17402,7 +17403,6 @@ sort: by_weight
 䜘	jing	1
 䡖	jing	1
 䲔	jing	1
-䴖	jing	1
 䵞	jing	1
 𠑱	jing	1
 𠓆	jing	1
