@@ -52,7 +52,7 @@ sort: by_weight
 五厍	wu ku	218	wu she
 台州	tai zhou	720	tai zhou
 膻中	shan zhong	2450	膻(dan)中
-渑池	yin chi	624	mian chi
+渑池	ying chi	624	mian chi
 渑池	sheng chi	1092	mian chi
 铅山	qian shan	434	yan shan
 铅山县	qian shan xian	180	铅(yan)山县
@@ -60,11 +60,12 @@ sort: by_weight
 甭介	beng jie	794	甭价(jie)
 别介	bie jie	769	别价(jie)
 槟榔	bin lang	630	bing lang
-脖颈	bo jing	480	bo geng
 草薙	cao zhi	948	cao ti
 掺和	chan he	538	chan huo
 称职	cheng zhi	1119	chen zhi
 龇牙	ci ya	11	zi ya
+龇着牙	ci zhe ya	10	zi zhe ya
+龇牙咧嘴	ci ya lie zui	17	zi ya lie zui
 凑活	cou huo	984	凑合(he)
 道行	dao hang	10928	dao heng
 给予	gei yu	350	ji yu
@@ -73,12 +74,16 @@ sort: by_weight
 角色	jiao se	686	jue se
 结扎	jie zha	130	jie za
 钜惠	ju hui	1033	(巨)惠
-六安	liu an	628	lu an
+主角	zhu jiao	1195	zhu jue
 女主角	nv zhu jiao	200	女主角(jue)
 埋怨	mai yuan	439	man yuan
 模板	mo ban	1172	mu ban
 模具	mo ju	218	mu ju
 模样	mo yang	519	mu yang
+人模狗样	ren mo gou yang	15	ren mu gou yang
+一模一样	yi mo yi yang	902	yi mu yi yang
+有模有样	you mo you yang	28	you mu you yang
+装模作样	zhuang mo zuo yang	49	zhuang mu zuo yang
 木讷	mu na	470	mu ne
 弄堂	nong tang	855	long tang
 暖和	nuan he	590	nuan huo
@@ -90,6 +95,7 @@ sort: by_weight
 调换	tiao huan	620	diao huan
 胴体	tong ti	837	dong ti
 荨麻	xun ma	124	qian ma
+荨麻疹	qian ma zhen	200	xun ma zhen
 亳州	hao zhou	500	bo zhou
 天秤座	tian ping zuo	100	秤(cheng)
 戛然而止	ga ran er zhi	590	戛(jia)然而止
@@ -98,19 +104,26 @@ sort: by_weight
 蔚县	wei xian	1094	yu xian
 嵊州	cheng zhou	762	sheng zhou
 吱声	zhi sheng	1468	zi sheng
-主角	zhu jiao	1195	zhu jue
+脖颈	bo jing	480	bo geng
 脖颈儿	bo jing er	10	bo geng er
 草薙剑	cao zhi jian	318	cao ti jian
 草薙京	cao zhi jing	254	cao ti jing
-龇着牙	ci zhe ya	10	zi zhe ya
 大宛马	da wan ma	10	da yuan ma
 独乐乐	du le le	10	du yue le
+众乐乐	zhoong le le	20	zhong yue le
 海参崴	hai shen wei	385	hai shen wai
-贾平凹	jia ping ao	250	jia ping wa
+贾平凹	jia ping wa	250	jia ping ao
 卡脖子	ka bo zi	310	qia bo zi
+六安	liu an	628	lu an
 六安市	liu an shi	88	lu an shi
 六安县	liu an xian	10	lu an xian
 六合区	liu he qu	115	lu he qu
+安徽六安	an hui liu an	2	an hui lu an
+南京六合	nan jing liu he	1	nan jing lu he
+安徽六安市	an hui liu an shi	1	an hui lu an shi
+南京六合区	nan jing liu he qu	1	nan jing lu he qu
+安徽省六安市	an hui sheng liu an shi	1	an hui sheng lu an shi
+南京市六合区	nan jing shi liu he qu	1	nan jing shi lu he qu
 螺蛳粉	luo shi fen	150	luo si fen
 温庭筠	wen ting jun	210	温庭筠(yun)
 关卡	guan ka	14734	guan qia
@@ -121,40 +134,26 @@ sort: by_weight
 魔蝎座	mo xie zuo	403	摩羯(jie)座
 鄱阳湖	pan yang hu	250	po yang hu
 契科夫	qi ke fu	524	契诃(he)夫
-荨麻疹	qian ma zhen	200	xun ma zhen
 太行山	tai xing shan	390	tai hang shan
 头皮屑	tou pi xue	530	tou pi xie
 万柏林	wan bo lin	10	万柏(bai)林
 雪佛兰	xue fo lan	370	xue fu lan
 鸭绿江	ya lv jiang	150	ya lu jiang
 张柏芝	zhang bai zhi	1056	zhang bo zhi
-众乐乐	zhong le le	20	zhong yue le
 阿弥陀佛	a mi tuo fo	37	e mi tuo fo
-安徽六安	an hui liu an	2	an hui lu an
+南无阿弥陀佛	na mo a mi tuo fo	4	na mo e mi tuo fo
+南无阿弥陀佛	nan wu a mi tuo fo	4	na mo e mi tuo fo
+南无阿弥陀佛	nan wu e mi tuo fo	4	na mo e mi tuo fo
 按耐不住	an nai bu zhu	948	按捺(na)不住
-龇牙咧嘴	ci ya lie zui	17	zi ya lie zui
 大腹便便	da fu bian bian	15	da fu pian pian
 歇斯底里	jie si di li	88	xie si di li
 力能扛鼎	li neng kang ding	3	li neng gang ding
 模棱两可	mo ling liang ke	85	mo leng liang ke
-南京六合	nan jing liu he	1	nan jing lu he
-人模狗样	ren mo gou yang	15	ren mu gou yang
 心宽体胖	xin kuan ti pang	4	xin kuan ti pan
 虚与委蛇	xu yu wei she	9	xu yu wei yi
 血脉偾张	xue mai fen zhang	265	血脉贲(ben)张 | 血脉偾(fen)张
 血脉喷张	xue mai pen zhang	750	血脉贲(ben)张 | 血脉偾(fen)张
-一模一样	yi mo yi yang	902	yi mu yi yang
 饮鸩解渴	yin jiu jie ke	1	饮鸩(zhen)解渴
 饮鸩止渴	yin jiu zhi ke	34	饮鸩(zhen)止渴
-饮鸩解渴	yin zhen jie ke	48	饮鸩(zhen)解渴
-有模有样	you mo you yang	28	you mu you yang
-装模作样	zhuang mo zuo yang	49	zhuang mu zuo yang
-安徽六安市	an hui liu an shi	1	an hui lu an shi
-南京六合区	nan jing liu he qu	1	nan jing lu he qu
-安徽省六安市	an hui sheng liu an shi	1	an hui sheng lu an shi
-南无阿弥陀佛	na mo a mi tuo fo	4	na mo e mi tuo fo
-南京市六合区	nan jing shi liu he qu	1	nan jing shi lu he qu
-南无阿弥陀佛	nan wu a mi tuo fo	4	na mo e mi tuo fo
-南无阿弥陀佛	nan wu e mi tuo fo	4	na mo e mi tuo fo
 蓦然回首	mu ran hui shou	39	蓦(mo)然回首
 拾级而上	shi ji er shang	64	拾(she)级而上
