@@ -42,7 +42,6 @@ jobs:
           rsync -av \
             frost/cn_dicts/8105.dict.yaml \
             frost/cn_dicts/41448.dict.yaml \
-            frost/cn_dicts/GB18030-2022.dict.yaml \
             frost/cn_dicts/base.dict.yaml \
             frost/cn_dicts/ext.dict.yaml \
             frost/cn_dicts/tencent.dict.yaml \
