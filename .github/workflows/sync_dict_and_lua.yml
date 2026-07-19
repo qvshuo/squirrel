@@ -18,12 +18,12 @@ jobs:
           repository: "iDvel/rime-ice"
           path: "ice"
 
-      - name: Checkout source repository (RIME-LMDG)
+      - name: Checkout source repository (rime-frost)
         uses: actions/checkout@v6
         with:
-          repository: "amzxyz/RIME-LMDG"
-          ref: "wanxiang"
-          path: "lmdg"
+          repository: "gaboolic/rime-frost"
+          ref: "master"
+          path: "frost"
 
       - name: Checkout destination repository
         uses: actions/checkout@v6
@@ -37,40 +37,17 @@ jobs:
           rsync -av ice/en_dicts/en_ext.dict.yaml target/en_dicts/
           rsync -av ice/lua/reduce_english_filter.lua target/lua/
 
-      - name: Process and Sync LMDG dictionaries
+      - name: Sync rime-frost main dictionaries
         run: |
-          for file in lmdg/dicts/*.yaml; do
-            echo "Processing $file"
-            sed -i \
-              -e 's/ā/a/g' \
-              -e 's/á/a/g' \
-              -e 's/ǎ/a/g' \
-              -e 's/à/a/g' \
-              -e 's/ō/o/g' \
-              -e 's/ó/o/g' \
-              -e 's/ǒ/o/g' \
-              -e 's/ò/o/g' \
-              -e 's/ē/e/g' \
-              -e 's/é/e/g' \
-              -e 's/ě/e/g' \
-              -e 's/è/e/g' \
-              -e 's/ī/i/g' \
-              -e 's/í/i/g' \
-              -e 's/ǐ/i/g' \
-              -e 's/ì/i/g' \
-              -e 's/ū/u/g' \
-              -e 's/ú/u/g' \
-              -e 's/ǔ/u/g' \
-              -e 's/ù/u/g' \
-              -e 's/ǖ/v/g' \
-              -e 's/ǘ/v/g' \
-              -e 's/ǚ/v/g' \
-              -e 's/ǜ/v/g' \
-              -e 's/ü/v/g' \
-              "$file"
-          done
-
-          rsync -av lmdg/dicts/*.yaml target/cn_dicts/
+          rsync -av \
+            frost/cn_dicts/8105.dict.yaml \
+            frost/cn_dicts/41448.dict.yaml \
+            frost/cn_dicts/GB18030-2022.dict.yaml \
+            frost/cn_dicts/base.dict.yaml \
+            frost/cn_dicts/ext.dict.yaml \
+            frost/cn_dicts/tencent.dict.yaml \
+            frost/cn_dicts/others.dict.yaml \
+            target/cn_dicts/
 
       - name: Sync Yuanshen dictionary
         run: |
