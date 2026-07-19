@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout current repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Install dependencies
         run: |
@@ -26,7 +26,7 @@ jobs:
           sudo apt-get install -y librime1 python3 wget zstd
 
       - name: Checkout rime-build-grammar tools
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: gaboolic/rime-build-grammar
           path: rime-build-grammar
