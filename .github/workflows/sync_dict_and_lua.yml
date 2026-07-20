@@ -49,7 +49,6 @@ jobs:
             target/cn_dicts/
           rsync -av \
             frost/cn_dicts_cell/composite.dict.yaml \
-            frost/cn_dicts_cell/exthot.dict.yaml \
             target/cn_dicts_cell/
 
       - name: Sync Yuanshen dictionary
