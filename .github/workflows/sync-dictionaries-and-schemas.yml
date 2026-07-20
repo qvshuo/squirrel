@@ -41,7 +41,8 @@ jobs:
       - name: Sync zhwiki / zhwiktionary from fcitx5-pinyin-zhwiki
         run: |
           set -euo pipefail
-          api=$(curl -fsSL https://api.github.com/repos/felixonmars/fcitx5-pinyin-zhwiki/releases/latest)
+          api=$(curl -fsSL -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/felixonmars/fcitx5-pinyin-zhwiki/releases/latest)
 
           update_dict() {
             local name=$1
