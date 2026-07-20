@@ -41,23 +41,20 @@ jobs:
       - name: Sync zhwiki / zhwiktionary from fcitx5-pinyin-zhwiki
         run: |
           set -euo pipefail
-          API=$(curl -fsSL https://api.github.com/repos/felixonmars/fcitx5-pinyin-zhwiki/releases/latest)
+          api=$(curl -fsSL https://api.github.com/repos/felixonmars/fcitx5-pinyin-zhwiki/releases/latest)
 
           update_dict() {
             local name=$1
             local file="target/cn_dicts/${name}.dict.yaml"
             local remote local_ver url
-            remote=$(echo "$API" | grep -oE "\"browser_download_url\": \"[^\"]*${name}-[0-9]{8}\.dict\.yaml\"" \
+            remote=$(echo "$api" | grep -oE "\"browser_download_url\": \"[^\"]*${name}-[0-9]{8}\.dict\.yaml\"" \
               | grep -oE '[0-9]{8}' | sort -n | tail -1)
-            if [ -z "$remote" ]; then
-              echo "$name: no asset found, skip"; return
-            fi
+            [ -z "$remote" ] && return
             local_ver=$(grep -oE '^version: *"[0-9]{8}"' "$file" | grep -oE '[0-9]{8}' || echo 0)
             echo "$name: local=$local_ver remote=$remote"
             if [ "$remote" -gt "$local_ver" ]; then
-              url=$(echo "$API" | grep -oE "\"browser_download_url\": \"[^\"]*${name}-${remote}\.dict\.yaml\"" \
+              url=$(echo "$api" | grep -oE "\"browser_download_url\": \"[^\"]*${name}-${remote}\.dict\.yaml\"" \
                 | head -1 | cut -d'"' -f4)
-              echo "$name: downloading $url"
               curl -fsSL -o "$file" "$url"
               sed -i -E "s/^version: *\"[^\"]*\"/version: \"${remote}\"/" "$file"
             fi
@@ -66,17 +63,16 @@ jobs:
           update_dict zhwiki
           update_dict zhwiktionary
 
-      - name: Sanitize zhwiktionary (remove bare-initial m entries)
+      - name: Sanitize zhwiktionary
         run: |
           set -euo pipefail
-          file="target/cn_dicts/zhwiktionary.dict.yaml"
           awk -F'\t' 'NF>=2 {
             n = split($2, s, " ");
             bad = 0;
             for (i = 1; i <= n; i++) if (s[i] == "m") bad = 1;
             if (!bad) print; next
-          } { print }' "$file" > "$file.tmp"
-          mv "$file.tmp" "$file"
+          } { print }' target/cn_dicts/zhwiktionary.dict.yaml > target/cn_dicts/zhwiktionary.dict.yaml.tmp
+          mv target/cn_dicts/zhwiktionary.dict.yaml.tmp target/cn_dicts/zhwiktionary.dict.yaml
 
       - name: Sync custom dictionaries
         run: |

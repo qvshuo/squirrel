@@ -2,7 +2,7 @@ name: Sync fcitx language model
 
 on:
   schedule:
-    - cron: '0 2 1 * *'   # 每月 1 日 02:00 UTC
+    - cron: '0 2 1 * *'
   workflow_dispatch:
     inputs:
       arpa_date:
@@ -26,31 +26,27 @@ jobs:
         id: resolve
         run: |
           set -euo pipefail
-          FORCED="${{ github.event.inputs.arpa_date }}"
-          if [ -n "$FORCED" ]; then
-            REMOTE="$FORCED"
-            echo "Forced date: $REMOTE"
+          forced="${{ github.event.inputs.arpa_date }}"
+          if [ -n "$forced" ]; then
+            remote_date="$forced"
           else
-            REMOTE=$(curl -fsSL https://download.fcitx-im.org/data/ \
+            remote_date=$(curl -fsSL https://download.fcitx-im.org/data/ \
               | grep -oE 'lm_sc\.arpa-[0-9]{8}\.tar\.zst' \
               | grep -oE '[0-9]{8}' | sort -n | tail -1)
-            echo "Latest remote date: $REMOTE"
           fi
 
-          LOCAL=$(grep '^lm_sc.arpa=' .github/lm_sc.version | cut -d= -f2 || echo 0)
-          echo "Local date: $LOCAL"
+          local_date=$(grep '^lm_sc.arpa=' .github/lm_sc.version | cut -d= -f2 || echo 0)
 
-          if [ -z "$REMOTE" ]; then
-            echo "Could not resolve remote date."; exit 1
+          if [ -z "$remote_date" ]; then
+            echo "failed to resolve arpa date"; exit 1
           fi
 
-          if [ -n "$FORCED" ] || [ "$REMOTE" -gt "$LOCAL" ]; then
+          if [ -n "$forced" ] || [ "$remote_date" -gt "$local_date" ]; then
             echo "should_build=true" >> "$GITHUB_OUTPUT"
           else
             echo "should_build=false" >> "$GITHUB_OUTPUT"
-            echo "lm_sc.gram already up to date (local=$LOCAL, remote=$REMOTE)."
           fi
-          echo "arpa_date=$REMOTE" >> "$GITHUB_OUTPUT"
+          echo "arpa_date=$remote_date" >> "$GITHUB_OUTPUT"
 
       - name: Install dependencies
         if: steps.resolve.outputs.should_build == 'true'
@@ -69,8 +65,8 @@ jobs:
         if: steps.resolve.outputs.should_build == 'true'
         run: |
           set -euo pipefail
-          DATE="${{ steps.resolve.outputs.arpa_date }}"
-          wget "https://download.fcitx-im.org/data/lm_sc.arpa-${DATE}.tar.zst" -O lm_sc.arpa.tar.zst
+          arpa_date="${{ steps.resolve.outputs.arpa_date }}"
+          wget "https://download.fcitx-im.org/data/lm_sc.arpa-${arpa_date}.tar.zst" -O lm_sc.arpa.tar.zst
           zstd -d lm_sc.arpa.tar.zst -o lm_sc.arpa.tar
           tar -xf lm_sc.arpa.tar
           python3 rime-build-grammar/arpa.py lm_sc.arpa --output-dir output
@@ -78,7 +74,7 @@ jobs:
           chmod +x rime-build-grammar/build_grammar.linux
           rime-build-grammar/build_grammar.linux lm_sc < output/merge_2_3.txt
           rm -rf rime-build-grammar output lm_sc.arpa lm_sc.arpa.tar lm_sc.arpa.tar.zst
-          sed -i -E "s/^lm_sc.arpa=.*/lm_sc.arpa=${DATE}/" .github/lm_sc.version
+          sed -i -E "s/^lm_sc.arpa=.*/lm_sc.arpa=${arpa_date}/" .github/lm_sc.version
 
       - name: Commit generated file
         if: steps.resolve.outputs.should_build == 'true'
