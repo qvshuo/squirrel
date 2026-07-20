@@ -9,7 +9,7 @@
 schema:
   schema_id: melt_eng
   name: Easy English Nano
-  version: "2023-10-17"
+  version: "2026-01-30"
   author:
     - Patrick <ipatrickmac@gmail.com>
     - tumuyan <tumuyan@21cn.com>
@@ -46,9 +46,10 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " '"
   algebra:
-    # 根据当前所用拼音方案选择 __include 的值
     # 如果要在补丁中（melt_eng.custom.yaml）修改 algebra 以适配双拼，请参考 [常见问题](https://github.com/iDvel/rime-ice/issues/133)
-    __include: algebra_luna_pinyin      # 全拼
+    # 根据当前所用拼音方案选择 __include 的值
+    __include: algebra_luna_pinyin     # 全拼
+
 
 translator:
   dictionary: melt_eng
@@ -110,8 +111,8 @@ algebra_common:
   - derive/[^a-zA-Z0-9]//
   # 禁用非英文、数字开头的编码
   - erase/^[^a-zA-Z0-9].+$/
-  # 全小写
-  - derive/^.+$/\L$0/
+  # 四个字母以上派生全小写，以避免在低版本 Rime 和简拼重码
+  - derive/^.{4,}$/\L$0/
   # 全大写
   - derive/^.+$/\U$0/
   # 首字母大写
@@ -126,6 +127,8 @@ algebra_common:
   - derive/^([a-z]{8})/\U$1/
   - derive/^([a-z]{9})/\U$1/
   - derive/^([a-z]{10})/\U$1/
+  # 禁用小写单编码
+  - erase/^[a-z]$/
 
 # 全拼
 algebra_luna_pinyin:
