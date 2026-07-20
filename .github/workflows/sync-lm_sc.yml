@@ -1,4 +1,4 @@
-name: Sync fcitx language model
+name: Sync lm_sc grammar
 
 on:
   schedule:
