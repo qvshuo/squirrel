@@ -43,10 +43,6 @@ jobs:
             frost/cn_dicts/8105.dict.yaml \
             frost/cn_dicts/41448.dict.yaml \
             frost/cn_dicts/base.dict.yaml \
-            frost/cn_dicts/ext.dict.yaml \
-            frost/cn_dicts/tencent.dict.yaml \
-            frost/cn_dicts/others.dict.yaml \
-            frost/cn_dicts_cell/composite.dict.yaml \
             target/cn_dicts/
 
       - name: Sync Yuanshen dictionary
