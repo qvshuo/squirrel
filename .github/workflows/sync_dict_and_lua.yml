@@ -46,10 +46,8 @@ jobs:
             frost/cn_dicts/ext.dict.yaml \
             frost/cn_dicts/tencent.dict.yaml \
             frost/cn_dicts/others.dict.yaml \
-            target/cn_dicts/
-          rsync -av \
             frost/cn_dicts_cell/composite.dict.yaml \
-            target/cn_dicts_cell/
+            target/cn_dicts/
 
       - name: Sync Yuanshen dictionary
         run: |
