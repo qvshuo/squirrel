@@ -76,11 +76,15 @@ jobs:
           rm -rf rime-build-grammar output lm_sc.arpa lm_sc.arpa.tar lm_sc.arpa.tar.zst
           sed -i -E "s/^lm_sc.arpa=.*/lm_sc.arpa=${arpa_date}/" .github/lm_sc.version
 
-      - name: Commit generated file
+      - name: Commit and push changes
         if: steps.resolve.outputs.should_build == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add lm_sc.gram .github/lm_sc.version
-          git commit -m "build: update lm_sc.gram (${{ steps.resolve.outputs.arpa_date }})" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "build: update lm_sc.gram (${{ steps.resolve.outputs.arpa_date }})"
+            git push
+          fi
