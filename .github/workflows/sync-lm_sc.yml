@@ -1,0 +1,90 @@
+name: Sync fcitx language model
+
+on:
+  schedule:
+    - cron: '0 2 1 * *'   # 每月 1 日 02:00 UTC
+  workflow_dispatch:
+    inputs:
+      arpa_date:
+        description: 'Force lm_sc.arpa date suffix, e.g. 20260629 (leave empty to auto-detect latest)'
+        required: false
+        default: ''
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v7
+
+      - name: Resolve target arpa date
+        id: resolve
+        run: |
+          set -euo pipefail
+          FORCED="${{ github.event.inputs.arpa_date }}"
+          if [ -n "$FORCED" ]; then
+            REMOTE="$FORCED"
+            echo "Forced date: $REMOTE"
+          else
+            REMOTE=$(curl -fsSL https://download.fcitx-im.org/data/ \
+              | grep -oE 'lm_sc\.arpa-[0-9]{8}\.tar\.zst' \
+              | grep -oE '[0-9]{8}' | sort -n | tail -1)
+            echo "Latest remote date: $REMOTE"
+          fi
+
+          LOCAL=$(grep '^lm_sc.arpa=' .github/lm_sc.version | cut -d= -f2 || echo 0)
+          echo "Local date: $LOCAL"
+
+          if [ -z "$REMOTE" ]; then
+            echo "Could not resolve remote date."; exit 1
+          fi
+
+          if [ -n "$FORCED" ] || [ "$REMOTE" -gt "$LOCAL" ]; then
+            echo "should_build=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_build=false" >> "$GITHUB_OUTPUT"
+            echo "lm_sc.gram already up to date (local=$LOCAL, remote=$REMOTE)."
+          fi
+          echo "arpa_date=$REMOTE" >> "$GITHUB_OUTPUT"
+
+      - name: Install dependencies
+        if: steps.resolve.outputs.should_build == 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librime1 python3 wget zstd
+
+      - name: Checkout rime-build-grammar tools
+        if: steps.resolve.outputs.should_build == 'true'
+        uses: actions/checkout@v7
+        with:
+          repository: gaboolic/rime-build-grammar
+          path: rime-build-grammar
+
+      - name: Build lm_sc.gram
+        if: steps.resolve.outputs.should_build == 'true'
+        run: |
+          set -euo pipefail
+          DATE="${{ steps.resolve.outputs.arpa_date }}"
+          wget "https://download.fcitx-im.org/data/lm_sc.arpa-${DATE}.tar.zst" -O lm_sc.arpa.tar.zst
+          zstd -d lm_sc.arpa.tar.zst -o lm_sc.arpa.tar
+          tar -xf lm_sc.arpa.tar
+          python3 rime-build-grammar/arpa.py lm_sc.arpa --output-dir output
+          python3 rime-build-grammar/merge_ngram.py --input-dir output --orders 2 3
+          chmod +x rime-build-grammar/build_grammar.linux
+          rime-build-grammar/build_grammar.linux lm_sc < output/merge_2_3.txt
+          rm -rf rime-build-grammar output lm_sc.arpa lm_sc.arpa.tar lm_sc.arpa.tar.zst
+          sed -i -E "s/^lm_sc.arpa=.*/lm_sc.arpa=${DATE}/" .github/lm_sc.version
+
+      - name: Commit generated file
+        if: steps.resolve.outputs.should_build == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lm_sc.gram .github/lm_sc.version
+          git commit -m "build: update lm_sc.gram (${{ steps.resolve.outputs.arpa_date }})" || exit 0
+          git push
