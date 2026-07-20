@@ -1,0 +1,71 @@
+name: Sync dictionaries and input schemas
+
+on:
+  schedule:
+    - cron: '30 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository (rime-frost)
+        uses: actions/checkout@v7
+        with:
+          repository: "gaboolic/rime-frost"
+          ref: "master"
+          path: "frost"
+
+      - name: Checkout source repository (rime-ice)
+        uses: actions/checkout@v7
+        with:
+          repository: "iDvel/rime-ice"
+          path: "ice"
+
+      - name: Checkout destination repository
+        uses: actions/checkout@v7
+        with:
+          path: "target"
+
+      - name: Sync Chinese dictionaries from rime-frost
+        run: |
+          rsync -av \
+            frost/cn_dicts/8105.dict.yaml \
+            frost/cn_dicts/41448.dict.yaml \
+            frost/cn_dicts/base.dict.yaml \
+            target/cn_dicts/
+
+      - name: Sync custom dictionaries
+        run: |
+          curl -L -o target/cn_dicts/yuanshen.dict.yaml https://github.com/qvshuo/rime-luna-pinyin-custom-dict/releases/download/yuanshen/yuanshen.dict.yaml
+          curl -L -o target/cn_dicts/buzzwords.dict.yaml https://github.com/qvshuo/rime-luna-pinyin-custom-dict/releases/download/buzzwords/buzzwords.dict.yaml
+
+      - name: Sync English input schema from rime-ice
+        run: |
+          rsync -av ice/melt_eng.dict.yaml target/
+          rsync -av ice/en_dicts/en.dict.yaml target/en_dicts/
+          rsync -av ice/en_dicts/en_ext.dict.yaml target/en_dicts/
+          rsync -av ice/lua/reduce_english_filter.lua target/lua/
+
+      - name: Sync Japanese input schema from gkovacs/rime-japanese
+        run: |
+          cd target
+          export rime_dir="."
+          curl -fsSL https://raw.githubusercontent.com/rime/plum/master/rime-install | bash -s -- gkovacs/rime-japanese
+          rm -rf plum
+
+      - name: Commit and push changes
+        run: |
+          cd target
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Sync dictionaries and input schemas"
+            git push
+          fi
