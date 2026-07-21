@@ -26,7 +26,7 @@ patch:
   # none    不降低任何单词，相当于没有启用这个 Lua
   # （匹配的是编码，不是单词）
   reduce_english_filter:
-    mode: custom  # all | custom | none
+    mode: all  # all | custom | none
     idx: 2        # 降低到第 idx 个位置
     # 自定义的单词列表，示例列表没有降低部分常用单词，如 and cat mail Mac but bad shit ……
     words: [
