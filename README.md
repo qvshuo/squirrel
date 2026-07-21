@@ -18,9 +18,7 @@
    ```
 
 2. 将本地 `squirrel` 仓库下的所有文件，覆盖至对应平台的 RIME 用户文件夹。
-
-### 路径
  
-- **鼠鬚管 Squirrel (macOS)**：`~/Library/Rime`
-- **小狼毫 Weasel (Windows)**：`%APPDATA%\Rime`
-- **中州韻 ibus-rime (Linux)**：`~/.config/ibus/rime`
+   - **鼠鬚管 Squirrel (macOS)**：`~/Library/Rime`
+   - **小狼毫 Weasel (Windows)**：`%APPDATA%\Rime`
+   - **中州韻 ibus-rime (Linux)**：`~/.config/ibus/rime`
