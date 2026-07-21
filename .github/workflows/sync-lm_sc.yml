@@ -14,31 +14,49 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sync-lm-sc-grammar
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCED_ARPA_DATE: ${{ inputs.arpa_date || '' }}
 
     steps:
       - name: Checkout current repo
         uses: actions/checkout@v7
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Resolve target arpa date
         id: resolve
         run: |
           set -euo pipefail
-          forced="${{ github.event.inputs.arpa_date }}"
+          forced="$FORCED_ARPA_DATE"
+
+          if [ -n "$forced" ] && ! echo "$forced" | grep -Eq '^[0-9]{8}$'; then
+            echo "invalid arpa_date: $forced"
+            exit 1
+          fi
+
           if [ -n "$forced" ]; then
             remote_date="$forced"
           else
             remote_date=$(curl -fsSL https://download.fcitx-im.org/data/ \
               | grep -oE 'lm_sc\.arpa-[0-9]{8}\.tar\.zst' \
-              | grep -oE '[0-9]{8}' | sort -n | tail -1)
+              | grep -oE '[0-9]{8}' \
+              | sort -u \
+              | tail -1)
           fi
 
           local_date=$(grep '^lm_sc.arpa=' .github/lm_sc.version | cut -d= -f2 || echo 0)
 
           if [ -z "$remote_date" ]; then
-            echo "failed to resolve arpa date"; exit 1
+            echo "failed to resolve arpa date"
+            exit 1
           fi
 
           if [ -n "$forced" ] || [ "$remote_date" -gt "$local_date" ]; then
@@ -72,13 +90,14 @@ jobs:
           python3 rime-build-grammar/arpa.py lm_sc.arpa --output-dir output
           python3 rime-build-grammar/merge_ngram.py --input-dir output --orders 2 3
           chmod +x rime-build-grammar/build_grammar.linux
-          rime-build-grammar/build_grammar.linux lm_sc < output/merge_2_3.txt
+          ./rime-build-grammar/build_grammar.linux lm_sc < output/merge_2_3.txt
           rm -rf rime-build-grammar output lm_sc.arpa lm_sc.arpa.tar lm_sc.arpa.tar.zst
           sed -i -E "s/^lm_sc.arpa=.*/lm_sc.arpa=${arpa_date}/" .github/lm_sc.version
 
       - name: Commit and push changes
         if: steps.resolve.outputs.should_build == 'true'
         run: |
+          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add lm_sc.gram .github/lm_sc.version
@@ -86,5 +105,5 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "build: update lm_sc.gram (${{ steps.resolve.outputs.arpa_date }})"
-            git push
+            git push origin HEAD:${{ github.ref_name }}
           fi
